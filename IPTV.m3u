@@ -1,346 +1,346 @@
 #EXTM3U
 
-#EXTINF:1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TVshop"  group-title="Unsorted",TVshop
+#EXTINF:1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TVshop"  group-title="Unsorted",TVshop
 http://59c3ec70cfde0.streamlock.net/channel_1/channel1/chunklist.m3u8
 
-#EXTINF:2, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Super Radyo DZBB"  group-title="Unsorted",Super Radyo DZBB
+#EXTINF:2 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Super Radyo DZBB"  group-title="Unsorted",Super Radyo DZBB
 http://stream.gmanews.tv/ioslive/livestream/chunklist.m3u8?wowzasessionid=262576778
 
-#EXTINF:3, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Pop Life TV"  group-title="Unsorted",Pop Life TV
+#EXTINF:3 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Pop Life TV"  group-title="Unsorted",Pop Life TV
 https://d3cbe0gidjd4k2.cloudfront.net/channel_2/channel2/chunklist_w592974426.m3u8
 
-#EXTINF:4, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="PTV 4 (YouTube)"  group-title="Unsorted",PTV 4 (YouTube)
+#EXTINF:4 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="PTV 4 (YouTube)"  group-title="Unsorted",PTV 4 (YouTube)
 https://www.youtube.com/watch?v=Zzq_i7m2AJg
 
-#EXTINF:5, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="5"  group-title="Unsorted",5
+#EXTINF:5 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="5"  group-title="Unsorted",5
 http://stream3.news5.ph/n5e/tv5/playlist.m3u8
 
-#EXTINF:6, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="5 Plus"  group-title="Unsorted",5 Plus
+#EXTINF:6 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="5 Plus"  group-title="Unsorted",5 Plus
 http://stream3.news5.ph/n5e/5plus/playlist.m3u8
 
-#EXTINF:7, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Inquirer 990 Television"  group-title="Unsorted",Inquirer 990 Television
+#EXTINF:7 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Inquirer 990 Television"  group-title="Unsorted",Inquirer 990 Television
 http://59c3ec70cfde0.streamlock.net/channel_7/channel7/chunklist.m3u8
 
-#EXTINF:8, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UNTV"  group-title="Unsorted",UNTV
+#EXTINF:8 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UNTV"  group-title="Unsorted",UNTV
 https://untv.mmdlive.lldns.net/untv/97cc8d2c46bd43b78e0b112761ab71fe/chunklist_b732000.m3u8
 
-#EXTINF:9, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CNN Philippines"  group-title="Unsorted",CNN Philippines
+#EXTINF:9 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CNN Philippines"  group-title="Unsorted",CNN Philippines
 http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
 
-#EXTINF:10, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TeleNovela Channel"  group-title="Unsorted",TeleNovela Channel
+#EXTINF:10 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TeleNovela Channel"  group-title="Unsorted",TeleNovela Channel
 http://164.40.161.46:8003/play/s6
 
-#EXTINF:11, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MyTV Cebu"  group-title="Unsorted",MyTV Cebu
+#EXTINF:11 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MyTV Cebu"  group-title="Unsorted",MyTV Cebu
 http://api.new.livestream.com/accounts/15418593/events/4787138/live.m3u8
 
-#EXTINF:12, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CLTV 36"  group-title="Unsorted",CLTV 36
+#EXTINF:12 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CLTV 36"  group-title="Unsorted",CLTV 36
 http://cltv36-lh.akamaihd.net/i/cltv36_1@300961/index_2500_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:13, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ABC"  group-title="Unsorted",ABC
+#EXTINF:13 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ABC"  group-title="Unsorted",ABC
 http://190.80.3.28/ABC/ABC.isml/ABC-audio_128052_eng=128000-video=500000.m3u8
 
-#EXTINF:14, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS"  group-title="Unsorted",CBS
+#EXTINF:14 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS"  group-title="Unsorted",CBS
 http://190.80.3.28/CBS/CBS.isml/CBS-audio_128052_eng=128000-video=500000.m3u8
 
-#EXTINF:15, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC"  group-title="Unsorted",NBC
+#EXTINF:15 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC"  group-title="Unsorted",NBC
 https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:nbc.smil/chunklist_b700000.m3u8
 
-#EXTINF:16, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX"  group-title="Unsorted",FOX
+#EXTINF:16 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX"  group-title="Unsorted",FOX
 http://190.80.3.28/FOX/FOX.isml/FOX-audio_128052_eng=128000-video=500000.m3u8
 
-#EXTINF:17, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Nickelodeon"  group-title="Unsorted",Nickelodeon
+#EXTINF:17 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Nickelodeon"  group-title="Unsorted",Nickelodeon
 http://ms-azure-video.gslb.startimestv.com/live/NICKELODEON_836_250_320x240_191618/playlist.m3u8
 
-#EXTINF:18, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Nickelodeon (Pluto TV)"  group-title="Unsorted",Nickelodeon (Pluto TV)
+#EXTINF:18 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Nickelodeon (Pluto TV)"  group-title="Unsorted",Nickelodeon (Pluto TV)
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=c834f953-0811-479f-94d7-0ef34aeef06a&deviceId=358fb262-122e-446f-922a-3f7a266db3aa&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
-#EXTINF:19, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Duck TV"  group-title="Unsorted",Duck TV
+#EXTINF:19 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Duck TV"  group-title="Unsorted",Duck TV
 http://livecdnh3.tvanywhere.ae/hls/duck/04.m3u8
 
-#EXTINF:20, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="POP"  group-title="Unsorted",POP
+#EXTINF:20 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="POP"  group-title="Unsorted",POP
 https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-pop/tracks-v1a1/mono.m3u8
 
-#EXTINF:21, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name=" iRead 2 Know"  group-title="Unsorted", iRead 2 Know
+#EXTINF:21 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name=" iRead 2 Know"  group-title="Unsorted", iRead 2 Know
 https://nrpus.bozztv.com/36bay2/gusa-iread2know/tracks-v1a1/mono.m3u8
 
-#EXTINF:22, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Dabl"  group-title="Unsorted",Dabl
+#EXTINF:22 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Dabl"  group-title="Unsorted",Dabl
 https://cbsta49f-dabl68fc.global.ssl.fastly.net/out/v1/dfecb53fbf434b6bbbfd91d8a2549381/manifest_19.m3u8
 
-#EXTINF:23, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Youtoo America"  group-title="Unsorted",Youtoo America
+#EXTINF:23 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Youtoo America"  group-title="Unsorted",Youtoo America
 https://imavex2.mmdlive.lldns.net/imavex2/46320b2319cf49d7bf68f70cc4a10c98/chunklist_b732000.m3u8
 
-#EXTINF:24, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Right Now TV"  group-title="Unsorted",Right Now TV
+#EXTINF:24 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Right Now TV"  group-title="Unsorted",Right Now TV
 https://feed.rightnowtelevision.com/live/smil:rntv.smil/chunklist_w94831124_b1692000_sleng.m3u8
 
-#EXTINF:25, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Safe TV"  group-title="Unsorted",Safe TV
+#EXTINF:25 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Safe TV"  group-title="Unsorted",Safe TV
 http://18.191.91.130:1935/live/safetv/playlist.m3u8
 
-#EXTINF:26, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NewsNet"  group-title="Unsorted",NewsNet
+#EXTINF:26 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NewsNet"  group-title="Unsorted",NewsNet
 http://broadcastny.yournewsnet.com:8081/master/newsnetweb/chunks.m3u8
 
-#EXTINF:27, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBSN"  group-title="Unsorted",CBSN
+#EXTINF:27 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBSN"  group-title="Unsorted",CBSN
 https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_10.m3u8
 
-#EXTINF:28, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CNN International"  group-title="Unsorted",CNN International
+#EXTINF:28 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CNN International"  group-title="Unsorted",CNN International
 http://92.43.140.249/s27/03.m3u8
 
-#EXTINF:29, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CNN"  group-title="Unsorted",CNN
+#EXTINF:29 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CNN"  group-title="Unsorted",CNN
 https://1161275585.rsc.cdn77.org/LS-ATL-54548-9/tracks-v4a1/mono.m3u8
 
-#EXTINF:30, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Fox News"  group-title="Unsorted",Fox News
+#EXTINF:30 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Fox News"  group-title="Unsorted",Fox News
 https://1161275585.rsc.cdn77.org/LS-ATL-54548-4/tracks-v4a1/mono.m3u8
 
-#EXTINF:31, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MSNBC"  group-title="Unsorted",MSNBC
+#EXTINF:31 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MSNBC"  group-title="Unsorted",MSNBC
 https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:msnbc.smil/chunklist_b300000.m3u8
 
-#EXTINF:32, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Bloomberg TV Asia"  group-title="Unsorted",Bloomberg TV Asia
+#EXTINF:32 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Bloomberg TV Asia"  group-title="Unsorted",Bloomberg TV Asia
 http://210.210.155.35/session/1f4b9814-7ed5-11e8-aa50-c81f66f89318/uq2663/h/h03/index1.m3u8
 
-#EXTINF:33, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Cheddar"  group-title="Unsorted",Cheddar
+#EXTINF:33 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Cheddar"  group-title="Unsorted",Cheddar
 https://live.chdrstatic.com/cheddar/primary/5.m3u8
 
-#EXTINF:34, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Cheddar News"  group-title="Unsorted",Cheddar News
+#EXTINF:34 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Cheddar News"  group-title="Unsorted",Cheddar News
 https://live.chdrstatic.com/cbn/primary/5.m3u8
 
-#EXTINF:35, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sky News"  group-title="Unsorted",Sky News
+#EXTINF:35 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sky News"  group-title="Unsorted",Sky News
 http://ax.micaesoft.com/YMitv/YMITV_UK_UKskytv_2.m3u8
 
-#EXTINF:36, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BBC World News"  group-title="Unsorted",BBC World News
+#EXTINF:36 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BBC World News"  group-title="Unsorted",BBC World News
 http://185.176.117.243/live/eds/BBC/HLS_encr/BBC.m3u8
 
-#EXTINF:37, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BBC News"  group-title="Unsorted",BBC News
+#EXTINF:37 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BBC News"  group-title="Unsorted",BBC News
 https://streamingserver003.viewtvgroup.com:443/kapanglocal-playout-master/tracks-v4a1/mono.m3u8
 
-#EXTINF:38, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RT"  group-title="Unsorted",RT
+#EXTINF:38 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RT"  group-title="Unsorted",RT
 https://rt-news.secure.footprint.net/1103.m3u8
 
-#EXTINF:39, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="France 24 English"  group-title="Unsorted",France 24 English
+#EXTINF:39 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="France 24 English"  group-title="Unsorted",France 24 English
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 
-#EXTINF:40, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CNA"  group-title="Unsorted",CNA
+#EXTINF:40 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CNA"  group-title="Unsorted",CNA
 http://45.126.83.51/uq2663/h/h29/02.m3u8
 
-#EXTINF:41, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Al Jazeera English"  group-title="Unsorted",Al Jazeera English
+#EXTINF:41 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Al Jazeera English"  group-title="Unsorted",Al Jazeera English
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index576.m3u8
 
-#EXTINF:42, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NHK World"  group-title="Unsorted",NHK World
+#EXTINF:42 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NHK World"  group-title="Unsorted",NHK World
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1180.m3u8
 
-#EXTINF:43, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Arirang"  group-title="Unsorted",Arirang
+#EXTINF:43 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Arirang"  group-title="Unsorted",Arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
-#EXTINF:44, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Euronews"  group-title="Unsorted",Euronews
+#EXTINF:44 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Euronews"  group-title="Unsorted",Euronews
 http://45.126.83.51/qwr9ew/s/s15/02.m3u8
 
-#EXTINF:45, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CGTN"  group-title="Unsorted",CGTN
+#EXTINF:45 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CGTN"  group-title="Unsorted",CGTN
 http://live.cgtn.com/500/prog_index.m3u8
 
-#EXTINF:46, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24-7 Retro TV"  group-title="Unsorted",24-7 Retro TV
+#EXTINF:46 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24-7 Retro TV"  group-title="Unsorted",24-7 Retro TV
 http://247retrotv.com:1935/live/smil:247retro.smil/playlist.m3u8
 
-#EXTINF:47, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Classic TV 4U"  group-title="Unsorted",Classic TV 4U
+#EXTINF:47 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Classic TV 4U"  group-title="Unsorted",Classic TV 4U
 https://nimble.dashmedia.tv/onestudio/classictv/playlist.m3u8
 
-#EXTINF:48, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CONtv"  group-title="Unsorted",CONtv
+#EXTINF:48 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CONtv"  group-title="Unsorted",CONtv
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/640x360_394000/chunklist.m3u8
 
-#EXTINF:49, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Dove Channel"  group-title="Unsorted",Dove Channel
+#EXTINF:49 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Dove Channel"  group-title="Unsorted",Dove Channel
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/640x360_394000/chunklist.m3u8
 
-#EXTINF:50, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TBD"  group-title="Unsorted",TBD
+#EXTINF:50 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TBD"  group-title="Unsorted",TBD
 http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8
 
-#EXTINF:51, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="VH1"  group-title="Unsorted",VH1
+#EXTINF:51 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="VH1"  group-title="Unsorted",VH1
 http://content-ausc2.uplynk.com/channel/7a16e3d5ffd0413ba4d8ac89688ed7cd/e.m3u8?ct=c&ad.locationDesc=vh1_channel&ad.cust_params=_fw_ae%3D53da17a30bd0d3c946a41c86cb5873f1%26_vmn_ar%3Dtrue&expand=simulcast_standard&ad.kv=_fw_ae%2C53da17a30bd0d3c946a41c86cb5873f1%2C_vmn_ar%2Ctrue%2C_fw_vcid2%2C82125:vh1_67b04b0c30774b06ad1ec820ee7d0beb&delay=10800&euid=67b04b0c-3077-4b06-ad1e-c820ee7d0beb&exp=1531977295&rn=1284714433&ad.euid=67b04b0c-3077-4b06-ad1e-c820ee7d0beb&cid=7a16e3d5ffd0413ba4d8ac89688ed7cd&tc=1&sig=b3143cb0429574cc3c877de30e62fab7d66c763ec2f61cd9bfde33fdab12dfb7&pbs=62317bc417264eaeb05c22777b5c8697
 
-#EXTINF:52, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Popstar! TV"  group-title="Unsorted",Popstar! TV
+#EXTINF:52 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Popstar! TV"  group-title="Unsorted",Popstar! TV
 https://dotstudio.vo.llnwd.net/v1/livestreams/popstar/master/ec9207ed6819582289cfdc7569d8065cc8aca126/Popstar_-_Frequency/playlist.m3u8
 
-#EXTINF:53, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Star World"  group-title="Unsorted",Star World
+#EXTINF:53 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Star World"  group-title="Unsorted",Star World
 http://livecdnh1.tvanywhere.ae/hls/star_world/04.m3u8
 
-#EXTINF:54, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Insight TV"  group-title="Unsorted",Insight TV
+#EXTINF:54 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Insight TV"  group-title="Unsorted",Insight TV
 http://jiocgwhub.jio.ril.com/Insight/Insight_800.m3u8
 
-#EXTINF:55, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Rooster Teeth TV"  group-title="Unsorted",Rooster Teeth TV
+#EXTINF:55 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Rooster Teeth TV"  group-title="Unsorted",Rooster Teeth TV
 https://d2klx6wjx7p5vm.cloudfront.net/Rooster-teeth/ngrp:Rooster-teeth_all/chunklist_b1096000.m3u8
 
-#EXTINF:56, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="5 Minute Life Hacks"  group-title="Unsorted",5 Minute Life Hacks
+#EXTINF:56 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="5 Minute Life Hacks"  group-title="Unsorted",5 Minute Life Hacks
 https://bozztv.com/36bay2/gin/giniko_5minlifehacks_1500kb_36bay2/tracks-v1a1/mono.m3u8
 
-#EXTINF:57, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="5 Minute Quick Beauty Tricks"  group-title="Unsorted",5 Minute Quick Beauty Tricks
+#EXTINF:57 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="5 Minute Quick Beauty Tricks"  group-title="Unsorted",5 Minute Quick Beauty Tricks
 https://bozztv.com/36bay2/gin/giniko_5minbeauty_1500kb_36bay2/tracks-v1a1/mono.m3u8
 
-#EXTINF:58, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Only Motors"  group-title="Unsorted",Only Motors
+#EXTINF:58 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Only Motors"  group-title="Unsorted",Only Motors
 https://streamingserver002.viewtvgroup.com/kapanglivetv-playout-onlymotors/tracks-v1a1/mono.m3u8
 
-#EXTINF:59, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Pick"  group-title="Unsorted",Pick
+#EXTINF:59 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Pick"  group-title="Unsorted",Pick
 https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-pick/tracks-v1a1/mono.m3u8
 
-#EXTINF:60, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Filmrise Movies"  group-title="Unsorted",Filmrise Movies
+#EXTINF:60 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Filmrise Movies"  group-title="Unsorted",Filmrise Movies
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/450x360_440000/chunklist.m3u8
 
-#EXTINF:61, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Star Movies"  group-title="Unsorted",Star Movies
+#EXTINF:61 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Star Movies"  group-title="Unsorted",Star Movies
 http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
 
-#EXTINF:62, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ESPN"  group-title="Unsorted",ESPN
+#EXTINF:62 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ESPN"  group-title="Unsorted",ESPN
 https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:espn.smil/chunklist.m3u8
 
-#EXTINF:63, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ESPN2"  group-title="Unsorted",ESPN2
+#EXTINF:63 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ESPN2"  group-title="Unsorted",ESPN2
 https://gma2.blab.email/espn2.m3u8
 
-#EXTINF:64, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ESPNews"  group-title="Unsorted",ESPNews
+#EXTINF:64 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ESPNews"  group-title="Unsorted",ESPNews
 https://gma2.blab.email/espnews.m3u8
 
-#EXTINF:65, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FS1"  group-title="Unsorted",FS1
+#EXTINF:65 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FS1"  group-title="Unsorted",FS1
 https://gma2.blab.email/fs1.m3u8
 
-#EXTINF:66, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Fox Sports News"  group-title="Unsorted",Fox Sports News
+#EXTINF:66 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Fox Sports News"  group-title="Unsorted",Fox Sports News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master640x360.m3u8
 
-#EXTINF:67, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Olympic Channel"  group-title="Unsorted",Olympic Channel
+#EXTINF:67 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Olympic Channel"  group-title="Unsorted",Olympic Channel
 https://ott-live.olympicchannel.com/out/u/OC1_3.m3u8
 
-#EXTINF:68, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Stadium"  group-title="Unsorted",Stadium
+#EXTINF:68 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Stadium"  group-title="Unsorted",Stadium
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master_1000k.m3u8
 
-#EXTINF:69, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Red Bull TV"  group-title="Unsorted",Red Bull TV
+#EXTINF:69 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Red Bull TV"  group-title="Unsorted",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 
-#EXTINF:70, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="eGG Network"  group-title="Unsorted",eGG Network
+#EXTINF:70 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="eGG Network"  group-title="Unsorted",eGG Network
 http://45.126.83.51/uq2663/h/h22/02.m3u8
 
-#EXTINF:71, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MLB Network"  group-title="Unsorted",MLB Network
+#EXTINF:71 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MLB Network"  group-title="Unsorted",MLB Network
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
 
-#EXTINF:72, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Tennis Channel"  group-title="Unsorted",Tennis Channel
+#EXTINF:72 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Tennis Channel"  group-title="Unsorted",Tennis Channel
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/f.m3u8
 
-#EXTINF:73, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Docurama"  group-title="Unsorted",Docurama
+#EXTINF:73 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Docurama"  group-title="Unsorted",Docurama
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
 
-#EXTINF:74, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="H2"  group-title="Unsorted",H2
+#EXTINF:74 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="H2"  group-title="Unsorted",H2
 http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
 
-#EXTINF:75, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Nat Geo People"  group-title="Unsorted",Nat Geo People
+#EXTINF:75 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Nat Geo People"  group-title="Unsorted",Nat Geo People
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
 
-#EXTINF:76, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Nat Geo Wild Asia"  group-title="Unsorted",Nat Geo Wild Asia
+#EXTINF:76 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Nat Geo Wild Asia"  group-title="Unsorted",Nat Geo Wild Asia
 http://103.199.160.85/Content/insync/Live/Channel(Insync)/index.m3u8
 
-#EXTINF:77, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="National Geographic"  group-title="Unsorted",National Geographic
+#EXTINF:77 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="National Geographic"  group-title="Unsorted",National Geographic
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
 
-#EXTINF:78, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DocuBox"  group-title="Unsorted",DocuBox
+#EXTINF:78 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DocuBox"  group-title="Unsorted",DocuBox
 http://livecdnh3.tvanywhere.ae/hls/docubox/03.m3u8
 
-#EXTINF:79, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Animal Here"  group-title="Unsorted",Animal Here
+#EXTINF:79 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Animal Here"  group-title="Unsorted",Animal Here
 https://bozztv.com/36bay2/gin/giniko_animalhere_1500kb_36bay2/index.m3u8
 
-#EXTINF:80, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Z Living"  group-title="Unsorted",Z Living
+#EXTINF:80 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Z Living"  group-title="Unsorted",Z Living
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v4a1/index.m3u8
 
-#EXTINF:81, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Global Fashion Channel"  group-title="Unsorted",Global Fashion Channel
+#EXTINF:81 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Global Fashion Channel"  group-title="Unsorted",Global Fashion Channel
 https://vcngfc.teleosmedia.com/stream/globalfashionchannel/globalfashionchannel/seglist_360p.m3u8
 
-#EXTINF:82, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="HD Fashion & Lifestyle"  group-title="Unsorted",HD Fashion & Lifestyle
+#EXTINF:82 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="HD Fashion & Lifestyle"  group-title="Unsorted",HD Fashion & Lifestyle
 http://95.67.47.115/hls/hdfashion_ua_low/index.m3u8
 
-#EXTINF:83, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Fashion One"  group-title="Unsorted",Fashion One
+#EXTINF:83 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Fashion One"  group-title="Unsorted",Fashion One
 https://bozztv.com/36bay2/gin/giniko_fashionone_800kb_36bay2/tracks-v1a1/mono.m3u8
 
-#EXTINF:84, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="World Fashion Channel"  group-title="Unsorted",World Fashion Channel
+#EXTINF:84 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="World Fashion Channel"  group-title="Unsorted",World Fashion Channel
 https://wfcint.mediacdn.ru/cdn/wfcint/tracks-v3a1/mono.m3u8
 
-#EXTINF:85, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Travel 4U"  group-title="Unsorted",Travel 4U
+#EXTINF:85 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Travel 4U"  group-title="Unsorted",Travel 4U
 https://nimble.dashstreams.net/onestudio/travel4u/chunks.m3u8
 
-#EXTINF:86, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Food Network"  group-title="Unsorted",Food Network
+#EXTINF:86 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Food Network"  group-title="Unsorted",Food Network
 http://95.86.32.7:999/food
 
-#EXTINF:87, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Food52"  group-title="Unsorted",Food52
+#EXTINF:87 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Food52"  group-title="Unsorted",Food52
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-food52/CDN/640x360_440000/chunklist.m3u8
 
-#EXTINF:88, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Tastemade"  group-title="Unsorted",Tastemade
+#EXTINF:88 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Tastemade"  group-title="Unsorted",Tastemade
 https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/718x404_2002829/index.m3u8
 
-#EXTINF:89, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="5 Minute Kitchen Hacks"  group-title="Unsorted",5 Minute Kitchen Hacks
+#EXTINF:89 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="5 Minute Kitchen Hacks"  group-title="Unsorted",5 Minute Kitchen Hacks
 https://bozztv.com/36bay2/gin/giniko_5minkitchen_1500kb_36bay2/tracks-v1a1/mono.m3u8
 
-#EXTINF:90, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Music Choice"  group-title="Unsorted",Music Choice
+#EXTINF:90 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Music Choice"  group-title="Unsorted",Music Choice
 http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
 
-#EXTINF:91, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Buzzr"  group-title="Unsorted",Buzzr
+#EXTINF:91 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Buzzr"  group-title="Unsorted",Buzzr
 https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls.m3u8
 
-#EXTINF:92, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CTN"  group-title="Unsorted",CTN
+#EXTINF:92 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CTN"  group-title="Unsorted",CTN
 https://rrsatrtmp.tulix.tv/ctntv/ctntvmulti.smil/chunklist_w876251872_b564000.m3u8
 
-#EXTINF:93, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CTN Lifestyle"  group-title="Unsorted",CTN Lifestyle
+#EXTINF:93 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CTN Lifestyle"  group-title="Unsorted",CTN Lifestyle
 http://162.244.80.254:1935/live/Lifestylestream/chunklist_w1421605761.m3u8
 
-#EXTINF:94, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="WeatherNation TV"  group-title="Unsorted",WeatherNation TV
+#EXTINF:94 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="WeatherNation TV"  group-title="Unsorted",WeatherNation TV
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
 
-#EXTINF:95, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Law & Crime Network"  group-title="Unsorted",Law & Crime Network
+#EXTINF:95 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Law & Crime Network"  group-title="Unsorted",Law & Crime Network
 https://live-lawandcrime.simplestreamcdn.com/lawcrimehls/2/prog_index.m3u8
 
-#EXTINF:96, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Rev'n"  group-title="Unsorted",Rev'n
+#EXTINF:96 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Rev'n"  group-title="Unsorted",Rev'n
 http://dcunilive28-lh.akamaihd.net/i/dclive_1@624563/master.m3u8
 
-#EXTINF:97, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NASA TV"  group-title="Unsorted",NASA TV
+#EXTINF:97 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NASA TV"  group-title="Unsorted",NASA TV
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
 
-#EXTINF:98, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Times Square"  group-title="Unsorted",Times Square
+#EXTINF:98 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Times Square"  group-title="Unsorted",Times Square
 https://videos3.earthcam.com/fecnetwork/4017timessquare.flv/chunklist_w2120301051.m3u8
 
-#EXTINF:99, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Brut."  group-title="Unsorted",Brut.
+#EXTINF:99 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Brut."  group-title="Unsorted",Brut.
 http://a.jsrdn.com/broadcast/d5b47/+0000/low/c.m3u8
 
-#EXTINF:100, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Australia Channel"  group-title="Unsorted",Australia Channel
+#EXTINF:100 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Australia Channel"  group-title="Unsorted",Australia Channel
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master640x360.m3u8
 
-#EXTINF:101, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ABC News Live"  group-title="Unsorted",ABC News Live
+#EXTINF:101 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ABC News Live"  group-title="Unsorted",ABC News Live
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
-#EXTINF:102, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Reuters"  group-title="Unsorted",Reuters
+#EXTINF:102 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Reuters"  group-title="Unsorted",Reuters
 http://220.158.149.28:8180/live/TV00000000000000000034@HHZT
 
-#EXTINF:103, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="OAN"  group-title="Unsorted",OAN
+#EXTINF:103 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="OAN"  group-title="Unsorted",OAN
 http://190.80.3.28/OAN/OAN.isml/OAN-audio_132128_und=128000-video=500000.m3u8
 
-#EXTINF:104, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="AWE"  group-title="Unsorted",AWE
+#EXTINF:104 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="AWE"  group-title="Unsorted",AWE
 http://190.80.3.28/AWE/AWE.isml/AWE-audio_132128_und=128000-video=500000.m3u8
 
-#EXTINF:105, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TYT"  group-title="Unsorted",TYT
+#EXTINF:105 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TYT"  group-title="Unsorted",TYT
 https://tyt-ssai.akamaized.net/amagi_hls_data_tytnetwor-tytxumo/CDN/512x288_864537/chunklist.m3u8
 
-#EXTINF:106, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="InfoWars"  group-title="Unsorted",InfoWars
+#EXTINF:106 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="InfoWars"  group-title="Unsorted",InfoWars
 http://wpc.9ec1.edgecastcdn.net/249EC1/infowarshd-edgecast/hd720.m3u8
 
-#EXTINF:107, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Newsmax TV"  group-title="Unsorted",Newsmax TV
+#EXTINF:107 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Newsmax TV"  group-title="Unsorted",Newsmax TV
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_288.m3u8
 
-#EXTINF:108, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="OCA"  group-title="Unsorted",OCA
+#EXTINF:108 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="OCA"  group-title="Unsorted",OCA
 http://ocatv.mcgi.me:1935/public/247_br/playlist.m3u8
 
-#EXTINF:109, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ECA"  group-title="Unsorted",ECA
+#EXTINF:109 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ECA"  group-title="Unsorted",ECA
 http://ocatv.mcgi.me:1935/public/247_es/playlist.m3u8
 
-#EXTINF:110, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="INC TV"  group-title="Unsorted",INC TV
+#EXTINF:110 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="INC TV"  group-title="Unsorted",INC TV
 http://churchrus2-lh.akamaihd.net/i/coctesting_1@57550/index_564_av-b.m3u8?sd=10&rebase=on
 
-#EXTINF:111, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SMNI"  group-title="Unsorted",SMNI
+#EXTINF:111 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SMNI"  group-title="Unsorted",SMNI
 http://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
 
-#EXTINF:112, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Life TV"  group-title="Unsorted",Life TV
+#EXTINF:112 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Life TV"  group-title="Unsorted",Life TV
 http://59c3ec70cfde0.streamlock.net/channel_6/channel6/chunklist.m3u8
 
-#EXTINF:113, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Hope Channel Philippines"  group-title="Unsorted",Hope Channel Philippines
+#EXTINF:113 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Hope Channel Philippines"  group-title="Unsorted",Hope Channel Philippines
 https://bcliveunivsecure-lh.akamaihd.net/i/HopeChannelPhilippines_1@310362/index_2000_av-b.m3u8?sd=10&rebase=on
 
-#EXTINF:114, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Hope Channel International"  group-title="Unsorted",Hope Channel International
+#EXTINF:114 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Hope Channel International"  group-title="Unsorted",Hope Channel International
 https://bcliveunivsecure-lh.akamaihd.net/i/International_1@571272/master.m3u8
 
-#EXTINF:115, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBN"  group-title="Unsorted",CBN
+#EXTINF:115 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBN"  group-title="Unsorted",CBN
 https://bcliveunivsecure-lh.akamaihd.net/i/iptv1_1@500579/index_500_av-b.m3u8?sd=10&rebase=on
