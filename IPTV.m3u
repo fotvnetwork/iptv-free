@@ -46,7 +46,7 @@ http://190.80.3.28/CBS/CBS.isml/CBS-audio_128052_eng=128000-video=500000.m3u8
 https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:nbc.smil/chunklist_b700000.m3u8
 
 #EXTINF:16 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX"  group-title="Unsorted",FOX
-http://190.80.3.28/FOX/FOX.isml/FOX-audio_128052_eng=128000-video=500000.m3u8
+http://190.80.3.28/FOX/FOX.isml/FOX-audio_128052_eng=128000-video=800000.m3u8
 
 #EXTINF:17 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Nickelodeon"  group-title="Unsorted",Nickelodeon
 http://ms-azure-video.gslb.startimestv.com/live/NICKELODEON_836_250_320x240_191618/playlist.m3u8
@@ -57,8 +57,8 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c
 #EXTINF:19 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Duck TV"  group-title="Unsorted",Duck TV
 http://livecdnh3.tvanywhere.ae/hls/duck/04.m3u8
 
-#EXTINF:20 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="POP"  group-title="Unsorted",POP
-https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-pop/tracks-v1a1/mono.m3u8
+#EXTINF:20 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Reserved"  group-title="Unsorted",Reserved
+http://oklivetv.com/xplay/error/offlinee.mp4
 
 #EXTINF:21 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name=" iRead 2 Know"  group-title="Unsorted", iRead 2 Know
 https://nrpus.bozztv.com/36bay2/gusa-iread2know/tracks-v1a1/mono.m3u8
@@ -109,7 +109,7 @@ http://ax.micaesoft.com/YMitv/YMITV_UK_UKskytv_2.m3u8
 http://185.176.117.243/live/eds/BBC/HLS_encr/BBC.m3u8
 
 #EXTINF:37 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BBC News"  group-title="Unsorted",BBC News
-https://streamingserver003.viewtvgroup.com:443/kapanglocal-playout-master/tracks-v4a1/mono.m3u8
+https://1636691764.rsc.cdn77.org/LS-ATL-54548-11/tracks-v1a1/mono.m3u8
 
 #EXTINF:38 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RT"  group-title="Unsorted",RT
 https://rt-news.secure.footprint.net/1103.m3u8
@@ -171,11 +171,11 @@ https://bozztv.com/36bay2/gin/giniko_5minlifehacks_1500kb_36bay2/tracks-v1a1/mon
 #EXTINF:57 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="5 Minute Quick Beauty Tricks"  group-title="Unsorted",5 Minute Quick Beauty Tricks
 https://bozztv.com/36bay2/gin/giniko_5minbeauty_1500kb_36bay2/tracks-v1a1/mono.m3u8
 
-#EXTINF:58 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Only Motors"  group-title="Unsorted",Only Motors
-https://streamingserver002.viewtvgroup.com/kapanglivetv-playout-onlymotors/tracks-v1a1/mono.m3u8
+#EXTINF:58 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Reserved"  group-title="Unsorted",Reserved
+http://oklivetv.com/xplay/error/offlinee.mp4
 
-#EXTINF:59 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Pick"  group-title="Unsorted",Pick
-https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-pick/tracks-v1a1/mono.m3u8
+#EXTINF:59 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Reserved"  group-title="Unsorted",Reserved
+http://oklivetv.com/xplay/error/offlinee.mp4
 
 #EXTINF:60 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Filmrise Movies"  group-title="Unsorted",Filmrise Movies
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/450x360_440000/chunklist.m3u8
