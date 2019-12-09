@@ -57,7 +57,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c
 #EXTINF:19 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Duck TV"  group-title="Unsorted",Duck TV
 http://livecdnh3.tvanywhere.ae/hls/duck/04.m3u8
 
-#EXTINF:20 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Reserved"  group-title="Unsorted",Reserved
+#EXTINF:20 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Reserved"  group-title="Unsorted",Reserved 20
 http://oklivetv.com/xplay/error/offlinee.mp4
 
 #EXTINF:21 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name=" iRead 2 Know"  group-title="Unsorted", iRead 2 Know
@@ -171,10 +171,10 @@ https://bozztv.com/36bay2/gin/giniko_5minlifehacks_1500kb_36bay2/tracks-v1a1/mon
 #EXTINF:57 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="5 Minute Quick Beauty Tricks"  group-title="Unsorted",5 Minute Quick Beauty Tricks
 https://bozztv.com/36bay2/gin/giniko_5minbeauty_1500kb_36bay2/tracks-v1a1/mono.m3u8
 
-#EXTINF:58 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Reserved"  group-title="Unsorted",Reserved
+#EXTINF:58 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Reserved"  group-title="Unsorted",Reserved 58
 http://oklivetv.com/xplay/error/offlinee.mp4
 
-#EXTINF:59 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Reserved"  group-title="Unsorted",Reserved
+#EXTINF:59 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Reserved"  group-title="Unsorted",Reserved 59
 http://oklivetv.com/xplay/error/offlinee.mp4
 
 #EXTINF:60 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Filmrise Movies"  group-title="Unsorted",Filmrise Movies
