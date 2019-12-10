@@ -3,14 +3,14 @@
 #EXTINF:1,TVshop
 http://59c3ec70cfde0.streamlock.net/channel_1/channel1/chunklist.m3u8
 
-#EXTINF:2,Super Radyo DZBB
-http://stream.gmanews.tv/ioslive/livestream/chunklist.m3u8?wowzasessionid=262576778
-
-#EXTINF:3,Pop Life TV
+#EXTINF:2,Pop Life TV
 https://d3cbe0gidjd4k2.cloudfront.net/channel_2/channel2/chunklist_w592974426.m3u8
 
+#EXTINF:3,Super Radyo DZBB
+http://stream.gmanews.tv/ioslive/livestream/chunklist.m3u8?wowzasessionid=262576778
+
 #EXTINF:4,PTV 4 (YouTube)
-https://www.youtube.com/watch?v=Zzq_i7m2AJg
+https://www.youtube.com/watch?v=tlS9-nTtNIo
 
 #EXTINF:5,5
 http://stream3.news5.ph/n5e/tv5/playlist.m3u8
