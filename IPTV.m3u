@@ -10,7 +10,7 @@ https://d3cbe0gidjd4k2.cloudfront.net/channel_2/channel2/chunklist_w592974426.m3
 http://stream.gmanews.tv/ioslive/livestream/chunklist.m3u8?wowzasessionid=262576778
 
 #EXTINF:4,PTV 4 (YouTube)
-https://www.youtube.com/watch?v=tlS9-nTtNIo
+https://www.youtube.com/watch?v=fmOCjsGL9iA
 
 #EXTINF:5,5
 http://stream3.news5.ph/n5e/tv5/playlist.m3u8
@@ -57,8 +57,8 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c
 #EXTINF:19,Duck TV
 http://livecdnh3.tvanywhere.ae/hls/duck/04.m3u8
 
-#EXTINF:20,Reserved 20
-http://oklivetv.com/xplay/error/offlinee.mp4
+#EXTINF:20,BabyFirst
+http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 
 #EXTINF:21,iRead 2 Know
 https://nrpus.bozztv.com/36bay2/gusa-iread2know/tracks-v1a1/mono.m3u8
@@ -93,47 +93,47 @@ https://1161275585.rsc.cdn77.org/LS-ATL-54548-4/tracks-v4a1/mono.m3u8
 #EXTINF:31,MSNBC
 https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:msnbc.smil/chunklist_b300000.m3u8
 
-#EXTINF:32,Bloomberg TV Asia
+#EXTINF:32,CNBC
+https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:cnbc.smil/chunklist_b300000.m3u8
+
+#EXTINF:33,Bloomberg TV Asia
 http://210.210.155.35/session/1f4b9814-7ed5-11e8-aa50-c81f66f89318/uq2663/h/h03/index1.m3u8
 
-#EXTINF:33,Cheddar
+#EXTINF:34,Cheddar
 https://live.chdrstatic.com/cheddar/primary/5.m3u8
 
-#EXTINF:34,Cheddar News
+#EXTINF:35,Cheddar News
 https://live.chdrstatic.com/cbn/primary/5.m3u8
 
-#EXTINF:35,Sky News
+#EXTINF:36,Sky News
 http://ax.micaesoft.com/YMitv/YMITV_UK_UKskytv_2.m3u8
 
-#EXTINF:36,BBC World News
+#EXTINF:37,BBC World News
 http://185.176.117.243/live/eds/BBC/HLS_encr/BBC.m3u8
 
-#EXTINF:37,BBC News
-https://1636691764.rsc.cdn77.org/LS-ATL-54548-11/tracks-v1a1/mono.m3u8
-
-#EXTINF:38,RT
-https://rt-news.secure.footprint.net/1103.m3u8
-
-#EXTINF:39,France 24 English
-http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
-
-#EXTINF:40,CNA
-http://45.126.83.51/uq2663/h/h29/02.m3u8
-
-#EXTINF:41,Al Jazeera English
+#EXTINF:38,Al Jazeera English
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index576.m3u8
 
-#EXTINF:42,NHK World Japan
-https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_600k.m3u8
+#EXTINF:39,RT
+https://rt-news.secure.footprint.net/1103.m3u8
 
-#EXTINF:43,Arirang
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:40,France 24 English
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 
-#EXTINF:44,Euronews
+#EXTINF:41,Euronews
 http://45.126.83.51/qwr9ew/s/s15/02.m3u8
 
-#EXTINF:45,CGTN
+#EXTINF:42,CNA
+http://45.126.83.51/uq2663/h/h29/02.m3u8
+
+#EXTINF:43,CGTN
 http://live.cgtn.com/500/prog_index.m3u8
+
+#EXTINF:44,NHK World Japan
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_600k.m3u8
+
+#EXTINF:45,Arirang
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
 #EXTINF:46,24-7 Retro TV
 http://247retrotv.com:1935/live/smil:247retro.smil/playlist.m3u8
@@ -168,74 +168,74 @@ https://d2klx6wjx7p5vm.cloudfront.net/Rooster-teeth/ngrp:Rooster-teeth_all/chunk
 #EXTINF:56,5 Minute Life Hacks
 https://bozztv.com/36bay2/gin/giniko_5minlifehacks_1500kb_36bay2/tracks-v1a1/mono.m3u8
 
-#EXTINF:57,5 Minute Quick Beauty Tricks
-https://bozztv.com/36bay2/gin/giniko_5minbeauty_1500kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:57,BET (Pluto TV)
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca670f6593a5d78f0e85aed/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=c834f953-0811-479f-94d7-0ef34aeef06a&deviceId=358fb262-122e-446f-922a-3f7a266db3aa&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
-#EXTINF:58,Reserved 58
-http://oklivetv.com/xplay/error/offlinee.mp4
+#EXTINF:58,MTV
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_1250_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:59,Reserved 59
-http://oklivetv.com/xplay/error/offlinee.mp4
+#EXTINF:59,FailArmy
+https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
 
 #EXTINF:60,Filmrise Movies
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/450x360_440000/chunklist.m3u8
 
-#EXTINF:61,Star Movies
+#EXTINF:61,CinemaWorld
+http://45.126.83.51/uq2663/h/h04/02.m3u8
+
+#EXTINF:62,Star Movies
 http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
 
-#EXTINF:62,ESPN
+#EXTINF:63,ESPN
 https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:espn.smil/chunklist_b700000.m3u8
 
-#EXTINF:63,ESPN2
+#EXTINF:64,ESPN2
 https://gma2.blab.email/espn2.m3u8
 
-#EXTINF:64,ESPNews
+#EXTINF:65,ESPNews
 https://gma2.blab.email/espnews.m3u8
 
-#EXTINF:65,FS1
+#EXTINF:66,FS1
 https://gma2.blab.email/fs1.m3u8
 
-#EXTINF:66,Fox Sports News
+#EXTINF:67,Fox Sports News Australia
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master640x360.m3u8
 
-#EXTINF:67,Olympic Channel
+#EXTINF:68,Olympic Channel
 https://ott-live.olympicchannel.com/out/u/OC1_3.m3u8
 
-#EXTINF:68,Stadium
-https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master_1000k.m3u8
+#EXTINF:69,Stadium
+https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/0.m3u8
 
-#EXTINF:69,Red Bull TV
+#EXTINF:70,Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 
-#EXTINF:70,eGG Network
+#EXTINF:71,eGG Network
 http://45.126.83.51/uq2663/h/h22/02.m3u8
 
-#EXTINF:71,MLB Network
+#EXTINF:72,MLB Network
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
 
-#EXTINF:72,Tennis Channel
+#EXTINF:73,Tennis Channel
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/f.m3u8
 
-#EXTINF:73,Docurama
+#EXTINF:74,Docurama
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
 
-#EXTINF:74,H2
+#EXTINF:75,H2
 http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
 
-#EXTINF:75,Nat Geo People
+#EXTINF:76,Nat Geo People
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
 
-#EXTINF:76,Nat Geo Wild Asia
+#EXTINF:77,Nat Geo Wild Asia
 http://103.199.160.85/Content/insync/Live/Channel(Insync)/index.m3u8
 
-#EXTINF:77,National Geographic
+#EXTINF:78,National Geographic
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
 
-#EXTINF:78,DocuBox
+#EXTINF:79,DocuBox
 http://livecdnh3.tvanywhere.ae/hls/docubox/03.m3u8
-
-#EXTINF:79,Animal Here
-https://bozztv.com/36bay2/gin/giniko_animalhere_1500kb_36bay2/index.m3u8
 
 #EXTINF:80,Z Living
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v4a1/index.m3u8
@@ -243,8 +243,8 @@ https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v4a1/index.m3u8
 #EXTINF:81,Global Fashion Channel
 https://vcngfc.teleosmedia.com/stream/globalfashionchannel/globalfashionchannel/seglist_360p.m3u8
 
-#EXTINF:82,HD Fashion & Lifestyle
-http://95.67.47.115/hls/hdfashion_ua_low/index.m3u8
+#EXTINF:82,FTV
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg13_adaptive.smil/media.m3u8
 
 #EXTINF:83,Fashion One
 https://bozztv.com/36bay2/gin/giniko_fashionone_800kb_36bay2/tracks-v1a1/mono.m3u8
@@ -255,8 +255,8 @@ https://wfcint.mediacdn.ru/cdn/wfcint/tracks-v3a1/mono.m3u8
 #EXTINF:85,Travel 4U
 https://nimble.dashstreams.net/onestudio/travel4u/chunks.m3u8
 
-#EXTINF:86,Food Network
-http://95.86.32.7:999/food
+#EXTINF:86,Cooking 4U
+https://nrpus.bozztv.com/36bay2/gusa-cooking4u/tracks-v1a1/mono.m3u8
 
 #EXTINF:87,Food52
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-food52/CDN/640x360_440000/chunklist.m3u8
@@ -276,8 +276,8 @@ https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls.m3u8
 #EXTINF:92,CTN
 https://rrsatrtmp.tulix.tv/ctntv/ctntvmulti.smil/chunklist_w876251872_b564000.m3u8
 
-#EXTINF:93,CTN Lifestyle
-http://162.244.80.254:1935/live/Lifestylestream/chunklist_w1421605761.m3u8
+#EXTINF:93,AMGTV
+https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/chunklist.m3u8
 
 #EXTINF:94,WeatherNation TV
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
@@ -297,7 +297,7 @@ https://videos3.earthcam.com/fecnetwork/4017timessquare.flv/chunklist_w212030105
 #EXTINF:99,Brut.
 http://a.jsrdn.com/broadcast/d5b47/+0000/low/c.m3u8
 
-#EXTINF:100,Australia Channel
+#EXTINF:100,Australia Channel News
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master640x360.m3u8
 
 #EXTINF:101,ABC News Live
@@ -307,13 +307,13 @@ https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 http://220.158.149.28:8180/live/TV00000000000000000034@HHZT
 
 #EXTINF:103,OAN
-http://190.80.3.28/OAN/OAN.isml/OAN-audio_132128_und=128000-video=500000.m3u8
+http://190.80.3.28/OAN/OAN.isml/OAN-audio_132128_und=128000-video=800000.m3u8
 
 #EXTINF:104,AWE
 http://190.80.3.28/AWE/AWE.isml/AWE-audio_132128_und=128000-video=500000.m3u8
 
 #EXTINF:105,TYT
-https://tyt-ssai.akamaized.net/amagi_hls_data_tytnetwor-tytxumo/CDN/512x288_864537/chunklist.m3u8
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5331d5fb753499095a00045a/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=4bac739a-a968-4b1f-9d01-d69b69934c76&deviceId=8299a7f8-5fad-4f83-810f-f9b3b4575010&deviceVersion=75.0.3770.100&appVersion=2.7.1-5725cf052c6d5a7776009f53b7086f64da9ef528&deviceDNT=0&userId=&advertisingId=&deviceLat=37.751&deviceLon=-97.822&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
 
 #EXTINF:106,InfoWars
 http://wpc.9ec1.edgecastcdn.net/249EC1/infowarshd-edgecast/hd720.m3u8
@@ -321,8 +321,8 @@ http://wpc.9ec1.edgecastcdn.net/249EC1/infowarshd-edgecast/hd720.m3u8
 #EXTINF:107,Newsmax TV
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_288.m3u8
 
-#EXTINF:108,OCA
-http://ocatv.mcgi.me:1935/public/247_br/playlist.m3u8
+#EXTINF:108,Truth Channel (YouTube)
+https://www.youtube.com/watch?v=6OWARIHlfCI
 
 #EXTINF:109,ECA
 http://ocatv.mcgi.me:1935/public/247_es/playlist.m3u8
@@ -344,3 +344,33 @@ https://bcliveunivsecure-lh.akamaihd.net/i/International_1@571272/master.m3u8
 
 #EXTINF:115,CBN
 https://bcliveunivsecure-lh.akamaihd.net/i/iptv1_1@500579/index_500_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:116,EWTN
+https://d19y0p9magl0wf.cloudfront.net/p/PACE.m3u8
+
+#EXTINF:117,3ABN
+https://moiptvhls-i.akamaihd.net/hls/live/652312/secure/master.m3u8
+
+#EXTINF:118,TBN Asia
+http://59c3ec70cfde0.streamlock.net/channel_4/channel4/chunklist.m3u8
+
+#EXTINF:119,GCTV
+http://45.32.115.103/live/livestream/index.m3u8
+
+#EXTINF:120,Reserved 120
+http://oklivetv.com/xplay/error/offlinee.mp4
+
+#EXTINF:121,The CW
+http://190.80.3.28/CW/CW.isml/CW-audio_128052_eng=128000-video=500000.m3u8
+
+#EXTINF:122,Court TV
+https://content.uplynk.com/channel/92c7be9fb47143a58683d202e321e571.m3u8
+
+#EXTINF:123,SGTN 49
+http://stgn-49.tulix.tv/live19/Stream1/chunklist_w1498543121.m3u8
+
+#EXTINF:124,ET Live
+https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
+
+#EXTINF:125,TMZ
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/640x360_440000/chunklist.m3u8
