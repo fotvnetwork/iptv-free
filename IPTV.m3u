@@ -124,7 +124,7 @@ http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 http://45.126.83.51/qwr9ew/s/s15/02.m3u8
 
 #EXTINF:42,DW
-http://43.224.120.99:8080/dwenglish.m3u8
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_2_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:43,CNA
 http://45.126.83.51/uq2663/h/h29/02.m3u8
@@ -205,7 +205,7 @@ https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master
 https://ott-live.olympicchannel.com/out/u/OC1_3.m3u8
 
 #EXTINF:69,Stadium
-https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/0.m3u8
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master_1000k.m3u8
 
 #EXTINF:70,Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
@@ -357,8 +357,8 @@ http://59c3ec70cfde0.streamlock.net/channel_4/channel4/chunklist.m3u8
 #EXTINF:119,GCTV
 http://45.32.115.103/live/livestream/index.m3u8
 
-#EXTINF:120,Reserved 120
-http://oklivetv.com/xplay/error/offlinee.mp4
+#EXTINF:120,TRT World
+http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 
 #EXTINF:121,Biz TV
 https://thegateway.online/BizAndYou/Roku/BizAndYou/BizTV_640p/chunks.m3u8
