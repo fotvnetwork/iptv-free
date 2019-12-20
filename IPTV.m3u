@@ -109,7 +109,7 @@ https://live.chdrstatic.com/cbn/primary/5.m3u8
 http://ax.micaesoft.com/YMitv/YMITV_UK_UKskytv_2.m3u8
 
 #EXTINF:37,BBC World News
-http://92.43.140.249/s24/03.m3u8
+http://185.176.117.243/live/eds/BBC/HLS_encr/BBC-avc1_600000=7.m3u8
 
 #EXTINF:38,Al Jazeera English
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index576.m3u8
@@ -136,7 +136,7 @@ http://live.cgtn.com/500/prog_index.m3u8
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_600k.m3u8
 
 #EXTINF:46,Arirang
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b656000_sleng.m3u8
 
 #EXTINF:47,24-7 Retro TV
 http://247retrotv.com:1935/live/smil:247retro.smil/playlist.m3u8
