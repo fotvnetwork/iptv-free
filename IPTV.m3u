@@ -10,7 +10,7 @@ https://d3cbe0gidjd4k2.cloudfront.net/channel_2/channel2/chunklist_w592974426.m3
 http://stream.gmanews.tv/ioslive/livestream/chunklist.m3u8?wowzasessionid=262576778
 
 #EXTINF:4,PTV 4 (YouTube)
-https://www.youtube.com/watch?v=fmOCjsGL9iA
+https://www.youtube.com/watch?v=NuVMhRv6d1A
 
 #EXTINF:5,5
 http://stream3.news5.ph/n5e/tv5/playlist.m3u8
@@ -195,8 +195,8 @@ https://gma2.blab.email/espn2.m3u8
 #EXTINF:65,ESPNews
 https://gma2.blab.email/espnews.m3u8
 
-#EXTINF:66,FS1
-https://gma2.blab.email/fs1.m3u8
+#EXTINF:66,Fox Sports (Pluto TV)
+http://stitcher.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 
 #EXTINF:67,Fox Sports News Australia
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master640x360.m3u8
@@ -322,7 +322,7 @@ http://wpc.9ec1.edgecastcdn.net/249EC1/infowarshd-edgecast/hd720.m3u8
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_288.m3u8
 
 #EXTINF:108,Truth Channel (YouTube)
-https://www.youtube.com/watch?v=6OWARIHlfCI
+https://www.youtube.com/watch?v=LUmYu5zD66I
 
 #EXTINF:109,ECA
 http://ocatv.mcgi.me:1935/public/247_es/playlist.m3u8
