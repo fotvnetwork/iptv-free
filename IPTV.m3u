@@ -189,11 +189,11 @@ http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
 #EXTINF:63,ESPN
 https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:espn.smil/chunklist_b700000.m3u8
 
-#EXTINF:64,ESPN2
-https://gma2.blab.email/espn2.m3u8
+#EXTINF:64,DSport
+http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD.m3u8
 
-#EXTINF:65,ESPNews
-https://gma2.blab.email/espnews.m3u8
+#EXTINF:65,Fox Sports Australia
+http://45.58.62.92:8080
 
 #EXTINF:66,Fox Sports (Pluto TV)
 http://stitcher.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
@@ -322,7 +322,7 @@ http://wpc.9ec1.edgecastcdn.net/249EC1/infowarshd-edgecast/hd720.m3u8
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_288.m3u8
 
 #EXTINF:108,Truth Channel (YouTube)
-https://www.youtube.com/watch?v=LUmYu5zD66I
+https://www.youtube.com/watch?v=uyMc5gyKIeU
 
 #EXTINF:109,ECA
 http://ocatv.mcgi.me:1935/public/247_es/playlist.m3u8
