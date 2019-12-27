@@ -13,10 +13,10 @@ http://stream.gmanews.tv/ioslive/livestream/chunklist.m3u8?wowzasessionid=262576
 https://www.youtube.com/watch?v=NuVMhRv6d1A
 
 #EXTINF:5,5
-http://stream3.news5.ph/n5e/tv5/playlist.m3u8
+http://qn-10135-garnet-qb-2-1.tv5-live-hls-2.apac-1-cdn.cqloud.com/n5e/tv5/chunklist_w1594110514.m3u8
 
 #EXTINF:6,5 Plus
-http://stream3.news5.ph/n5e/5plus/playlist.m3u8
+http://stream3.news5.ph:1935/n5e/5plus/chunklist_w533955318.m3u8
 
 #EXTINF:7,Inquirer 990 Television
 http://59c3ec70cfde0.streamlock.net/channel_7/channel7/chunklist.m3u8
@@ -37,7 +37,7 @@ http://api.new.livestream.com/accounts/15418593/events/4787138/live.m3u8
 http://cltv36-lh.akamaihd.net/i/cltv36_1@300961/index_2500_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:13,ABC
-http://190.80.3.28/ABC/ABC.isml/ABC-audio_128052_eng=128000-video=500000.m3u8
+http://190.80.3.28/ABC/ABC.isml/index.m3u8
 
 #EXTINF:14,CBS
 http://190.80.3.28/CBS/CBS.isml/CBS-audio_128052_eng=128000-video=800000.m3u8
@@ -322,7 +322,7 @@ http://wpc.9ec1.edgecastcdn.net/249EC1/infowarshd-edgecast/hd720.m3u8
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_288.m3u8
 
 #EXTINF:108,Truth Channel (YouTube)
-https://www.youtube.com/watch?v=uyMc5gyKIeU
+https://www.youtube.com/watch?v=SpU7mspKw6E
 
 #EXTINF:109,ECA
 http://ocatv.mcgi.me:1935/public/247_es/playlist.m3u8
