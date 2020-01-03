@@ -36,7 +36,7 @@ http://api.new.livestream.com/accounts/15418593/events/4787138/live.m3u8
 #EXTINF:12,CLTV 36
 http://cltv36-lh.akamaihd.net/i/cltv36_1@300961/index_2500_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:13,PBS
+#EXTINF:13,PBS USA
 http://190.80.3.28/PBS/PBS.isml/PBS-audio_120052_eng=120000-video=1870000.m3u8
 
 #EXTINF:14,CBS
