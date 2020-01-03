@@ -1,18 +1,18 @@
 #EXTM3U
 
-#EXTINF:1,TVshop
-http://59c3ec70cfde0.streamlock.net/channel_1/channel1/chunklist.m3u8
-
-#EXTINF:2,Pop Life TV
+#EXTINF:1,Pop Life TV
 https://d3cbe0gidjd4k2.cloudfront.net/channel_2/channel2/chunklist_w592974426.m3u8
 
-#EXTINF:3,Super Radyo DZBB
-http://stream.gmanews.tv/ioslive/livestream/chunklist.m3u8?wowzasessionid=262576778
+#EXTINF:2,BBC Two UK
+https://bozztv.com/36bay2/gin/giniko_bbctwo_1000kb_36bay2/index.m3u8
 
-#EXTINF:4,PTV 4 (YouTube)
-https://www.youtube.com/watch?v=OJUAe9PpogM
+#EXTINF:3,Three New Zealand
+http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master_720.m3u8
 
-#EXTINF:5,5
+#EXTINF:4,HJtv Guyana
+http://190.80.3.28/HJTV/HJTV.isml/HJTV-audio_128301_und=128000-video=800000.m3u8
+
+#EXTINF:5,TV5 Philippines
 http://qn-10135-garnet-qb-2-1.tv5-live-hls-2.apac-1-cdn.cqloud.com/n5e/tv5/chunklist_w1594110514.m3u8
 
 #EXTINF:6,5 Plus
@@ -36,14 +36,14 @@ http://api.new.livestream.com/accounts/15418593/events/4787138/live.m3u8
 #EXTINF:12,CLTV 36
 http://cltv36-lh.akamaihd.net/i/cltv36_1@300961/index_2500_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:13,ABC
-http://190.80.3.28/ABC/ABC.isml/index.m3u8
+#EXTINF:13,PBS
+http://190.80.3.28/PBS/PBS.isml/PBS-audio_120052_eng=120000-video=1870000.m3u8
 
 #EXTINF:14,CBS
 http://190.80.3.28/CBS/CBS.isml/CBS-audio_128052_eng=128000-video=800000.m3u8
 
 #EXTINF:15,NBC
-https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:nbc.smil/chunklist_b700000.m3u8
+https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:nbc.smil/chunklist_b300000.m3u8
 
 #EXTINF:16,FOX
 http://190.80.3.28/FOX/FOX.isml/FOX-audio_128052_eng=128000-video=800000.m3u8
@@ -187,7 +187,7 @@ http://45.126.83.51/uq2663/h/h04/02.m3u8
 http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
 
 #EXTINF:63,ESPN
-https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:espn.smil/chunklist_b700000.m3u8
+https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:espn.smil/chunklist_b300000.m3u8
 
 #EXTINF:64,DSport
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD.m3u8
@@ -321,8 +321,8 @@ http://wpc.9ec1.edgecastcdn.net/249EC1/infowarshd-edgecast/hd720.m3u8
 #EXTINF:107,Newsmax TV
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_288.m3u8
 
-#EXTINF:108,Truth Channel (YouTube)
-https://www.youtube.com/watch?v=SpU7mspKw6E
+#EXTINF:108,TVshop
+http://59c3ec70cfde0.streamlock.net/channel_1/channel1/chunklist.m3u8
 
 #EXTINF:109,ECA
 http://ocatv.mcgi.me:1935/public/247_es/playlist.m3u8
