@@ -3,62 +3,63 @@
 #EXTINF:1,Pop Life TV
 https://d3cbe0gidjd4k2.cloudfront.net/channel_2/channel2/chunklist_w592974426.m3u8
 
-#EXTINF:2,BBC Two UK
-https://bozztv.com/36bay2/gin/giniko_bbctwo_1000kb_36bay2/index.m3u8
-
-#EXTINF:3,Three New Zealand
-http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master_720.m3u8
-
-#EXTINF:4,HJtv Guyana
-http://190.80.3.28/HJTV/HJTV.isml/HJTV-audio_128301_und=128000-video=800000.m3u8
-
-#EXTINF:5,TV5 Philippines
+#EXTINF:2,TV5 Philippines
 http://qn-10135-garnet-qb-2-1.tv5-live-hls-2.apac-1-cdn.cqloud.com/n5e/tv5/chunklist_w1594110514.m3u8
 
-#EXTINF:6,5 Plus
+#EXTINF:3,5 Plus
 http://stream3.news5.ph:1935/n5e/5plus/chunklist_w533955318.m3u8
 
-#EXTINF:7,Inquirer 990 Television
+#EXTINF:4,Inquirer 990 Television
 http://59c3ec70cfde0.streamlock.net/channel_7/channel7/chunklist.m3u8
 
-#EXTINF:8,UNTV
+#EXTINF:5,UNTV
 https://untv.mmdlive.lldns.net/untv/97cc8d2c46bd43b78e0b112761ab71fe/chunklist_b732000.m3u8
 
-#EXTINF:9,CNN Philippines
+#EXTINF:6,CNN Philippines
 http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
 
-#EXTINF:10,TeleNovela Channel
+#EXTINF:7,TeleNovela Channel
 http://164.40.161.46:8003/play/s6
 
-#EXTINF:11,MyTV Cebu
-http://api.new.livestream.com/accounts/15418593/events/4787138/live.m3u8
-
-#EXTINF:12,CLTV 36
+#EXTINF:8,CLTV 36
 http://cltv36-lh.akamaihd.net/i/cltv36_1@300961/index_2500_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:13,PBS USA
+#EXTINF:9,MyTV Cebu
+http://api.new.livestream.com/accounts/15418593/events/4787138/live.m3u8
+
+#EXTINF:10,BBC One UK
+https://bozztv.com/36bay2/gin/giniko_bbcone_1000kb_36bay2/index.m3u8
+
+#EXTINF:11,Three New Zealand
+http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master_720.m3u8
+
+#EXTINF:12,PBS USA
 http://190.80.3.28/PBS/PBS.isml/PBS-audio_120052_eng=120000-video=1870000.m3u8
 
-#EXTINF:14,CBS
+#EXTINF:13,CBS
 http://190.80.3.28/CBS/CBS.isml/CBS-audio_128052_eng=128000-video=800000.m3u8
 
-#EXTINF:15,NBC
+#EXTINF:14,NBC
 https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:nbc.smil/chunklist_b300000.m3u8
 
-#EXTINF:16,FOX
+#EXTINF:15,FOX
 http://190.80.3.28/FOX/FOX.isml/FOX-audio_128052_eng=128000-video=800000.m3u8
 
+#EXTINF:16,Cartoon Network
+http://fr-c.movply.stream/hls/Carton_Network.m3u8
+
 #EXTINF:17,Nickelodeon
-http://ms-azure-video.gslb.startimestv.com/live/NICKELODEON_836_250_320x240_191618/playlist.m3u8
+https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_hls/
+Nickelodeon-avc1_1000000=8.m3u8
 
-#EXTINF:18,Nickelodeon (Pluto TV)
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=c834f953-0811-479f-94d7-0ef34aeef06a&deviceId=358fb262-122e-446f-922a-3f7a266db3aa&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
+#EXTINF:18,Nick Jr
+https://liveanevia.mncnow.id/live/eds/NickJr/sa_hls/NickJr-avc1_1000000=8.m3u8
 
-#EXTINF:19,Duck TV
-http://livecdnh3.tvanywhere.ae/hls/duck/04.m3u8
+#EXTINF:19,Disney Channel
+https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_hls/DisneyChannel-avc1_2499968=7.m3u8
 
-#EXTINF:20,BabyFirst
-http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
+#EXTINF:20,Disney Junior
+https://liveanevia.mncnow.id/live/eds/DisneyJunior/sa_hls/DisneyJunior-avc1_1000000=8.m3u8
 
 #EXTINF:21,iRead 2 Know
 https://nrpus.bozztv.com/36bay2/gusa-iread2know/tracks-v1a1/mono.m3u8
@@ -138,8 +139,8 @@ https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_600k.m3u8
 #EXTINF:46,Arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b656000_sleng.m3u8
 
-#EXTINF:47,24-7 Retro TV
-http://247retrotv.com:1935/live/smil:247retro.smil/playlist.m3u8
+#EXTINF:47,Pop
+https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master_6.m3u8
 
 #EXTINF:48,Classic TV 4U
 https://nimble.dashmedia.tv/onestudio/classictv/playlist.m3u8
@@ -165,11 +166,11 @@ http://livecdnh1.tvanywhere.ae/hls/star_world/04.m3u8
 #EXTINF:55,Insight TV
 http://jiocgwhub.jio.ril.com/Insight/Insight_800.m3u8
 
-#EXTINF:56,Rooster Teeth TV
-https://d2klx6wjx7p5vm.cloudfront.net/Rooster-teeth/ngrp:Rooster-teeth_all/chunklist_b1096000.m3u8
+#EXTINF:56,AXN
+http://210.210.155.66/h/h141/02.m3u8
 
-#EXTINF:57,BET (Pluto TV)
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca670f6593a5d78f0e85aed/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=c834f953-0811-479f-94d7-0ef34aeef06a&deviceId=358fb262-122e-446f-922a-3f7a266db3aa&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
+#EXTINF:57,Blue Ant Entertainment
+http://45.126.83.51/dr9445/h/h16/02.m3u8
 
 #EXTINF:58,MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_1250_av-p.m3u8?sd=10&rebase=on
@@ -177,11 +178,12 @@ http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_1250_av-p.m3u8?sd=10&
 #EXTINF:59,FailArmy
 https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
 
-#EXTINF:60,Filmrise Movies
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/450x360_440000/chunklist.m3u8
+#EXTINF:60,Fox Family Movies
+https://liveanevia.mncnow.id/live/eds/FoxFamilyMovies/sa_hls/FoxFamilyMovies-avc1_499968=12.m3u8
 
-#EXTINF:61,CinemaWorld
-http://45.126.83.51/uq2663/h/h04/02.m3u8
+#EXTINF:61,HBO Family
+https://liveanevia.mncnow.id/live/eds/HBOFamily/sa_hls/
+HBOFamily-avc1_499968=14.m3u8
 
 #EXTINF:62,Star Movies
 http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
@@ -195,8 +197,8 @@ http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD.m3u8
 #EXTINF:65,Fox Sports Australia
 http://45.58.62.92:8080
 
-#EXTINF:66,Fox Sports (Pluto TV)
-http://stitcher.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:66,NBC Golf
+http://203.154.243.89:1208
 
 #EXTINF:67,Fox Sports News Australia
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master640x360.m3u8
@@ -213,8 +215,8 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 #EXTINF:71,eGG Network
 http://45.126.83.51/uq2663/h/h22/02.m3u8
 
-#EXTINF:72,MLB Network
-http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:72,HJtv Guyana
+http://190.80.3.28/HJTV/HJTV.isml/HJTV-audio_128301_und=128000-video=800000.m3u8
 
 #EXTINF:73,Tennis Channel
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/f.m3u8
@@ -273,14 +275,14 @@ http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/
 #EXTINF:91,Buzzr
 https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls.m3u8
 
-#EXTINF:92,CTN
-https://rrsatrtmp.tulix.tv/ctntv/ctntvmulti.smil/chunklist_w876251872_b564000.m3u8
+#EXTINF:92,Discovery
+https://liveanevia.mncnow.id/live/eds/Discovery/sa_hls/Discovery-avc1_499968=14.m3u8
 
 #EXTINF:93,AMGTV
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/chunklist.m3u8
 
-#EXTINF:94,WeatherNation TV
-http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+#EXTINF:94,Crime & Investigation
+http://203.154.243.31:15001
 
 #EXTINF:95,Law & Crime Network
 https://live-lawandcrime.simplestreamcdn.com/lawcrimehls/2/prog_index.m3u8
@@ -291,8 +293,8 @@ http://dcunilive28-lh.akamaihd.net/i/dclive_1@624563/master.m3u8
 #EXTINF:97,NASA TV
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
 
-#EXTINF:98,Times Square
-https://videos3.earthcam.com/fecnetwork/4017timessquare.flv/chunklist_w2120301051.m3u8
+#EXTINF:98,English Club
+http://livecdnh2.tvanywhere.ae/hls/english_club/04.m3u8
 
 #EXTINF:99,Brut.
 http://a.jsrdn.com/broadcast/d5b47/+0000/low/c.m3u8
