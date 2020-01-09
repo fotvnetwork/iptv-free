@@ -274,7 +274,7 @@ http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/
 https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls.m3u8
 
 #EXTINF:92,Reserved
-http://oklivetv.com/xplay/error/offlinee.mp4
+https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
 
 #EXTINF:93,AMGTV
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/chunklist.m3u8
@@ -331,7 +331,7 @@ http://ocatv.mcgi.me:1935/public/247_es/playlist.m3u8
 http://churchrus2-lh.akamaihd.net/i/coctesting_1@57550/index_564_av-b.m3u8?sd=10&rebase=on
 
 #EXTINF:111,Reserved
-http://oklivetv.com/xplay/error/offlinee.mp4
+https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
 
 #EXTINF:112,Life TV
 http://59c3ec70cfde0.streamlock.net/channel_6/channel6/chunklist.m3u8
@@ -404,3 +404,6 @@ https://nimble.dashmedia.tv/onestudio/classictv/playlist.m3u8
 
 #EXTINF:135,FailArmy
 https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
+
+#EXTINF:136,Reserved
+https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
