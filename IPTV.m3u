@@ -37,7 +37,7 @@ http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master
 http://190.80.3.28/PBS/PBS.isml/PBS-audio_120052_eng=120000-video=1870000.m3u8
 
 #EXTINF:13,CBS
-http://190.80.3.28/CBS/CBS.isml/CBS-audio_128052_eng=128000-video=800000.m3u8
+http://87.120.36.62:8080/hls/streama111418/index.m3u8
 
 #EXTINF:14,NBC
 https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:nbc.smil/chunklist_b300000.m3u8
@@ -72,8 +72,8 @@ https://liveanevia.mncnow.id/live/eds/HGTV/sa_hls/HGTV.m3u8
 #EXTINF:24,TLC
 https://liveanevia.mncnow.id/live/eds/TLC/sa_hls/TLC.m3u8
 
-#EXTINF:25,Reserved
-http://oklivetv.com/xplay/error/offlinee.mp4
+#EXTINF:25,Discovery
+https://liveanevia.mncnow.id/live/eds/Discovery/sa_hls/Discovery.m3u8
 
 #EXTINF:26,NewsNet
 http://broadcastny.yournewsnet.com:8081/master/newsnetweb/chunks.m3u8
@@ -109,25 +109,25 @@ https://live.chdrstatic.com/cbn/primary/5.m3u8
 http://ax.micaesoft.com/YMitv/YMITV_UK_UKskytv_2.m3u8
 
 #EXTINF:37,BBC World News
-http://185.176.117.243/live/eds/BBC/HLS_encr/BBC.m3u8
+http://220.158.149.14:9999/live/TV00000000000000000112@HHZT;LIVE
 
 #EXTINF:38,Al Jazeera English
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index576.m3u8
 
 #EXTINF:39,RT
-https://rt-news.secure.footprint.net/1103.m3u8
+https://rt-news.secure.footprint.net/1103_800Kb.m3u8
 
 #EXTINF:40,France 24 English
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 
 #EXTINF:41,Euronews
-http://45.126.83.51/qwr9ew/s/s15/02.m3u8
+https://bozztv.com/36bay2/gin/giniko_euronews_800kb_36bay2/tracks-v1a1/mono.m3u8
 
 #EXTINF:42,DW
 http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_2_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:43,CNA
-http://45.126.83.51/uq2663/h/h29/02.m3u8
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
 #EXTINF:44,CGTN
 http://live.cgtn.com/500/prog_index.m3u8
@@ -138,8 +138,8 @@ https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_600k.m3u8
 #EXTINF:46,Arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b656000_sleng.m3u8
 
-#EXTINF:47,Pop
-https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
+#EXTINF:47,Retro TV
+https://cdn.igocast.com/channel9_hls/channel9_master.m3u8
 
 #EXTINF:48,Lifetime
 https://liveanevia.mncnow.id/live/eds/Lifetime/sa_hls/Lifetime.m3u8
@@ -273,8 +273,8 @@ http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/
 #EXTINF:91,Buzzr
 https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls.m3u8
 
-#EXTINF:92,Discovery
-https://liveanevia.mncnow.id/live/eds/Discovery/sa_hls/Discovery.m3u8
+#EXTINF:92,Reserved
+http://oklivetv.com/xplay/error/offlinee.mp4
 
 #EXTINF:93,AMGTV
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/chunklist.m3u8
@@ -330,8 +330,8 @@ http://ocatv.mcgi.me:1935/public/247_es/playlist.m3u8
 #EXTINF:110,INC TV
 http://churchrus2-lh.akamaihd.net/i/coctesting_1@57550/index_564_av-b.m3u8?sd=10&rebase=on
 
-#EXTINF:111,SMNI
-http://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
+#EXTINF:111,Reserved
+http://oklivetv.com/xplay/error/offlinee.mp4
 
 #EXTINF:112,Life TV
 http://59c3ec70cfde0.streamlock.net/channel_6/channel6/chunklist.m3u8
