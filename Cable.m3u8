@@ -78,8 +78,8 @@ https://liveanevia.mncnow.id/live/eds/Discovery/sa_hls/Discovery.m3u8
 #EXTINF:26,Animal Planet
 https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_hls/AnimalPlanet.m3u8
 
-#EXTINF:27,CBSN
-https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_10.m3u8
+#EXTINF:27,CNN Philippines (mirror)
+http://df7lqp0btxdx2.cloudfront.net/11227_500.m3u8
 
 #EXTINF:28,CNN
 https://1686983180.rsc.cdn77.org/ls-54548-1/index.m3u8
@@ -297,11 +297,11 @@ http://livecdnh2.tvanywhere.ae/hls/english_club/04.m3u8
 #EXTINF:99,BBC Earth
 https://liveanevia.mncnow.id/live/eds/BBCEarth/sa_hls/BBCEarth.m3u8
 
-#EXTINF:100,Australia Channel News
-https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master640x360.m3u8
+#EXTINF:100,Reserved
+https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
 
-#EXTINF:101,Arise News
-https://contributionstreams.sechls01.visionip.tv/live/visiontv-contributionstreams-arise-tv-25f-16x9-SDh/chunklist.m3u8
+#EXTINF:101,CBSN
+https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_10.m3u8
 
 #EXTINF:102,ABC News Live
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
@@ -357,8 +357,8 @@ http://45.126.83.51/qwr9ew/s/s39/index2.m3u8
 #EXTINF:119,GCTV
 http://45.32.115.103/live/livestream/index.m3u8
 
-#EXTINF:120,TRT World
-http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
+#EXTINF:120,Reserved
+https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
 
 #EXTINF:121,Law & Crime Network
 https://live-lawandcrime.simplestreamcdn.com/lawcrimehls/2/prog_index.m3u8
@@ -411,11 +411,11 @@ http://a.jsrdn.com/broadcast/d5b47/+0000/low/c.m3u8
 #EXTINF:137,Classic Arts Showcase
 https://classicarts.global.ssl.fastly.net/live/cas/master_550k.m3u8
 
-#EXTINF:138,Reserved
-https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
+#EXTINF:138,Arise News
+https://contributionstreams.sechls01.visionip.tv/live/visiontv-contributionstreams-arise-tv-25f-16x9-SDh/chunklist.m3u8
 
-#EXTINF:139,Reserved
-https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
+#EXTINF:139,TRT World
+http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 
-#EXTINF:140,Reserved
-https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
+#EXTINF:140,Australia Channel News
+https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master640x360.m3u8
