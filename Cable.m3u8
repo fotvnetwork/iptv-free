@@ -127,7 +127,7 @@ https://bozztv.com/36bay2/gin/giniko_euronews_800kb_36bay2/tracks-v1a1/mono.m3u8
 http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_2_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:43,CNA
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+http://45.126.83.51/uq2663/h/h29/02.m3u8
 
 #EXTINF:44,CGTN
 http://live.cgtn.com/500/prog_index.m3u8
@@ -145,13 +145,13 @@ https://cdn.igocast.com/channel9_hls/channel9_master.m3u8
 https://liveanevia.mncnow.id/live/eds/Lifetime/sa_hls/Lifetime.m3u8
 
 #EXTINF:49,CONtv
-https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/640x360_394000/chunklist.m3u8
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/playlist.m3u8
 
 #EXTINF:50,Dove Channel
-https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/640x360_394000/chunklist.m3u8
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/playlist.m3u8
 
-#EXTINF:51,HBO
-http://203.207.56.228/live/iptv005.m3u8
+#EXTINF:51,AMC
+http://84.22.33.254/unicast.amc/index.m3u8
 
 #EXTINF:52,VH1
 http://content-ausc2.uplynk.com/channel/7a16e3d5ffd0413ba4d8ac89688ed7cd/e.m3u8?ct=c&ad.locationDesc=vh1_channel&ad.cust_params=_fw_ae%3D53da17a30bd0d3c946a41c86cb5873f1%26_vmn_ar%3Dtrue&expand=simulcast_standard&ad.kv=_fw_ae%2C53da17a30bd0d3c946a41c86cb5873f1%2C_vmn_ar%2Ctrue%2C_fw_vcid2%2C82125:vh1_67b04b0c30774b06ad1ec820ee7d0beb&delay=10800&euid=67b04b0c-3077-4b06-ad1e-c820ee7d0beb&exp=1531977295&rn=1284714433&ad.euid=67b04b0c-3077-4b06-ad1e-c820ee7d0beb&cid=7a16e3d5ffd0413ba4d8ac89688ed7cd&tc=1&sig=b3143cb0429574cc3c877de30e62fab7d66c763ec2f61cd9bfde33fdab12dfb7&pbs=62317bc417264eaeb05c22777b5c8697
@@ -189,8 +189,8 @@ http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
 #EXTINF:63,ESPN
 https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:espn.smil/chunklist_b300000.m3u8
 
-#EXTINF:64,DSport
-http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD.m3u8
+#EXTINF:64,Edge Sport
+https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
 
 #EXTINF:65,Fox Sports Australia
 http://45.58.62.92:8080
@@ -387,8 +387,8 @@ https://distro.akamaized.net/indexfd_640x360.m3u8
 #EXTINF:129,SGTN 49
 http://stgn-49.tulix.tv/live19/Stream1/chunklist_w1498543121.m3u8
 
-#EXTINF:130,Reserved
-https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
+#EXTINF:130,OK TV
+https://nrpus.bozztv.com/36bay2/gusa-oktv/tracks-v1a1/mono.m3u8
 
 #EXTINF:131,Youtoo America
 https://imavex2.mmdlive.lldns.net/imavex2/46320b2319cf49d7bf68f70cc4a10c98/chunklist_b732000.m3u8
