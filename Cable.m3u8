@@ -45,8 +45,8 @@ https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:nbc.smil/chunklist_b300000.m3u8
 #EXTINF:15,FOX
 http://190.80.3.28/FOX/FOX.isml/FOX-audio_128052_eng=128000-video=800000.m3u8
 
-#EXTINF:16,Cartoon Network
-http://fr-c.movply.stream/hls/Carton_Network.m3u8
+#EXTINF:16,Kids TV (Pluto TV)
+http://stitcher.pluto.tv/stitch/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?deviceType=%2C%2C&deviceMake=&deviceModel=&sid=c8b023af-ff3b-4fb6-87f0-4af929510c3d&deviceId=29556502-e2a5-45de-8deb-3b3dfa36b936_e62c9abb601b4ed5&deviceVersion=7.1.1_25&appVersion=3.5.1&deviceDNT=0&userId=&advertisingId=6e7a218c-1bf7-46bf-b486-0902a3cd5a1c&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 
 #EXTINF:17,Nickelodeon
 https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_hls/Nickelodeon.m3u8
@@ -127,7 +127,7 @@ https://bozztv.com/36bay2/gin/giniko_euronews_800kb_36bay2/tracks-v1a1/mono.m3u8
 http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_2_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:43,CNA
-http://45.126.83.51/uq2663/h/h29/02.m3u8
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_2.m3u8
 
 #EXTINF:44,CGTN
 http://live.cgtn.com/500/prog_index.m3u8
@@ -192,8 +192,8 @@ https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:espn.smil/chunklist_b300000.m3u8
 #EXTINF:64,Edge Sport
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
 
-#EXTINF:65,Fox Sports Australia
-http://45.58.62.92:8080
+#EXTINF:65,ESR
+https://m-c010-j2apps.s.llnwi.net/hls/8029.RealBigHits.in.m3u8
 
 #EXTINF:66,NBC Golf
 http://203.154.243.89:1208
@@ -250,7 +250,7 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg13_adaptive.smil/media.
 https://bozztv.com/36bay2/gin/giniko_fashionone_800kb_36bay2/tracks-v1a1/mono.m3u8
 
 #EXTINF:84,World Fashion Channel
-https://wfcint.mediacdn.ru/cdn/wfcint/tracks-v3a1/mono.m3u8
+https://wfcint.mediacdn.ru/cdn/wfcint/playlist.m3u8
 
 #EXTINF:85,Travel 4U
 https://nimble.dashstreams.net/onestudio/travel4u/chunks.m3u8
@@ -285,8 +285,8 @@ http://203.154.243.31:15001
 #EXTINF:95,Outdoor Channel Asia
 https://dl.dropbox.com/s/b0m53oaf0li7fv8/Outdoor.m3u8?dl=0
 
-#EXTINF:96,Rev'n
-http://dcunilive28-lh.akamaihd.net/i/dclive_1@624563/master.m3u8
+#EXTINF:96,UN Web
+https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/master.m3u8
 
 #EXTINF:97,NASA TV
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
@@ -307,13 +307,13 @@ https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d56
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
 #EXTINF:103,OAN
-http://190.80.3.28/OAN/OAN.isml/OAN-audio_132128_und=128000-video=800000.m3u8
+http://190.80.3.28/OAN/OAN.isml/index.m3u8
 
 #EXTINF:104,AWE
-http://190.80.3.28/AWE/AWE.isml/AWE-audio_132128_und=128000-video=500000.m3u8
+http://190.80.3.28/AWE/AWE.isml/index.m3u8
 
-#EXTINF:105,TYT (Pluto TV)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5331d5fb753499095a00045a/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=4bac739a-a968-4b1f-9d01-d69b69934c76&deviceId=8299a7f8-5fad-4f83-810f-f9b3b4575010&deviceVersion=75.0.3770.100&appVersion=2.7.1-5725cf052c6d5a7776009f53b7086f64da9ef528&deviceDNT=0&userId=&advertisingId=&deviceLat=37.751&deviceLon=-97.822&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
+#EXTINF:105,TYT
+https://tyt-ssai.akamaized.net/amagi_hls_data_tytnetwor-tytxumo/CDN/playlist.m3u8
 
 #EXTINF:106,InfoWars
 http://wpc.9ec1.edgecastcdn.net/249EC1/infowarshd-edgecast/hd720.m3u8
@@ -324,8 +324,8 @@ https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_288.m3u8
 #EXTINF:108,NewsNet
 http://broadcastny.yournewsnet.com:8081/master/newsnetweb/chunks.m3u8
 
-#EXTINF:109,ECA
-http://ocatv.mcgi.me:1935/public/247_es/playlist.m3u8
+#EXTINF:109,SMNI
+http://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
 
 #EXTINF:110,INC TV
 http://churchrus2-lh.akamaihd.net/i/coctesting_1@57550/index_564_av-b.m3u8?sd=10&rebase=on
@@ -376,7 +376,7 @@ https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/640x360_440000/chunklist.m3u8
 
 #EXTINF:126,Sidewalks
-https://nrpus.bozztv.com/36bay2/gusa-sidewalks/tracks-v1a1/mono.m3u8
+http://30a-tv.com/sidewalks.m3u8
 
 #EXTINF:127,Superyacht TV
 http://cdn.mobibase.com/hls/733/258_5000k/playlist.m3u8
@@ -408,8 +408,8 @@ https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
 #EXTINF:136,Brut.
 http://a.jsrdn.com/broadcast/d5b47/+0000/low/c.m3u8
 
-#EXTINF:137,Classic Arts Showcase
-https://classicarts.global.ssl.fastly.net/live/cas/master_550k.m3u8
+#EXTINF:137,Press TV
+https://live2.presstv.com/liveprs/smil:liveprs.smil/playlist.m3u8
 
 #EXTINF:138,Arise News
 https://contributionstreams.sechls01.visionip.tv/live/visiontv-contributionstreams-arise-tv-25f-16x9-SDh/chunklist.m3u8
