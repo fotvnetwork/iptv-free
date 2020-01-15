@@ -3,83 +3,83 @@
 #EXTINF:1,Pop Life TV
 https://d3cbe0gidjd4k2.cloudfront.net/channel_2/channel2/chunklist_w592974426.m3u8
 
-#EXTINF:2,TV5 Philippines
-http://qn-10135-garnet-qb-2-1.tv5-live-hls-2.apac-1-cdn.cqloud.com/n5e/tv5/chunklist_w1594110514.m3u8
-
-#EXTINF:3,5 Plus
-http://stream3.news5.ph:1935/n5e/5plus/chunklist_w533955318.m3u8
-
-#EXTINF:4,Inquirer 990 Television
+#EXTINF:2,Inquirer 990 Television
 http://59c3ec70cfde0.streamlock.net/channel_7/channel7/chunklist.m3u8
 
-#EXTINF:5,UNTV
+#EXTINF:3,UNTV
 https://untv.mmdlive.lldns.net/untv/97cc8d2c46bd43b78e0b112761ab71fe/chunklist_b732000.m3u8
 
-#EXTINF:6,CNN Philippines
-http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
-
-#EXTINF:7,TeleNovela Channel
-http://164.40.161.46:8003/play/s6
-
-#EXTINF:8,CLTV 36
+#EXTINF:4,CLTV 36
 http://cltv36-lh.akamaihd.net/i/cltv36_1@300961/index_2500_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:9,MyTV Cebu
+#EXTINF:5,TV5
+http://qn-10135-garnet-qb-2-1.tv5-live-hls-2.apac-1-cdn.cqloud.com/n5e/tv5/chunklist_w1594110514.m3u8
+
+#EXTINF:6,5 Plus
+http://stream3.news5.ph:1935/n5e/5plus/chunklist_w533955318.m3u8
+
+#EXTINF:7,GMA Pinoy
+http://164.40.161.43:10011
+
+#EXTINF:8,TeleNovela Channel
+http://164.40.161.46:8003/play/s6
+
+#EXTINF:9,CNN Philippines
+http://df7lqp0btxdx2.cloudfront.net/11227_500.m3u8
+
+#EXTINF:10,MyTV Cebu
 http://api.new.livestream.com/accounts/15418593/events/4787138/live.m3u8
 
-#EXTINF:10,BBC One UK
+#EXTINF:11,BBC One UK
 https://bozztv.com/36bay2/gin/giniko_bbcone_1000kb_36bay2/index.m3u8
 
-#EXTINF:11,Three New Zealand
+#EXTINF:12,Three New Zealand
 http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master_720.m3u8
 
-#EXTINF:12,PBS USA
+#EXTINF:13,PBS USA
 http://190.80.3.28/PBS/PBS.isml/PBS-audio_120052_eng=120000-video=1870000.m3u8
 
-#EXTINF:13,CBS
+#EXTINF:14,CBS
 http://87.120.36.62:8080/hls/streama111418/index.m3u8
 
-#EXTINF:14,NBC
+#EXTINF:15,NBC
 https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:nbc.smil/chunklist_b300000.m3u8
 
-#EXTINF:15,FOX
+#EXTINF:16,FOX
 http://190.80.3.28/FOX/FOX.isml/FOX-audio_128052_eng=128000-video=800000.m3u8
 
-#EXTINF:16,Kids TV (Pluto TV)
+#EXTINF:17,Kids TV (Pluto TV)
 http://stitcher.pluto.tv/stitch/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?deviceType=%2C%2C&deviceMake=&deviceModel=&sid=c8b023af-ff3b-4fb6-87f0-4af929510c3d&deviceId=29556502-e2a5-45de-8deb-3b3dfa36b936_e62c9abb601b4ed5&deviceVersion=7.1.1_25&appVersion=3.5.1&deviceDNT=0&userId=&advertisingId=6e7a218c-1bf7-46bf-b486-0902a3cd5a1c&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 
-#EXTINF:17,Nickelodeon
+#EXTINF:18,Nickelodeon
 https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_hls/Nickelodeon.m3u8
 
-#EXTINF:18,Nick Jr
+#EXTINF:19,Nick Jr
 https://liveanevia.mncnow.id/live/eds/NickJr/sa_hls/NickJr.m3u8
 
-#EXTINF:19,Disney Channel
+#EXTINF:20,Disney Channel
 https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_hls/DisneyChannel.m3u8
 
-#EXTINF:20,Disney Junior
+#EXTINF:21,Disney Junior
 https://liveanevia.mncnow.id/live/eds/DisneyJunior/sa_hls/DisneyJunior.m3u8
 
-#EXTINF:21,Disney XD
+#EXTINF:22,Disney XD
 https://liveanevia.mncnow.id/live/eds/DisneyXD/sa_hls/DisneyXD.m3u8
 
-#EXTINF:22,Asian Food Network
+#EXTINF:23,Asian Food Network
 https://liveanevia.mncnow.id/live/eds/AFC/sa_hls/AFC.m3u8
 
-#EXTINF:23,HGTV
+#EXTINF:24,HGTV
 https://liveanevia.mncnow.id/live/eds/HGTV/sa_hls/HGTV.m3u8
 
-#EXTINF:24,TLC
+#EXTINF:25,TLC
 https://liveanevia.mncnow.id/live/eds/TLC/sa_hls/TLC.m3u8
 
-#EXTINF:25,Discovery
+#EXTINF:26,Discovery
 https://liveanevia.mncnow.id/live/eds/Discovery/sa_hls/Discovery.m3u8
 
-#EXTINF:26,Animal Planet
+#EXTINF:27,Animal Planet
 https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_hls/AnimalPlanet.m3u8
-
-#EXTINF:27,CNN Philippines (mirror)
-http://df7lqp0btxdx2.cloudfront.net/11227_500.m3u8
 
 #EXTINF:28,CNN
 https://1686983180.rsc.cdn77.org/ls-54548-1/index.m3u8
