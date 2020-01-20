@@ -13,7 +13,7 @@ https://untv.mmdlive.lldns.net/untv/97cc8d2c46bd43b78e0b112761ab71fe/chunklist_b
 http://cltv36-lh.akamaihd.net/i/cltv36_1@300961/index_2500_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:5,TV5
-http://qn-10135-garnet-qb-2-1.tv5-live-hls-2.apac-1-cdn.cqloud.com/n5e/tv5/chunklist_w1594110514.m3u8
+http://stream3.news5.ph/n5e/tv5/chunklist_w1330054632.m3u8
 
 #EXTINF:6,5 Plus
 http://stream3.news5.ph:1935/n5e/5plus/chunklist_w533955318.m3u8
@@ -40,7 +40,7 @@ http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master
 http://190.80.3.28/PBS/PBS.isml/PBS-audio_120052_eng=120000-video=1870000.m3u8
 
 #EXTINF:14,CBS
-http://87.120.36.62:8080/hls/streama111418/index.m3u8
+http://161.0.157.51/PLTV/88888888/224/3221227041/03.m3u8
 
 #EXTINF:15,NBC
 https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:nbc.smil/chunklist_b300000.m3u8
@@ -48,8 +48,8 @@ https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:nbc.smil/chunklist_b300000.m3u8
 #EXTINF:16,FOX
 http://190.80.3.28/FOX/FOX.isml/FOX-audio_128052_eng=128000-video=800000.m3u8
 
-#EXTINF:17,Kids TV (Pluto TV)
-http://stitcher.pluto.tv/stitch/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?deviceType=%2C%2C&deviceMake=&deviceModel=&sid=c8b023af-ff3b-4fb6-87f0-4af929510c3d&deviceId=29556502-e2a5-45de-8deb-3b3dfa36b936_e62c9abb601b4ed5&deviceVersion=7.1.1_25&appVersion=3.5.1&deviceDNT=0&userId=&advertisingId=6e7a218c-1bf7-46bf-b486-0902a3cd5a1c&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:17,Pop Kids
+https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-pop/tracks-v4a1/mono.m3u8
 
 #EXTINF:18,Nickelodeon
 https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_hls/Nickelodeon.m3u8
@@ -198,8 +198,8 @@ https://m-c010-j2apps.s.llnwi.net/hls/8029.RealBigHits.in.m3u8
 #EXTINF:66,NBC Golf
 http://203.154.243.89:1208
 
-#EXTINF:67,BeIN Sports Extra
-https://bein-xtra-roku.amagi.tv/ssai/amagi_hls_data_beinAAAAA-beinxtra/CDN/1920x1080_5640800/index.m3u8
+#EXTINF:67,BeIN Sports Xtra
+https://bein-xtra-roku.amagi.tv/ssai/amagi_hls_data_beinAAAAA-beinxtra/CDN/720x404_1460800/chunklist.m3u8
 
 #EXTINF:68,Olympic Channel
 https://ott-live.olympicchannel.com/out/u/OC1_3.m3u8
@@ -417,5 +417,5 @@ https://contributionstreams.sechls01.visionip.tv/live/visiontv-contributionstrea
 #EXTINF:139,TRT World
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 
-#EXTINF:140,Australia Channel News
-https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master640x360.m3u8
+#EXTINF:140,ABC Australia
+https://anevia115.mncnow.id/live/eds/AustraliaPlus/sa_hls/AustraliaPlus.m3u8
