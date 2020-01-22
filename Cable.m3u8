@@ -49,7 +49,7 @@ https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:nbc.smil/chunklist_b300000.m3u8
 http://190.80.3.28/FOX/FOX.isml/FOX-audio_128052_eng=128000-video=800000.m3u8
 
 #EXTINF:17,Pop Kids
-https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-pop/tracks-v4a1/mono.m3u8
+https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-pop/tracks-v1a1/mono.m3u8
 
 #EXTINF:18,Nickelodeon
 https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_hls/Nickelodeon.m3u8
@@ -177,11 +177,11 @@ http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_1250_av-p.m3u8?sd=10&
 #EXTINF:59,FX
 https://liveanevia.mncnow.id/live/eds/FX/sa_hls/FX.m3u8
 
-#EXTINF:60,Fox Family Movies
-https://liveanevia.mncnow.id/live/eds/FoxFamilyMovies/sa_hls/FoxFamilyMovies.m3u8
+#EXTINF:60,Fox Crime
+https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_hls/FoxCrime.m3u8
 
-#EXTINF:61,HBO Family
-https://liveanevia.mncnow.id/live/eds/HBOFamily/sa_hls/HBOFamily.m3u8
+#EXTINF:61,Kix
+https://liveanevia.mncnow.id/live/eds/KIX/sa_hls/KIX.m3u8
 
 #EXTINF:62,Star Movies
 http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
@@ -307,10 +307,10 @@ https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d56
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
 #EXTINF:103,OAN
-http://190.80.3.28/OAN/OAN.isml/index.m3u8
+http://190.80.3.28/OAN/OAN.isml/OAN-audio_132128_und=128000-video=500000.m3u8
 
-#EXTINF:104,AWE
-http://190.80.3.28/AWE/AWE.isml/index.m3u8
+#EXTINF:104,OAN (mirror)
+http://190.80.3.28/OAN/OAN.isml/OAN-audio_132128_und=128000-video=800000.m3u8
 
 #EXTINF:105,TYT
 https://tyt-ssai.akamaized.net/amagi_hls_data_tytnetwor-tytxumo/CDN/playlist.m3u8
