@@ -198,17 +198,17 @@ http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
 #EXTINF:66,Showtime
 http://live.fadev.club/live/SHOWTIME/playlist.m3u8
 
-#EXTINF:67,E!
+#EXTINF:67,HBO
+http://live.fadev.club/live/HBO/playlist.m3u8
+
+#EXTINF:68,E!
 http://live.fadev.club/live/E!/playlist.m3u8
 
-#EXTINF:68,ESPN
+#EXTINF:69,ESPN
 https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:espn.smil/chunklist_b300000.m3u8
 
-#EXTINF:69,NBA TV
+#EXTINF:70,NBA TV
 http://live.fadev.club/live/NBATV/playlist.m3u8
-
-#EXTINF:70,NBCSN
-http://live.fadev.club/live/NBCSN/playlist.m3u8
 
 #EXTINF:71,ESR
 https://m-c010-j2apps.s.llnwi.net/hls/8029.RealBigHits.in.m3u8
