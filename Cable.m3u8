@@ -58,13 +58,13 @@ https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_hls/Nickelodeon.m3u8
 https://liveanevia.mncnow.id/live/eds/NickJr/sa_hls/NickJr.m3u8
 
 #EXTINF:20,Disney Channel
-https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_hls/DisneyChannel.m3u8
+http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
 
 #EXTINF:21,Disney Junior
 https://liveanevia.mncnow.id/live/eds/DisneyJunior/sa_hls/DisneyJunior.m3u8
 
 #EXTINF:22,Disney XD
-https://liveanevia.mncnow.id/live/eds/DisneyXD/sa_hls/DisneyXD.m3u8
+https://liveanevia.mncnow.id/live/eds/DisneyXD/sa_hls/DisneyXD-avc1_2499968=11-DisneyXD-mp4a_98800_ind=16.m3u8
 
 #EXTINF:23,Asian Food Network
 https://liveanevia.mncnow.id/live/eds/AFC/sa_hls/AFC.m3u8
@@ -76,7 +76,7 @@ https://liveanevia.mncnow.id/live/eds/HGTV/sa_hls/HGTV.m3u8
 https://liveanevia.mncnow.id/live/eds/TLC/sa_hls/TLC.m3u8
 
 #EXTINF:26,Discovery
-https://liveanevia.mncnow.id/live/eds/Discovery/sa_hls/Discovery.m3u8
+https://liveanevia.mncnow.id/live/eds/Discovery/sa_hls/Discovery-avc1_2499968=13-Discovery-mp4a_98800_eng=5.m3u8
 
 #EXTINF:27,Animal Planet
 https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_hls/AnimalPlanet.m3u8
@@ -205,13 +205,13 @@ http://95.170.215.118/hls/m3u8/Sky-MoviesAction.m3u8
 http://ott.artmott.com/E!/tracks-v1a1/mono.m3u8
 
 #EXTINF:69,ESPN
-https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:espn.smil/chunklist_b300000.m3u8
+http://npse.brots.world/espn2.m3u8
 
-#EXTINF:70,Fox Sports 2 Asia
+#EXTINF:70,Fox Sports Asia
+https://anevia115.mncnow.id/live/eds/FOXSports/sa_hls/FOXSports-avc1_2499968=10-FOXSports-mp4a_98800_eng=3.m3u8
+
+#EXTINF:71,Fox Sports 2 Asia
 https://anevia115.mncnow.id:443/live/eds/FoxSports2/sa_hls/FoxSports2-avc1_2499968=10-FoxSports2-mp4a_98800_eng=3.m3u8
-
-#EXTINF:71,Fox Sports Australia
-http://45.58.62.92:8080
 
 #EXTINF:72,HJtv Guyana
 http://190.80.3.28/HJTV/HJTV.isml/HJTV-audio_128301_und=128000-video=800000.m3u8
@@ -241,7 +241,7 @@ https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d556
 https://cstream5.com/hls/eurosport2.m3u8
 
 #EXTINF:81,History
-https://liveanevia.mncnow.id/live/eds/History/sa_hls/History.m3u8
+https://liveanevia.mncnow.id/live/eds/History/sa_hls/History-avc1_1000000=9-History-mp4a_98800_eng=3.m3u8
 
 #EXTINF:82,H2
 http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
@@ -301,7 +301,7 @@ https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e82
 http://livecdnh2.tvanywhere.ae/hls/english_club/04.m3u8
 
 #EXTINF:101,BBC Earth
-https://liveanevia.mncnow.id/live/eds/BBCEarth/sa_hls/BBCEarth.m3u8
+https://liveanevia.mncnow.id/live/eds/BBCEarth/sa_hls/BBCEarth-avc1_1000000=10-mp4a_98800_eng=5.m3u8
 
 #EXTINF:102,Newsy
 https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=newsyweb
@@ -343,7 +343,7 @@ http://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
 http://59c3ec70cfde0.streamlock.net/channel_6/channel6/chunklist.m3u8
 
 #EXTINF:115,Hope Channel Philippines
-https://bcliveunivsecure-lh.akamaihd.net/i/HopeChannelPhilippines_1@310362/index_2000_av-b.m3u8?sd=10&rebase=on
+https://bcliveunivsecure-lh.akamaihd.net/i/HopeChannelPhilippines_1@310362/index_2000_av-b.m3u8
 
 #EXTINF:116,Hope Channel International
 https://bcliveunivsecure-lh.akamaihd.net/i/International_1@571272/master.m3u8
@@ -351,7 +351,7 @@ https://bcliveunivsecure-lh.akamaihd.net/i/International_1@571272/master.m3u8
 #EXTINF:117,CBN
 https://bcliveunivsecure-lh.akamaihd.net/i/iptv1_1@500579/index_500_av-b.m3u8?sd=10&rebase=on
 
-#EXTINF:118,EWTN
+#EXTINF:118,EWTN Asia Pacific
 https://d19y0p9magl0wf.cloudfront.net/p/PACE.m3u8
 
 #EXTINF:119,3ABN
@@ -382,7 +382,7 @@ https://a.jsrdn.com/broadcast/b5d2k0x/playlist360p.m3u8
 https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
 
 #EXTINF:128,TMZ
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/playlist.m3u8
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/640x360_440000/chunklist.m3u8
 
 #EXTINF:129,Sidewalks
 http://30a-tv.com/sidewalks.m3u8
