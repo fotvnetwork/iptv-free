@@ -40,16 +40,16 @@ http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master
 http://190.80.3.28/PBS/PBS.isml/PBS-audio_120052_eng=120000-video=1870000.m3u8
 
 #EXTINF:14,CBS
-http://live.fadev.club/live/CBS/playlist.m3u8
+http://161.0.157.51/PLTV/88888888/224/3221227041/03.m3u8
 
 #EXTINF:15,NBC
-http://live.fadev.club/live/NBC/playlist.m3u8
+https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:nbc.smil/chunklist_b700000.m3u8
 
 #EXTINF:16,FOX
-http://live.fadev.club/live/FOX/playlist.m3u8
+http://190.80.3.28/FOX/FOX.isml/FOX-audio_128052_eng=128000-video=800000.m3u8
 
-#EXTINF:17,Cartoon Network
-http://live.fadev.club/live/CN/playlist.m3u8
+#EXTINF:17,Pop Kids
+https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-pop/tracks-v1a1/mono.m3u8
 
 #EXTINF:18,Nickelodeon
 https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_hls/Nickelodeon.m3u8
@@ -82,7 +82,7 @@ https://liveanevia.mncnow.id/live/eds/Discovery/sa_hls/Discovery.m3u8
 https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_hls/AnimalPlanet.m3u8
 
 #EXTINF:28,CNN
-http://live.fadev.club/live/CNN/playlist.m3u8
+http://ott.artmott.com/CNN/tracks-v1a1/mono.m3u8
 
 #EXTINF:29,CNN International
 http://92.43.140.249/s27/03.m3u8
@@ -91,7 +91,7 @@ http://92.43.140.249/s27/03.m3u8
 https://fluxustv.blogspot.com@bit.ly/2t2Dkb2?.m3u8
 
 #EXTINF:31,MSNBC
-http://live.fadev.club/live/MSNBC/playlist.m3u8
+https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:msnbc.smil/fluxustv.m3u8?fluxustv.m3u8
 
 #EXTINF:32,CNBC Asia
 https://liveanevia.mncnow.id/live/eds/CNBC/sa_hls/CNBC.m3u8
@@ -144,38 +144,38 @@ https://cdn.igocast.com/channel9_hls/channel9_master.m3u8
 #EXTINF:48,Lifetime
 https://liveanevia.mncnow.id/live/eds/Lifetime/sa_hls/Lifetime.m3u8
 
-#EXTINF:49,Hallmark Channel
-http://live.fadev.club/live/Hallmark/playlist.m3u8
+#EXTINF:49,CBS Reality
+http://ott.artmott.com/CBS-Reality/tracks-v1a1/mono.m3u8
 
-#EXTINF:50,OWN
-http://live.fadev.club/live/OWN/playlist.m3u8
+#EXTINF:50,CONtv
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/playlist.m3u8
 
 #EXTINF:51,Warner TV
 http://203.154.243.89:11205
 
 #EXTINF:52,AMC
-http://live.fadev.club/live/AMC/playlist.m3u8
+http://ott.artmott.com/AMC/tracks-v1a1/mono.m3u8
 
-#EXTINF:53,A&E
-http://live.fadev.club/live/AE/playlist.m3u8
+#EXTINF:53,Syfy
+http://84.22.33.254/unicast.scifi/index.m3u8
 
-#EXTINF:54,USA Network
-http://live.fadev.club/live/USANETWORK/playlist.m3u8
+#EXTINF:54,FOX Asia
+https://anevia115.mncnow.id:443/live/eds/FoxChannel/sa_hls/FoxChannel.m3u8
 
-#EXTINF:55,BBC America
-http://live.fadev.club/live/BBCAmerica/chunks.m3u8
+#EXTINF:55,Diva
+http://ott.artmott.com/DIVA/tracks-v1a1/mono.m3u8
 
 #EXTINF:56,Star World
 http://livecdnh1.tvanywhere.ae/hls/star_world/04.m3u8
 
-#EXTINF:57,TBS
-http://live.fadev.club/live/TBS/playlist.m3u8
+#EXTINF:57,HITS
+https://liveanevia.mncnow.id/live/eds/HITS/sa_hls/HITS.m3u8
 
-#EXTINF:58,TNT
-http://live.fadev.club/live/TNT/playlist.m3u8
+#EXTINF:58,Dust
+https://dust.sinclair.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:59,TruTV
-http://live.fadev.club/live/TruTV/playlist.m3u8
+#EXTINF:59,ElectricNOW
+https://a.jsrdn.com/broadcast/vf93fRSk7/playlist_360p.m3u8
 
 #EXTINF:60,AXN
 http://210.210.155.66/h/h141/02.m3u8
@@ -184,7 +184,7 @@ http://210.210.155.66/h/h141/02.m3u8
 https://liveanevia.mncnow.id/live/eds/Thrill/sa_hls/Thrill.m3u8
 
 #EXTINF:62,FX
-http://live.fadev.club/live/FX/playlist.m3u8
+https://liveanevia.mncnow.id/live/eds/FX/sa_hls/FX.m3u8
 
 #EXTINF:63,Fox Crime
 https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_hls/FoxCrime.m3u8
@@ -195,26 +195,26 @@ https://liveanevia.mncnow.id/live/eds/KIX/sa_hls/KIX.m3u8
 #EXTINF:65,Star Movies
 http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
 
-#EXTINF:66,Showtime
-http://live.fadev.club/live/SHOWTIME/playlist.m3u8
+#EXTINF:66,Cinemax
+https://liveanevia.mncnow.id/live/eds/CinemaxHD/sa_hls/CinemaxHD.m3u8
 
-#EXTINF:67,HBO
-http://live.fadev.club/live/HBO/playlist.m3u8
+#EXTINF:67,Sky Movies Action
+http://95.170.215.118/hls/m3u8/Sky-MoviesAction.m3u8
 
 #EXTINF:68,E!
-http://live.fadev.club/live/E!/playlist.m3u8
+http://ott.artmott.com/E!/tracks-v1a1/mono.m3u8
 
 #EXTINF:69,ESPN
 https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:espn.smil/chunklist_b300000.m3u8
 
-#EXTINF:70,NBA TV
-http://live.fadev.club/live/NBATV/playlist.m3u8
+#EXTINF:70,Fox Sports 2 Asia
+https://anevia115.mncnow.id:443/live/eds/FoxSports2/sa_hls/FoxSports2-avc1_2499968=10-FoxSports2-mp4a_98800_eng=3.m3u8
 
-#EXTINF:71,ESR
-https://m-c010-j2apps.s.llnwi.net/hls/8029.RealBigHits.in.m3u8
+#EXTINF:71,Fox Sports Australia
+http://45.58.62.92:8080
 
-#EXTINF:72,Golf Channel
-http://live.fadev.club/live/Golf/playlist.m3u8
+#EXTINF:72,HJtv Guyana
+http://190.80.3.28/HJTV/HJTV.isml/HJTV-audio_128301_und=128000-video=800000.m3u8
 
 #EXTINF:73,BeIN Sports Xtra
 https://bein-xtra-roku.amagi.tv/ssai/amagi_hls_data_beinAAAAA-beinxtra/CDN/720x404_1460800/chunklist.m3u8
@@ -231,17 +231,17 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 #EXTINF:77,eGG Network
 http://45.126.83.51/uq2663/h/h22/02.m3u8
 
-#EXTINF:78,HJtv Guyana
-http://190.80.3.28/HJTV/HJTV.isml/HJTV-audio_128301_und=128000-video=800000.m3u8
+#EXTINF:78,ESR
+https://m-c010-j2apps.s.llnwi.net/hls/8029.RealBigHits.in.m3u8
 
 #EXTINF:79,Tennis Channel
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/f.m3u8
 
-#EXTINF:80,WWE Network
-http://live.fadev.club/live/WWE/playlist.m3u8
+#EXTINF:80,Eurosport 2
+https://cstream5.com/hls/eurosport2.m3u8
 
 #EXTINF:81,History
-http://live.fadev.club/live/HISTORY/playlist.m3u8
+https://liveanevia.mncnow.id/live/eds/History/sa_hls/History.m3u8
 
 #EXTINF:82,H2
 http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
@@ -253,7 +253,7 @@ http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
 http://103.199.160.85/Content/insync/Live/Channel(Insync)/index.m3u8
 
 #EXTINF:85,National Geographic
-http://live.fadev.club/live/GEO/playlist.m3u8
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
 
 #EXTINF:86,DocuBox
 http://livecdnh3.tvanywhere.ae/hls/docubox/03.m3u8
