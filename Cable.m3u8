@@ -30,8 +30,8 @@ http://df7lqp0btxdx2.cloudfront.net/11227_500.m3u8
 #EXTINF:10,MyTV Cebu
 http://api.new.livestream.com/accounts/15418593/events/4787138/live.m3u8
 
-#EXTINF:11,BBC One UK
-https://bozztv.com/36bay2/gin/giniko_bbcone_1000kb_36bay2/index.m3u8
+#EXTINF:11,ITV
+http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
 
 #EXTINF:12,Three New Zealand
 http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master_720.m3u8
@@ -48,8 +48,8 @@ https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:nbc.smil/chunklist_b700000.m3u8
 #EXTINF:16,FOX
 http://190.80.3.28/FOX/FOX.isml/FOX-audio_128052_eng=128000-video=800000.m3u8
 
-#EXTINF:17,Pop Kids
-https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-pop/tracks-v1a1/mono.m3u8
+#EXTINF:17,Duck TV
+http://livecdnh3.tvanywhere.ae/hls/duck/04.m3u8
 
 #EXTINF:18,Nickelodeon
 https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_hls/Nickelodeon.m3u8
@@ -70,10 +70,10 @@ https://liveanevia.mncnow.id/live/eds/DisneyXD/sa_hls/DisneyXD-avc1_2499968=11-D
 https://liveanevia.mncnow.id/live/eds/AFC/sa_hls/AFC.m3u8
 
 #EXTINF:24,HGTV
-https://liveanevia.mncnow.id/live/eds/HGTV/sa_hls/HGTV.m3u8
+https://liveanevia.mncnow.id/live/eds/HGTV/sa_hls/HGTV-avc1_2499968=12-HGTV-mp4a_98800_eng=3.m3u8
 
 #EXTINF:25,TLC
-https://liveanevia.mncnow.id/live/eds/TLC/sa_hls/TLC.m3u8
+https://liveanevia.mncnow.id/live/eds/TLC/sa_hls/TLC-avc1_2499968=11-TLC-mp4a_98800_eng=3.m3u8
 
 #EXTINF:26,Discovery
 https://liveanevia.mncnow.id/live/eds/Discovery/sa_hls/Discovery-avc1_2499968=13-Discovery-mp4a_98800_eng=5.m3u8
@@ -216,8 +216,8 @@ https://anevia115.mncnow.id:443/live/eds/FoxSports2/sa_hls/FoxSports2-avc1_24999
 #EXTINF:72,HJtv Guyana
 http://190.80.3.28/HJTV/HJTV.isml/HJTV-audio_128301_und=128000-video=800000.m3u8
 
-#EXTINF:73,BeIN Sports Xtra
-https://bein-xtra-roku.amagi.tv/ssai/amagi_hls_data_beinAAAAA-beinxtra/CDN/720x404_1460800/chunklist.m3u8
+#EXTINF:73,Edge Sport
+https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
 
 #EXTINF:74,Olympic Channel
 https://ott-live.olympicchannel.com/out/u/OC1_3.m3u8
@@ -262,7 +262,7 @@ http://livecdnh3.tvanywhere.ae/hls/docubox/03.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v4a1/index.m3u8
 
 #EXTINF:88,Global Fashion Channel
-https://vcngfc.teleosmedia.com/stream/globalfashionchannel/globalfashionchannel/seglist_360p.m3u8
+https://vcngfc1.teleosmedia.com/stream/globalfashionchannel/globalfashionchannel/seglist_360p.m3u8
 
 #EXTINF:89,FTV
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg13_adaptive.smil/media.m3u8
@@ -280,7 +280,7 @@ http://content-ausc2.uplynk.com/channel/7a16e3d5ffd0413ba4d8ac89688ed7cd/e.m3u8?
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_1250_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:94,Channel V
-https://liveanevia.mncnow.id/live/eds/ChannelV/sa_hls/ChannelV.m3u8
+https://liveanevia.mncnow.id/live/eds/ChannelV/sa_hls/ChannelV-avc1_2499968=11-ChannelV-mp4a_98800_eng=3.m3u8
 
 #EXTINF:95,Docurama
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
@@ -289,7 +289,7 @@ https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/mas
 http://203.154.243.31:15001
 
 #EXTINF:97,Outdoor Channel Asia
-https://dl.dropbox.com/s/b0m53oaf0li7fv8/Outdoor.m3u8?dl=0
+https://dl.dropbox.com/s/b0m53oaf0li7fv8/Outdoor.m3u8
 
 #EXTINF:98,UN Web
 https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/master.m3u8
