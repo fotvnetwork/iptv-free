@@ -90,8 +90,8 @@ http://92.43.140.249/s27/03.m3u8
 #EXTINF:30,Fox News Channel
 https://fluxustv.blogspot.com@bit.ly/2t2Dkb2?.m3u8
 
-#EXTINF:31,MSNBC
-https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:msnbc.smil/fluxustv.m3u8?fluxustv.m3u8
+#EXTINF:31,MSNBC (Pluto TV)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56403d822d2719107d948cb9/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=d606dccc-ddf4-4d92-895f-70280d9cb61b&deviceId=97aded51-833a-4fed-aef9-d087d5d8e9de&deviceVersion=77.0.3865.90&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceDNT=0&userId=&advertisingId=&deviceLat=40.7035&deviceLon=-73.9235&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
 
 #EXTINF:32,CNBC Asia
 https://liveanevia.mncnow.id/live/eds/CNBC/sa_hls/CNBC.m3u8
@@ -106,7 +106,7 @@ https://live.chdrstatic.com/cheddar/primary/5.m3u8
 https://live.chdrstatic.com/cbn/primary/5.m3u8
 
 #EXTINF:36,Sky News
-http://ax.micaesoft.com/YMitv/YMITV_UK_UKskytv_2.m3u8
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/02.m3u8
 
 #EXTINF:37,BBC World News
 http://220.158.149.14:9999/live/TV00000000000000000112@HHZT;LIVE
@@ -115,7 +115,7 @@ http://220.158.149.14:9999/live/TV00000000000000000112@HHZT;LIVE
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index576.m3u8
 
 #EXTINF:39,RT
-https://rt-news.secure.footprint.net/1103_800Kb.m3u8
+https://bozztv.com/36bay2/gin/giniko_russiatoday_2200kb_36bay2/index.m3u8
 
 #EXTINF:40,France 24 English
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
@@ -187,7 +187,7 @@ https://liveanevia.mncnow.id/live/eds/Thrill/sa_hls/Thrill.m3u8
 https://liveanevia.mncnow.id/live/eds/FX/sa_hls/FX.m3u8
 
 #EXTINF:63,Fox Crime
-https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_hls/FoxCrime.m3u8
+https://anevia115.mncnow.id:443/live/eds/FoxCrime/sa_hls/FoxCrime-avc1_2499968=10-FoxCrime-mp4a_98800_eng=3.m3u8
 
 #EXTINF:64,Kix
 https://liveanevia.mncnow.id/live/eds/KIX/sa_hls/KIX.m3u8
