@@ -25,7 +25,7 @@ http://164.40.161.43:10011
 http://164.40.161.46:8003/play/s6
 
 #EXTINF:9,CNN Philippines
-http://df7lqp0btxdx2.cloudfront.net/11227_500.m3u8
+http://df7lqp0btxdx2.cloudfront.net/11227.m3u8
 
 #EXTINF:10,MyTV Cebu
 http://api.new.livestream.com/accounts/15418593/events/4787138/live.m3u8
@@ -67,7 +67,7 @@ https://liveanevia.mncnow.id/live/eds/DisneyJunior/sa_hls/DisneyJunior.m3u8
 https://liveanevia.mncnow.id/live/eds/DisneyXD/sa_hls/DisneyXD-avc1_2499968=11-DisneyXD-mp4a_98800_ind=16.m3u8
 
 #EXTINF:23,Asian Food Network
-https://liveanevia.mncnow.id/live/eds/AFC/sa_hls/AFC.m3u8
+https://liveanevia.mncnow.id/live/eds/AFC/sa_hls/AFC-avc1_1000000=6-mp4a_98800_eng=3.m3u8
 
 #EXTINF:24,HGTV
 https://liveanevia.mncnow.id/live/eds/HGTV/sa_hls/HGTV-avc1_2499968=12-HGTV-mp4a_98800_eng=3.m3u8
