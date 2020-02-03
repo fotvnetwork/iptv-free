@@ -52,16 +52,16 @@ http://190.80.3.28/FOX/FOX.isml/FOX-audio_128052_eng=128000-video=800000.m3u8
 http://livecdnh3.tvanywhere.ae/hls/duck/04.m3u8
 
 #EXTINF:18,Nickelodeon
-https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_hls/Nickelodeon.m3u8
+https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_hls/Nickelodeon-avc1_499968=7-Nickelodeon-mp4a_66000_eng=2.m3u8
 
 #EXTINF:19,Nick Jr
-https://liveanevia.mncnow.id/live/eds/NickJr/sa_hls/NickJr.m3u8
+https://liveanevia.mncnow.id/live/eds/NickJr/sa_hls/NickJr-avc1_499968=7-NickJr-mp4a_66000_eng=2.m3u8
 
 #EXTINF:20,Disney Channel
 http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
 
 #EXTINF:21,Disney Junior
-https://liveanevia.mncnow.id/live/eds/DisneyJunior/sa_hls/DisneyJunior.m3u8
+https://liveanevia.mncnow.id/live/eds/DisneyJunior/sa_hls/DisneyJunior-avc1_499968=5-DisneyJunior-mp4a_66000_eng=2.m3u8
 
 #EXTINF:22,Disney XD
 https://liveanevia.mncnow.id/live/eds/DisneyXD/sa_hls/DisneyXD-avc1_2499968=11-DisneyXD-mp4a_98800_ind=16.m3u8
@@ -79,7 +79,7 @@ https://liveanevia.mncnow.id/live/eds/TLC/sa_hls/TLC-avc1_2499968=11-TLC-mp4a_98
 https://liveanevia.mncnow.id/live/eds/Discovery/sa_hls/Discovery-avc1_2499968=13-Discovery-mp4a_98800_eng=5.m3u8
 
 #EXTINF:27,Animal Planet
-https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_hls/AnimalPlanet.m3u8
+https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_hls/AnimalPlanet-avc1_499968=18-AnimalPlanet-mp4a_66000_eng=2.m3u8
 
 #EXTINF:28,CNN
 http://ott.artmott.com/CNN/tracks-v1a1/mono.m3u8
@@ -88,7 +88,7 @@ http://ott.artmott.com/CNN/tracks-v1a1/mono.m3u8
 http://92.43.140.249/s27/03.m3u8
 
 #EXTINF:30,Fox News Channel
-https://fluxustv.blogspot.com@bit.ly/2t2Dkb2?.m3u8
+https://liveanevia.mncnow.id/live/eds/FoxNews/sa_hls/FoxNews-avc1_499968=8-FoxNews-mp4a_66000_eng=2.m3u8
 
 #EXTINF:31,MSNBC (Pluto TV)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56403d822d2719107d948cb9/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=d606dccc-ddf4-4d92-895f-70280d9cb61b&deviceId=97aded51-833a-4fed-aef9-d087d5d8e9de&deviceVersion=77.0.3865.90&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceDNT=0&userId=&advertisingId=&deviceLat=40.7035&deviceLon=-73.9235&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
@@ -142,7 +142,7 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklis
 https://cdn.igocast.com/channel9_hls/channel9_master.m3u8
 
 #EXTINF:48,Lifetime
-https://liveanevia.mncnow.id/live/eds/Lifetime/sa_hls/Lifetime.m3u8
+https://liveanevia.mncnow.id/live/eds/Lifetime/sa_hls/Lifetime-avc1_499968=8-Lifetime-mp4a_66000_eng=2.m3u8
 
 #EXTINF:49,CBS Reality
 http://ott.artmott.com/CBS-Reality/tracks-v1a1/mono.m3u8
@@ -160,7 +160,7 @@ http://ott.artmott.com/AMC/tracks-v1a1/mono.m3u8
 http://84.22.33.254/unicast.scifi/index.m3u8
 
 #EXTINF:54,FOX Asia
-https://anevia115.mncnow.id:443/live/eds/FoxChannel/sa_hls/FoxChannel.m3u8
+https://anevia115.mncnow.id:443/live/eds/FoxChannel/sa_hls/FoxChannel-avc1_499968=13-FoxChannel-mp4a_98800_eng=3.m3u8
 
 #EXTINF:55,Diva
 http://ott.artmott.com/DIVA/tracks-v1a1/mono.m3u8
@@ -169,7 +169,7 @@ http://ott.artmott.com/DIVA/tracks-v1a1/mono.m3u8
 http://livecdnh1.tvanywhere.ae/hls/star_world/04.m3u8
 
 #EXTINF:57,HITS
-https://liveanevia.mncnow.id/live/eds/HITS/sa_hls/HITS.m3u8
+https://liveanevia.mncnow.id/live/eds/HITS/sa_hls/HITS-avc1_499968=12-HITS-mp4a_98800_eng=5.m3u8
 
 #EXTINF:58,Dust
 https://dust.sinclair.wurl.com/manifest/playlist.m3u8
@@ -181,22 +181,22 @@ https://a.jsrdn.com/broadcast/vf93fRSk7/playlist_360p.m3u8
 http://210.210.155.66/h/h141/02.m3u8
 
 #EXTINF:61,Thrill
-https://liveanevia.mncnow.id/live/eds/Thrill/sa_hls/Thrill.m3u8
+https://liveanevia.mncnow.id/live/eds/Thrill/sa_hls/Thrill-avc1_499968=8-Thrill-mp4a_98800_eng=5.m3u8
 
 #EXTINF:62,FX
-https://liveanevia.mncnow.id/live/eds/FX/sa_hls/FX.m3u8
+https://liveanevia.mncnow.id/live/eds/FX/sa_hls/FX-avc1_499968=13-FX-mp4a_98800_eng=3.m3u8
 
 #EXTINF:63,Fox Crime
 https://anevia115.mncnow.id:443/live/eds/FoxCrime/sa_hls/FoxCrime-avc1_2499968=10-FoxCrime-mp4a_98800_eng=3.m3u8
 
 #EXTINF:64,Kix
-https://liveanevia.mncnow.id/live/eds/KIX/sa_hls/KIX.m3u8
+https://liveanevia.mncnow.id/live/eds/KIX/sa_hls/KIX-avc1_499968=8-KIX-mp4a_98800_eng=3.m3u8
 
 #EXTINF:65,Star Movies
 http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
 
-#EXTINF:66,Cinemax
-https://liveanevia.mncnow.id/live/eds/CinemaxHD/sa_hls/CinemaxHD.m3u8
+#EXTINF:66,Cinemax HD
+https://liveanevia.mncnow.id/live/eds/CinemaxHD/sa_hls/CinemaxHD-avc1_2499968=7-CinemaxHD-mp4a_98800_eng=3.m3u8
 
 #EXTINF:67,Sky Movies Action
 http://95.170.215.118/hls/m3u8/Sky-MoviesAction.m3u8
@@ -427,7 +427,7 @@ https://contributionstreams.sechls01.visionip.tv/live/visiontv-contributionstrea
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 
 #EXTINF:143,ABC Australia
-https://anevia115.mncnow.id/live/eds/AustraliaPlus/sa_hls/AustraliaPlus.m3u8
+https://anevia115.mncnow.id/live/eds/AustraliaPlus/sa_hls/AustraliaPlus-avc1_499968=10-AustraliaPlus-mp4a_98800_eng=5.m3u8
 
 #EXTINF:144,AMGTV
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/chunklist.m3u8
