@@ -31,7 +31,7 @@ http://df7lqp0btxdx2.cloudfront.net/11227.m3u8
 http://api.new.livestream.com/accounts/15418593/events/4787138/live.m3u8
 
 #EXTINF:11,ITV
-http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
+http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main600.m3u8
 
 #EXTINF:12,Three New Zealand
 http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master_720.m3u8
@@ -48,8 +48,8 @@ https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:nbc.smil/chunklist_b700000.m3u8
 #EXTINF:16,FOX
 http://190.80.3.28/FOX/FOX.isml/FOX-audio_128052_eng=128000-video=800000.m3u8
 
-#EXTINF:17,Duck TV
-http://livecdnh3.tvanywhere.ae/hls/duck/04.m3u8
+#EXTINF:17,English Club
+http://livecdnh2.tvanywhere.ae/hls/english_club/04.m3u8
 
 #EXTINF:18,Nickelodeon
 https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_hls/Nickelodeon-avc1_499968=7-Nickelodeon-mp4a_66000_eng=2.m3u8
@@ -90,11 +90,11 @@ http://92.43.140.249/s27/03.m3u8
 #EXTINF:30,Fox News Channel
 https://liveanevia.mncnow.id/live/eds/FoxNews/sa_hls/FoxNews-avc1_499968=8-FoxNews-mp4a_66000_eng=2.m3u8
 
-#EXTINF:31,MSNBC (Pluto TV)
+#EXTINF:31,MSNBC/NBC News (Pluto TV)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56403d822d2719107d948cb9/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=d606dccc-ddf4-4d92-895f-70280d9cb61b&deviceId=97aded51-833a-4fed-aef9-d087d5d8e9de&deviceVersion=77.0.3865.90&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceDNT=0&userId=&advertisingId=&deviceLat=40.7035&deviceLon=-73.9235&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
 
 #EXTINF:32,CNBC Asia
-https://liveanevia.mncnow.id/live/eds/CNBC/sa_hls/CNBC.m3u8
+https://liveanevia.mncnow.id/live/eds/CNBC/sa_hls/CNBC-avc1_499968=7-CNBC-mp4a_98800_eng=5.m3u8
 
 #EXTINF:33,Bloomberg TV Asia
 https://d1xy5gfz8tdshw.cloudfront.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-440-1_live.m3u8
@@ -115,7 +115,7 @@ http://220.158.149.14:9999/live/TV00000000000000000112@HHZT;LIVE
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index576.m3u8
 
 #EXTINF:39,RT
-https://bozztv.com/36bay2/gin/giniko_russiatoday_2200kb_36bay2/index.m3u8
+https://bozztv.com/36bay2/gin/giniko_russiatoday_2200kb_36bay2/tracks-v1a1/mono.m3u8
 
 #EXTINF:40,France 24 English
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
@@ -198,8 +198,8 @@ http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
 #EXTINF:66,Cinemax HD
 https://liveanevia.mncnow.id/live/eds/CinemaxHD/sa_hls/CinemaxHD-avc1_2499968=7-CinemaxHD-mp4a_98800_eng=3.m3u8
 
-#EXTINF:67,Sky Movies Action
-http://95.170.215.118/hls/m3u8/Sky-MoviesAction.m3u8
+#EXTINF:67,Filmbox
+https://1648401168.rsc.cdn77.org/1648401168/tracks-v1a1/mono.m3u8
 
 #EXTINF:68,E!
 http://ott.artmott.com/E!/tracks-v1a1/mono.m3u8
@@ -297,20 +297,20 @@ https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/master.m3u8
 #EXTINF:99,NASA TV
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
 
-#EXTINF:100,English Club
-http://livecdnh2.tvanywhere.ae/hls/english_club/04.m3u8
-
-#EXTINF:101,BBC Earth
+#EXTINF:100,BBC Earth
 https://liveanevia.mncnow.id/live/eds/BBCEarth/sa_hls/BBCEarth-avc1_1000000=10-mp4a_98800_eng=5.m3u8
 
-#EXTINF:102,Newsy
+#EXTINF:101,Newsy
 https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=newsyweb
 
-#EXTINF:103,CBSN
+#EXTINF:102,CBSN
 https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_10.m3u8
 
-#EXTINF:104,ABC News Live
+#EXTINF:103,ABC News Live
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+
+#EXTINF:104,NBC News Now
+https://nbcnews-lh.akamaihd.net/i/nbc_live14@187395/master.m3u8
 
 #EXTINF:105,OAN
 http://190.80.3.28/OAN/OAN.isml/OAN-audio_132128_und=128000-video=500000.m3u8
@@ -424,7 +424,7 @@ https://live2.presstv.com/liveprs/smil:liveprs.smil/playlist.m3u8
 https://contributionstreams.sechls01.visionip.tv/live/visiontv-contributionstreams-arise-tv-25f-16x9-SDh/chunklist.m3u8
 
 #EXTINF:142,TRT World
-http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
+http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/index_360pp_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:143,ABC Australia
 https://anevia115.mncnow.id/live/eds/AustraliaPlus/sa_hls/AustraliaPlus-avc1_499968=10-AustraliaPlus-mp4a_98800_eng=5.m3u8
@@ -433,7 +433,7 @@ https://anevia115.mncnow.id/live/eds/AustraliaPlus/sa_hls/AustraliaPlus-avc1_499
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/chunklist.m3u8
 
 #EXTINF:145,Travel 4U
-https://nimble.dashstreams.net/onestudio/travel4u/chunks.m3u8
+https://nrpus.bozztv.com/36bay2/gusa-travel4u/tracks-v1a1/mono.m3u8
 
 #EXTINF:146,Cooking 4U
 https://nrpus.bozztv.com/36bay2/gusa-cooking4u/tracks-v1a1/mono.m3u8
