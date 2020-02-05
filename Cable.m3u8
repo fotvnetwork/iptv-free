@@ -310,7 +310,7 @@ https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d56
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
 #EXTINF:104,NBC News Now
-https://nbcnews-lh.akamaihd.net/i/nbc_live14@187395/master.m3u8
+https://nbcnews-lh.akamaihd.net/i/nbc_live14@187395/index_800_av-p.m3u8
 
 #EXTINF:105,OAN
 http://190.80.3.28/OAN/OAN.isml/OAN-audio_132128_und=128000-video=500000.m3u8
