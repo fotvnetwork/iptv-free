@@ -52,7 +52,7 @@ http://190.80.3.28/FOX/FOX.isml/FOX-audio_128052_eng=128000-video=800000.m3u8
 http://livecdnh2.tvanywhere.ae/hls/english_club/04.m3u8
 
 #EXTINF:18,Nickelodeon
-https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_hls/Nickelodeon-avc1_499968=7-Nickelodeon-mp4a_66000_eng=2.m3u8
+https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_hls/Nickelodeon-avc1_499968=7-Nickelodeon-mp4a_98800_eng=4.m3u8
 
 #EXTINF:19,Nick Jr
 https://liveanevia.mncnow.id/live/eds/NickJr/sa_hls/NickJr-avc1_499968=7-NickJr-mp4a_66000_eng=2.m3u8
@@ -91,7 +91,7 @@ http://92.43.140.249/s27/03.m3u8
 https://liveanevia.mncnow.id/live/eds/FoxNews/sa_hls/FoxNews-avc1_499968=8-FoxNews-mp4a_66000_eng=2.m3u8
 
 #EXTINF:31,MSNBC/NBC News (Pluto TV)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56403d822d2719107d948cb9/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=d606dccc-ddf4-4d92-895f-70280d9cb61b&deviceId=97aded51-833a-4fed-aef9-d087d5d8e9de&deviceVersion=77.0.3865.90&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceDNT=0&userId=&advertisingId=&deviceLat=40.7035&deviceLon=-73.9235&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56403d822d2719107d948cb9/997452/playlist.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=d606dccc-ddf4-4d92-895f-70280d9cb61b&deviceId=97aded51-833a-4fed-aef9-d087d5d8e9de&deviceVersion=77.0.3865.90&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceDNT=0&userId=&advertisingId=&deviceLat=40.7035&deviceLon=-73.9235&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
 
 #EXTINF:32,CNBC Asia
 https://liveanevia.mncnow.id/live/eds/CNBC/sa_hls/CNBC-avc1_499968=7-CNBC-mp4a_98800_eng=5.m3u8
@@ -109,7 +109,7 @@ https://live.chdrstatic.com/cbn/primary/5.m3u8
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/02.m3u8
 
 #EXTINF:37,BBC World News
-http://220.158.149.14:9999/live/TV00000000000000000112@HHZT;LIVE
+http://185.176.117.243/live/eds/BBC/HLS_encr/BBC-avc1_1200000=12-BBC-mp4a_96000_eng=1.m3u8
 
 #EXTINF:38,Al Jazeera English
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index576.m3u8
@@ -172,7 +172,7 @@ http://livecdnh1.tvanywhere.ae/hls/star_world/04.m3u8
 https://liveanevia.mncnow.id/live/eds/HITS/sa_hls/HITS-avc1_499968=12-HITS-mp4a_98800_eng=5.m3u8
 
 #EXTINF:58,Dust
-https://dust.sinclair.wurl.com/manifest/playlist.m3u8
+https://dust.sinclair.wurl.com/manifest/1200.m3u8
 
 #EXTINF:59,ElectricNOW
 https://a.jsrdn.com/broadcast/vf93fRSk7/playlist_360p.m3u8
@@ -292,7 +292,7 @@ http://203.154.243.31:15001
 https://dl.dropbox.com/s/b0m53oaf0li7fv8/Outdoor.m3u8
 
 #EXTINF:98,UN Web
-https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/master.m3u8
+https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/index_828_av-p.m3u8
 
 #EXTINF:99,NASA TV
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
@@ -448,4 +448,4 @@ https://cbsta49f-dabl68fc.global.ssl.fastly.net/out/v1/dfecb53fbf434b6bbbfd91d8a
 https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/playlist.m3u8
 
 #EXTINF:150,Buzzr
-https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls.m3u8
+https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls_7.m3u8
