@@ -91,7 +91,7 @@ http://92.43.140.249/s27/03.m3u8
 https://liveanevia.mncnow.id/live/eds/FoxNews/sa_hls/FoxNews-avc1_499968=8-FoxNews-mp4a_66000_eng=2.m3u8
 
 #EXTINF:31,MSNBC/NBC News (Pluto TV)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56403d822d2719107d948cb9/997452/playlist.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=d606dccc-ddf4-4d92-895f-70280d9cb61b&deviceId=97aded51-833a-4fed-aef9-d087d5d8e9de&deviceVersion=77.0.3865.90&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceDNT=0&userId=&advertisingId=&deviceLat=40.7035&deviceLon=-73.9235&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
+http://stitcher.pluto.tv/stitch/hls/channel/56403d822d2719107d948cb9/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=d606dccc-ddf4-4d92-895f-70280d9cb61b&deviceId=97aded51-833a-4fed-aef9-d087d5d8e9de&deviceVersion=77.0.3865.90&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceDNT=0&userId=&advertisingId=&deviceLat=40.7035&deviceLon=-73.9235&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
 
 #EXTINF:32,CNBC Asia
 https://liveanevia.mncnow.id/live/eds/CNBC/sa_hls/CNBC-avc1_499968=7-CNBC-mp4a_98800_eng=5.m3u8
