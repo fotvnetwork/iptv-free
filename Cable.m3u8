@@ -9,8 +9,8 @@ http://59c3ec70cfde0.streamlock.net/channel_7/channel7/chunklist.m3u8
 #EXTINF:3,UNTV
 https://untv.mmdlive.lldns.net/untv/97cc8d2c46bd43b78e0b112761ab71fe/chunklist_b732000.m3u8
 
-#EXTINF:4,PTV
-https://livetvhooq.akamaized.net:443/4eaf42ab69674747bb29bcec85582fe7/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1581035896~exp=9007200828341280~acl=/4eaf42ab69674747bb29bcec85582fe7/*/profile_0/chunklist.m3u8*~hmac=b521801b208ee3958cb414a7163a68579a84eac8f2531c44c1fd663a7b65f9ea
+#EXTINF:4,CLTV 36
+http://cltv36-lh.akamaihd.net/i/cltv36_1@300961/index_2500_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:5,TV5
 http://stream3.news5.ph/n5e/tv5/chunklist_w1330054632.m3u8
@@ -25,13 +25,13 @@ http://164.40.161.43:10011
 http://164.40.161.46:8003/play/s6
 
 #EXTINF:9,CNN Philippines
-https://livetvhooq.akamaized.net:443/631cbca29df44947bef53a0124cdbadd/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1581036255~exp=9007200828341282~acl=/631cbca29df44947bef53a0124cdbadd/*/profile_0/chunklist.m3u8*~hmac=1e9bb9e9cc2736eb684fd89153e3f2b665c7a5f21282c5b3fcb56d5cf7af870f
+http://df7lqp0btxdx2.cloudfront.net/11227.m3u8
 
-#EXTINF:10,CLTV 36
-http://cltv36-lh.akamaihd.net/i/cltv36_1@300961/index_2500_av-p.m3u8?sd=10&rebase=on
-
-#EXTINF:11,MyTV Cebu
+#EXTINF:10,MyTV Cebu
 http://api.new.livestream.com/accounts/15418593/events/4787138/live.m3u8
+
+#EXTINF:11,ITV
+http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main600.m3u8
 
 #EXTINF:12,Three New Zealand
 http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master_720.m3u8
@@ -127,7 +127,7 @@ https://bozztv.com/36bay2/gin/giniko_euronews_800kb_36bay2/tracks-v1a1/mono.m3u8
 http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_2_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:43,CNA
-https://livetvhooq.akamaized.net:443/1dc93a7fcc294660a094f2c478de1aaf/eu-central-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1581036429~exp=9007200828341283~acl=/1dc93a7fcc294660a094f2c478de1aaf/*/profile_0/chunklist.m3u8*~hmac=8b34e18e1c537ea73576deac72227b5112416472ee6783266e5849f55273e2d8
+http://210.210.155.35/uq2663/h/h29/02.m3u8
 
 #EXTINF:44,CGTN
 http://live.cgtn.com/500/prog_index.m3u8
@@ -289,7 +289,7 @@ https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/mas
 http://203.154.243.31:15001
 
 #EXTINF:97,Outdoor
-https://livetvhooq.akamaized.net:443/4333904e5f68426cae808a645e882206/eu-central-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1576492729~exp=9007200831233720~acl=/4333904e5f68426cae808a645e882206/*/profile_0/chunklist.m3u8*~hmac=7f5e18966f675f81bc53935acbcd6b9deabc037adadc8305255ae7b973e66893&hdnts=st=1576492729~exp=1576492849~acl=/*~id=6f91b811-834d-4647-b433-fb237e20ae9d~data=112.215.243.191~hmac=dfe2dcecb29b8500f323c1bc34f70ac25a26cd5866cf90279bb2bc8c24408438
+https://dl.dropbox.com/s/b0m53oaf0li7fv8/Outdoor.m3u8
 
 #EXTINF:98,UN Web
 https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/index_828_av-p.m3u8
@@ -450,35 +450,32 @@ https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/playl
 #EXTINF:150,Buzzr
 https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls_7.m3u8
 
-#EXTINF:151,ITV
-http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main600.m3u8
+#EXTINF:151,The CW
+http://190.80.3.28/CW/CW.isml/CW-audio_128052_eng=128000-video=500000.m3u8
 
 #EXTINF:152,Indonesia Channel
 https://tic.indonusa.net.id:8443/live/ngrp:TIC.stream_all/playlist.m3u8
 
-#EXTINF:153,The CW
-http://190.80.3.28/CW/CW.isml/CW-audio_128052_eng=128000-video=500000.m3u8
-
-#EXTINF:154,PopSugar (Pluto TV)
+#EXTINF:153,PopSugar (Pluto TV)
 http://stitcher.pluto.tv/stitch/hls/channel/561721d6ada51f8004c4b474/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 
-#EXTINF:155,KVVB TV 33.1
+#EXTINF:154,KVVB TV 33.1
 http://api.new.livestream.com/accounts/9450048/events/3542162/live.m3u8
 
-#EXTINF:156,CBSN New York
+#EXTINF:155,CBSN New York
 https://cbsn-ny-cedexis.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master_10.m3u8
 
-#EXTINF:157,CBSN Los Angeles
+#EXTINF:156,CBSN Los Angeles
 http://cbsn-la-cedexis.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master_5.m3u8
 
-#EXTINF:158,CBSN Boston
+#EXTINF:157,CBSN Boston
 https://cbsn-bos-cedexis.cbsnstream.cbsnews.com/out/v1/589d66ec6eb8434c96c28de0370d1326/master_5.m3u8
 
-#EXTINF:159,CBSN Bay Area
+#EXTINF:158,CBSN Bay Area
 https://cbsn-sf-cedexis.cbsnstream.cbsnews.com/out/v1/dac63c1abb3f4a2dac9f508f44bb072a/master_5.m3u8
 
-#EXTINF:160,CBSN Minnesota
+#EXTINF:159,CBSN Minnesota
 https://cbsn-min-cedexis.cbsnstream.cbsnews.com/out/v1/76518f06941246ba810c8d175600bf74/master_4.m3u8
 
-#EXTINF:161,CBSN Philly
+#EXTINF:160,CBSN Philly
 https://cbsn-phi-cedexis.cbsnstream.cbsnews.com/out/v1/5c9ad3e215984b0e9ad845b335216b72/master_4.m3u8
