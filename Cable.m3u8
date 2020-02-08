@@ -12,20 +12,20 @@ https://untv.mmdlive.lldns.net/untv/97cc8d2c46bd43b78e0b112761ab71fe/chunklist_b
 #EXTINF:4,CLTV 36
 http://cltv36-lh.akamaihd.net/i/cltv36_1@300961/index_2500_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:5,TV5
+#EXTINF:5,5
 http://stream3.news5.ph/n5e/tv5/chunklist_w1330054632.m3u8
 
 #EXTINF:6,5 Plus
 http://stream3.news5.ph:1935/n5e/5plus/chunklist_w533955318.m3u8
 
-#EXTINF:7,GMA Pinoy
+#EXTINF:7,GMA Pinoy TV
 http://164.40.161.43:10011
 
 #EXTINF:8,TeleNovela Channel
 http://164.40.161.46:8003/play/s6
 
 #EXTINF:9,CNN Philippines
-http://df7lqp0btxdx2.cloudfront.net/11227.m3u8
+https://df7lqp0btxdx2.cloudfront.net/11227_500.m3u8
 
 #EXTINF:10,MyTV Cebu
 http://api.new.livestream.com/accounts/15418593/events/4787138/live.m3u8
@@ -90,8 +90,8 @@ http://45.92.69.76:8000/play/a03v
 #EXTINF:30,Fox News Channel
 https://liveanevia.mncnow.id/live/eds/FoxNews/sa_hls/FoxNews-avc1_499968=8-FoxNews-mp4a_66000_eng=2.m3u8
 
-#EXTINF:31,MSNBC/NBC News (Pluto TV)
-http://stitcher.pluto.tv/stitch/hls/channel/56403d822d2719107d948cb9/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=d606dccc-ddf4-4d92-895f-70280d9cb61b&deviceId=97aded51-833a-4fed-aef9-d087d5d8e9de&deviceVersion=77.0.3865.90&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceDNT=0&userId=&advertisingId=&deviceLat=40.7035&deviceLon=-73.9235&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
+#EXTINF:31,MSNBC
+http://claro2-pi-dns.herokuapp.com/master.php?id=306&f=.m3u8
 
 #EXTINF:32,CNBC
 http://45.92.69.76:8000/play/a05h
@@ -130,7 +130,7 @@ http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_2_av-p.m3u8?sd=10
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_2.m3u8
 
 #EXTINF:44,CGTN
-http://live.cgtn.com/500/prog_index.m3u8
+https://live.cgtn.com/500/prog_index.m3u8
 
 #EXTINF:45,NHK World Japan
 http://45.92.69.76:8000/play/a052
@@ -156,8 +156,8 @@ http://203.154.243.89:11205
 #EXTINF:52,AMC
 http://ott.artmott.com/AMC/tracks-v1a1/mono.m3u8
 
-#EXTINF:53,Syfy
-http://84.22.33.254/unicast.scifi/index.m3u8
+#EXTINF:53,FOX Life
+https://anevia115.mncnow.id/live/eds/STARWorld/sa_hls/STARWorld-avc1_2499968=7-mp4a_98800_ind=2.m3u8
 
 #EXTINF:54,FOX Asia
 https://anevia115.mncnow.id:443/live/eds/FoxChannel/sa_hls/FoxChannel-avc1_499968=13-FoxChannel-mp4a_98800_eng=3.m3u8
@@ -174,8 +174,8 @@ https://liveanevia.mncnow.id/live/eds/HITS/sa_hls/HITS-avc1_499968=12-HITS-mp4a_
 #EXTINF:58,Z Living
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v4a1/index.m3u8
 
-#EXTINF:59,ElectricNOW
-https://a.jsrdn.com/broadcast/vf93fRSk7/playlist_360p.m3u8
+#EXTINF:59,E!
+http://ott.artmott.com/E!/tracks-v1a1/mono.m3u8
 
 #EXTINF:60,AXN
 http://210.210.155.66/h/h141/02.m3u8
@@ -186,7 +186,7 @@ https://liveanevia.mncnow.id/live/eds/Thrill/sa_hls/Thrill-avc1_499968=8-Thrill-
 #EXTINF:62,FX
 https://liveanevia.mncnow.id/live/eds/FX/sa_hls/FX-avc1_499968=13-FX-mp4a_98800_eng=3.m3u8
 
-#EXTINF:63,Fox Crime
+#EXTINF:63,Fox Crime HD
 https://anevia115.mncnow.id:443/live/eds/FoxCrime/sa_hls/FoxCrime-avc1_2499968=10-FoxCrime-mp4a_98800_eng=3.m3u8
 
 #EXTINF:64,Kix
@@ -201,8 +201,8 @@ https://liveanevia.mncnow.id/live/eds/CinemaxHD/sa_hls/CinemaxHD-avc1_2499968=7-
 #EXTINF:67,Filmbox
 https://1648401168.rsc.cdn77.org/1648401168/tracks-v1a1/mono.m3u8
 
-#EXTINF:68,E!
-http://ott.artmott.com/E!/tracks-v1a1/mono.m3u8
+#EXTINF:68,HBO Hits
+https://liveanevia.mncnow.id/live/eds/HBOHits/sa_hls/HBOHits-avc1_2499968=10-HBOHits-mp4a_98800_eng=3.m3u8
 
 #EXTINF:69,Fox Sports Asia
 https://anevia115.mncnow.id/live/eds/FOXSports/sa_hls/FOXSports-avc1_2499968=10-FOXSports-mp4a_98800_eng=3.m3u8
@@ -228,8 +228,8 @@ https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master_1000k.m3u8
 #EXTINF:76,Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 
-#EXTINF:77,eGG Network
-http://45.126.83.51/uq2663/h/h22/02.m3u8
+#EXTINF:77,beIN Sports 1 Asia
+https://anevia114.mncnow.id/live/eds/BeIN1/sa_hls/BeIN1-avc1_2499968=11-BeIN1-mp4a_98800_eng=3.m3u8
 
 #EXTINF:78,ESR
 https://m-c010-j2apps.s.llnwi.net/hls/8029.RealBigHits.in.m3u8
@@ -304,13 +304,13 @@ https://liveanevia.mncnow.id/live/eds/BBCEarth/sa_hls/BBCEarth-avc1_1000000=10-m
 https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=newsyweb
 
 #EXTINF:102,CBSN
-https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_10.m3u8
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 
 #EXTINF:103,ABC News Live
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
-#EXTINF:104,Pluto TV News
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5268abcd0ce20a8472000114/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=d606dccc-ddf4-4d92-895f-70280d9cb61b&deviceId=97aded51-833a-4fed-aef9-d087d5d8e9de&deviceVersion=77.0.3865.90&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceDNT=0&userId=&advertisingId=&deviceLat=40.7035&deviceLon=-73.9235&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
+#EXTINF:104,NBC News (Pluto TV)
+http://stitcher.pluto.tv/stitch/hls/channel/56403d822d2719107d948cb9/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=d606dccc-ddf4-4d92-895f-70280d9cb61b&deviceId=97aded51-833a-4fed-aef9-d087d5d8e9de&deviceVersion=77.0.3865.90&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceDNT=0&userId=&advertisingId=&deviceLat=40.7035&deviceLon=-73.9235&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
 
 #EXTINF:105,OAN
 http://190.80.3.28/OAN/OAN.isml/OAN-audio_132128_und=128000-video=500000.m3u8
@@ -354,8 +354,8 @@ https://bcliveunivsecure-lh.akamaihd.net/i/iptv1_1@500579/index_500_av-b.m3u8?sd
 #EXTINF:118,EWTN Asia Pacific
 https://d19y0p9magl0wf.cloudfront.net/p/PACE.m3u8
 
-#EXTINF:119,3ABN
-https://moiptvhls-i.akamaihd.net/hls/live/652312/secure/master.m3u8
+#EXTINF:119,Hillsong Channel
+http://api.new.livestream.com/accounts/27460990/events/8266909/live.m3u8
 
 #EXTINF:120,TBN Asia
 http://59c3ec70cfde0.streamlock.net/channel_4/channel4/chunklist.m3u8
@@ -387,8 +387,8 @@ https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/640x360_44
 #EXTINF:129,Sidewalks
 http://30a-tv.com/sidewalks.m3u8
 
-#EXTINF:130,Superyacht TV
-http://cdn.mobibase.com/hls/733/254_1000k/playlist.m3u8
+#EXTINF:130,ElectricNOW
+https://a.jsrdn.com/broadcast/vf93fRSk7/playlist_360p.m3u8
 
 #EXTINF:131,The Film Detective
 https://distro.akamaized.net/indexfd_640x360.m3u8
@@ -463,19 +463,19 @@ http://stitcher.pluto.tv/stitch/hls/channel/561721d6ada51f8004c4b474/master.m3u8
 http://api.new.livestream.com/accounts/9450048/events/3542162/live.m3u8
 
 #EXTINF:155,CBSN New York
-https://cbsn-ny-cedexis.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master_10.m3u8
+https://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8
 
 #EXTINF:156,CBSN Los Angeles
-http://cbsn-la-cedexis.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master_5.m3u8
+https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8
 
 #EXTINF:157,CBSN Boston
-https://cbsn-bos-cedexis.cbsnstream.cbsnews.com/out/v1/589d66ec6eb8434c96c28de0370d1326/master_5.m3u8
+https://dai.google.com/linear/hls/event/26FJK7wRSo6RhPsK70XS_w/master.m3u8
 
 #EXTINF:158,CBSN Bay Area
-https://cbsn-sf-cedexis.cbsnstream.cbsnews.com/out/v1/dac63c1abb3f4a2dac9f508f44bb072a/master_5.m3u8
+https://dai.google.com/linear/hls/event/VE8b4n-YStusEGv5Z2NmsQ/master.m3u8
 
 #EXTINF:159,CBSN Minnesota
-https://cbsn-min-cedexis.cbsnstream.cbsnews.com/out/v1/76518f06941246ba810c8d175600bf74/master_4.m3u8
+https://dai.google.com/linear/hls/event/zcWPVCfURNSPxeidcckQLA/master.m3u8
 
 #EXTINF:160,CBSN Philly
-https://cbsn-phi-cedexis.cbsnstream.cbsnews.com/out/v1/5c9ad3e215984b0e9ad845b335216b72/master_4.m3u8
+https://dai.google.com/linear/hls/event/Xu-ITJ2GTNGaxGn893mmWg/master.m3u8
