@@ -10,7 +10,7 @@ http://59c3ec70cfde0.streamlock.net/channel_7/channel7/chunklist.m3u8
 https://untv.mmdlive.lldns.net/untv/97cc8d2c46bd43b78e0b112761ab71fe/chunklist_b732000.m3u8
 
 #EXTINF:4,CLTV 36
-http://cltv36-lh.akamaihd.net/i/cltv36_1@300961/index_2500_av-p.m3u8?sd=10&rebase=on
+http://cltv36-lh.akamaihd.net/i/cltv36_1@300961/index_2500_av-p.m3u8
 
 #EXTINF:5,5
 http://stream3.news5.ph/n5e/tv5/chunklist_w1330054632.m3u8
@@ -30,7 +30,7 @@ https://df7lqp0btxdx2.cloudfront.net/11227_500.m3u8
 #EXTINF:10,MyTV Cebu
 http://api.new.livestream.com/accounts/15418593/events/4787138/live.m3u8
 
-#EXTINF:11,ITV
+#EXTINF:11,ITV UK
 http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main600.m3u8
 
 #EXTINF:12,Three New Zealand
@@ -45,52 +45,52 @@ http://161.0.157.51/PLTV/88888888/224/3221227041/03.m3u8
 #EXTINF:15,NBC
 https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:nbc.smil/chunklist_b700000.m3u8
 
-#EXTINF:16,FOX
+#EXTINF:16,FOX US
 http://190.80.3.28/FOX/FOX.isml/FOX-audio_128052_eng=128000-video=800000.m3u8
 
-#EXTINF:17,English Club
-http://livecdnh2.tvanywhere.ae/hls/english_club/04.m3u8
-
-#EXTINF:18,Nickelodeon
+#EXTINF:17,Nickelodeon
 https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_hls/Nickelodeon-avc1_499968=7-Nickelodeon-mp4a_98800_eng=4.m3u8
 
-#EXTINF:19,Nick Jr
+#EXTINF:18,Nick Jr
 https://liveanevia.mncnow.id/live/eds/NickJr/sa_hls/NickJr-avc1_499968=7-NickJr-mp4a_66000_eng=2.m3u8
 
-#EXTINF:20,Disney Channel
+#EXTINF:19,Disney Channel
 http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
 
-#EXTINF:21,Disney Junior
+#EXTINF:20,Disney Junior
 https://liveanevia.mncnow.id/live/eds/DisneyJunior/sa_hls/DisneyJunior-avc1_499968=5-DisneyJunior-mp4a_66000_eng=2.m3u8
 
-#EXTINF:22,Disney XD
+#EXTINF:21,Disney XD
 http://185.176.117.243/live/eds/Disney_XD/HLS_encr/Disney_XD-avc1_1200000=10-Disney_XD-mp4a_96000_eng=5.m3u8
 
-#EXTINF:23,Asian Food Network
-https://liveanevia.mncnow.id/live/eds/AFC/sa_hls/AFC-avc1_1000000=6-mp4a_98800_eng=3.m3u8
+#EXTINF:22,HBO Hits
+https://liveanevia.mncnow.id/live/eds/HBOHits/sa_hls/HBOHits-avc1_2499968=10-HBOHits-mp4a_98800_eng=3.m3u8
 
-#EXTINF:24,HGTV
-https://liveanevia.mncnow.id/live/eds/HGTV/sa_hls/HGTV-avc1_2499968=12-HGTV-mp4a_98800_eng=3.m3u8
+#EXTINF:23,HBO Signature
+https://liveanevia.mncnow.id/live/eds/HBOSignature/sa_hls/HBOSignature-avc1_2499968=7-HBOSignature-mp4a_98800_eng=3.m3u8
 
-#EXTINF:25,TLC
-https://liveanevia.mncnow.id/live/eds/TLC/sa_hls/TLC-avc1_2499968=11-TLC-mp4a_98800_eng=3.m3u8
+#EXTINF:24,Cinemax HD
+https://liveanevia.mncnow.id/live/eds/CinemaxHD/sa_hls/CinemaxHD-avc1_2499968=7-CinemaxHD-mp4a_98800_eng=3.m3u8
 
-#EXTINF:26,Discovery
-https://liveanevia.mncnow.id/live/eds/Discovery/sa_hls/Discovery-avc1_2499968=13-Discovery-mp4a_98800_eng=5.m3u8
+#EXTINF:25,Star Movies
+http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
 
-#EXTINF:27,Animal Planet
-https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_hls/AnimalPlanet-avc1_499968=18-AnimalPlanet-mp4a_66000_eng=2.m3u8
+#EXTINF:26,ESPN US
+https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:espn.smil/chunklist_b300000.m3u8
 
-#EXTINF:28,CNN
-http://ott.artmott.com/CNN/tracks-v1a1/mono.m3u8
+#EXTINF:27,NBA TV
+http://45.92.69.76:8000/play/a05v
 
-#EXTINF:29,CNN International
+#EXTINF:28,CNN International
 http://45.92.69.76:8000/play/a03v
+
+#EXTINF:29,CNN US
+http://ott.artmott.com/CNN/tracks-v1a1/mono.m3u8
 
 #EXTINF:30,Fox News Channel
 https://liveanevia.mncnow.id/live/eds/FoxNews/sa_hls/FoxNews-avc1_499968=8-FoxNews-mp4a_66000_eng=2.m3u8
 
-#EXTINF:31,MSNBC
+#EXTINF:31,MSNBC HD
 http://claro2-pi-dns.herokuapp.com/master.php?id=306&f=.m3u8
 
 #EXTINF:32,CNBC
@@ -114,8 +114,8 @@ http://45.92.69.76:8000/play/a03x
 #EXTINF:38,Al Jazeera English
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index576.m3u8
 
-#EXTINF:39,RT America
-https://rt-usa.secure.footprint.net/1105_800Kb.m3u8
+#EXTINF:39,RT
+https://rt-news.secure.footprint.net/1103_800Kb.m3u8
 
 #EXTINF:40,France 24 English
 http://45.92.69.76:8000/play/a03z
@@ -138,110 +138,110 @@ http://45.92.69.76:8000/play/a052
 #EXTINF:46,Arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b656000_sleng.m3u8
 
-#EXTINF:47,Retro TV
-https://cdn.igocast.com/channel9_hls/channel9_master.m3u8
+#EXTINF:47,Asian Food Network
+https://liveanevia.mncnow.id/live/eds/AFC/sa_hls/AFC-avc1_1000000=6-mp4a_98800_eng=3.m3u8
 
-#EXTINF:48,Lifetime
+#EXTINF:48,HGTV
+https://liveanevia.mncnow.id/live/eds/HGTV/sa_hls/HGTV-avc1_2499968=12-HGTV-mp4a_98800_eng=3.m3u8
+
+#EXTINF:49,TLC
+https://liveanevia.mncnow.id/live/eds/TLC/sa_hls/TLC-avc1_2499968=11-TLC-mp4a_98800_eng=3.m3u8
+
+#EXTINF:50,Discovery
+https://liveanevia.mncnow.id/live/eds/Discovery/sa_hls/Discovery-avc1_2499968=13-Discovery-mp4a_98800_eng=5.m3u8
+
+#EXTINF:51,Animal Planet
+https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_hls/AnimalPlanet-avc1_499968=18-AnimalPlanet-mp4a_66000_eng=2.m3u8
+
+#EXTINF:52,History
+https://liveanevia.mncnow.id/live/eds/History/sa_hls/History-avc1_1000000=9-History-mp4a_98800_eng=3.m3u8
+
+#EXTINF:53,Lifetime
 https://liveanevia.mncnow.id/live/eds/Lifetime/sa_hls/Lifetime-avc1_499968=8-Lifetime-mp4a_66000_eng=2.m3u8
 
-#EXTINF:49,CBS Reality
-http://ott.artmott.com/CBS-Reality/tracks-v1a1/mono.m3u8
-
-#EXTINF:50,CONtv
-https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/playlist.m3u8
-
-#EXTINF:51,Warner TV
-http://203.154.243.89:11205
-
-#EXTINF:52,AMC
-http://ott.artmott.com/AMC/tracks-v1a1/mono.m3u8
-
-#EXTINF:53,FOX Life
-https://anevia115.mncnow.id/live/eds/STARWorld/sa_hls/STARWorld-avc1_2499968=7-mp4a_98800_ind=2.m3u8
-
-#EXTINF:54,FOX Asia
-https://anevia115.mncnow.id:443/live/eds/FoxChannel/sa_hls/FoxChannel-avc1_499968=13-FoxChannel-mp4a_98800_eng=3.m3u8
-
-#EXTINF:55,Diva
-http://ott.artmott.com/DIVA/tracks-v1a1/mono.m3u8
-
-#EXTINF:56,Star World
-http://livecdnh1.tvanywhere.ae/hls/star_world/04.m3u8
-
-#EXTINF:57,HITS
-https://liveanevia.mncnow.id/live/eds/HITS/sa_hls/HITS-avc1_499968=12-HITS-mp4a_98800_eng=5.m3u8
-
-#EXTINF:58,Z Living
-https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v4a1/index.m3u8
-
-#EXTINF:59,E!
-http://ott.artmott.com/E!/tracks-v1a1/mono.m3u8
-
-#EXTINF:60,AXN
+#EXTINF:54,AXN
 http://210.210.155.66/h/h141/02.m3u8
 
-#EXTINF:61,Thrill
-https://liveanevia.mncnow.id/live/eds/Thrill/sa_hls/Thrill-avc1_499968=8-Thrill-mp4a_98800_eng=5.m3u8
+#EXTINF:55,Blue Ant Entertainment
+http://45.126.83.51/dr9445/h/h16/02.m3u8
 
-#EXTINF:62,FX
+#EXTINF:56,Warner TV
+http://203.154.243.89:11205
+
+#EXTINF:57,AMC
+http://ott.artmott.com/AMC/tracks-v1a1/mono.m3u8
+
+#EXTINF:58,FOX Life
+https://anevia115.mncnow.id/live/eds/STARWorld/sa_hls/STARWorld-avc1_2499968=7-mp4a_98800_ind=2.m3u8
+
+#EXTINF:59,FOX
+https://anevia115.mncnow.id:443/live/eds/FoxChannel/sa_hls/FoxChannel-avc1_499968=13-FoxChannel-mp4a_98800_eng=3.m3u8
+
+#EXTINF:60,Diva
+http://ott.artmott.com/DIVA/tracks-v1a1/mono.m3u8
+
+#EXTINF:61,Star World
+http://livecdnh1.tvanywhere.ae/hls/star_world/04.m3u8
+
+#EXTINF:62,HITS
+https://liveanevia.mncnow.id/live/eds/HITS/sa_hls/HITS-avc1_499968=12-HITS-mp4a_98800_eng=5.m3u8
+
+#EXTINF:63,FX
 https://liveanevia.mncnow.id/live/eds/FX/sa_hls/FX-avc1_499968=13-FX-mp4a_98800_eng=3.m3u8
 
-#EXTINF:63,Fox Crime HD
+#EXTINF:64,Fox Crime HD
 https://anevia115.mncnow.id:443/live/eds/FoxCrime/sa_hls/FoxCrime-avc1_2499968=10-FoxCrime-mp4a_98800_eng=3.m3u8
 
-#EXTINF:64,Kix
+#EXTINF:65,Thrill
+https://liveanevia.mncnow.id/live/eds/Thrill/sa_hls/Thrill-avc1_499968=8-Thrill-mp4a_98800_eng=5.m3u8
+
+#EXTINF:66,Kix
 https://liveanevia.mncnow.id/live/eds/KIX/sa_hls/KIX-avc1_499968=8-KIX-mp4a_98800_eng=3.m3u8
 
-#EXTINF:65,Star Movies
-http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
+#EXTINF:67,E!
+http://ott.artmott.com/E!/tracks-v1a1/mono.m3u8
 
-#EXTINF:66,Cinemax HD
-https://liveanevia.mncnow.id/live/eds/CinemaxHD/sa_hls/CinemaxHD-avc1_2499968=7-CinemaxHD-mp4a_98800_eng=3.m3u8
+#EXTINF:68,CBS Reality
+http://ott.artmott.com/CBS-Reality/tracks-v1a1/mono.m3u8
 
-#EXTINF:67,Filmbox
+#EXTINF:69,CONtv
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/playlist.m3u8
+
+#EXTINF:70,Filmbox
 https://1648401168.rsc.cdn77.org/1648401168/tracks-v1a1/mono.m3u8
 
-#EXTINF:68,HBO Hits
-https://liveanevia.mncnow.id/live/eds/HBOHits/sa_hls/HBOHits-avc1_2499968=10-HBOHits-mp4a_98800_eng=3.m3u8
-
-#EXTINF:69,Fox Sports Asia
-https://anevia115.mncnow.id/live/eds/FOXSports/sa_hls/FOXSports-avc1_2499968=10-FOXSports-mp4a_98800_eng=3.m3u8
-
-#EXTINF:70,Fox Sports 2 Asia
-https://anevia115.mncnow.id:443/live/eds/FoxSports2/sa_hls/FoxSports2-avc1_2499968=10-FoxSports2-mp4a_98800_eng=3.m3u8
-
-#EXTINF:71,ESPN
-https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:espn.smil/chunklist_b300000.m3u8
+#EXTINF:71,Retro TV
+https://cdn.igocast.com/channel9_hls/channel9_master.m3u8
 
 #EXTINF:72,HJtv Guyana
 http://190.80.3.28/HJTV/HJTV.isml/HJTV-audio_128301_und=128000-video=800000.m3u8
 
-#EXTINF:73,NBA TV
-http://45.92.69.76:8000/play/a05v
+#EXTINF:73,Z Living
+https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v4a1/index.m3u8
 
-#EXTINF:74,Olympic Channel
+#EXTINF:74,Fox Sports
+https://anevia115.mncnow.id/live/eds/FOXSports/sa_hls/FOXSports-avc1_2499968=10-FOXSports-mp4a_98800_eng=3.m3u8
+
+#EXTINF:75,Fox Sports 2
+https://anevia115.mncnow.id:443/live/eds/FoxSports2/sa_hls/FoxSports2-avc1_2499968=10-FoxSports2-mp4a_98800_eng=3.m3u8
+
+#EXTINF:76,Olympic Channel
 https://ott-live.olympicchannel.com/out/u/OC1_3.m3u8
 
-#EXTINF:75,Stadium
+#EXTINF:77,Stadium
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master_1000k.m3u8
 
-#EXTINF:76,Red Bull TV
+#EXTINF:78,Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 
-#EXTINF:77,beIN Sports 1 Asia
+#EXTINF:79,beIN Sports 1
 https://anevia114.mncnow.id/live/eds/BeIN1/sa_hls/BeIN1-avc1_2499968=11-BeIN1-mp4a_98800_eng=3.m3u8
 
-#EXTINF:78,ESR
-https://m-c010-j2apps.s.llnwi.net/hls/8029.RealBigHits.in.m3u8
-
-#EXTINF:79,Tennis Channel
+#EXTINF:80,Tennis Channel
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/f.m3u8
 
-#EXTINF:80,Eurosport 2
-https://cstream5.com/hls/eurosport2.m3u8
-
-#EXTINF:81,History
-https://liveanevia.mncnow.id/live/eds/History/sa_hls/History-avc1_1000000=9-History-mp4a_98800_eng=3.m3u8
+#EXTINF:81,Golf Channel
+http://203.154.243.89:1208
 
 #EXTINF:82,H2
 http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
@@ -268,7 +268,7 @@ https://vcngfc1.teleosmedia.com/stream/globalfashionchannel/globalfashionchannel
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg13_adaptive.smil/chunklist_b900000_t64MzYwcA==.m3u8
 
 #EXTINF:90,Fashion One
-https://bozztv.com/36bay2/gin/giniko_fashionone_800kb_36bay2/tracks-v1a1/mono.m3u8
+https://mysisli.com/36bay2/gin/giniko_fashionone_800kb_36bay2/index.m3u8
 
 #EXTINF:91,World Fashion Channel
 https://wfcint.mediacdn.ru/cdn/wfcint/playlist_sdlow.m3u8
@@ -393,11 +393,11 @@ https://a.jsrdn.com/broadcast/vf93fRSk7/playlist_360p.m3u8
 #EXTINF:131,The Film Detective
 https://distro.akamaized.net/indexfd_640x360.m3u8
 
-#EXTINF:132,SGTN 49
-http://stgn-49.tulix.tv/live19/Stream1/chunklist_w1498543121.m3u8
+#EXTINF:132,Kool TV
+http://173.199.158.79:1935/roku/myStream/chunklist_w81565426.m3u8
 
-#EXTINF:133,OK TV
-https://nrpus.bozztv.com/36bay2/gusa-oktv/tracks-v1a1/mono.m3u8
+#EXTINF:133,FailArmy
+https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
 
 #EXTINF:134,Youtoo America
 https://imavex2.mmdlive.lldns.net/imavex2/46320b2319cf49d7bf68f70cc4a10c98/chunklist_b732000.m3u8
@@ -411,8 +411,8 @@ http://18.191.91.130:1935/live/safetv/playlist.m3u8
 #EXTINF:137,Folk TV
 http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playlist.m3u8
 
-#EXTINF:138,FailArmy
-https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
+#EXTINF:138,SGTN 49
+http://stgn-49.tulix.tv/live19/Stream1/chunklist_w1498543121.m3u8
 
 #EXTINF:139,i24 News
 https://i24alive1-a.akamaihd.net/6e3dd61ac4c34d6f8fb9698b565b9f50/eu-central-1/5377161796001/profile_3/chunklist.m3u8
@@ -432,11 +432,11 @@ https://anevia115.mncnow.id/live/eds/AustraliaPlus/sa_hls/AustraliaPlus-avc1_499
 #EXTINF:144,AMGTV
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/chunklist.m3u8
 
-#EXTINF:145,Travel 4U
-https://nrpus.bozztv.com/36bay2/gusa-travel4u/tracks-v1a1/mono.m3u8
+#EXTINF:145,Plant-Based Network
+https://hls-cdn.tvstartup.net/barakyah-channel/live/pbtv/chunklist_w1880221002.m3u8
 
-#EXTINF:146,Cooking 4U
-https://nrpus.bozztv.com/36bay2/gusa-cooking4u/tracks-v1a1/mono.m3u8
+#EXTINF:146,Gusto TV
+https://a.jsrdn.com/broadcast/ebf95254ca/+0000/low/c.m3u8
 
 #EXTINF:147,The Outdoor Cooking Channel
 http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/chunklist_w981409619_b1105254.m3u8
@@ -456,11 +456,11 @@ http://190.80.3.28/CW/CW.isml/CW-audio_128052_eng=128000-video=500000.m3u8
 #EXTINF:152,Indonesia Channel
 https://tic.indonusa.net.id:8443/live/ngrp:TIC.stream_all/playlist.m3u8
 
-#EXTINF:153,PopSugar (Pluto TV)
-http://stitcher.pluto.tv/stitch/hls/channel/561721d6ada51f8004c4b474/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:153,NHK World Premium
+https://liveanevia.mncnow.id/live/eds/NHKWorldPremium/sa_hls/NHKWorldPremium-avc1_1000000=7-NHKWorldPremium-mp4a_98800_eng=3.m3u8
 
-#EXTINF:154,KVVB TV 33.1
-http://api.new.livestream.com/accounts/9450048/events/3542162/live.m3u8
+#EXTINF:154,CBS News (Pluto TV)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a6b92f6e22a617379789618/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=d606dccc-ddf4-4d92-895f-70280d9cb61b&deviceId=97aded51-833a-4fed-aef9-d087d5d8e9de&deviceVersion=77.0.3865.90&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceDNT=0&userId=&advertisingId=&deviceLat=40.7035&deviceLon=-73.9235&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
 
 #EXTINF:155,CBSN New York
 https://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8
