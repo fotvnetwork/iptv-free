@@ -37,7 +37,7 @@ http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Mai
 http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master_720.m3u8
 
 #EXTINF:13,ABC
-http://190.80.3.28/ABC/ABC.isml/ABC-audio_128052_eng=128000-video=800000.m3u8
+http://190.80.3.28/ABC/ABC.isml/ABC-audio_128052_eng=128000-video=500000.m3u8
 
 #EXTINF:14,CBS
 https://lslfzqe5m94.a.trbcdn.net/livemaster/ldmic_live-jftiriuxx7c.smil/playlist.m3u8
@@ -76,22 +76,22 @@ https://liveanevia.mncnow.id/live/eds/CinemaxHD/sa_hls/CinemaxHD-avc1_2499968=7-
 http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
 
 #EXTINF:26,CNN International
-http://45.92.69.76:8000/play/a03v
+http://92.43.140.249/s27/03.m3u8
 
 #EXTINF:27,CNN US
 http://ott.artmott.com/CNN/tracks-v1a1/mono.m3u8
 
-#EXTINF:28,Fox News Channel
-https://liveanevia.mncnow.id/live/eds/FoxNews/sa_hls/FoxNews-avc1_499968=8-FoxNews-mp4a_66000_eng=2.m3u8
+#EXTINF:28,Fox News Channel*
+http://ms-azure-video.gslb.startimestv.com/live/FOX_News_786_500_480x360_191112/playlist.m3u8
 
 #EXTINF:29,MSNBC HD
 http://claro2-pi-dns.herokuapp.com/master.php?id=306&f=.m3u8
 
 #EXTINF:30,CNBC
-http://45.92.69.76:8000/play/a05h
+https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:cnbc.smil/FluxusTV.m3u8
 
 #EXTINF:31,Bloomberg TV
-http://45.92.69.76:8000/play/a05g
+https://d1xy5gfz8tdshw.cloudfront.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-440-1_live.m3u8
 
 #EXTINF:32,Cheddar
 https://live.chdrstatic.com/cheddar/primary/5.m3u8
@@ -103,16 +103,16 @@ https://live.chdrstatic.com/cbn/primary/5.m3u8
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/03.m3u8
 
 #EXTINF:35,BBC World News
-http://45.92.69.76:8000/play/a03x
+http://185.176.117.243/live/eds/BBC/HLS_encr/BBC-avc1_1200000=12-BBC-mp4a_96000_eng=1.m3u8
 
-#EXTINF:36,Al Jazeera English
+#EXTINF:36,Al Jazeera
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index576.m3u8
 
 #EXTINF:37,RT
 https://rt-news.secure.footprint.net/1103_800Kb.m3u8
 
-#EXTINF:38,France 24 English
-http://45.92.69.76:8000/play/a03z
+#EXTINF:38,France 24
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 
 #EXTINF:39,Euronews
 https://bozztv.com/36bay2/gin/giniko_euronews_800kb_36bay2/tracks-v1a1/mono.m3u8
@@ -127,36 +127,36 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_2.m
 https://live.cgtn.com/500/prog_index.m3u8
 
 #EXTINF:43,NHK World Japan
-http://45.92.69.76:8000/play/a052
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_600k.m3u8
 
 #EXTINF:44,Arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b656000_sleng.m3u8
 
-#EXTINF:45,Asian Food Network
+#EXTINF:45,Asian Food Network*
 https://liveanevia.mncnow.id/live/eds/AFC/sa_hls/AFC-avc1_1000000=6-mp4a_98800_eng=3.m3u8
 
-#EXTINF:46,HGTV
+#EXTINF:46,HGTV*
 https://liveanevia.mncnow.id/live/eds/HGTV/sa_hls/HGTV-avc1_2499968=12-HGTV-mp4a_98800_eng=3.m3u8
 
-#EXTINF:47,TLC
+#EXTINF:47,TLC*
 https://liveanevia.mncnow.id/live/eds/TLC/sa_hls/TLC-avc1_2499968=11-TLC-mp4a_98800_eng=3.m3u8
 
-#EXTINF:48,Discovery
+#EXTINF:48,Discovery*
 https://liveanevia.mncnow.id/live/eds/Discovery/sa_hls/Discovery-avc1_2499968=13-Discovery-mp4a_98800_eng=5.m3u8
 
 #EXTINF:49,Animal Planet
 https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_hls/AnimalPlanet-avc1_499968=18-AnimalPlanet-mp4a_66000_eng=2.m3u8
 
-#EXTINF:50,History
+#EXTINF:50,History*
 https://liveanevia.mncnow.id/live/eds/History/sa_hls/History-avc1_1000000=9-History-mp4a_98800_eng=3.m3u8
 
 #EXTINF:51,Lifetime
 https://liveanevia.mncnow.id/live/eds/Lifetime/sa_hls/Lifetime-avc1_499968=8-Lifetime-mp4a_66000_eng=2.m3u8
 
-#EXTINF:52,AXN
+#EXTINF:52,AXN*
 http://210.210.155.66/h/h141/02.m3u8
 
-#EXTINF:53,Blue Ant Entertainment
+#EXTINF:53,Blue Ant Entertainment*
 http://45.126.83.51/dr9445/h/h16/02.m3u8
 
 #EXTINF:54,Warner TV
@@ -195,7 +195,7 @@ https://liveanevia.mncnow.id/live/eds/KIX/sa_hls/KIX-avc1_499968=8-KIX-mp4a_9880
 #EXTINF:65,E!
 http://ott.artmott.com/E!/tracks-v1a1/mono.m3u8
 
-#EXTINF:66,CBS Reality
+#EXTINF:66,CBS Reality*
 http://ott.artmott.com/CBS-Reality/tracks-v1a1/mono.m3u8
 
 #EXTINF:67,CONtv
@@ -213,16 +213,16 @@ https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v4a1/index.m3u8
 #EXTINF:71,ESPN US
 http://npse.brots.world/espn2.m3u8
 
-#EXTINF:72,HJtv Guyana
+#EXTINF:72,HJtv
 http://190.80.3.28/HJTV/HJTV.isml/HJTV-audio_128301_und=128000-video=800000.m3u8
 
-#EXTINF:73,NBA TV
-http://45.92.69.76:8000/play/a05v
+#EXTINF:73,Test Channel
+http://cdnak19.cast4u.info/channels/4/10804.m3u8
 
-#EXTINF:74,Fox Sports
+#EXTINF:74,Fox Sports*
 https://anevia115.mncnow.id/live/eds/FOXSports/sa_hls/FOXSports-avc1_2499968=10-FOXSports-mp4a_98800_eng=3.m3u8
 
-#EXTINF:75,Fox Sports 2
+#EXTINF:75,Fox Sports 2*
 https://anevia115.mncnow.id:443/live/eds/FoxSports2/sa_hls/FoxSports2-avc1_2499968=10-FoxSports2-mp4a_98800_eng=3.m3u8
 
 #EXTINF:76,Olympic Channel
@@ -234,10 +234,10 @@ https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master_1000k.m3u8
 #EXTINF:78,Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 
-#EXTINF:79,beIN Sports 1
+#EXTINF:79,beIN Sports 1*
 https://anevia114.mncnow.id/live/eds/BeIN1/sa_hls/BeIN1-avc1_2499968=11-BeIN1-mp4a_98800_eng=3.m3u8
 
-#EXTINF:80,Tennis Channel
+#EXTINF:80,The T
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/f.m3u8
 
 #EXTINF:81,Golf Channel
@@ -262,7 +262,7 @@ http://livecdnh3.tvanywhere.ae/hls/docubox/03.m3u8
 https://dust.sinclair.wurl.com/manifest/1200.m3u8
 
 #EXTINF:88,Global Fashion Channel
-http://vcngfc1.teleosmedia.com/stream/globalfashionchannel/globalfashionchannel/seglist_360p.m3u8
+https://vcngfc1.teleosmedia.com/stream/globalfashionchannel/globalfashionchannel/playlist.m3u8
 
 #EXTINF:89,FTV
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg13_adaptive.smil/chunklist_b900000_t64MzYwcA==.m3u8
@@ -279,7 +279,7 @@ http://content-ausc2.uplynk.com/channel/7a16e3d5ffd0413ba4d8ac89688ed7cd/e.m3u8?
 #EXTINF:93,MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_1250_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:94,Channel V
+#EXTINF:94,Channel V*
 https://liveanevia.mncnow.id/live/eds/ChannelV/sa_hls/ChannelV-avc1_2499968=11-ChannelV-mp4a_98800_eng=3.m3u8
 
 #EXTINF:95,Docurama
@@ -297,7 +297,7 @@ https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/index_828_av-p.m3u8
 #EXTINF:99,NASA TV
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
 
-#EXTINF:100,BBC Earth
+#EXTINF:100,BBC Earth*
 https://liveanevia.mncnow.id/live/eds/BBCEarth/sa_hls/BBCEarth-avc1_1000000=10-mp4a_98800_eng=5.m3u8
 
 #EXTINF:101,Newsy
@@ -456,7 +456,7 @@ http://190.80.3.28/CW/CW.isml/CW-audio_128052_eng=128000-video=500000.m3u8
 #EXTINF:152,Indonesia Channel
 https://tic.indonusa.net.id:8443/live/ngrp:TIC.stream_all/playlist.m3u8
 
-#EXTINF:153,NHK World Premium
+#EXTINF:153,NHK World Premium*
 https://liveanevia.mncnow.id/live/eds/NHKWorldPremium/sa_hls/NHKWorldPremium-avc1_1000000=7-NHKWorldPremium-mp4a_98800_eng=3.m3u8
 
 #EXTINF:154,PBS USA
