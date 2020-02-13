@@ -40,19 +40,19 @@ http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master
 http://190.80.3.28/ABC/ABC.isml/ABC-audio_128052_eng=128000-video=500000.m3u8
 
 #EXTINF:14,CBS
-https://lslfzqe5m94.a.trbcdn.net/livemaster/ldmic_live-jftiriuxx7c.smil/playlist.m3u8
+http://161.0.157.51/PLTV/88888888/224/3221227041/03.m3u8
 
 #EXTINF:15,NBC
-https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:nbc.smil/chunklist_b700000.m3u8
+https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:nbc.smil/chunklist_b1600000.m3u8
 
 #EXTINF:16,FOX US
 https://gfd3bww887q.a.trbcdn.net/livemaster/3u1m1_live-t0p2vzyei1.smil/playlist.m3u8
 
-#EXTINF:17,Nickelodeon
-https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_hls/Nickelodeon-avc1_499968=7-Nickelodeon-mp4a_98800_eng=4.m3u8
+#EXTINF:17,The CW
+https://lslfzqe5m94.a.trbcdn.net/livemaster/sqpxj_live-wwnj7g4wd2.smil/playlist.m3u8
 
-#EXTINF:18,Nick Jr
-https://liveanevia.mncnow.id/live/eds/NickJr/sa_hls/NickJr-avc1_499968=7-NickJr-mp4a_66000_eng=2.m3u8
+#EXTINF:18,Nickelodeon
+https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_hls/Nickelodeon-avc1_499968=7-Nickelodeon-mp4a_98800_eng=4.m3u8
 
 #EXTINF:19,Disney Channel
 https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_hls/DisneyChannel-avc1_499968=4-DisneyChannel-mp4a_98800_ind=9.m3u8
@@ -450,8 +450,8 @@ https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/playl
 #EXTINF:150,Buzzr
 https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls_7.m3u8
 
-#EXTINF:151,The CW
-http://190.80.3.28/CW/CW.isml/CW-audio_128052_eng=128000-video=500000.m3u8
+#EXTINF:151,Nick Jr
+https://liveanevia.mncnow.id/live/eds/NickJr/sa_hls/NickJr-avc1_499968=7-NickJr-mp4a_66000_eng=2.m3u8
 
 #EXTINF:152,Indonesia Channel
 https://tic.indonusa.net.id:8443/live/ngrp:TIC.stream_all/playlist.m3u8
