@@ -52,13 +52,13 @@ https://gfd3bww887q.a.trbcdn.net/livemaster/3u1m1_live-t0p2vzyei1.smil/playlist.
 https://lslfzqe5m94.a.trbcdn.net/livemaster/sqpxj_live-wwnj7g4wd2.smil/playlist.m3u8
 
 #EXTINF:18,Nickelodeon
-https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_hls/Nickelodeon-avc1_499968=7-Nickelodeon-mp4a_98800_eng=4.m3u8
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=cd1f3beb-c332-423e-9f83-4e652d21b25e&deviceId=f326520d-7599-402b-adc7-3b65e7a93a7d&deviceVersion=65.0.3467.48&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
 
 #EXTINF:19,Disney Channel
-https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_hls/DisneyChannel-avc1_499968=4-DisneyChannel-mp4a_98800_ind=9.m3u8
+http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
 
-#EXTINF:20,Disney Junior
-https://liveanevia.mncnow.id/live/eds/DisneyJunior/sa_hls/DisneyJunior-avc1_499968=5-DisneyJunior-mp4a_66000_eng=2.m3u8
+#EXTINF:20,Kids TV
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=cd1f3beb-c332-423e-9f83-4e652d21b25e&deviceId=f326520d-7599-402b-adc7-3b65e7a93a7d&deviceVersion=65.0.3467.48&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
 
 #EXTINF:21,Disney XD
 http://185.176.117.243/live/eds/Disney_XD/HLS_encr/Disney_XD-avc1_1200000=10-Disney_XD-mp4a_96000_eng=5.m3u8
@@ -75,20 +75,20 @@ https://liveanevia.mncnow.id/live/eds/CinemaxHD/sa_hls/CinemaxHD-avc1_2499968=7-
 #EXTINF:25,Star Movies
 http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
 
-#EXTINF:26,CNN International
-http://92.43.140.249/s27/03.m3u8
-
-#EXTINF:27,CNN US
+#EXTINF:26,CNN US
 http://ott.artmott.com/CNN/tracks-v1a1/mono.m3u8
 
-#EXTINF:28,Fox News
-https://live.hinews.live/stream/fox/playlist.m3u8
+#EXTINF:27,CNN International
+http://92.43.140.249/s27/03.m3u8
+
+#EXTINF:28,Fox News*
+http://ms-azure-video.gslb.startimestv.com/live/FOX_News_786_500_480x360_191112/playlist.m3u8
 
 #EXTINF:29,MSNBC HD
 http://claro2-pi-dns.herokuapp.com/master.php?id=306&f=.m3u8
 
 #EXTINF:30,CNBC
-http://ott-cdn.ucom.am/s65/index.m3u8?fluxustv.m3u8
+http://ott-cdn.ucom.am/s65/03.m3u8
 
 #EXTINF:31,Bloomberg TV
 https://d1xy5gfz8tdshw.cloudfront.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-440-1_live.m3u8
@@ -132,11 +132,11 @@ https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_600k.m3u8
 #EXTINF:44,Arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b656000_sleng.m3u8
 
-#EXTINF:45,Asian Food Network*
-https://liveanevia.mncnow.id/live/eds/AFC/sa_hls/AFC-avc1_1000000=6-mp4a_98800_eng=3.m3u8
+#EXTINF:45,Saveur
+https://a.jsrdn.com/broadcast/060753d37e/+0000/c.m3u8
 
-#EXTINF:46,HGTV*
-https://liveanevia.mncnow.id/live/eds/HGTV/sa_hls/HGTV-avc1_2499968=12-HGTV-mp4a_98800_eng=3.m3u8
+#EXTINF:46,This Old House
+https://pcva4.manifest.auditude.com/auditude/variant/thisoldhouse_2/7b1d6383-3aa6-4601-b8cd-dff13b8b7965/aHR0cHM6Ly90aGlzb2xkaG91c2UtMi5yb2t1Lnd1cmwuY29tL21hbmlmZXN0L3BsYXlsaXN0Lm0zdTg.m3u8?pttrackingversion=v2&u=19287a324825cc5aacb7e46183c72324&pttrackingmode=sstm&g=1000010&z=268729&k=wurl_channel=318
 
 #EXTINF:47,TLC
 https://streamidvo.multitvsolution.in/TLC_HD-a/playlist.m3u8
@@ -147,8 +147,8 @@ http://streamidvo.multitvsolution.in/DiscoveryEng-a/playlist.m3u8
 #EXTINF:49,Animal Planet
 https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_hls/AnimalPlanet-avc1_499968=18-AnimalPlanet-mp4a_66000_eng=2.m3u8
 
-#EXTINF:50,History*
-https://liveanevia.mncnow.id/live/eds/History/sa_hls/History-avc1_1000000=9-History-mp4a_98800_eng=3.m3u8
+#EXTINF:50,H2
+http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
 
 #EXTINF:51,Lifetime
 https://liveanevia.mncnow.id/live/eds/Lifetime/sa_hls/Lifetime-avc1_499968=8-Lifetime-mp4a_66000_eng=2.m3u8
@@ -186,8 +186,8 @@ https://liveanevia.mncnow.id/live/eds/FX/sa_hls/FX-avc1_499968=13-FX-mp4a_98800_
 #EXTINF:62,Fox Crime HD
 https://anevia115.mncnow.id:443/live/eds/FoxCrime/sa_hls/FoxCrime-avc1_2499968=10-FoxCrime-mp4a_98800_eng=3.m3u8
 
-#EXTINF:63,Thrill
-https://liveanevia.mncnow.id/live/eds/Thrill/sa_hls/Thrill-avc1_499968=8-Thrill-mp4a_98800_eng=5.m3u8
+#EXTINF:63,Filmbox Arthouse
+https://1949337293.rsc.cdn77.org/1949337293/tracks-v1a1/mono.m3u8
 
 #EXTINF:64,Kix
 https://liveanevia.mncnow.id/live/eds/KIX/sa_hls/KIX-avc1_499968=8-KIX-mp4a_98800_eng=3.m3u8
@@ -240,11 +240,11 @@ http://ott.artmott.com/eurosport1/tracks-v1a1/mono.m3u8
 #EXTINF:80,The T
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/f.m3u8
 
-#EXTINF:81,Golf Channel
+#EXTINF:81,NBC Golf
 http://203.154.243.89:1208
 
-#EXTINF:82,H2
-http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
+#EXTINF:82,WWE Network HD
+http://claro2-pi-dns.herokuapp.com/master.php?id=388&f=.m3u8
 
 #EXTINF:83,Nat Geo People
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
@@ -451,7 +451,7 @@ https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/playl
 https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls_7.m3u8
 
 #EXTINF:151,Nick Jr
-https://liveanevia.mncnow.id/live/eds/NickJr/sa_hls/NickJr-avc1_499968=7-NickJr-mp4a_66000_eng=2.m3u8
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=cd1f3beb-c332-423e-9f83-4e652d21b25e&deviceId=f326520d-7599-402b-adc7-3b65e7a93a7d&deviceVersion=65.0.3467.48&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
 
 #EXTINF:152,Indonesia Channel
 https://tic.indonusa.net.id:8443/live/ngrp:TIC.stream_all/playlist.m3u8
