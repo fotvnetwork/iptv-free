@@ -46,10 +46,10 @@ http://161.0.157.51/PLTV/88888888/224/3221227041/03.m3u8
 https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:nbc.smil/chunklist_b1600000.m3u8
 
 #EXTINF:16,FOX US
-https://gfd3bww887q.a.trbcdn.net/livemaster/3u1m1_live-t0p2vzyei1.smil/playlist.m3u8
+http://190.80.3.28/FOX/FOX.isml/FOX-audio_128052_eng=128000-video=800000.m3u8
 
 #EXTINF:17,The CW
-https://lslfzqe5m94.a.trbcdn.net/livemaster/sqpxj_live-wwnj7g4wd2.smil/playlist.m3u8
+http://190.80.3.28/CW/CW.isml/CW-audio_128052_eng=128000-video=500000.m3u8
 
 #EXTINF:18,Nickelodeon
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=cd1f3beb-c332-423e-9f83-4e652d21b25e&deviceId=f326520d-7599-402b-adc7-3b65e7a93a7d&deviceVersion=65.0.3467.48&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
@@ -82,7 +82,7 @@ http://ott.artmott.com/CNN/tracks-v1a1/mono.m3u8
 http://92.43.140.249/s27/03.m3u8
 
 #EXTINF:28,Fox News*
-http://ms-azure-video.gslb.startimestv.com/live/FOX_News_786_500_480x360_191112/playlist.m3u8
+https://live.hinews.live/stream/fox/playlist.m3u8
 
 #EXTINF:29,MSNBC HD
 http://claro2-pi-dns.herokuapp.com/master.php?id=306&f=.m3u8
@@ -219,8 +219,8 @@ http://190.80.3.28/HJTV/HJTV.isml/HJTV-audio_128301_und=128000-video=800000.m3u8
 #EXTINF:73,Test Channel
 http://cdnak19.cast4u.info/channels/4/10804.m3u8
 
-#EXTINF:74,Test Channel 2
-http://cdnak3.cast4u.info/channels/2/10802.m3u8
+#EXTINF:74,NBA TV
+http://45.92.69.76:8000/play/a05v
 
 #EXTINF:75,Fox Sports News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master640x360.m3u8
