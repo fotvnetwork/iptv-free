@@ -78,10 +78,10 @@ http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
 #EXTINF:26,CNN US
 http://ott.artmott.com/CNN/tracks-v1a1/mono.m3u8
 
-#EXTINF:27,CNN International*
-http://92.43.140.249/s27/03.m3u8
+#EXTINF:27,CNN International
+http://45.92.69.76:8000/play/a03v
 
-#EXTINF:28,Fox News*
+#EXTINF:28,Fox News
 https://live.hinews.live/stream/fox/playlist.m3u8
 
 #EXTINF:29,MSNBC HD
@@ -91,7 +91,7 @@ http://claro2-pi-dns.herokuapp.com/master.php?id=306&f=.m3u8
 http://ott-cdn.ucom.am/s65/03.m3u8
 
 #EXTINF:31,Bloomberg TV
-http://45.126.83.51/uq2663/h/h03/02.m3u8
+https://d1xy5gfz8tdshw.cloudfront.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-440-1_live.m3u8
 
 #EXTINF:32,Cheddar
 https://live.chdrstatic.com/cheddar/primary/5.m3u8
@@ -121,7 +121,7 @@ https://bozztv.com/36bay2/gin/giniko_euronews_800kb_36bay2/tracks-v1a1/mono.m3u8
 http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_2_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:41,CNA
-http://45.126.83.51/uq2663/h/h29/02.m3u8
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_2.m3u8
 
 #EXTINF:42,CGTN
 https://live.cgtn.com/500/prog_index.m3u8
