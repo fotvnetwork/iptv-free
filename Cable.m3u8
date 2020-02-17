@@ -52,12 +52,12 @@ http://190.80.3.28/FOX/FOX.isml/FOX-audio_128052_eng=128000-video=800000.m3u8
 http://190.80.3.28/CW/CW.isml/CW-audio_128052_eng=128000-video=500000.m3u8
 
 #EXTINF:18,Nickelodeon
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=cd1f3beb-c332-423e-9f83-4e652d21b25e&deviceId=f326520d-7599-402b-adc7-3b65e7a93a7d&deviceVersion=65.0.3467.48&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_hls/Nickelodeon-avc1_499968=7-Nickelodeon-mp4a_98800_eng=4.m3u8
 
 #EXTINF:19,Disney Channel
-http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
+https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_hls/DisneyChannel-avc1_499968=4-DisneyChannel-mp4a_98800_ind=9.m3u8
 
-#EXTINF:20,Kids TV
+#EXTINF:20,Kids (Pluto TV)
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=cd1f3beb-c332-423e-9f83-4e652d21b25e&deviceId=f326520d-7599-402b-adc7-3b65e7a93a7d&deviceVersion=65.0.3467.48&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
 
 #EXTINF:21,Disney XD
@@ -69,26 +69,26 @@ https://liveanevia.mncnow.id/live/eds/HBOHits/sa_hls/HBOHits-avc1_2499968=10-HBO
 #EXTINF:23,HBO Signature
 https://liveanevia.mncnow.id/live/eds/HBOSignature/sa_hls/HBOSignature-avc1_2499968=7-HBOSignature-mp4a_98800_eng=3.m3u8
 
-#EXTINF:24,Cinemax HD
-https://liveanevia.mncnow.id/live/eds/CinemaxHD/sa_hls/CinemaxHD-avc1_2499968=7-CinemaxHD-mp4a_98800_eng=3.m3u8
-
-#EXTINF:25,Star Movies
+#EXTINF:24,Star Movies
 http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
 
-#EXTINF:26,CNN US
-http://ott.artmott.com/CNN/tracks-v1a1/mono.m3u8
+#EXTINF:25,Filmrise Movies
+https://dai.google.com/linear/hls/event/Va1QEor0SWO_x_SQNyaF0w/master.m3u8
+
+#EXTINF:26,CNN (Pluto TV)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839419cb3/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=4bac739a-a968-4b1f-9d01-d69b69934c76&deviceId=8299a7f8-5fad-4f83-810f-f9b3b4575010&deviceVersion=75.0.3770.100&appVersion=2.7.1-5725cf052c6d5a7776009f53b7086f64da9ef528&deviceDNT=0&userId=&advertisingId=&deviceLat=37.751&deviceLon=-97.822&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
 
 #EXTINF:27,CNN International
 http://45.92.69.76:8000/play/a03v
 
-#EXTINF:28,Fox News
-https://live.hinews.live/stream/fox/playlist.m3u8
+#EXTINF:28,Fox News Channel
+https://anevia115.mncnow.id/live/eds/FoxNews/sa_hls/FoxNews-avc1_499968=8-FoxNews-mp4a_98800_eng=5.m3u8
 
-#EXTINF:29,MSNBC HD
-http://claro2-pi-dns.herokuapp.com/master.php?id=306&f=.m3u8
+#EXTINF:29,NBC News (Pluto TV)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56403d822d2719107d948cb9/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=d606dccc-ddf4-4d92-895f-70280d9cb61b&deviceId=97aded51-833a-4fed-aef9-d087d5d8e9de&deviceVersion=77.0.3865.90&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceDNT=0&userId=&advertisingId=&deviceLat=40.7035&deviceLon=-73.9235&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
 
-#EXTINF:30,CNBC*
-http://ott-cdn.ucom.am/s65/03.m3u8
+#EXTINF:30,CNBC
+http://45.92.69.76:8000/play/a05h
 
 #EXTINF:31,Bloomberg TV
 https://d1xy5gfz8tdshw.cloudfront.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-440-1_live.m3u8
@@ -103,7 +103,7 @@ https://live.chdrstatic.com/cbn/primary/5.m3u8
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/03.m3u8
 
 #EXTINF:35,BBC World News
-http://88.119.220.2/live/eds/BBC/HLS_encr/BBC-avc1_600000=10-BBC-mp4a_96000_eng=1.m3u8
+http://45.92.69.76:8000/play/a03x
 
 #EXTINF:36,Al Jazeera
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index576.m3u8
@@ -132,11 +132,11 @@ https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_600k.m3u8
 #EXTINF:44,Arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b656000_sleng.m3u8
 
-#EXTINF:45,Saveur
-https://a.jsrdn.com/broadcast/060753d37e/+0000/c.m3u8
+#EXTINF:45,Asian Food Network
+https://liveanevia.mncnow.id/live/eds/AFC/sa_hls/AFC-avc1_499968=5-AFC-mp4a_98800_eng=3.m3u8
 
-#EXTINF:46,This Old House
-https://pcva4.manifest.auditude.com/auditude/variant/thisoldhouse_2/7b1d6383-3aa6-4601-b8cd-dff13b8b7965/aHR0cHM6Ly90aGlzb2xkaG91c2UtMi5yb2t1Lnd1cmwuY29tL21hbmlmZXN0L3BsYXlsaXN0Lm0zdTg.m3u8?pttrackingversion=v2&u=19287a324825cc5aacb7e46183c72324&pttrackingmode=sstm&g=1000010&z=268729&k=wurl_channel=318
+#EXTINF:46,HGTV
+https://liveanevia.mncnow.id/live/eds/HGTV/sa_hls/HGTV-avc1_499968=12-HGTV-mp4a_98800_eng=3.m3u8
 
 #EXTINF:47,TLC
 https://streamidvo.multitvsolution.in/live/TLC_HD-a/p3.m3u8
@@ -147,8 +147,8 @@ https://streamidvo.multitvsolution.in/live/DiscoveryEng-a/p3.m3u8
 #EXTINF:49,Animal Planet
 https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_hls/AnimalPlanet-avc1_499968=18-AnimalPlanet-mp4a_66000_eng=2.m3u8
 
-#EXTINF:50,H2
-http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
+#EXTINF:50,History
+https://liveanevia.mncnow.id/live/eds/History/sa_hls/History-avc1_1000000=9-History-mp4a_98800_eng=3.m3u8
 
 #EXTINF:51,Lifetime
 https://liveanevia.mncnow.id/live/eds/Lifetime/sa_hls/Lifetime-avc1_499968=8-Lifetime-mp4a_66000_eng=2.m3u8
@@ -183,8 +183,8 @@ https://liveanevia.mncnow.id/live/eds/HITS/sa_hls/HITS-avc1_499968=12-HITS-mp4a_
 #EXTINF:61,FX
 https://liveanevia.mncnow.id/live/eds/FX/sa_hls/FX-avc1_499968=13-FX-mp4a_98800_eng=3.m3u8
 
-#EXTINF:62,Fox Crime HD
-https://anevia115.mncnow.id:443/live/eds/FoxCrime/sa_hls/FoxCrime-avc1_2499968=10-FoxCrime-mp4a_98800_eng=3.m3u8
+#EXTINF:62,The Film Detective
+https://distro.akamaized.net/indexfd_640x360.m3u8
 
 #EXTINF:63,Filmbox Arthouse
 https://1949337293.rsc.cdn77.org/1949337293/tracks-v1a1/mono.m3u8
@@ -211,7 +211,7 @@ https://cdn.igocast.com/channel9_hls/channel9_master.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v4a1/index.m3u8
 
 #EXTINF:71,ESPN US
-http://npse.brots.world/espn2.m3u8
+https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:espn.smil/chunklist_b300000.m3u8
 
 #EXTINF:72,HJtv
 http://190.80.3.28/HJTV/HJTV.isml/HJTV-audio_128301_und=128000-video=800000.m3u8
@@ -243,8 +243,8 @@ https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d556
 #EXTINF:81,NBC Golf
 http://203.154.243.89:1208
 
-#EXTINF:82,WWE Network HD
-http://claro2-pi-dns.herokuapp.com/master.php?id=388&f=.m3u8
+#EXTINF:82,H2
+http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
 
 #EXTINF:83,Nat Geo People
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
@@ -286,10 +286,10 @@ http://de1se01.v2beat.live/playlist.m3u8
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/640x360_394000/chunklist.m3u8
 
 #EXTINF:96,Crime & Investigation
-http://203.154.243.31:15001
+https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_hls/CrimeInvestigation-avc1_499968=9-CrimeInvestigation-mp4a_98800_eng=3.m3u8
 
-#EXTINF:97,FashionBox HD
-https://1575390972.rsc.cdn77.org/1575390972/tracks-v1a1/mono.m3u8
+#EXTINF:97,This Old House
+https://pcva4.manifest.auditude.com/auditude/variant/thisoldhouse_2/7b1d6383-3aa6-4601-b8cd-dff13b8b7965/aHR0cHM6Ly90aGlzb2xkaG91c2UtMi5yb2t1Lnd1cmwuY29tL21hbmlmZXN0L3BsYXlsaXN0Lm0zdTg.m3u8?pttrackingversion=v2&u=19287a324825cc5aacb7e46183c72324&pttrackingmode=sstm&g=1000010&z=268729&k=wurl_channel=318
 
 #EXTINF:98,UN Web
 https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/index_828_av-p.m3u8
@@ -313,10 +313,10 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-abcnews/CDN/720x404_1425600/index
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/848x480_965800/chunklist.m3u8
 
 #EXTINF:105,OAN
-http://190.80.3.28/OAN/OAN.isml/OAN-audio_132128_und=128000-video=500000.m3u8
+http://190.80.3.28/OAN/OAN.isml/OAN-audio_124128_und=120000-video=850000.m3u8
 
 #EXTINF:106,OAN (mirror)
-http://190.80.3.28/OAN/OAN.isml/OAN-audio_132128_und=128000-video=800000.m3u8
+http://190.80.3.28/OAN/OAN.isml/index.m3u8
 
 #EXTINF:107,TYT
 https://tyt-ssai.akamaized.net/amagi_hls_data_tytnetwor-tytxumo/CDN/718x404_1390110/index.m3u8
@@ -390,8 +390,8 @@ http://30a-tv.com/sidewalks.m3u8
 #EXTINF:130,ElectricNOW
 https://a.jsrdn.com/broadcast/vf93fRSk7/playlist_360p.m3u8
 
-#EXTINF:131,The Film Detective
-https://distro.akamaized.net/indexfd_640x360.m3u8
+#EXTINF:131,Hunt Channel
+https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
 
 #EXTINF:132,Kool TV
 http://173.199.158.79:1935/roku/myStream/chunklist_w81565426.m3u8
@@ -432,8 +432,8 @@ https://anevia115.mncnow.id/live/eds/AustraliaPlus/sa_hls/AustraliaPlus-avc1_499
 #EXTINF:144,AMGTV
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/chunklist.m3u8
 
-#EXTINF:145,Plant-Based Network
-https://hls-cdn.tvstartup.net/barakyah-channel/live/pbtv/chunklist_w1880221002.m3u8
+#EXTINF:145,Saveur
+https://a.jsrdn.com/broadcast/060753d37e/+0000/c.m3u8
 
 #EXTINF:146,Gusto TV
 https://a.jsrdn.com/broadcast/ebf95254ca/+0000/low/c.m3u8
@@ -479,3 +479,63 @@ https://dai.google.com/linear/hls/event/zcWPVCfURNSPxeidcckQLA/master.m3u8
 
 #EXTINF:160,CBSN Philly
 https://dai.google.com/linear/hls/event/Xu-ITJ2GTNGaxGn893mmWg/master.m3u8
+
+#EXTINF:161,Disney Channel HD
+http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
+
+#EXTINF:162,CNN HD
+http://ott.artmott.com/CNN/tracks-v1a1/mono.m3u8
+
+#EXTINF:163,Fox News Channel HD
+https://ustoday.hinews.live/stream/self/playlist.m3u8
+
+#EXTINF:164,MSNBC HD
+http://claro2-pi-dns.herokuapp.com/master.php?id=306&f=.m3u8
+
+#EXTINF:165,NBC News HD
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/1920x1080_3660800/chunklist.m3u8
+
+#EXTINF:166,NBC HD
+https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:nbc.smil/chunklist_b2500000.m3u8
+
+#EXTINF:167,CBSN HD
+https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_7.m3u8
+
+#EXTINF:168,CBS HD
+http://161.0.157.51/PLTV/88888888/224/3221227041/01.m3u8
+
+#EXTINF:169,ABC News Live HD
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+
+#EXTINF:170,Cinemax HD
+https://liveanevia.mncnow.id/live/eds/CinemaxHD/sa_hls/CinemaxHD-avc1_2499968=7-CinemaxHD-mp4a_98800_eng=3.m3u8
+
+#EXTINF:171,CinemaWorld HD
+https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_hls/CinemaWorld-avc1_2499968=13-mp4a_98800_eng=3.m3u8
+
+#EXTINF:172,Fox Crime HD
+https://anevia115.mncnow.id:443/live/eds/FoxCrime/sa_hls/FoxCrime-avc1_2499968=10-FoxCrime-mp4a_98800_eng=3.m3u8
+
+#EXTINF:173,ESPN HD
+http://npse.brots.world/espn2.m3u8
+
+#EXTINF:174,WWE Network HD
+http://claro2-pi-dns.herokuapp.com/master.php?id=388&f=.m3u8
+
+#EXTINF:175,Olympic Channel HD
+http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
+
+#EXTINF:176,FashionBox HD
+https://1575390972.rsc.cdn77.org/1575390972/tracks-v1a1/mono.m3u8
+
+#EXTINF:177,InfoWars HD
+http://wpc.9ec1.edgecastcdn.net/249EC1/infowarshd-edgecast/hd720.m3u8
+
+#EXTINF:178,Plant-Based Network HD
+https://hls-cdn.tvstartup.net/barakyah-channel/live/pbtv/chunklist_w1880221002.m3u8
+
+#EXTINF:179,RESERVED
+https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
+
+#EXTINF:180,RESERVED
+https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
