@@ -76,7 +76,7 @@ http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
 https://dai.google.com/linear/hls/event/Va1QEor0SWO_x_SQNyaF0w/master.m3u8
 
 #EXTINF:26,CNN (Pluto TV)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839419cb3/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=4bac739a-a968-4b1f-9d01-d69b69934c76&deviceId=8299a7f8-5fad-4f83-810f-f9b3b4575010&deviceVersion=75.0.3770.100&appVersion=2.7.1-5725cf052c6d5a7776009f53b7086f64da9ef528&deviceDNT=0&userId=&advertisingId=&deviceLat=37.751&deviceLon=-97.822&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839419cb3/572723/playlist.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=4bac739a-a968-4b1f-9d01-d69b69934c76&deviceId=8299a7f8-5fad-4f83-810f-f9b3b4575010&deviceVersion=75.0.3770.100&appVersion=2.7.1-5725cf052c6d5a7776009f53b7086f64da9ef528&deviceDNT=0&userId=&advertisingId=&deviceLat=37.751&deviceLon=-97.822&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
 
 #EXTINF:27,CNN International
 http://45.92.69.76:8000/play/a03v
@@ -85,7 +85,7 @@ http://45.92.69.76:8000/play/a03v
 https://anevia115.mncnow.id/live/eds/FoxNews/sa_hls/FoxNews-avc1_499968=8-FoxNews-mp4a_98800_eng=5.m3u8
 
 #EXTINF:29,NBC News (Pluto TV)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56403d822d2719107d948cb9/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=d606dccc-ddf4-4d92-895f-70280d9cb61b&deviceId=97aded51-833a-4fed-aef9-d087d5d8e9de&deviceVersion=77.0.3865.90&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceDNT=0&userId=&advertisingId=&deviceLat=40.7035&deviceLon=-73.9235&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56403d822d2719107d948cb9/572723/playlist.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=d606dccc-ddf4-4d92-895f-70280d9cb61b&deviceId=97aded51-833a-4fed-aef9-d087d5d8e9de&deviceVersion=77.0.3865.90&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceDNT=0&userId=&advertisingId=&deviceLat=40.7035&deviceLon=-73.9235&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
 
 #EXTINF:30,CNBC
 http://45.92.69.76:8000/play/a05h
@@ -450,8 +450,8 @@ https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/718x4
 #EXTINF:150,Buzzr
 https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls_7.m3u8
 
-#EXTINF:151,Nick Jr
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=cd1f3beb-c332-423e-9f83-4e652d21b25e&deviceId=f326520d-7599-402b-adc7-3b65e7a93a7d&deviceVersion=65.0.3467.48&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+#EXTINF:151,Nick Jr (Pluto TV)
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/572723/playlist.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=cd1f3beb-c332-423e-9f83-4e652d21b25e&deviceId=f326520d-7599-402b-adc7-3b65e7a93a7d&deviceVersion=65.0.3467.48&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
 
 #EXTINF:152,Indonesia Channel
 https://tic.indonusa.net.id:8443/live/ngrp:TIC.stream_all/playlist.m3u8
@@ -487,7 +487,7 @@ http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
 http://ott.artmott.com/CNN/tracks-v1a1/mono.m3u8
 
 #EXTINF:163,Fox News Channel HD
-https://ustoday.hinews.live/stream/self/playlist.m3u8
+https://ustoday.hinews.live/stream/fox_480p/playlist.m3u8
 
 #EXTINF:164,MSNBC HD
 http://claro2-pi-dns.herokuapp.com/master.php?id=306&f=.m3u8
