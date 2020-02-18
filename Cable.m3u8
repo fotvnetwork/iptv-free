@@ -163,7 +163,7 @@ http://45.126.83.51/dr9445/h/h16/02.m3u8
 http://203.154.243.89:11205
 
 #EXTINF:55,AMC
-http://ott.artmott.com/AMC/tracks-v1a1/mono.m3u8
+http://84.22.33.254/unicast.amc/index.m3u8
 
 #EXTINF:56,FOX Life
 https://anevia115.mncnow.id/live/eds/STARWorld/sa_hls/STARWorld-avc1_2499968=7-mp4a_98800_ind=2.m3u8
@@ -217,7 +217,7 @@ https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:espn.smil/chunklist_b300000.m3u8
 http://190.80.3.28/HJTV/HJTV.isml/HJTV-audio_128301_und=128000-video=800000.m3u8
 
 #EXTINF:73,Test Channel
-http://cdnak19.cast4u.info/channels/4/10804.m3u8
+http://cdnak21.cast4u.info/channels/4/10804.m3u8
 
 #EXTINF:74,NBA TV
 http://45.92.69.76:8000/play/a05v
@@ -226,7 +226,7 @@ http://45.92.69.76:8000/play/a05v
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master640x360.m3u8
 
 #EXTINF:76,Olympic Channel
-https://ott-live.olympicchannel.com/out/u/OC1_3.m3u8
+https://iocchannel-i.akamaihd.net/hls/live/514135/olylinear0629221316/DomesticOlympicsLinear_VIDEO_4_964000.m3u8
 
 #EXTINF:77,Stadium
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master_1000k.m3u8
@@ -249,7 +249,7 @@ http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
 #EXTINF:83,Nat Geo People
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
 
-#EXTINF:84,Nat Geo Wild Asia
+#EXTINF:84,Nat Geo Wild
 http://103.199.160.85/Content/insync/Live/Channel(Insync)/Stream(02)/index.m3u8
 
 #EXTINF:85,National Geographic
@@ -267,8 +267,8 @@ https://vcngfc1.teleosmedia.com/stream/globalfashionchannel/globalfashionchannel
 #EXTINF:89,FTV
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg13_adaptive.smil/chunklist_b900000_t64MzYwcA==.m3u8
 
-#EXTINF:90,Fashion One
-http://mysisli.com/36bay2/gin/giniko_fashionone_800kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:90,Fashion Television
+http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 
 #EXTINF:91,World Fashion Channel
 https://wfcint.mediacdn.ru/cdn/wfcint/playlist_sdlow.m3u8
