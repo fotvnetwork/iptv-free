@@ -486,11 +486,11 @@ http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
 #EXTINF:202,CNN HD
 http://ott.artmott.com/CNN/tracks-v1a1/mono.m3u8
 
-#EXTINF:203,Fox News Channel HD
+#EXTINF:203,Fox News Channel (mirror)
 https://ustoday.hinews.live/stream/fox_480p/playlist.m3u8
 
-#EXTINF:204,MSNBC HD
-http://claro2-pi-dns.herokuapp.com/master.php?id=306&f=.m3u8
+#EXTINF:204,RESERVED
+https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
 
 #EXTINF:205,NBC News HD
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/1920x1080_3660800/chunklist.m3u8
@@ -519,8 +519,8 @@ https://anevia115.mncnow.id:443/live/eds/FoxCrime/sa_hls/FoxCrime-avc1_2499968=1
 #EXTINF:213,ESPN HD
 http://npse.brots.world/espn2.m3u8
 
-#EXTINF:214,WWE Network HD
-http://claro2-pi-dns.herokuapp.com/master.php?id=388&f=.m3u8
+#EXTINF:214,WWE HD
+https://bk7l2w4nlx53-hls-live.5centscdn.com/WWE/961ac1c875f5884f31bdd177365ef1e3.sdp/chunks.m3u8
 
 #EXTINF:215,Olympic Channel HD
 http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
