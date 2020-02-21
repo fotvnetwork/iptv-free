@@ -37,7 +37,7 @@ http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Mai
 http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master_720.m3u8
 
 #EXTINF:13,ABC
-http://190.80.3.28/ABC/ABC.isml/ABC-audio_128052_eng=128000-video=500000.m3u8
+http://190.80.3.28/ABC/ABC.isml/ABC-audio_128052_eng=128000-video=800000.m3u8
 
 #EXTINF:14,CBS
 http://161.0.157.51/PLTV/88888888/224/3221227041/03.m3u8
@@ -49,25 +49,25 @@ https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:nbc.smil/chunklist_b1600000.m3u8
 http://190.80.3.28/FOX/FOX.isml/FOX-audio_128052_eng=128000-video=800000.m3u8
 
 #EXTINF:17,The CW
-http://190.80.3.28/CW/CW.isml/CW-audio_128052_eng=128000-video=500000.m3u8
+http://190.80.3.28/CW/CW.isml/CW-audio_128052_eng=128000-video=800000.m3u8
 
 #EXTINF:18,Nickelodeon
 https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_hls/Nickelodeon-avc1_499968=7-Nickelodeon-mp4a_98800_eng=4.m3u8
 
 #EXTINF:19,Disney Channel
-https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_hls/DisneyChannel-avc1_499968=4-DisneyChannel-mp4a_98800_ind=9.m3u8
+http://185.176.117.243/live/eds/Disney_Channel/HLS_encr/Disney_Channel-avc1_1200000=13-Disney_Channel-mp4a_96000_eng=1.m3u8
 
-#EXTINF:20,Kids (Pluto TV)
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=cd1f3beb-c332-423e-9f83-4e652d21b25e&deviceId=f326520d-7599-402b-adc7-3b65e7a93a7d&deviceVersion=65.0.3467.48&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+#EXTINF:20,Cartoon Network
+https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_hls/CartoonNetwork-avc1_499968=12-CartoonNetwork-mp4a_98800_ind=16.m3u8
 
 #EXTINF:21,Disney XD
 http://185.176.117.243/live/eds/Disney_XD/HLS_encr/Disney_XD-avc1_1200000=10-Disney_XD-mp4a_96000_eng=5.m3u8
 
-#EXTINF:22,HBO Hits
-https://liveanevia.mncnow.id/live/eds/HBOHits/sa_hls/HBOHits-avc1_2499968=10-HBOHits-mp4a_98800_eng=3.m3u8
+#EXTINF:22,Nicktoons
+http://185.176.117.243/live/eds/Nicktoons/HLS_encr/Nicktoons-avc1_1200000=10-Nicktoons-mp4a_96000_eng=2.m3u8
 
-#EXTINF:23,HBO Signature
-https://liveanevia.mncnow.id/live/eds/HBOSignature/sa_hls/HBOSignature-avc1_2499968=7-HBOSignature-mp4a_98800_eng=3.m3u8
+#EXTINF:23,HBO Signature*
+https://liveanevia.mncnow.id/live/eds/HBOSignature/sa_hls/HBOSignature.m3u8
 
 #EXTINF:24,Star Movies
 http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
@@ -82,7 +82,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839
 http://45.92.69.76:8000/play/a03v
 
 #EXTINF:28,Fox News Channel
-https://anevia115.mncnow.id/live/eds/FoxNews/sa_hls/FoxNews-avc1_499968=8-FoxNews-mp4a_98800_eng=5.m3u8
+https://ustoday.hinews.live/stream/fox_480p/playlist.m3u8
 
 #EXTINF:29,NBC News (Pluto TV)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56403d822d2719107d948cb9/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=d606dccc-ddf4-4d92-895f-70280d9cb61b&deviceId=97aded51-833a-4fed-aef9-d087d5d8e9de&deviceVersion=77.0.3865.90&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceDNT=0&userId=&advertisingId=&deviceLat=40.7035&deviceLon=-73.9235&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
@@ -91,7 +91,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56403d822d2719107d
 http://45.92.69.76:8000/play/a05h
 
 #EXTINF:31,Bloomberg TV
-https://d1xy5gfz8tdshw.cloudfront.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-440-1_live.m3u8
+https://liveanevia.mncnow.id/live/eds/Bloomberg/sa_hls/Bloomberg-avc1_499968=4-Bloomberg-mp4a_98800_eng=5.m3u8
 
 #EXTINF:32,Cheddar
 https://live.chdrstatic.com/cheddar/primary/5.m3u8
@@ -109,7 +109,7 @@ http://45.92.69.76:8000/play/a03x
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index576.m3u8
 
 #EXTINF:37,RT
-https://rt-news.secure.footprint.net/1103_800Kb.m3u8
+https://liveanevia.mncnow.id/live/eds/RTEnglish/sa_hls/RTEnglish-avc1_499968=14-RTEnglish-mp4a_98800_eng=5.m3u8
 
 #EXTINF:38,France 24
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
@@ -121,7 +121,7 @@ https://bozztv.com/36bay2/gin/giniko_euronews_800kb_36bay2/tracks-v1a1/mono.m3u8
 http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_2_av-p.m3u8
 
 #EXTINF:41,CNA
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_2.m3u8
+https://liveanevia.mncnow.id/live/eds/ChannelNewsAsia/sa_hls/ChannelNewsAsia-avc1_499968=10-ChannelNewsAsia-mp4a_98800_eng=3.m3u8
 
 #EXTINF:42,CGTN
 https://live.cgtn.com/500/prog_index.m3u8
@@ -153,10 +153,10 @@ https://liveanevia.mncnow.id/live/eds/History/sa_hls/History-avc1_1000000=9-Hist
 #EXTINF:51,Lifetime
 https://liveanevia.mncnow.id/live/eds/Lifetime/sa_hls/Lifetime-avc1_499968=8-Lifetime-mp4a_66000_eng=2.m3u8
 
-#EXTINF:52,AXN*
+#EXTINF:52,AXN
 http://210.210.155.66/h/h141/02.m3u8
 
-#EXTINF:53,Blue Ant Entertainment*
+#EXTINF:53,Blue Ant Entertainment
 http://45.126.83.51/dr9445/h/h16/02.m3u8
 
 #EXTINF:54,Warner TV
@@ -216,7 +216,7 @@ https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:espn.smil/chunklist_b700000.m3u8
 #EXTINF:72,HJtv
 http://190.80.3.28/HJTV/HJTV.isml/HJTV-audio_128301_und=128000-video=800000.m3u8
 
-#EXTINF:73,Test Channel
+#EXTINF:73,NJPW Wrestling
 http://cdnak21.cast4u.info/channels/4/10804.m3u8
 
 #EXTINF:74,NBA TV
@@ -262,7 +262,7 @@ http://livecdnh3.tvanywhere.ae/hls/docubox/03.m3u8
 https://dust.sinclair.wurl.com/manifest/1200.m3u8
 
 #EXTINF:88,Global Fashion Channel
-https://vcngfc1.teleosmedia.com/stream/globalfashionchannel/globalfashionchannel/seglist_360p.m3u8
+http://vcngfc1.teleosmedia.com/stream/globalfashionchannel/globalfashionchannel/seglist_360p.m3u8
 
 #EXTINF:89,FTV
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg13_adaptive.smil/chunklist_b900000_t64MzYwcA==.m3u8
@@ -300,7 +300,7 @@ https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e82
 #EXTINF:100,Outdoor Channel
 http://84.22.33.254/unicast.outdoorchannel/index.m3u8
 
-#EXTINF:101,Newsy
+#EXTINF:101,Top Stories by Newsy
 https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=newsyweb
 
 #EXTINF:102,CBSN
@@ -315,8 +315,8 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/848x480_96580
 #EXTINF:105,OAN
 http://190.80.3.28/OAN/OAN.isml/OAN-audio_124128_und=120000-video=850000.m3u8
 
-#EXTINF:106,OAN (mirror)
-http://190.80.3.28/OAN/OAN.isml/index.m3u8
+#EXTINF:106,C-SPAN
+https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/index_50_av-p.m3u8
 
 #EXTINF:107,TYT
 https://tyt-ssai.akamaized.net/amagi_hls_data_tytnetwor-tytxumo/CDN/718x404_1390110/index.m3u8
@@ -450,8 +450,8 @@ https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/718x4
 #EXTINF:150,Buzzr
 https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls_7.m3u8
 
-#EXTINF:151,Nick Jr (Pluto TV)
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/572723/playlist.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=cd1f3beb-c332-423e-9f83-4e652d21b25e&deviceId=f326520d-7599-402b-adc7-3b65e7a93a7d&deviceVersion=65.0.3467.48&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+#EXTINF:151,Nick Jr
+http://185.176.117.243/live/eds/Nick_JR/HLS_encr/Nick_JR-avc1_1200000=14-Nick_JR-mp4a_96000_eng=6.m3u8
 
 #EXTINF:152,Indonesia Channel
 https://tic.indonusa.net.id:8443/live/ngrp:TIC.stream_all/playlist.m3u8
@@ -480,20 +480,26 @@ https://dai.google.com/linear/hls/event/zcWPVCfURNSPxeidcckQLA/master.m3u8
 #EXTINF:160,CBSN Philly
 https://dai.google.com/linear/hls/event/Xu-ITJ2GTNGaxGn893mmWg/master.m3u8
 
+#EXTINF:161,CBSN Denver
+https://dai.google.com/linear/hls/event/EUo67MWSRh6toPi0heJKnQ/master.m3u8
+
+#EXTINF:162,RT America
+https://bozztv.com/36bay2/gin/giniko_russiatoday_2200kb_36bay2/index.m3u8
+
 #EXTINF:201,Disney Channel HD
 http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
 
 #EXTINF:202,CNN HD
 http://ott.artmott.com/CNN/tracks-v1a1/mono.m3u8
 
-#EXTINF:203,Fox News Channel (mirror)
-https://ustoday.hinews.live/stream/fox_480p/playlist.m3u8
+#EXTINF:203,CNN International HD
+https://liveanevia.mncnow.id/live/eds/CNNInternational/sa_hls/CNNInternational-avc1_2499968=10-CNNInternational-mp4a_98800_eng=5.m3u8
 
-#EXTINF:204,RESERVED
-https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
+#EXTINF:204,Fox News Channel HD
+https://anevia115.mncnow.id/live/eds/FoxNews/sa_hls/FoxNews-avc1_1000000=7-FoxNews-mp4a_98800_eng=5.m3u8
 
-#EXTINF:205,NBC News HD
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/1920x1080_3660800/chunklist.m3u8
+#EXTINF:205,NBC News Now HD
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df97894467dfa00091c873c/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=954c037d-1a11-44d3-b488-9d06f8a3e068&deviceLat=33.9560&deviceLon=-118.3887&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=81.0.4044.26&includeExtendedEvents=false&sid=e6f1682e-cc62-437a-bd0d-082bea9a4059&userId=&serverSideAds=true
 
 #EXTINF:206,NBC HD
 https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:nbc.smil/chunklist_b2500000.m3u8
@@ -507,8 +513,8 @@ http://161.0.157.51/PLTV/88888888/224/3221227041/01.m3u8
 #EXTINF:209,ABC News Live HD
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
-#EXTINF:210,Cinemax HD
-https://liveanevia.mncnow.id/live/eds/CinemaxHD/sa_hls/CinemaxHD-avc1_2499968=7-CinemaxHD-mp4a_98800_eng=3.m3u8
+#EXTINF:210,Cinemax HD*
+https://liveanevia.mncnow.id/live/eds/CinemaxHD/sa_hls/CinemaxHD.m3u8
 
 #EXTINF:211,CinemaWorld HD
 https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_hls/CinemaWorld-avc1_2499968=13-mp4a_98800_eng=3.m3u8
@@ -534,8 +540,8 @@ http://wpc.9ec1.edgecastcdn.net/249EC1/infowarshd-edgecast/hd720.m3u8
 #EXTINF:218,Plant-Based Network HD
 https://hls-cdn.tvstartup.net/barakyah-channel/live/pbtv/chunklist_w1880221002.m3u8
 
-#EXTINF:219,RESERVED
-https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
+#EXTINF:219,RT HD
+https://liveanevia.mncnow.id/live/eds/RTEnglish/sa_hls/RTEnglish-avc1_2499968=10-RTEnglish-mp4a_98800_eng=5.m3u8
 
 #EXTINF:220,RESERVED
 https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
