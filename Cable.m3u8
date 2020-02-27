@@ -81,8 +81,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839
 #EXTINF:27,CNN International*
 http://92.43.140.249/s27/03.m3u8
 
-#EXTINF:28,Fox News Channel
-https://ustoday.hinews.live/stream/fox_480p/playlist.m3u8
+#EXTINF:28,Fox News Recap
+https://bk7l2w4nlx53-hls-live.5centscdn.com/FOXNEWS/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 
 #EXTINF:29,NBC News (Pluto TV)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56403d822d2719107d948cb9/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=d606dccc-ddf4-4d92-895f-70280d9cb61b&deviceId=97aded51-833a-4fed-aef9-d087d5d8e9de&deviceVersion=77.0.3865.90&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceDNT=0&userId=&advertisingId=&deviceLat=40.7035&deviceLon=-73.9235&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
@@ -96,8 +96,8 @@ https://d1xy5gfz8tdshw.cloudfront.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APT
 #EXTINF:32,BBC World News
 http://88.119.220.2/live/eds/BBC/HLS_encr/BBC-avc1_600000=10-BBC-mp4a_96000_eng=1.m3u8
 
-#EXTINF:33,Sky News
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/03.m3u8
+#EXTINF:33,ABC News Australia
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_22.m3u8
 
 #EXTINF:34,Al Jazeera
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index576.m3u8
@@ -144,8 +144,8 @@ https://streamidvo.multitvsolution.in/live/TLC_HD-a/p3.m3u8
 #EXTINF:48,Discovery
 https://streamidvo.multitvsolution.in/live/DiscoveryEng-a/p3.m3u8
 
-#EXTINF:49,Investigation Discovery
-http://ott.artmott.com/ID/tracks-v1a1/mono.m3u8
+#EXTINF:49,Animal Planet
+http://84.22.33.254/unicast.animalplanet/index.m3u8
 
 #EXTINF:50,History
 https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
@@ -285,8 +285,8 @@ http://de1se01.v2beat.live/playlist.m3u8
 #EXTINF:95,Docurama
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/640x360_394000/chunklist.m3u8
 
-#EXTINF:96,Crime & Investigation
-http://203.154.243.31:15001
+#EXTINF:96,Investigation Discovery
+http://ott.artmott.com/ID/tracks-v1a1/mono.m3u8
 
 #EXTINF:97,This Old House
 https://pcva4.manifest.auditude.com/auditude/variant/thisoldhouse_2/7b1d6383-3aa6-4601-b8cd-dff13b8b7965/aHR0cHM6Ly90aGlzb2xkaG91c2UtMi5yb2t1Lnd1cmwuY29tL21hbmlmZXN0L3BsYXlsaXN0Lm0zdTg.m3u8?pttrackingversion=v2&u=19287a324825cc5aacb7e46183c72324&pttrackingmode=sstm&g=1000010&z=268729&k=wurl_channel=318
@@ -423,8 +423,8 @@ https://live2.presstv.com/liveprs/smil:liveprs.smil/chunklist_w2071542233_b39410
 #EXTINF:141,Arise News
 https://contributionstreams.sechls01.visionip.tv/live/visiontv-contributionstreams-arise-tv-25f-16x9-SDh/chunklist.m3u8
 
-#EXTINF:142,ABC News Australia
-https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_22.m3u8
+#EXTINF:142,Australia Channel News
+https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master640x360.m3u8
 
 #EXTINF:143,Nick Jr
 http://185.176.117.243/live/eds/Nick_JR/HLS_encr/Nick_JR-avc1_1200000=14-Nick_JR-mp4a_96000_eng=6.m3u8
@@ -498,8 +498,8 @@ http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
 #EXTINF:202,CNN HD
 http://ott.artmott.com/CNN/tracks-v1a1/mono.m3u8
 
-#EXTINF:203,RESERVED
-https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
+#EXTINF:203,Fox News Channel HD
+https://ustoday.hinews.live/stream/fox_480p/playlist.m3u8
 
 #EXTINF:204,RESERVED
 https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
