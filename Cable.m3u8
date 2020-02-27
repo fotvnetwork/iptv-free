@@ -52,19 +52,19 @@ http://190.80.3.28/FOX/FOX.isml/FOX-audio_128052_eng=128000-video=800000.m3u8
 http://190.80.3.28/CW/CW.isml/CW-audio_128052_eng=128000-video=800000.m3u8
 
 #EXTINF:18,Nickelodeon
-http://185.176.117.243/live/eds/Nickelodeon/HLS_encr/Nickelodeon-avc1_1200000=17-Nickelodeon-mp4a_96000_eng=5.m3u8
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceLat=40.8364&deviceLon=-74.1403&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=66.0.3515.72&includeExtendedEvents=false&sid=ed4384ed-108c-4d94-86ab-ab0cc6e41e6f&userId=&serverSideAds=true
 
-#EXTINF:19,Disney Channel
-http://185.176.117.243/live/eds/Disney_Channel/HLS_encr/Disney_Channel-avc1_1200000=13-Disney_Channel-mp4a_96000_eng=1.m3u8
+#EXTINF:19,Battery Pop
+http://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbatterypop/CDN/640x360_440000/index.m3u8
 
 #EXTINF:20,Boomerang
 http://livecdnh3.tvanywhere.ae/hls/boomerang/03.m3u8
 
-#EXTINF:21,Disney XD
-http://185.176.117.243/live/eds/Disney_XD/HLS_encr/Disney_XD-avc1_1200000=10-Disney_XD-mp4a_96000_eng=5.m3u8
+#EXTINF:21,Pluto TV Kids
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceLat=40.8364&deviceLon=-74.1403&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=66.0.3515.72&includeExtendedEvents=false&sid=ed4384ed-108c-4d94-86ab-ab0cc6e41e6f&userId=&serverSideAds=true
 
-#EXTINF:22,Nicktoons
-http://185.176.117.243/live/eds/Nicktoons/HLS_encr/Nicktoons-avc1_1200000=10-Nicktoons-mp4a_96000_eng=2.m3u8
+#EXTINF:22,Fix & Foxi
+https://1301485333.rsc.cdn77.org/1301485333/tracks-v1a1/mono.m3u8
 
 #EXTINF:23,Popcornflix Action Movies
 https://stitcher.unreel.me/live/5d4b21643f4d602ba521b06c/playlist.m3u8
@@ -73,7 +73,7 @@ https://stitcher.unreel.me/live/5d4b21643f4d602ba521b06c/playlist.m3u8
 http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
 
 #EXTINF:25,Filmrise Movies
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/master.m3u8
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/640x360_440000/chunklist.m3u8
 
 #EXTINF:26,CNN (Pluto TV)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839419cb3/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=4bac739a-a968-4b1f-9d01-d69b69934c76&deviceId=8299a7f8-5fad-4f83-810f-f9b3b4575010&deviceVersion=75.0.3770.100&appVersion=2.7.1-5725cf052c6d5a7776009f53b7086f64da9ef528&deviceDNT=0&userId=&advertisingId=&deviceLat=37.751&deviceLon=-97.822&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
@@ -94,10 +94,10 @@ http://ott-cdn.ucom.am/s65/03.m3u8
 https://d1xy5gfz8tdshw.cloudfront.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-440-1_live.m3u8
 
 #EXTINF:32,BBC World News
-http://88.119.220.2/live/eds/BBC/HLS_encr/BBC-avc1_600000=10-BBC-mp4a_96000_eng=1.m3u8
+http://220.158.149.14:9999/live/TV00000000000000000112@HHZT;LIVE
 
-#EXTINF:33,ABC News Australia
-https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_22.m3u8
+#EXTINF:33,Sky News
+http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/03.m3u8
 
 #EXTINF:34,Al Jazeera
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index576.m3u8
@@ -186,8 +186,8 @@ https://dai.google.com/linear/hls/event/JX5KKhKKRPqchP3LfXD-1A/master.m3u8
 #EXTINF:62,The Film Detective
 https://distro.akamaized.net/indexfd_640x360.m3u8
 
-#EXTINF:63,Filmbox Arthouse
-https://1949337293.rsc.cdn77.org/1949337293/tracks-v1a1/mono.m3u8
+#EXTINF:63,Reel Px Family (test)
+https://1294836789.rsc.cdn77.org/1294836789/tracks-v1a1/mono.m3u8
 
 #EXTINF:64,Watch Mojo Top 10
 https://bozztv.com/36bay2/gin/giniko_top10_2000kb_36bay2/tracks-v1a1/mono.m3u8
@@ -426,8 +426,8 @@ https://contributionstreams.sechls01.visionip.tv/live/visiontv-contributionstrea
 #EXTINF:142,Australia Channel News
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master640x360.m3u8
 
-#EXTINF:143,Nick Jr
-http://185.176.117.243/live/eds/Nick_JR/HLS_encr/Nick_JR-avc1_1200000=14-Nick_JR-mp4a_96000_eng=6.m3u8
+#EXTINF:143,ABC News Australia
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_22.m3u8
 
 #EXTINF:144,AMGTV
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/chunklist.m3u8
