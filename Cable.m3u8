@@ -43,7 +43,7 @@ http://190.80.3.28/ABC/ABC.isml/ABC-audio_128052_eng=128000-video=800000.m3u8
 http://161.0.157.51/PLTV/88888888/224/3221227041/03.m3u8
 
 #EXTINF:15,NBC
-https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:nbc.smil/chunklist_b1600000.m3u8
+http://161.0.157.50/PLTV/88888888/224/3221227040/03.m3u8
 
 #EXTINF:16,FOX US
 http://190.80.3.28/FOX/FOX.isml/FOX-audio_128052_eng=128000-video=800000.m3u8
@@ -210,8 +210,8 @@ https://cdn.igocast.com/channel9_hls/channel9_master.m3u8
 #EXTINF:70,Z Living
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v4a1/index.m3u8
 
-#EXTINF:71,ESPN US
-https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:espn.smil/chunklist_b700000.m3u8
+#EXTINF:71,ESPN
+https://bk7l2w4nlx53-hls-live.5centscdn.com/ESPN/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 
 #EXTINF:72,HJtv
 http://190.80.3.28/HJTV/HJTV.isml/HJTV-audio_128301_und=128000-video=800000.m3u8
@@ -510,7 +510,7 @@ http://190.80.3.28/FOX/FOX.isml/FOX-audio_128052_eng=128000-video=2800000.m3u8
 #EXTINF:205,NBC News Now HD
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df97894467dfa00091c873c/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=954c037d-1a11-44d3-b488-9d06f8a3e068&deviceLat=33.9560&deviceLon=-118.3887&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=81.0.4044.26&includeExtendedEvents=false&sid=e6f1682e-cc62-437a-bd0d-082bea9a4059&userId=&serverSideAds=true
 
-#EXTINF:206,NBC HD
+#EXTINF:206,NBC HD*
 https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:nbc.smil/chunklist_b2500000.m3u8
 
 #EXTINF:207,CBSN HD
