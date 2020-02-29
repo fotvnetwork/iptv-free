@@ -319,7 +319,7 @@ http://190.80.3.28/OAN/OAN.isml/OAN-audio_124128_und=120000-video=850000.m3u8
 https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/index_50_av-p.m3u8
 
 #EXTINF:107,TYT
-https://tyt-ssai.akamaized.net/amagi_hls_data_tytnetwor-tytxumo/CDN/718x404_1390110/index.m3u8
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5331d5fb753499095a00045a/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=954c037d-1a11-44d3-b488-9d06f8a3e068&deviceLat=33.9560&deviceLon=-118.3887&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=81.0.4044.26&includeExtendedEvents=false&sid=e6f1682e-cc62-437a-bd0d-082bea9a4059&userId=&serverSideAds=true
 
 #EXTINF:108,InfoWars
 https://infostream.secure.footprint.net/hls-live/infostream-infostream/_definst_/chunklist_b866304.m3u8
@@ -494,6 +494,9 @@ https://edge-1192-ch-gv.filmon.com/live/27.low.stream/playlist.m3u8
 
 #EXTINF:165,Watch Mojo Top 10
 https://bozztv.com/36bay2/gin/giniko_top10_2000kb_36bay2/tracks-v1a1/mono.m3u8
+
+#EXTINF:166,Free Speech
+https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
 
 #EXTINF:201,Disney Channel HD
 http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
