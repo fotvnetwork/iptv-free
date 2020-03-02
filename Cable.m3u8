@@ -1,16 +1,16 @@
 #EXTM3U
 
-#EXTINF:1,Pop Life TV
+#EXTINF:1,Commercials
+https://player.webvideocore.net/CL1olYogIrDWvwqiIKK7eHbBxDyYany25g-L4QOVH5_l5daXY9tfEZPDJS0YHgpW/a_72hgc8ibnl8o.m3u8
+
+#EXTINF:2,Pop Life TV
 https://d3cbe0gidjd4k2.cloudfront.net/channel_2/channel2/chunklist_w592974426.m3u8
 
-#EXTINF:2,Inquirer 990 Television
+#EXTINF:3,Inquirer 990 Television
 http://59c3ec70cfde0.streamlock.net/channel_7/channel7/chunklist.m3u8
 
-#EXTINF:3,UNTV
+#EXTINF:4,UNTV
 https://untv.mmdlive.lldns.net/untv/97cc8d2c46bd43b78e0b112761ab71fe/chunklist_b732000.m3u8
-
-#EXTINF:4,CLTV 36
-http://cltv36-lh.akamaihd.net/i/cltv36_1@300961/index_2500_av-p.m3u8
 
 #EXTINF:5,5
 http://stream3.news5.ph/n5e/tv5/chunklist_w1330054632.m3u8
@@ -30,11 +30,11 @@ https://df7lqp0btxdx2.cloudfront.net/11227_500.m3u8
 #EXTINF:10,MyTV Cebu
 http://api.new.livestream.com/accounts/15418593/events/4787138/live.m3u8
 
-#EXTINF:11,ITV UK
-http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main600.m3u8
+#EXTINF:11,Commercials 2
+https://player.webvideocore.net/CL1olYogIrDWvwqiIKK7eHbBxDyYany25g-L4QOVH5_l5daXY9tfEZPDJS0YHgpW/a_3zxpxk172zeo.m3u8
 
-#EXTINF:12,Three New Zealand
-http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master_720.m3u8
+#EXTINF:12,CLTV 36
+http://cltv36-lh.akamaihd.net/i/cltv36_1@300961/index_2500_av-p.m3u8
 
 #EXTINF:13,ABC
 http://190.80.3.28/ABC/ABC.isml/ABC-audio_128052_eng=128000-video=800000.m3u8
@@ -54,14 +54,14 @@ http://190.80.3.28/CW/CW.isml/CW-audio_128052_eng=128000-video=800000.m3u8
 #EXTINF:18,Nickelodeon
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=954c037d-1a11-44d3-b488-9d06f8a3e068&deviceLat=33.9560&deviceLon=-118.3887&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=81.0.4044.26&includeExtendedEvents=false&sid=e6f1682e-cc62-437a-bd0d-082bea9a4059&userId=&serverSideAds=true
 
-#EXTINF:19,Battery Pop
-http://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbatterypop/CDN/640x360_440000/index.m3u8
+#EXTINF:19,Disney Channel
+http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
 
 #EXTINF:20,Boomerang
 http://livecdnh3.tvanywhere.ae/hls/boomerang/03.m3u8
 
-#EXTINF:21,Pluto TV Kids
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=954c037d-1a11-44d3-b488-9d06f8a3e068&deviceLat=33.9560&deviceLon=-118.3887&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=81.0.4044.26&includeExtendedEvents=false&sid=e6f1682e-cc62-437a-bd0d-082bea9a4059&userId=&serverSideAds=true
+#EXTINF:21,Cartoon Network (Trial)
+https://fluxustv.blogspot.com@bit.ly/2T5TE51?.m3u8
 
 #EXTINF:22,Fix & Foxi
 https://1301485333.rsc.cdn77.org/1301485333/tracks-v1a1/mono.m3u8
@@ -115,7 +115,7 @@ https://bozztv.com/36bay2/gin/giniko_euronews_800kb_36bay2/tracks-v1a1/mono.m3u8
 https://i24alive1-a.akamaihd.net/6e3dd61ac4c34d6f8fb9698b565b9f50/eu-central-1/5377161796001/profile_3/chunklist.m3u8
 
 #EXTINF:39,TRT World
-http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/index_360pp_av-p.m3u8?sd=10&rebase=on
+https://tv-trtworld.live.trt.com.tr/master_360.m3u8
 
 #EXTINF:40,DW
 https://m-c010-j2apps.s.llnwi.net/hls/8023.DWEnglish.in.m3u8
@@ -147,14 +147,14 @@ https://streamidvo.multitvsolution.in/live/DiscoveryEng-a/p3.m3u8
 #EXTINF:49,Animal Planet
 http://84.22.33.254/unicast.animalplanet/index.m3u8
 
-#EXTINF:50,History
+#EXTINF:50,The Best of History
 https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 
-#EXTINF:51,Lifetime
+#EXTINF:51,The Best of Lifetime
 https://bk7l2w4nlx53-hls-live.5centscdn.com/GRAD/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 
 #EXTINF:52,AXN
-http://av.xemtivinet.net:8080/hls/axn/index.m3u8
+http://210.210.155.66/h/h141/02.m3u8
 
 #EXTINF:53,Blue Ant Entertainment
 http://45.126.83.51/dr9445/h/h16/02.m3u8
@@ -210,8 +210,8 @@ https://cdn.igocast.com/channel9_hls/channel9_master.m3u8
 #EXTINF:70,Z Living
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v4a1/index.m3u8
 
-#EXTINF:71,ESPN
-https://bk7l2w4nlx53-hls-live.5centscdn.com/ESPN/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
+#EXTINF:71,Arena Sports 1
+http://ott.artmott.com/ArenaSport1MW/tracks-v1a1/mono.m3u8
 
 #EXTINF:72,HJtv
 http://190.80.3.28/HJTV/HJTV.isml/HJTV-audio_128301_und=128000-video=800000.m3u8
@@ -300,14 +300,14 @@ https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e82
 #EXTINF:100,Outdoor Channel
 http://84.22.33.254/unicast.outdoorchannel/index.m3u8
 
-#EXTINF:101,Top Stories by Newsy
+#EXTINF:101,Newsy Top Stories
 https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=newsyweb
 
 #EXTINF:102,CBSN
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 
 #EXTINF:103,ABC News Live
-http://abcnewslive.akamaized.net/amagi_hls_data_roku-host-abc/CDN/384x216_358600/index.m3u8
+https://abcnewslive.akamaized.net/amagi_hls_data_roku-host-abc/CDN/playlist.m3u8
 
 #EXTINF:104,NBC News Now
 http://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/848x480_965800/index.m3u8
@@ -408,8 +408,8 @@ https://feed.rightnowtelevision.com/live/smil:rntv.smil/chunklist_w94831124_b169
 #EXTINF:136,Safe TV
 http://18.191.91.130:1935/live/safetv/playlist.m3u8
 
-#EXTINF:137,Folk TV
-http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playlist.m3u8
+#EXTINF:137,Camera Smile TV
+https://playout4multirtmp.tulix.tv/live7/Stream1/playlist.m3u8
 
 #EXTINF:138,SGTN 49
 http://stgn-49.tulix.tv/live19/Stream1/chunklist_w1498543121.m3u8
@@ -429,8 +429,8 @@ https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master6
 #EXTINF:143,ABC News Australia
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_22.m3u8
 
-#EXTINF:144,AMGTV
-https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/chunklist.m3u8
+#EXTINF:144,Three New Zealand
+http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master_720.m3u8
 
 #EXTINF:145,Saveur
 https://a.jsrdn.com/broadcast/060753d37e/+0000/c.m3u8
@@ -498,11 +498,17 @@ https://bozztv.com/36bay2/gin/giniko_top10_2000kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:166,Free Speech
 https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
 
-#EXTINF:201,Disney Channel HD
-http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
+#EXTINF:167,AMGTV
+https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/chunklist.m3u8
 
-#EXTINF:202,CNN HD*
-http://ott.artmott.com/CNN/tracks-v1a1/mono.m3u8
+#EXTINF:168,ITV UK
+http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main600.m3u8
+
+#EXTINF:201,Pluto TV Kids
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=954c037d-1a11-44d3-b488-9d06f8a3e068&deviceLat=33.9560&deviceLon=-118.3887&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=81.0.4044.26&includeExtendedEvents=false&sid=e6f1682e-cc62-437a-bd0d-082bea9a4059&userId=&serverSideAds=true
+
+#EXTINF:202,HDNet Movies (Trial)
+https://fluxustv.blogspot.com@bit.ly/382H6Q8?.m3u8
 
 #EXTINF:203,Fox News Channel HD
 https://ustoday.hinews.live/stream/fox_480p/playlist.m3u8
@@ -513,8 +519,8 @@ http://190.80.3.28/FOX/FOX.isml/FOX-audio_128052_eng=128000-video=2800000.m3u8
 #EXTINF:205,NBC News Now HD
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df97894467dfa00091c873c/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=954c037d-1a11-44d3-b488-9d06f8a3e068&deviceLat=33.9560&deviceLon=-118.3887&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=81.0.4044.26&includeExtendedEvents=false&sid=e6f1682e-cc62-437a-bd0d-082bea9a4059&userId=&serverSideAds=true
 
-#EXTINF:206,NBC HD*
-https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:nbc.smil/chunklist_b2500000.m3u8
+#EXTINF:206,NBC HD
+http://161.0.157.50/PLTV/88888888/224/3221227040/01.m3u8
 
 #EXTINF:207,CBSN HD
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a6b92f6e22a617379789618/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=954c037d-1a11-44d3-b488-9d06f8a3e068&deviceLat=33.9560&deviceLon=-118.3887&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=81.0.4044.26&includeExtendedEvents=false&sid=e6f1682e-cc62-437a-bd0d-082bea9a4059&userId=&serverSideAds=true
