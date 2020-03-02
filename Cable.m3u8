@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:1,Commercials
-https://player.webvideocore.net/CL1olYogIrDWvwqiIKK7eHbBxDyYany25g-L4QOVH5_l5daXY9tfEZPDJS0YHgpW/a_72hgc8ibnl8o.m3u8
+https://cdnvideo.webvideocore.net/enc4_t40r9n4s14kab6s2al4tggeiuh5e5i1mu6m2s6trctr981l4oigjddrv809qd1e39mch23ug0a5acisnfiq27f0r6voq220e86l4atqeklbr54tbcfbn953icaf5cnpdu/index.m3u8?clip_id=3zxpxk172zeo
 
 #EXTINF:2,Pop Life TV
 https://d3cbe0gidjd4k2.cloudfront.net/channel_2/channel2/chunklist_w592974426.m3u8
@@ -31,7 +31,7 @@ https://df7lqp0btxdx2.cloudfront.net/11227_500.m3u8
 http://api.new.livestream.com/accounts/15418593/events/4787138/live.m3u8
 
 #EXTINF:11,Commercials 2
-https://player.webvideocore.net/CL1olYogIrDWvwqiIKK7eHbBxDyYany25g-L4QOVH5_l5daXY9tfEZPDJS0YHgpW/a_3zxpxk172zeo.m3u8
+https://cdnvideo.webvideocore.net/enc4_t40r9n4s14kab6s2al4tggeiuh5e5i1mu6m2s6trctr981l4oigjddrv809qd1e39mch23ug0a5acisnfiq27f0r6voq220e86l4atqeklbr54tbcfbn953icaf5cnpdu/index.m3u8?clip_id=72hgc8ibnl8o
 
 #EXTINF:12,CLTV 36
 http://cltv36-lh.akamaihd.net/i/cltv36_1@300961/index_2500_av-p.m3u8
