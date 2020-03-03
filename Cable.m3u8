@@ -1,16 +1,16 @@
 #EXTM3U
 
-#EXTINF:1,Commercials
-https://cdnvideo.webvideocore.net/enc4_t40r9n4s14kab6s2al4tggeiuh5e5i1mu6m2s6trctr981l4oigjddrv809qd1e39mch23ug0a5acisnfiq27f0r6voq220e86l4atqeklbr54tbcfbn953icaf5cnpdu/index.m3u8?clip_id=3zxpxk172zeo
-
-#EXTINF:2,Pop Life TV
+#EXTINF:1,Pop Life TV
 https://d3cbe0gidjd4k2.cloudfront.net/channel_2/channel2/chunklist_w592974426.m3u8
 
-#EXTINF:3,Inquirer 990 Television
+#EXTINF:2,Inquirer 990 Television
 http://59c3ec70cfde0.streamlock.net/channel_7/channel7/chunklist.m3u8
 
-#EXTINF:4,UNTV
+#EXTINF:3,UNTV
 https://untv.mmdlive.lldns.net/untv/97cc8d2c46bd43b78e0b112761ab71fe/chunklist_b732000.m3u8
+
+#EXTINF:4,CLTV 36
+http://cltv36-lh.akamaihd.net/i/cltv36_1@300961/index_2500_av-p.m3u8
 
 #EXTINF:5,5
 http://stream3.news5.ph/n5e/tv5/chunklist_w1330054632.m3u8
@@ -30,11 +30,11 @@ https://df7lqp0btxdx2.cloudfront.net/11227_500.m3u8
 #EXTINF:10,MyTV Cebu
 http://api.new.livestream.com/accounts/15418593/events/4787138/live.m3u8
 
-#EXTINF:11,Commercials 2
-https://cdnvideo.webvideocore.net/enc4_t40r9n4s14kab6s2al4tggeiuh5e5i1mu6m2s6trctr981l4oigjddrv809qd1e39mch23ug0a5acisnfiq27f0r6voq220e86l4atqeklbr54tbcfbn953icaf5cnpdu/index.m3u8?clip_id=72hgc8ibnl8o
+#EXTINF:11,ITV UK
+http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main600.m3u8
 
-#EXTINF:12,CLTV 36
-http://cltv36-lh.akamaihd.net/i/cltv36_1@300961/index_2500_av-p.m3u8
+#EXTINF:12,Watch Mojo Top 10
+https://bozztv.com/36bay2/gin/giniko_top10_2000kb_36bay2/tracks-v1a1/mono.m3u8
 
 #EXTINF:13,ABC
 http://190.80.3.28/ABC/ABC.isml/ABC-audio_128052_eng=128000-video=800000.m3u8
@@ -60,7 +60,7 @@ http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
 #EXTINF:20,Boomerang
 http://livecdnh3.tvanywhere.ae/hls/boomerang/03.m3u8
 
-#EXTINF:21,Cartoon Network (Trial)
+#EXTINF:21,Cartoon Network (Free Trial)
 https://fluxustv.blogspot.com@bit.ly/2T5TE51?.m3u8
 
 #EXTINF:22,Fix & Foxi
@@ -492,22 +492,16 @@ https://2-fss-2.streamhoster.com/pl_120/201852-1297026-1/master.m3u8
 #EXTINF:164,BBC News
 https://edge-1192-ch-gv.filmon.com/live/27.low.stream/playlist.m3u8
 
-#EXTINF:165,Watch Mojo Top 10
-https://bozztv.com/36bay2/gin/giniko_top10_2000kb_36bay2/tracks-v1a1/mono.m3u8
-
-#EXTINF:166,Free Speech
+#EXTINF:165,Free Speech
 https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
 
-#EXTINF:167,AMGTV
+#EXTINF:166,AMGTV
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/chunklist.m3u8
-
-#EXTINF:168,ITV UK
-http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main600.m3u8
 
 #EXTINF:201,Pluto TV Kids
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=954c037d-1a11-44d3-b488-9d06f8a3e068&deviceLat=33.9560&deviceLon=-118.3887&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=81.0.4044.26&includeExtendedEvents=false&sid=e6f1682e-cc62-437a-bd0d-082bea9a4059&userId=&serverSideAds=true
 
-#EXTINF:202,HDNet Movies (Trial)
+#EXTINF:202,HDNet Movies (Free Trial)
 https://fluxustv.blogspot.com@bit.ly/382H6Q8?.m3u8
 
 #EXTINF:203,Fox News Channel HD
@@ -537,7 +531,7 @@ http://190.80.3.28/ABC/ABC.isml/ABC-audio_128052_eng=128000-video=2800000.m3u8
 #EXTINF:211,ESPN HD
 http://npse.brots.world/espn2.m3u8
 
-#EXTINF:212,WWE HD
+#EXTINF:212,WWE Classic
 https://bk7l2w4nlx53-hls-live.5centscdn.com/WWE/961ac1c875f5884f31bdd177365ef1e3.sdp/chunks.m3u8
 
 #EXTINF:213,Olympic Channel HD
