@@ -312,7 +312,7 @@ https://abcnewslive.akamaized.net/amagi_hls_data_roku-host-abc/CDN/playlist.m3u8
 #EXTINF:104,NBC News Now
 http://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/848x480_965800/index.m3u8
 
-#EXTINF:105,One America News Network
+#EXTINF:105,One America News Network*
 http://190.80.3.28/OAN/OAN.isml/OAN-audio_124128_und=120000-video=850000.m3u8
 
 #EXTINF:106,C-SPAN
@@ -400,7 +400,7 @@ https://dai.google.com/linear/hls/event/q0dlRn_xSBGTZYI7vwWWJQ/master.m3u8
 https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
 
 #EXTINF:134,Youtoo America
-https://imavex2.mmdlive.lldns.net/imavex2/46320b2319cf49d7bf68f70cc4a10c98/chunklist_b732000.m3u8
+http://gideommd.mmdlive.lldns.net/gideommd/d5b6a753f86e4e51b8e15c7d23887a4f/chunklist_b732000.m3u8
 
 #EXTINF:135,Right Now TV
 https://feed.rightnowtelevision.com/live/smil:rntv.smil/chunklist_w94831124_b1692000_sleng.m3u8
@@ -546,8 +546,8 @@ http://wpc.9ec1.edgecastcdn.net/249EC1/infowarshd-edgecast/hd720.m3u8
 #EXTINF:216,Plant-Based Network HD
 https://hls-cdn.tvstartup.net/barakyah-channel/live/pbtv/chunklist_w1880221002.m3u8
 
-#EXTINF:217,RESERVED
-https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
+#EXTINF:217,Youtoo America HD
+https://thegateway.app/YouToo/CueTones/playlist.m3u8
 
-#EXTINF:218,RESERVED
-https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
+#EXTINF:218,Biz TV HD
+https://thegateway.app/BizAndYou/Biz_1080p/playlist.m3u8
