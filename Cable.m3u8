@@ -15,7 +15,7 @@ http://cltv36-lh.akamaihd.net/i/cltv36_1@300961/index_2500_av-p.m3u8
 #EXTINF:5,5
 http://stream3.news5.ph/n5e/tv5/chunklist_w1330054632.m3u8
 
-#EXTINF:6,5 Plus
+#EXTINF:6,One Sports
 http://stream3.news5.ph:1935/n5e/5plus/chunklist_w533955318.m3u8
 
 #EXTINF:7,GMA Pinoy TV
@@ -60,8 +60,8 @@ http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
 #EXTINF:20,Boomerang
 http://livecdnh3.tvanywhere.ae/hls/boomerang/03.m3u8
 
-#EXTINF:21,Cartoon Network (Free Trial)
-https://fluxustv.blogspot.com@bit.ly/2T5TE51?.m3u8
+#EXTINF:21,RESERVED
+https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
 
 #EXTINF:22,Fix & Foxi
 https://1301485333.rsc.cdn77.org/1301485333/tracks-v1a1/mono.m3u8
@@ -312,8 +312,8 @@ https://abcnewslive.akamaized.net/amagi_hls_data_roku-host-abc/CDN/playlist.m3u8
 #EXTINF:104,NBC News Now
 http://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/848x480_965800/index.m3u8
 
-#EXTINF:105,One America News Network*
-http://190.80.3.28/OAN/OAN.isml/OAN-audio_124128_und=120000-video=850000.m3u8
+#EXTINF:105,The First
+https://a.jsrdn.com/broadcast/h3h4gsui4/c.m3u8
 
 #EXTINF:106,C-SPAN
 https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/index_50_av-p.m3u8
@@ -390,8 +390,8 @@ http://30a-tv.com/sidewalks.m3u8
 #EXTINF:130,ElectricNOW
 https://a.jsrdn.com/broadcast/vf93fRSk7/playlist_360p.m3u8
 
-#EXTINF:131,Hunt Channel
-https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
+#EXTINF:131,AFV Channel
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxafhv/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
 
 #EXTINF:132,The Pet Collective
 https://dai.google.com/linear/hls/event/q0dlRn_xSBGTZYI7vwWWJQ/master.m3u8
@@ -411,8 +411,8 @@ http://18.191.91.130:1935/live/safetv/playlist.m3u8
 #EXTINF:137,Camera Smile TV
 https://playout4multirtmp.tulix.tv/live7/Stream1/playlist.m3u8
 
-#EXTINF:138,SGTN 49
-http://stgn-49.tulix.tv/live19/Stream1/chunklist_w1498543121.m3u8
+#EXTINF:138,Hunt Channel
+https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
 
 #EXTINF:139,Insight TV
 http://jiocgwhub.jio.ril.com/Insight/Insight_800.m3u8
@@ -444,8 +444,8 @@ http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/ch
 #EXTINF:148,Dabl
 https://cbsta49f-dabl68fc.global.ssl.fastly.net/out/v1/dfecb53fbf434b6bbbfd91d8a2549381/manifest_19.m3u8
 
-#EXTINF:149,Tastemade
-https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/718x404_2002829/index.m3u8
+#EXTINF:149,Food
+https://bk7l2w4nlx53-hls-live.5centscdn.com/FOOD/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 
 #EXTINF:150,Buzzr
 https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls_7.m3u8
@@ -551,3 +551,6 @@ https://thegateway.app/YouToo/CueTones/playlist.m3u8
 
 #EXTINF:218,Biz TV HD
 https://thegateway.app/BizAndYou/Biz_1080p/playlist.m3u8
+
+#EXTINF:219,Edge Sports (Free Trial)
+https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
