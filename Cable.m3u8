@@ -60,8 +60,8 @@ http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
 #EXTINF:20,Boomerang
 http://livecdnh3.tvanywhere.ae/hls/boomerang/03.m3u8
 
-#EXTINF:21,RESERVED
-https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
+#EXTINF:21,Cartoon Network
+http://ott.artmott.com/Cartoonnet/tracks-v1a1/mono.m3u8
 
 #EXTINF:22,Fix & Foxi
 https://1301485333.rsc.cdn77.org/1301485333/tracks-v1a1/mono.m3u8
@@ -79,7 +79,7 @@ http://av.xemtivinet.net:8080/hls/hbo/index.m3u8
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839419cb3/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=954c037d-1a11-44d3-b488-9d06f8a3e068&deviceLat=33.9560&deviceLon=-118.3887&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=81.0.4044.26&includeExtendedEvents=false&sid=e6f1682e-cc62-437a-bd0d-082bea9a4059&userId=&serverSideAds=true
 
 #EXTINF:27,CNN International*
-http://92.43.140.249/s27/03.m3u8
+http://84.22.33.254/unicast.cnn/video.m3u8
 
 #EXTINF:28,Fox News Recap
 https://bk7l2w4nlx53-hls-live.5centscdn.com/FOXNEWS/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
@@ -94,7 +94,7 @@ http://ott-cdn.ucom.am/s65/03.m3u8
 https://d1xy5gfz8tdshw.cloudfront.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-440-1_live.m3u8
 
 #EXTINF:32,BBC World News
-http://220.158.149.14:9999/live/TV00000000000000000112@HHZT;LIVE
+https://itpolly.iptv.digijadoo.net/live/bbc_world/playlist.m3u8
 
 #EXTINF:33,Sky News
 http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/03.m3u8
@@ -220,7 +220,7 @@ http://190.80.3.28/HJTV/HJTV.isml/HJTV-audio_128301_und=128000-video=800000.m3u8
 http://cdnak21.cast4u.info/channels/4/10804.m3u8
 
 #EXTINF:74,Fox Sports
-http://45.58.62.92:8080
+https://tv4.chang55.com/live2/tv4ch09.stream/chunks.m3u8
 
 #EXTINF:75,Fox Sports News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master640x360.m3u8
@@ -483,8 +483,8 @@ https://dai.google.com/linear/hls/event/Xu-ITJ2GTNGaxGn893mmWg/master.m3u8
 #EXTINF:161,CBSN Denver
 https://dai.google.com/linear/hls/event/EUo67MWSRh6toPi0heJKnQ/master.m3u8
 
-#EXTINF:162,RT America
-https://bozztv.com/36bay2/gin/giniko_russiatoday_2200kb_36bay2/index.m3u8
+#EXTINF:162,CBSN Pittsburgh
+https://dai.google.com/linear/hls/event/i5SXVKI4QIuV-eF2XAH4FQ/master.m3u8
 
 #EXTINF:163,Cozi TV
 https://2-fss-2.streamhoster.com/pl_120/201852-1297026-1/master.m3u8
@@ -497,6 +497,9 @@ https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
 
 #EXTINF:166,AMGTV
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/chunklist.m3u8
+
+#EXTINF:167,History (Free Trial)
+http://ott.artmott.com/HistoryChannel/tracks-v1a1/mono.m3u8
 
 #EXTINF:201,Pluto TV Kids
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=954c037d-1a11-44d3-b488-9d06f8a3e068&deviceLat=33.9560&deviceLon=-118.3887&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=81.0.4044.26&includeExtendedEvents=false&sid=e6f1682e-cc62-437a-bd0d-082bea9a4059&userId=&serverSideAds=true
@@ -554,3 +557,9 @@ https://thegateway.app/BizAndYou/Biz_1080p/playlist.m3u8
 
 #EXTINF:219,Edge Sports (Free Trial)
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
+
+#EXTINF:220,BBC World News HD (Free Trial)
+http://flusrv1.artmotion.net/unicast.bbcworld/tracks-v1a1/mono.m3u8
+
+#EXTINF:221,Sony Movies (Free Trial)
+http://51.52.156.22:8888/http/009
