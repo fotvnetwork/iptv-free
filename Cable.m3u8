@@ -52,7 +52,7 @@ http://190.80.3.28/FOX/FOX.isml/FOX-audio_128052_eng=128000-video=800000.m3u8
 http://190.80.3.28/CW/CW.isml/CW-audio_128052_eng=128000-video=800000.m3u8
 
 #EXTINF:18,Nickelodeon
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=954c037d-1a11-44d3-b488-9d06f8a3e068&deviceLat=33.9560&deviceLon=-118.3887&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=81.0.4044.26&includeExtendedEvents=false&sid=e6f1682e-cc62-437a-bd0d-082bea9a4059&userId=&serverSideAds=true
+http://ott.artmott.com/Nickelodeon/tracks-v1a1/mono.m3u8
 
 #EXTINF:19,Disney Channel
 http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
@@ -63,8 +63,8 @@ http://livecdnh3.tvanywhere.ae/hls/boomerang/03.m3u8
 #EXTINF:21,Cartoon Network
 http://ott.artmott.com/Cartoonnet/tracks-v1a1/mono.m3u8
 
-#EXTINF:22,Fix & Foxi
-https://1301485333.rsc.cdn77.org/1301485333/tracks-v1a1/mono.m3u8
+#EXTINF:22,Pop UK
+http://51.52.156.22:8888/http/015
 
 #EXTINF:23,Popcornflix Action Movies
 https://stitcher.unreel.me/live/5d4b21643f4d602ba521b06c/playlist.m3u8
@@ -78,10 +78,10 @@ http://av.xemtivinet.net:8080/hls/hbo/index.m3u8
 #EXTINF:26,CNN (Pluto TV)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839419cb3/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=954c037d-1a11-44d3-b488-9d06f8a3e068&deviceLat=33.9560&deviceLon=-118.3887&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=81.0.4044.26&includeExtendedEvents=false&sid=e6f1682e-cc62-437a-bd0d-082bea9a4059&userId=&serverSideAds=true
 
-#EXTINF:27,CNN International*
+#EXTINF:27,CNN International
 http://84.22.33.254/unicast.cnn/video.m3u8
 
-#EXTINF:28,Fox News Recap
+#EXTINF:28,Best of Fox News
 https://bk7l2w4nlx53-hls-live.5centscdn.com/FOXNEWS/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 
 #EXTINF:29,NBC News (Pluto TV)
@@ -147,11 +147,11 @@ https://streamidvo.multitvsolution.in/live/DiscoveryEng-a/p3.m3u8
 #EXTINF:49,Animal Planet
 http://84.22.33.254/unicast.animalplanet/index.m3u8
 
-#EXTINF:50,The Best of History
+#EXTINF:50,Best of History
 https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 
-#EXTINF:51,The Best of Lifetime
-https://bk7l2w4nlx53-hls-live.5centscdn.com/GRAD/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
+#EXTINF:51,Best of A&E
+https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8
 
 #EXTINF:52,AXN
 http://210.210.155.66/h/h141/02.m3u8
