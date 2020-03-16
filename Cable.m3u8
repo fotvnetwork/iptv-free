@@ -66,8 +66,8 @@ http://ott.artmott.com/Cartoonnet/tracks-v1a1/mono.m3u8
 #EXTINF:22,Pop UK
 http://51.52.156.22:8888/http/015
 
-#EXTINF:23,Popcornflix Action Movies
-https://stitcher.unreel.me/live/5d4b21643f4d602ba521b06c/playlist.m3u8
+#EXTINF:23,Fox Movies (Free Trial)
+https://tv4.chang55.com/live2/tv4ch82.stream/chunks.m3u8
 
 #EXTINF:24,Star Movies
 http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
@@ -500,6 +500,9 @@ https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/chunklist.m3u8
 
 #EXTINF:167,History (Free Trial)
 http://ott.artmott.com/HistoryChannel/tracks-v1a1/mono.m3u8
+
+#EXTINF:168,popcornflix Action Movies
+https://stitcher.unreel.me/live/5d4b21643f4d602ba521b06c/playlist.m3u8
 
 #EXTINF:201,Pluto TV Kids
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=954c037d-1a11-44d3-b488-9d06f8a3e068&deviceLat=33.9560&deviceLon=-118.3887&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=81.0.4044.26&includeExtendedEvents=false&sid=e6f1682e-cc62-437a-bd0d-082bea9a4059&userId=&serverSideAds=true
