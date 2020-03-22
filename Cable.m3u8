@@ -1,13 +1,13 @@
 #EXTM3U
 
-#EXTINF:1,Pop Life TV
+#EXTINF:1,UNTV
+https://untv.mmdlive.lldns.net/untv/97cc8d2c46bd43b78e0b112761ab71fe/chunklist_b732000.m3u8
+
+#EXTINF:2,Pop Life TV
 https://d3cbe0gidjd4k2.cloudfront.net/channel_2/channel2/chunklist_w592974426.m3u8
 
-#EXTINF:2,Inquirer 990 Television
+#EXTINF:3,Inquirer 990 Television
 http://59c3ec70cfde0.streamlock.net/channel_7/channel7/chunklist.m3u8
-
-#EXTINF:3,UNTV
-https://untv.mmdlive.lldns.net/untv/97cc8d2c46bd43b78e0b112761ab71fe/chunklist_b732000.m3u8
 
 #EXTINF:4,CLTV 36
 http://cltv36-lh.akamaihd.net/i/cltv36_1@300961/index_2500_av-p.m3u8
@@ -66,14 +66,14 @@ http://ott.artmott.com/Cartoonnet/tracks-v1a1/mono.m3u8
 #EXTINF:22,Pop UK
 http://51.52.156.22:8888/http/015
 
-#EXTINF:23,Fox Movies (Free Trial)
-https://tv4.chang55.com/live2/tv4ch82.stream/chunks.m3u8
+#EXTINF:23,Sony Movies (Free Trial)
+http://51.52.156.22:8888/http/009
 
 #EXTINF:24,Star Movies
 http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
 
-#EXTINF:25,HBO
-http://av.xemtivinet.net:8080/hls/hbo/index.m3u8
+#EXTINF:25,HDNet Movies (Free Trial)
+https://fluxustv.blogspot.com@bit.ly/382H6Q8?.m3u8
 
 #EXTINF:26,CNN (Pluto TV)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839419cb3/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=954c037d-1a11-44d3-b488-9d06f8a3e068&deviceLat=33.9560&deviceLon=-118.3887&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=81.0.4044.26&includeExtendedEvents=false&sid=e6f1682e-cc62-437a-bd0d-082bea9a4059&userId=&serverSideAds=true
@@ -94,7 +94,7 @@ http://ott-cdn.ucom.am/s65/03.m3u8
 https://d1xy5gfz8tdshw.cloudfront.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-440-1_live.m3u8
 
 #EXTINF:32,BBC World News
-https://itpolly.iptv.digijadoo.net/live/bbc_world/playlist.m3u8
+http://220.158.149.14:9999/live/TV00000000000000000112@HHZT;LIVE
 
 #EXTINF:33,Sky News
 http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/03.m3u8
@@ -145,7 +145,7 @@ https://streamidvo.multitvsolution.in/live/TLC_HD-a/p3.m3u8
 https://streamidvo.multitvsolution.in/live/DiscoveryEng-a/p3.m3u8
 
 #EXTINF:49,Animal Planet
-http://84.22.33.254/unicast.animalplanet/index.m3u8
+http://ott.artmott.com/AnimalPlanet/tracks-v1a1/mono.m3u8
 
 #EXTINF:50,Best of History
 https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
@@ -165,14 +165,14 @@ http://203.154.243.89:11205
 #EXTINF:55,AMC
 http://84.22.33.254/unicast.amc/index.m3u8
 
-#EXTINF:56,Scifi
-http://ott.artmott.com/sci-fi/tracks-v1a1/mono.m3u8
+#EXTINF:56,Up TV (Free Trial)
+http://line.protv.cc/VFS56PecA4/Z119vkc4Am/91881
 
 #EXTINF:57,CBS Reality
 http://84.22.33.254/unicast.cbsreality/index.m3u8
 
-#EXTINF:58,Diva
-http://ott.artmott.com/DIVA/tracks-v1a1/mono.m3u8
+#EXTINF:58,Comedy Dynamics
+https://a.jsrdn.com/broadcast/5Gt2c8lsw/c.m3u8
 
 #EXTINF:59,Star World
 http://livecdnh1.tvanywhere.ae/hls/star_world/04.m3u8
@@ -190,7 +190,7 @@ https://distro.akamaized.net/indexfd_640x360.m3u8
 https://1294836789.rsc.cdn77.org/1294836789/tracks-v1a1/mono.m3u8
 
 #EXTINF:64,Filmrise Movies
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/640x360_440000/chunklist.m3u8
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/master.m3u8
 
 #EXTINF:65,E!
 http://ott.artmott.com/E!/tracks-v1a1/mono.m3u8
@@ -220,7 +220,7 @@ http://190.80.3.28/HJTV/HJTV.isml/HJTV-audio_128301_und=128000-video=800000.m3u8
 http://cdnak21.cast4u.info/channels/4/10804.m3u8
 
 #EXTINF:74,Fox Sports
-https://tv4.chang55.com/live2/tv4ch09.stream/chunks.m3u8
+http://45.58.62.92:8080
 
 #EXTINF:75,Fox Sports News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master640x360.m3u8
@@ -507,8 +507,8 @@ https://stitcher.unreel.me/live/5d4b21643f4d602ba521b06c/playlist.m3u8
 #EXTINF:201,Pluto TV Kids
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=954c037d-1a11-44d3-b488-9d06f8a3e068&deviceLat=33.9560&deviceLon=-118.3887&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=81.0.4044.26&includeExtendedEvents=false&sid=e6f1682e-cc62-437a-bd0d-082bea9a4059&userId=&serverSideAds=true
 
-#EXTINF:202,HDNet Movies (Free Trial)
-https://fluxustv.blogspot.com@bit.ly/382H6Q8?.m3u8
+#EXTINF:202,RESERVED
+https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
 
 #EXTINF:203,Fox News Channel HD
 http://160.119.77.50/iptv/uk-foxnews.stream/playlist.m3u8
@@ -563,6 +563,3 @@ https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m
 
 #EXTINF:220,BBC World News HD (Free Trial)
 http://flusrv1.artmotion.net/unicast.bbcworld/tracks-v1a1/mono.m3u8
-
-#EXTINF:221,Sony Movies (Free Trial)
-http://51.52.156.22:8888/http/009
