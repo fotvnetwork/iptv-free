@@ -33,8 +33,8 @@ http://api.new.livestream.com/accounts/15418593/events/4787138/live.m3u8
 #EXTINF:11,ITV UK
 http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main600.m3u8
 
-#EXTINF:12,Watch Mojo Top 10
-https://bozztv.com/36bay2/gin/giniko_top10_2000kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:12,Stirr City
+https://dai.google.com/linear/hls/event/WHTEcpPjQAaeStCtrJqzVQ/master.m3u8
 
 #EXTINF:13,ABC
 http://190.80.3.28/ABC/ABC.isml/ABC-audio_128052_eng=128000-video=800000.m3u8
@@ -111,8 +111,8 @@ http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 #EXTINF:37,Euronews
 https://bozztv.com/36bay2/gin/giniko_euronews_800kb_36bay2/tracks-v1a1/mono.m3u8
 
-#EXTINF:38,i24 News
-https://i24alive1-a.akamaihd.net/6e3dd61ac4c34d6f8fb9698b565b9f50/eu-central-1/5377161796001/profile_3/chunklist.m3u8
+#EXTINF:38,Press TV
+https://live2.presstv.com/liveprs/smil:liveprs.smil/chunklist_w2071542233_b394100_slen.m3u8
 
 #EXTINF:39,TRT World
 https://tv-trtworld.live.trt.com.tr/master_360.m3u8
@@ -313,7 +313,7 @@ https://abcnewslive.akamaized.net/amagi_hls_data_roku-host-abc/CDN/playlist.m3u8
 http://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/848x480_965800/index.m3u8
 
 #EXTINF:105,The First
-https://a.jsrdn.com/broadcast/h3h4gsui4/c.m3u8
+https://a.jsrdn.com/broadcast/h3h4gsui4/playlist480p.m3u8
 
 #EXTINF:106,C-SPAN
 https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/index_50_av-p.m3u8
@@ -417,8 +417,8 @@ https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
 #EXTINF:139,Insight TV
 http://jiocgwhub.jio.ril.com/Insight/Insight_800.m3u8
 
-#EXTINF:140,Press TV
-https://live2.presstv.com/liveprs/smil:liveprs.smil/chunklist_w2071542233_b394100_slen.m3u8
+#EXTINF:140,TeleSUR English
+https://d7g1ebft2592.cloudfront.net/mblivev3/360p/chunklist.m3u8
 
 #EXTINF:141,Arise News
 https://contributionstreams.sechls01.visionip.tv/live/visiontv-contributionstreams-arise-tv-25f-16x9-SDh/chunklist.m3u8
@@ -444,8 +444,8 @@ http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/ch
 #EXTINF:148,Dabl
 https://cbsta49f-dabl68fc.global.ssl.fastly.net/out/v1/dfecb53fbf434b6bbbfd91d8a2549381/manifest_19.m3u8
 
-#EXTINF:149,Food
-https://bk7l2w4nlx53-hls-live.5centscdn.com/FOOD/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
+#EXTINF:149,Stirr Cooks
+https://dai.google.com/linear/hls/event/CHaUZsCfSyS2CVF7I-NktA/master.m3u8
 
 #EXTINF:150,Buzzr
 https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls_7.m3u8
@@ -507,11 +507,11 @@ https://stitcher.unreel.me/live/5d4b21643f4d602ba521b06c/playlist.m3u8
 #EXTINF:201,Pluto TV Kids
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=954c037d-1a11-44d3-b488-9d06f8a3e068&deviceLat=33.9560&deviceLon=-118.3887&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=81.0.4044.26&includeExtendedEvents=false&sid=e6f1682e-cc62-437a-bd0d-082bea9a4059&userId=&serverSideAds=true
 
-#EXTINF:202,RESERVED
-https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
+#EXTINF:202,MSNBC HD (Free Trial)
+https://fluxustv.blogspot.com@bit.ly/38Gffp1?.m3u8
 
-#EXTINF:203,Fox News Channel HD
-http://160.119.77.50/iptv/uk-foxnews.stream/playlist.m3u8
+#EXTINF:203,Fox News Channel HD (Free Trial)
+https://fncgohls-i.akamaihd.net/hls/live/263399/FNCGOHLSv2/Fox_News_v2_VIDEO_0_2564000.m3u8
 
 #EXTINF:204,FOX HD
 http://190.80.3.28/FOX/FOX.isml/FOX-audio_128052_eng=128000-video=2800000.m3u8
