@@ -15,8 +15,8 @@ http://cltv36-lh.akamaihd.net/i/cltv36_1@300961/index_2500_av-p.m3u8
 #EXTINF:5,5
 http://stream3.news5.ph/n5e/tv5/chunklist_w1330054632.m3u8
 
-#EXTINF:6,One Sports
-http://stream3.news5.ph:1935/n5e/5plus/chunklist_w533955318.m3u8
+#EXTINF:6,One Sports (no audio)
+http://stream3.news5.ph:1935/n5e/onesports/chunklist.m3u8
 
 #EXTINF:7,GMA Pinoy TV
 http://164.40.161.43:10011
@@ -72,8 +72,8 @@ http://51.52.156.22:8888/http/009
 #EXTINF:24,Star Movies
 http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
 
-#EXTINF:25,HDNet Movies (Free Trial)
-https://fluxustv.blogspot.com@bit.ly/382H6Q8?.m3u8
+#EXTINF:25,RESERVED
+https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
 
 #EXTINF:26,CNN (Pluto TV)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839419cb3/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=954c037d-1a11-44d3-b488-9d06f8a3e068&deviceLat=33.9560&deviceLon=-118.3887&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=81.0.4044.26&includeExtendedEvents=false&sid=e6f1682e-cc62-437a-bd0d-082bea9a4059&userId=&serverSideAds=true
@@ -100,7 +100,7 @@ http://220.158.149.14:9999/live/TV00000000000000000112@HHZT;LIVE
 http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/03.m3u8
 
 #EXTINF:34,Al Jazeera
-http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index576.m3u8
+https://live-hls-web-aje.getaj.net/AJE/03.m3u8
 
 #EXTINF:35,RT
 https://rt-news.secure.footprint.net/1103_800Kb.m3u8
@@ -307,10 +307,10 @@ https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=news
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 
 #EXTINF:103,ABC News Live
-https://abcnewslive.akamaized.net/amagi_hls_data_roku-host-abc/CDN/playlist.m3u8
+https://abcnewslive.akamaized.net/amagi_hls_data_roku-host-abc/CDN/384x216_589600/index.m3u8
 
 #EXTINF:104,NBC News Now
-http://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/848x480_965800/index.m3u8
+https://nbcnewshls-i.akamaihd.net/hls/live/1005170/nnn_live1/index_375.m3u8
 
 #EXTINF:105,The First
 https://a.jsrdn.com/broadcast/h3h4gsui4/playlist480p.m3u8
@@ -507,8 +507,8 @@ https://stitcher.unreel.me/live/5d4b21643f4d602ba521b06c/playlist.m3u8
 #EXTINF:201,Pluto TV Kids
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=954c037d-1a11-44d3-b488-9d06f8a3e068&deviceLat=33.9560&deviceLon=-118.3887&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=81.0.4044.26&includeExtendedEvents=false&sid=e6f1682e-cc62-437a-bd0d-082bea9a4059&userId=&serverSideAds=true
 
-#EXTINF:202,MSNBC HD (Free Trial)
-https://fluxustv.blogspot.com@bit.ly/38Gffp1?.m3u8
+#EXTINF:202,RESERVED
+https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
 
 #EXTINF:203,Fox News Channel HD (Free Trial)
 https://fncgohls-i.akamaihd.net/hls/live/263399/FNCGOHLSv2/Fox_News_v2_VIDEO_0_2564000.m3u8
