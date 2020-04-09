@@ -15,7 +15,7 @@ http://cltv36-lh.akamaihd.net/i/cltv36_1@300961/index_2500_av-p.m3u8
 #EXTINF:5,5
 http://stream3.news5.ph/n5e/tv5/chunklist_w1330054632.m3u8
 
-#EXTINF:6,One Sports (no audio)
+#EXTINF:6,One Sports (offline)
 http://stream3.news5.ph:1935/n5e/onesports/chunklist.m3u8
 
 #EXTINF:7,GMA Pinoy TV
@@ -37,7 +37,7 @@ http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Mai
 https://dai.google.com/linear/hls/event/WHTEcpPjQAaeStCtrJqzVQ/master.m3u8
 
 #EXTINF:13,ABC
-http://190.80.3.28/ABC/ABC.isml/ABC-audio_128052_eng=128000-video=800000.m3u8
+http://87.120.36.62:8080/hls/streama117998/index.m3u8
 
 #EXTINF:14,CBS
 http://161.0.157.51/PLTV/88888888/224/3221227041/03.m3u8
@@ -49,7 +49,7 @@ http://161.0.157.50/PLTV/88888888/224/3221227040/03.m3u8
 http://190.80.3.28/FOX/FOX.isml/FOX-audio_128052_eng=128000-video=800000.m3u8
 
 #EXTINF:17,The CW
-http://190.80.3.28/CW/CW.isml/CW-audio_128052_eng=128000-video=800000.m3u8
+http://87.120.36.62:8080/hls/streama118001/index.m3u8
 
 #EXTINF:18,Nickelodeon
 http://ott.artmott.com/Nickelodeon/tracks-v1a1/mono.m3u8
@@ -72,8 +72,8 @@ http://51.52.156.22:8888/http/009
 #EXTINF:24,Star Movies
 http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
 
-#EXTINF:25,RESERVED
-https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
+#EXTINF:25,Gravitas Movies
+https://dai.google.com/linear/hls/event/EpqgwRlpQKq73ySVSohJWA/master.m3u8
 
 #EXTINF:26,CNN (Pluto TV)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839419cb3/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=954c037d-1a11-44d3-b488-9d06f8a3e068&deviceLat=33.9560&deviceLon=-118.3887&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=81.0.4044.26&includeExtendedEvents=false&sid=e6f1682e-cc62-437a-bd0d-082bea9a4059&userId=&serverSideAds=true
@@ -147,11 +147,11 @@ https://streamidvo.multitvsolution.in/live/DiscoveryEng-a/p3.m3u8
 #EXTINF:49,Animal Planet
 http://ott.artmott.com/AnimalPlanet/tracks-v1a1/mono.m3u8
 
-#EXTINF:50,Best of History
-https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
+#EXTINF:50,RESERVED
+https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
 
-#EXTINF:51,Best of A&E
-https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8
+#EXTINF:51,MGM Sci-Fi
+https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/master.m3u8
 
 #EXTINF:52,AXN
 http://210.210.155.66/h/h141/02.m3u8
@@ -186,8 +186,8 @@ https://dai.google.com/linear/hls/event/JX5KKhKKRPqchP3LfXD-1A/master.m3u8
 #EXTINF:62,The Film Detective
 https://distro.akamaized.net/indexfd_640x360.m3u8
 
-#EXTINF:63,Reel Px Family
-https://1294836789.rsc.cdn77.org/1294836789/tracks-v1a1/mono.m3u8
+#EXTINF:63,Filmbox Arthouse
+http://ott.artmott.com/FILMBOXARTHOUSE/tracks-v1a1/mono.m3u8
 
 #EXTINF:64,Filmrise Movies
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/master.m3u8
@@ -201,8 +201,8 @@ https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/640x3
 #EXTINF:67,CONtv
 http://contv.sinclair.wurl.com/manifest/da1285e1dd4323e6aff01b01cd40651c.m3u8
 
-#EXTINF:68,Filmbox
-https://1648401168.rsc.cdn77.org/1648401168/tracks-v1a1/mono.m3u8
+#EXTINF:68,Filmbox Plus
+http://ott.artmott.com/FILMBOXPLUS/tracks-v1a1/mono.m3u8
 
 #EXTINF:69,Retro TV
 https://cdn.igocast.com/channel9_hls/channel9_master.m3u8
@@ -364,7 +364,7 @@ http://api.new.livestream.com/accounts/27460990/events/8266909/live.m3u8
 http://59c3ec70cfde0.streamlock.net/channel_4/channel4/chunklist.m3u8
 
 #EXTINF:122,Popstar! TV
-https://dotstudio.vo.llnwd.net/v1/livestreams/popstar/manifest/ec9207ed6819582289cfdc7569d8065cc8aca126/Popstar_-_Frequency/f823cf72-f2d6-4c8b-9704-1d7821e882df/2.m3u8
+https://dotstudio.vo.llnwd.net/v1/livestreams/popstar/master/ec9207ed6819582289cfdc7569d8065cc8aca126/Popstar_-_Frequency/playlist.m3u8
 
 #EXTINF:123,TBD
 http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8
