@@ -3,20 +3,20 @@
 #EXTINF:1,UNTV
 https://untv.mmdlive.lldns.net/untv/97cc8d2c46bd43b78e0b112761ab71fe/chunklist_b732000.m3u8
 
-#EXTINF:2,Pop Life TV
+#EXTINF:2,Community Prayer Broadcast
+https://www.mcgi.org/pray/chunklist_w1403890801.m3u8
+
+#EXTINF:3,Pop Life TV
 https://d3cbe0gidjd4k2.cloudfront.net/channel_2/channel2/chunklist_w592974426.m3u8
 
-#EXTINF:3,Inquirer 990 Television
+#EXTINF:4,Inquirer 990 Television
 http://59c3ec70cfde0.streamlock.net/channel_7/channel7/chunklist.m3u8
-
-#EXTINF:4,CLTV 36
-http://cltv36-lh.akamaihd.net/i/cltv36_1@300961/index_2500_av-p.m3u8
 
 #EXTINF:5,5
 http://stream3.news5.ph/n5e/tv5/chunklist_w1330054632.m3u8
 
-#EXTINF:6,One Sports (offline)
-http://stream3.news5.ph:1935/n5e/onesports/chunklist.m3u8
+#EXTINF:6,One Sports
+http://stream3.news5.ph/n5e/5plus/playlist.m3u8
 
 #EXTINF:7,GMA Pinoy TV
 http://164.40.161.43:10011
@@ -30,8 +30,8 @@ https://df7lqp0btxdx2.cloudfront.net/11227_500.m3u8
 #EXTINF:10,MyTV Cebu
 http://api.new.livestream.com/accounts/15418593/events/4787138/live.m3u8
 
-#EXTINF:11,ITV UK
-http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main600.m3u8
+#EXTINF:11,CLTV 36
+http://cltv36-lh.akamaihd.net/i/cltv36_1@300961/index_2500_av-p.m3u8
 
 #EXTINF:12,Stirr City
 https://dai.google.com/linear/hls/event/WHTEcpPjQAaeStCtrJqzVQ/master.m3u8
@@ -63,7 +63,7 @@ http://livecdnh3.tvanywhere.ae/hls/boomerang/03.m3u8
 #EXTINF:21,Cartoon Network
 http://ott.artmott.com/Cartoonnet/tracks-v1a1/mono.m3u8
 
-#EXTINF:22,Pop UK
+#EXTINF:22,Pop UK (Free Trial)
 http://51.52.156.22:8888/http/015
 
 #EXTINF:23,Sony Movies (Free Trial)
@@ -147,17 +147,17 @@ https://streamidvo.multitvsolution.in/live/DiscoveryEng-a/p3.m3u8
 #EXTINF:49,Animal Planet
 http://ott.artmott.com/AnimalPlanet/tracks-v1a1/mono.m3u8
 
-#EXTINF:50,RESERVED
-https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
+#EXTINF:50,Euro Channel (Free Trial)
+http://84.22.33.214/EuroChannel/tracks-v1a1/mono.m3u8
 
 #EXTINF:51,MGM Sci-Fi
 https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/master.m3u8
 
-#EXTINF:52,AXN
-http://210.210.155.66/h/h141/02.m3u8
+#EXTINF:52,RESERVED
+https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
 
-#EXTINF:53,Blue Ant Entertainment
-http://45.126.83.51/dr9445/h/h16/02.m3u8
+#EXTINF:53,RESERVED
+https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
 
 #EXTINF:54,Warner TV
 http://203.154.243.89:11205
@@ -196,7 +196,7 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/master.m3u
 http://ott.artmott.com/E!/tracks-v1a1/mono.m3u8
 
 #EXTINF:66,Dove Channel
-https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/640x360_394000/index.m3u8
+https://a.jsrdn.com/broadcast/76yg4erz/c.m3u8
 
 #EXTINF:67,CONtv
 http://contv.sinclair.wurl.com/manifest/da1285e1dd4323e6aff01b01cd40651c.m3u8
@@ -219,8 +219,8 @@ http://190.80.3.28/HJTV/HJTV.isml/HJTV-audio_128301_und=128000-video=800000.m3u8
 #EXTINF:73,Cast4U Channel 4
 http://cdnak21.cast4u.info/channels/4/10804.m3u8
 
-#EXTINF:74,Fox Sports
-http://45.58.62.92:8080
+#EXTINF:74,Fox Sports Asia (Free Trial)
+https://vcdnjt.useetv.com/joss/15/foxsport1/chunklist_w148399747_b684100_sleng.m3u8?enc=&exp=
 
 #EXTINF:75,Fox Sports News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master640x360.m3u8
@@ -234,8 +234,8 @@ https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master_1000k.m3u8
 #EXTINF:78,Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 
-#EXTINF:79,FightBox
-https://1610186124.rsc.cdn77.org/1610186124/tracks-v1a1/mono.m3u8
+#EXTINF:79,CombatGo
+https://dai.google.com/linear/hls/event/gaDje967RoSDD5llid2OBA/master.m3u8
 
 #EXTINF:80,The T
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/f.m3u8
@@ -504,11 +504,14 @@ http://ott.artmott.com/HistoryChannel/tracks-v1a1/mono.m3u8
 #EXTINF:168,popcornflix Action Movies
 https://stitcher.unreel.me/live/5d4b21643f4d602ba521b06c/playlist.m3u8
 
+#EXTINF:169,ITV UK
+http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main600.m3u8
+
 #EXTINF:201,Pluto TV Kids
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=954c037d-1a11-44d3-b488-9d06f8a3e068&deviceLat=33.9560&deviceLon=-118.3887&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=81.0.4044.26&includeExtendedEvents=false&sid=e6f1682e-cc62-437a-bd0d-082bea9a4059&userId=&serverSideAds=true
 
-#EXTINF:202,RESERVED
-https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
+#EXTINF:202,Bloomberg TV HD
+https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 
 #EXTINF:203,Fox News Channel HD (Free Trial)
 https://fncgohls-i.akamaihd.net/hls/live/263399/FNCGOHLSv2/Fox_News_v2_VIDEO_0_2564000.m3u8
@@ -543,8 +546,8 @@ https://bk7l2w4nlx53-hls-live.5centscdn.com/WWE/961ac1c875f5884f31bdd177365ef1e3
 #EXTINF:213,Olympic Channel HD
 http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
 
-#EXTINF:214,FashionBox HD
-https://1575390972.rsc.cdn77.org/1575390972/tracks-v1a1/mono.m3u8
+#EXTINF:214,RESERVED
+https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
 
 #EXTINF:215,InfoWars HD
 http://wpc.9ec1.edgecastcdn.net/249EC1/infowarshd-edgecast/hd720.m3u8
