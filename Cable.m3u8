@@ -33,8 +33,8 @@ http://api.new.livestream.com/accounts/15418593/events/4787138/live.m3u8
 #EXTINF:11,CLTV 36
 http://cltv36-lh.akamaihd.net/i/cltv36_1@300961/index_2500_av-p.m3u8
 
-#EXTINF:12,Stirr City
-https://dai.google.com/linear/hls/event/WHTEcpPjQAaeStCtrJqzVQ/master.m3u8
+#EXTINF:12,PBS
+http://190.80.3.28/PBS/PBS.isml/PBS-audio_120052_eng=120000-video=1870000.m3u8
 
 #EXTINF:13,ABC
 http://87.120.36.62:8080/hls/streama117998/index.m3u8
@@ -63,11 +63,11 @@ http://livecdnh3.tvanywhere.ae/hls/boomerang/03.m3u8
 #EXTINF:21,Cartoon Network
 http://ott.artmott.com/Cartoonnet/tracks-v1a1/mono.m3u8
 
-#EXTINF:22,Pop UK (Free Trial)
-http://51.52.156.22:8888/http/015
+#EXTINF:22,PBS Kids
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 
-#EXTINF:23,Sony Movies (Free Trial)
-http://51.52.156.22:8888/http/009
+#EXTINF:23,BabyFirst
+http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 
 #EXTINF:24,Star Movies
 http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
@@ -153,11 +153,11 @@ http://84.22.33.214/EuroChannel/tracks-v1a1/mono.m3u8
 #EXTINF:51,MGM Sci-Fi
 https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/master.m3u8
 
-#EXTINF:52,RESERVED
-https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
+#EXTINF:52,Stirr City
+https://dai.google.com/linear/hls/event/WHTEcpPjQAaeStCtrJqzVQ/master.m3u8
 
-#EXTINF:53,RESERVED
-https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
+#EXTINF:53,RedBox Comedy
+https://comedy-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-comedy/CDN/playlist.m3u8
 
 #EXTINF:54,Warner TV
 http://203.154.243.89:11205
@@ -415,7 +415,7 @@ https://playout4multirtmp.tulix.tv/live7/Stream1/playlist.m3u8
 https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
 
 #EXTINF:139,Insight TV
-http://jiocgwhub.jio.ril.com/Insight/Insight_800.m3u8
+https://dai.google.com/linear/hls/event/KAfBFcVrQgKmHhpzvkEn9A/master.m3u8
 
 #EXTINF:140,TeleSUR English
 https://d7g1ebft2592.cloudfront.net/mblivev3/360p/chunklist.m3u8
@@ -429,8 +429,8 @@ https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master6
 #EXTINF:143,ABC News Australia
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_22.m3u8
 
-#EXTINF:144,Three New Zealand
-http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master_720.m3u8
+#EXTINF:144,Yummi Yum Network
+https://1376389330.rsc.cdn77.org/1376389330/tracks-v1a1/mono.m3u8
 
 #EXTINF:145,Saveur
 https://a.jsrdn.com/broadcast/060753d37e/+0000/c.m3u8
@@ -459,8 +459,8 @@ https://tic.indonusa.net.id:8443/live/ngrp:TIC.stream_all/playlist.m3u8
 #EXTINF:153,Stirr Lifestyle
 https://dai.google.com/linear/hls/event/08ADpEIeQ8iZOjusLsZbCg/master.m3u8
 
-#EXTINF:154,PBS USA
-http://190.80.3.28/PBS/PBS.isml/PBS-audio_120052_eng=120000-video=1870000.m3u8
+#EXTINF:154,RESERVED
+https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
 
 #EXTINF:155,CBSN New York
 https://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8
@@ -486,8 +486,8 @@ https://dai.google.com/linear/hls/event/EUo67MWSRh6toPi0heJKnQ/master.m3u8
 #EXTINF:162,CBSN Pittsburgh
 https://dai.google.com/linear/hls/event/i5SXVKI4QIuV-eF2XAH4FQ/master.m3u8
 
-#EXTINF:163,Cozi TV
-https://2-fss-2.streamhoster.com/pl_120/201852-1297026-1/master.m3u8
+#EXTINF:163,Oppna Kanalen
+https://edg01-prd-se-dcs.solidtango.com/edge/_78swnzxt_/78swnzxt/playlist.m3u8
 
 #EXTINF:164,BBC News
 https://edge-1192-ch-gv.filmon.com/live/27.low.stream/playlist.m3u8
@@ -506,6 +506,9 @@ https://stitcher.unreel.me/live/5d4b21643f4d602ba521b06c/playlist.m3u8
 
 #EXTINF:169,ITV UK
 http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main600.m3u8
+
+#EXTINF:170,NTV Newfoundland
+https://2-fss-2.streamhoster.com/pl_138/201748-1282640-1/playlist.m3u8
 
 #EXTINF:201,Pluto TV Kids
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=954c037d-1a11-44d3-b488-9d06f8a3e068&deviceLat=33.9560&deviceLon=-118.3887&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=81.0.4044.26&includeExtendedEvents=false&sid=e6f1682e-cc62-437a-bd0d-082bea9a4059&userId=&serverSideAds=true
