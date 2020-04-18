@@ -13,7 +13,7 @@ https://d3cbe0gidjd4k2.cloudfront.net/channel_2/channel2/chunklist_w592974426.m3
 http://59c3ec70cfde0.streamlock.net/channel_7/channel7/chunklist.m3u8
 
 #EXTINF:5,5
-http://stream3.news5.ph/n5e/tv5/chunklist_w1330054632.m3u8
+http://stream3.news5.ph/n5e/tv5/chunklist.m3u8
 
 #EXTINF:6,One Sports
 http://stream3.news5.ph/n5e/5plus/playlist.m3u8
@@ -25,7 +25,7 @@ http://164.40.161.43:10011
 https://d3cbe0gidjd4k2.cloudfront.net/channel_5/smil:channel_5.smil/chunklist_w1281634943_b300000_sleng.m3u8
 
 #EXTINF:9,CNN Philippines
-https://df7lqp0btxdx2.cloudfront.net/11227_500.m3u8
+http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
 
 #EXTINF:10,MyTV Cebu
 http://api.new.livestream.com/accounts/15418593/events/4787138/live.m3u8
