@@ -34,18 +34,18 @@ http://api.new.livestream.com/accounts/15418593/events/4787138/live.m3u8
 http://cltv36-lh.akamaihd.net/i/cltv36_1@300961/index_2500_av-p.m3u8
 
 #EXTINF:12,PBS
-http://190.80.3.28/PBS/PBS.isml/PBS-audio_120052_eng=120000-video=1870000.m3u8
+https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/chunklist_b600000_DVR.m3u8
 
-#EXTINF:13,ABC
-http://87.120.36.62:8080/hls/streama117998/index.m3u8
+#EXTINF:13,NBC
+http://161.0.157.50/PLTV/88888888/224/3221227040/03.m3u8
 
 #EXTINF:14,CBS
 http://161.0.157.51/PLTV/88888888/224/3221227041/03.m3u8
 
-#EXTINF:15,NBC
-http://161.0.157.50/PLTV/88888888/224/3221227040/03.m3u8
+#EXTINF:15,ABC
+http://87.120.36.62:8080/hls/streama117998/index.m3u8
 
-#EXTINF:16,FOX US
+#EXTINF:16,FOX
 http://190.80.3.28/FOX/FOX.isml/FOX-audio_128052_eng=128000-video=800000.m3u8
 
 #EXTINF:17,The CW
@@ -64,7 +64,7 @@ http://livecdnh3.tvanywhere.ae/hls/boomerang/03.m3u8
 http://ott.artmott.com/Cartoonnet/tracks-v1a1/mono.m3u8
 
 #EXTINF:22,PBS Kids
-https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b600000.m3u8
 
 #EXTINF:23,BabyFirst
 http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
@@ -213,8 +213,8 @@ https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v4a1/index.m3u8
 #EXTINF:71,BeIN Sports Xtra
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
 
-#EXTINF:72,HJtv
-http://190.80.3.28/HJTV/HJTV.isml/HJTV-audio_128301_und=128000-video=800000.m3u8
+#EXTINF:72,WWE
+https://bk7l2w4nlx53-hls-live.5centscdn.com/WWE/961ac1c875f5884f31bdd177365ef1e3.sdp/chunks.m3u8
 
 #EXTINF:73,Cast4U Channel 4
 http://cdnak21.cast4u.info/channels/4/10804.m3u8
@@ -240,8 +240,8 @@ https://dai.google.com/linear/hls/event/gaDje967RoSDD5llid2OBA/master.m3u8
 #EXTINF:80,The T
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/f.m3u8
 
-#EXTINF:81,NBC Golf
-http://203.154.243.89:1208
+#EXTINF:81,NFL Channel (Pluto TV)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?advertisingId=&appName=web&appVersion=5.0.2-97fa211903e9a4370df3912896eb5e2e8e78f998&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=954c037d-1a11-44d3-b488-9d06f8a3e068&deviceLat=34.0729&deviceLon=-118.2606&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=81.0.4044.26&includeExtendedEvents=false&sid=5d083def-5c0b-4245-a7f6-967a25557dd8&userId=&serverSideAds=true
 
 #EXTINF:82,H2
 http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
@@ -297,8 +297,8 @@ https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/index_828_av-p.m3u8
 #EXTINF:99,NASA TV
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
 
-#EXTINF:100,Outdoor Channel
-http://84.22.33.254/unicast.outdoorchannel/index.m3u8
+#EXTINF:100,Fast & Fun Box (Free Trial)
+http://ott.artmott.com/FAST&FUNBOX/tracks-v1a1/mono.m3u8
 
 #EXTINF:101,Newsy Top Stories
 https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=newsyweb
@@ -429,8 +429,8 @@ https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master6
 #EXTINF:143,ABC News Australia
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_22.m3u8
 
-#EXTINF:144,Yummi Yum Network
-https://1376389330.rsc.cdn77.org/1376389330/tracks-v1a1/mono.m3u8
+#EXTINF:144,Tastemade
+https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/master.m3u8
 
 #EXTINF:145,Saveur
 https://a.jsrdn.com/broadcast/060753d37e/+0000/c.m3u8
@@ -510,8 +510,8 @@ http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Mai
 #EXTINF:170,NTV Newfoundland
 https://2-fss-2.streamhoster.com/pl_138/201748-1282640-1/playlist.m3u8
 
-#EXTINF:201,CNN HD (Free Trial)
-http://worldiptv.me:8080/SghubRes-2/G55zEE7a8A/10749
+#EXTINF:201,RESERVED
+https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
 
 #EXTINF:202,Bloomberg TV HD
 https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
@@ -540,11 +540,11 @@ https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:210,ABC HD
 http://190.80.3.28/ABC/ABC.isml/ABC-audio_128052_eng=128000-video=2800000.m3u8
 
-#EXTINF:211,ESPN HD
-http://npse.brots.world/espn2.m3u8
+#EXTINF:211,Red Bull TV HD
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
-#EXTINF:212,WWE
-https://bk7l2w4nlx53-hls-live.5centscdn.com/WWE/961ac1c875f5884f31bdd177365ef1e3.sdp/chunks.m3u8
+#EXTINF:212,Olympic Channel USA HD
+https://iocchannel-i.akamaihd.net/hls/live/514135/olylinear0629221316/DomesticOlympicsLinear_VIDEO_0_7064000.m3u8
 
 #EXTINF:213,Olympic Channel HD
 http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
@@ -567,5 +567,5 @@ https://thegateway.app/BizAndYou/Biz_1080p/playlist.m3u8
 #EXTINF:219,Edge Sports (Free Trial)
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
 
-#EXTINF:220,BBC World News HD (Free Trial)
-http://flusrv1.artmotion.net/unicast.bbcworld/tracks-v1a1/mono.m3u8
+#EXTINF:220,WPSU HD (Free Trial)
+https://ssc4.wpsu.psu.edu/WPSU_LLStream/ngrp:WPSU1_720max/chunklist_b1505792.m3u8
