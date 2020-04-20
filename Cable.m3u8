@@ -19,10 +19,10 @@ http://stream3.news5.ph/n5e/tv5/chunklist.m3u8
 http://stream3.news5.ph/n5e/5plus/playlist.m3u8
 
 #EXTINF:7,GMA Pinoy TV
-http://164.40.161.43:10011
+https://bit.ly/3csa2DS
 
-#EXTINF:8,Island Living
-https://d3cbe0gidjd4k2.cloudfront.net/channel_5/smil:channel_5.smil/chunklist_w1281634943_b300000_sleng.m3u8
+#EXTINF:8,TFC (Free Trial)
+https://bit.ly/3ainBEl
 
 #EXTINF:9,CNN Philippines
 http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
@@ -34,7 +34,7 @@ http://api.new.livestream.com/accounts/15418593/events/4787138/live.m3u8
 http://cltv36-lh.akamaihd.net/i/cltv36_1@300961/index_2500_av-p.m3u8
 
 #EXTINF:12,PBS
-https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/chunklist_b600000_DVR.m3u8
+https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/chunklist_b600000.m3u8
 
 #EXTINF:13,NBC
 http://161.0.157.50/PLTV/88888888/224/3221227040/03.m3u8
@@ -450,8 +450,8 @@ https://dai.google.com/linear/hls/event/CHaUZsCfSyS2CVF7I-NktA/master.m3u8
 #EXTINF:150,Buzzr
 https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls_7.m3u8
 
-#EXTINF:151,TVshop
-http://59c3ec70cfde0.streamlock.net/channel_1/channel1/chunklist.m3u8
+#EXTINF:151,Island Living
+https://d3cbe0gidjd4k2.cloudfront.net/channel_5/smil:channel_5.smil/chunklist_w1281634943_b300000_sleng.m3u8
 
 #EXTINF:152,Indonesia Channel
 https://tic.indonusa.net.id:8443/live/ngrp:TIC.stream_all/playlist.m3u8
@@ -510,8 +510,8 @@ http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Mai
 #EXTINF:170,NTV Newfoundland
 https://2-fss-2.streamhoster.com/pl_138/201748-1282640-1/playlist.m3u8
 
-#EXTINF:201,RESERVED
-https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
+#EXTINF:201,ANC HD (Free Trial)
+https://tfcmsl.akamaized.net/hls/live/2007143/ancglobal/master.m3u8
 
 #EXTINF:202,Bloomberg TV HD
 https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
