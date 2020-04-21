@@ -27,53 +27,53 @@ https://bit.ly/3ainBEl
 #EXTINF:9,CNN Philippines
 http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
 
-#EXTINF:10,MyTV Cebu
+#EXTINF:10,ANC (Free Trial)
+https://tfcmsl.akamaized.net/hls/live/2007143/ancglobal/bitrate_2.m3u8
+
+#EXTINF:11,DZMM Teleradyo (Free Trial)
+https://tfcmsl.akamaized.net/hls/live/2014654/dzmm/bitrate_1.m3u8
+
+#EXTINF:12,MyTV Cebu
 http://api.new.livestream.com/accounts/15418593/events/4787138/live.m3u8
 
-#EXTINF:11,CLTV 36
+#EXTINF:13,CLTV 36
 http://cltv36-lh.akamaihd.net/i/cltv36_1@300961/index_2500_av-p.m3u8
 
-#EXTINF:12,PBS
+#EXTINF:14,PBS
 https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/chunklist_b600000.m3u8
 
-#EXTINF:13,NBC
+#EXTINF:15,NBC
 http://161.0.157.50/PLTV/88888888/224/3221227040/03.m3u8
 
-#EXTINF:14,CBS
+#EXTINF:16,CBS
 http://161.0.157.51/PLTV/88888888/224/3221227041/03.m3u8
 
-#EXTINF:15,ABC
+#EXTINF:17,ABC
 http://87.120.36.62:8080/hls/streama117998/index.m3u8
 
-#EXTINF:16,FOX
+#EXTINF:18,FOX
 http://190.80.3.28/FOX/FOX.isml/FOX-audio_128052_eng=128000-video=800000.m3u8
 
-#EXTINF:17,The CW
+#EXTINF:19,The CW
 http://87.120.36.62:8080/hls/streama118001/index.m3u8
 
-#EXTINF:18,Nickelodeon
+#EXTINF:20,Nickelodeon
 http://ott.artmott.com/Nickelodeon/tracks-v1a1/mono.m3u8
 
-#EXTINF:19,Disney Channel
+#EXTINF:21,Disney Channel
 http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
 
-#EXTINF:20,Boomerang
+#EXTINF:22,Boomerang
 http://livecdnh3.tvanywhere.ae/hls/boomerang/03.m3u8
 
-#EXTINF:21,Cartoon Network
+#EXTINF:23,Cartoon Network
 http://ott.artmott.com/Cartoonnet/tracks-v1a1/mono.m3u8
 
-#EXTINF:22,PBS Kids
+#EXTINF:24,PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b600000.m3u8
 
-#EXTINF:23,BabyFirst
+#EXTINF:25,BabyFirst
 http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
-
-#EXTINF:24,Star Movies
-http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
-
-#EXTINF:25,Gravitas Movies
-https://dai.google.com/linear/hls/event/EpqgwRlpQKq73ySVSohJWA/master.m3u8
 
 #EXTINF:26,CNN (Pluto TV)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839419cb3/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=954c037d-1a11-44d3-b488-9d06f8a3e068&deviceLat=33.9560&deviceLon=-118.3887&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=81.0.4044.26&includeExtendedEvents=false&sid=e6f1682e-cc62-437a-bd0d-082bea9a4059&userId=&serverSideAds=true
@@ -192,23 +192,23 @@ http://ott.artmott.com/FILMBOXARTHOUSE/tracks-v1a1/mono.m3u8
 #EXTINF:64,Filmrise Movies
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/master.m3u8
 
-#EXTINF:65,E!
+#EXTINF:65,Star Movies
+http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
+
+#EXTINF:66,Gravitas Movies
+https://dai.google.com/linear/hls/event/EpqgwRlpQKq73ySVSohJWA/master.m3u8
+
+#EXTINF:67,E!
 http://ott.artmott.com/E!/tracks-v1a1/mono.m3u8
 
-#EXTINF:66,Dove Channel
+#EXTINF:68,Dove Channel
 https://a.jsrdn.com/broadcast/76yg4erz/c.m3u8
 
-#EXTINF:67,CONtv
+#EXTINF:69,CONtv
 http://contv.sinclair.wurl.com/manifest/da1285e1dd4323e6aff01b01cd40651c.m3u8
 
-#EXTINF:68,Filmbox Plus
+#EXTINF:70,Filmbox Plus
 http://ott.artmott.com/FILMBOXPLUS/tracks-v1a1/mono.m3u8
-
-#EXTINF:69,Retro TV
-https://cdn.igocast.com/channel9_hls/channel9_master.m3u8
-
-#EXTINF:70,Z Living
-https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v4a1/index.m3u8
 
 #EXTINF:71,BeIN Sports Xtra
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
@@ -367,7 +367,7 @@ http://59c3ec70cfde0.streamlock.net/channel_4/channel4/chunklist.m3u8
 https://dotstudio.vo.llnwd.net/v1/livestreams/popstar/master/ec9207ed6819582289cfdc7569d8065cc8aca126/Popstar_-_Frequency/playlist.m3u8
 
 #EXTINF:123,TBD
-http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8
+https://dai.google.com/linear/hls/event/_xtY848OSRCm_k0veSjMHg/master.m3u8
 
 #EXTINF:124,Law & Crime Network
 https://live-lawandcrime.simplestreamcdn.com/lawcrimehls/2/prog_index.m3u8
@@ -510,8 +510,38 @@ http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Mai
 #EXTINF:170,NTV Newfoundland
 https://2-fss-2.streamhoster.com/pl_138/201748-1282640-1/playlist.m3u8
 
-#EXTINF:201,ANC HD (Free Trial)
-https://tfcmsl.akamaized.net/hls/live/2007143/ancglobal/master.m3u8
+#EXTINF:171,Retro TV
+https://cdn.igocast.com/channel9_hls/channel9_master.m3u8
+
+#EXTINF:172,Z Living
+https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v4a1/index.m3u8
+
+#EXTINF:173,Cozi TV
+https://2-fss-2.streamhoster.com/pl_120/201852-1297026-1/master.m3u8
+
+#EXTINF:174,The Action Channel
+https://cdn.igocast.com/channel4_hls/channel4_master.m3u8
+
+#EXTINF:175,KVVB-TV
+https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1309230/chunklist_b1000000.m3u8
+
+#EXTINF:176,Stirr National
+https://playoutengine.sinclairstoryline.com/playout/74594c4d-49cd-416c-8ecd-a01f77d7b0b3.m3u8
+
+#EXTINF:177,Stirr COVID-19 News
+https://dai.google.com/linear/hls/event/08ADpEIeQ8iZOjusLsZbCg/master.m3u8
+
+#EXTINF:178,World Harvest Television
+https://597865f6e4114.streamlock.net/live/leseaorigin.stream/playlist.m3u8
+
+#EXTINF:179,Global Citizen (Pluto TV)
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e94fc9c4598d00007afecee/master.m3u8?advertisingId=&appName=web&appVersion=5.2.4-1efe6efd2b014a3e84fe7ff6f89942eb7c94049f&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=f326520d-7599-402b-adc7-3b65e7a93a7d&deviceLat=40.7145&deviceLon=-74.0029&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=67.0.3575.137&includeExtendedEvents=false&marketingRegion=US&sid=4387d70f-500d-407a-a688-084a24ab19ee&userId=&serverSideAds=true
+
+#EXTINF:180,TVshop
+http://59c3ec70cfde0.streamlock.net/channel_1/channel1/chunklist.m3u8
+
+#EXTINF:201,Euronews HD
+https://fluxustv.blogspot.com@bit.ly/EuronewsTV?.m3u8
 
 #EXTINF:202,Bloomberg TV HD
 https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
