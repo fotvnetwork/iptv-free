@@ -30,7 +30,7 @@ http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
 #EXTINF:10,ANC (Free Trial)
 https://tfcmsl.akamaized.net/hls/live/2007143/ancglobal/bitrate_2.m3u8
 
-#EXTINF:11,DZMM Teleradyo (Free Trial)
+#EXTINF:11,DZMM TeleRadyo (Free Trial)
 https://tfcmsl.akamaized.net/hls/live/2014654/dzmm/bitrate_1.m3u8
 
 #EXTINF:12,MyTV Cebu
@@ -39,7 +39,7 @@ http://api.new.livestream.com/accounts/15418593/events/4787138/live.m3u8
 #EXTINF:13,CLTV 36
 http://cltv36-lh.akamaihd.net/i/cltv36_1@300961/index_2500_av-p.m3u8
 
-#EXTINF:14,PBS
+#EXTINF:14,PBS/KET
 https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/chunklist_b600000.m3u8
 
 #EXTINF:15,NBC
@@ -486,8 +486,8 @@ https://dai.google.com/linear/hls/event/EUo67MWSRh6toPi0heJKnQ/master.m3u8
 #EXTINF:162,CBSN Pittsburgh
 https://dai.google.com/linear/hls/event/i5SXVKI4QIuV-eF2XAH4FQ/master.m3u8
 
-#EXTINF:163,Oppna Kanalen
-https://edg01-prd-se-dcs.solidtango.com/edge/_78swnzxt_/78swnzxt/playlist.m3u8
+#EXTINF:163,CBSN Chicago
+https://dai.google.com/linear/hls/event/DWt8iR1YQ-OJQsxczu8KfQ/master.m3u8
 
 #EXTINF:164,BBC News
 https://edge-1192-ch-gv.filmon.com/live/27.low.stream/playlist.m3u8
@@ -539,6 +539,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e94fc9c4598d00007a
 
 #EXTINF:180,TVshop
 http://59c3ec70cfde0.streamlock.net/channel_1/channel1/chunklist.m3u8
+
+#EXTINF:181,Oppna Kanalen
+https://edg01-prd-se-dcs.solidtango.com/edge/_78swnzxt_/78swnzxt/playlist.m3u8
 
 #EXTINF:201,Euronews HD
 https://fluxustv.blogspot.com@bit.ly/EuronewsTV?.m3u8
@@ -594,8 +597,8 @@ https://thegateway.app/YouToo/CueTones/playlist.m3u8
 #EXTINF:218,Biz TV HD
 https://thegateway.app/BizAndYou/Biz_1080p/playlist.m3u8
 
-#EXTINF:219,Edge Sports (Free Trial)
-https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
+#EXTINF:219,Edge Sports HD
+https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_5640800/index.m3u8
 
 #EXTINF:220,WPSU HD (Free Trial)
 https://ssc4.wpsu.psu.edu/WPSU_LLStream/ngrp:WPSU1_720max/chunklist_b1505792.m3u8
