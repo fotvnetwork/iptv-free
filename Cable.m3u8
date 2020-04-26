@@ -75,8 +75,8 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b600000.m
 #EXTINF:25,BabyFirst
 http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 
-#EXTINF:26,CNN (Pluto TV)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839419cb3/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=954c037d-1a11-44d3-b488-9d06f8a3e068&deviceLat=33.9560&deviceLon=-118.3887&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=81.0.4044.26&includeExtendedEvents=false&sid=e6f1682e-cc62-437a-bd0d-082bea9a4059&userId=&serverSideAds=true
+#EXTINF:26,CNN (Free Trial)
+https://itpolly.iptv.digijadoo.net/live/cnn/playlist.m3u8
 
 #EXTINF:27,CNN International*
 http://92.43.140.249/s27/03.m3u8
@@ -213,10 +213,10 @@ http://ott.artmott.com/FILMBOXPLUS/tracks-v1a1/mono.m3u8
 #EXTINF:71,BeIN Sports Xtra
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
 
-#EXTINF:72,WWE
+#EXTINF:72,Best of WWE
 https://bk7l2w4nlx53-hls-live.5centscdn.com/WWE/961ac1c875f5884f31bdd177365ef1e3.sdp/chunks.m3u8
 
-#EXTINF:73,Cast4U Channel 4
+#EXTINF:73,Cast4U
 http://cdnak21.cast4u.info/channels/4/10804.m3u8
 
 #EXTINF:74,Outside TV
@@ -307,13 +307,13 @@ https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=news
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 
 #EXTINF:103,ABC News Live
-https://abcnewslive.akamaized.net/amagi_hls_data_roku-host-abc/CDN/384x216_589600/index.m3u8
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-abcnews/CDN/720x404_1425600/index.m3u8
 
 #EXTINF:104,NBC News Now
 https://nbcnewshls-i.akamaihd.net/hls/live/1005170/nnn_live1/index_375.m3u8
 
 #EXTINF:105,The First
-https://a.jsrdn.com/broadcast/h3h4gsui4/playlist480p.m3u8
+https://a.jsrdn.com/broadcast/h3h4gsui4/c.m3u8
 
 #EXTINF:106,C-SPAN
 https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/index_50_av-p.m3u8
@@ -454,7 +454,7 @@ https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls_7.m3u8
 https://d3cbe0gidjd4k2.cloudfront.net/channel_5/smil:channel_5.smil/chunklist_w1281634943_b300000_sleng.m3u8
 
 #EXTINF:152,Indonesia Channel
-https://tic.indonusa.net.id:8443/live/ngrp:TIC.stream_all/playlist.m3u8
+https://tic.indonusa.net.id:8443/live/ngrp:TIC.stream_all/chunklist_w341658362_b938473.m3u8
 
 #EXTINF:153,Stirr Lifestyle
 https://dai.google.com/linear/hls/event/08ADpEIeQ8iZOjusLsZbCg/master.m3u8
@@ -540,8 +540,14 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e94fc9c4598d00007a
 #EXTINF:180,TVshop
 http://59c3ec70cfde0.streamlock.net/channel_1/channel1/chunklist.m3u8
 
-#EXTINF:181,Oppna Kanalen
+#EXTINF:181,OAN Encore
+https://oneamericanews-roku-us.amagi.tv/hls/amagi_hls_data_oneameric-oneamericanews/CDN/playlist.m3u8?rdid=121c0a02-8b4f-5ad8-9a0a-d73aa5fd4c92&coppa=false&is_lat=1&content=ea875a114dda5e15a624a8d0465b6cd9&genre=&platform=web&content_type=livefeed&content_rating=&is_roku_lat=1
+
+#EXTINF:190,Oppna Kanalen
 https://edg01-prd-se-dcs.solidtango.com/edge/_78swnzxt_/78swnzxt/playlist.m3u8
+
+#EXTINF:199,Live Event
+https://foxedge-lh.akamaihd.net/i/EDGE1_1@320288/index_300_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:201,Euronews HD
 https://fluxustv.blogspot.com@bit.ly/EuronewsTV?.m3u8
@@ -602,3 +608,6 @@ https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_
 
 #EXTINF:220,WPSU HD (Free Trial)
 https://ssc4.wpsu.psu.edu/WPSU_LLStream/ngrp:WPSU1_720max/chunklist_b1505792.m3u8
+
+#EXTINF:221,BNC HD (Free Trial)
+https://bnc-roku-us.amagi.tv/hls/amagi_hls_data_blacknews-blacknewsnetwork/CDN/1280x720_2890800/index.m3u8
