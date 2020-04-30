@@ -352,7 +352,7 @@ https://bcliveunivsecure-lh.akamaihd.net/i/HopeChannelPhilippines_1@310362/index
 https://bcliveunivsecure-lh.akamaihd.net/i/International_1@571272/index_1192_av-p.m3u8
 
 #EXTINF:118,CBN
-https://bcliveunivsecure-lh.akamaihd.net/i/iptv1_1@500579/index_500_av-b.m3u8
+https://bcliveunivsecure-lh.akamaihd.net/i/iptv1_1@500579/master.m3u8
 
 #EXTINF:119,EWTN Asia Pacific
 https://d19y0p9magl0wf.cloudfront.net/p/PACE_640x360_800k.m3u8
@@ -361,7 +361,7 @@ https://d19y0p9magl0wf.cloudfront.net/p/PACE_640x360_800k.m3u8
 http://api.new.livestream.com/accounts/27460990/events/8266909/live.m3u8
 
 #EXTINF:121,TBN Asia
-http://59c3ec70cfde0.streamlock.net/channel_4/channel4/chunklist.m3u8
+http://210.210.155.35/qwr9ew/s/s39/02.m3u8
 
 #EXTINF:122,Popstar! TV
 https://dotstudio.vo.llnwd.net/v1/livestreams/popstar/master/ec9207ed6819582289cfdc7569d8065cc8aca126/Popstar_-_Frequency/playlist.m3u8
@@ -456,8 +456,8 @@ https://d3cbe0gidjd4k2.cloudfront.net/channel_5/smil:channel_5.smil/chunklist_w1
 #EXTINF:152,Indonesia Channel
 https://tic.indonusa.net.id:8443/live/ngrp:TIC.stream_all/chunklist_w341658362_b938473.m3u8
 
-#EXTINF:153,Stirr Lifestyle
-https://dai.google.com/linear/hls/event/08ADpEIeQ8iZOjusLsZbCg/master.m3u8
+#EXTINF:153,Stirr
+https://dai.google.com/linear/hls/event/IdHTuehZQPClis-gJaZkFQ/master.m3u8
 
 #EXTINF:154,Pluto TV Kids
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=954c037d-1a11-44d3-b488-9d06f8a3e068&deviceLat=33.9560&deviceLon=-118.3887&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=81.0.4044.26&includeExtendedEvents=false&sid=e6f1682e-cc62-437a-bd0d-082bea9a4059&userId=&serverSideAds=true
@@ -546,8 +546,53 @@ https://oneamericanews-roku-us.amagi.tv/hls/amagi_hls_data_oneameric-oneamerican
 #EXTINF:182,Fast & Fun Box (Free Trial)
 http://ott.artmott.com/FAST&FUNBOX/tracks-v1a1/mono.m3u8
 
+#EXTINF:183,RESERVED
+https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
+
+#EXTINF:184,RESERVED
+https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
+
+#EXTINF:185,RESERVED
+https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
+
+#EXTINF:186,RESERVED
+https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
+
+#EXTINF:187,RESERVED
+https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
+
+#EXTINF:188,RESERVED
+https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
+
+#EXTINF:189,RESERVED
+https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
+
 #EXTINF:190,Oppna Kanalen
 https://edg01-prd-se-dcs.solidtango.com/edge/_78swnzxt_/78swnzxt/playlist.m3u8
+
+#EXTINF:191,RESERVED
+https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
+
+#EXTINF:192,RESERVED
+https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
+
+#EXTINF:193,RESERVED
+https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
+
+#EXTINF:194,RESERVED
+https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
+
+#EXTINF:195,RESERVED
+https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
+
+#EXTINF:196,RESERVED
+https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
+
+#EXTINF:197,RESERVED
+https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
+
+#EXTINF:198,RESERVED
+https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
 
 #EXTINF:199,Live Event - Coronavirus Coverage
 https://live.foxnews.com/4cd873537d834444ac8f882831463889/us-east-1/694940094001/playlist.m3u8
