@@ -52,13 +52,13 @@ http://161.0.157.51/PLTV/88888888/224/3221227041/03.m3u8
 http://87.120.36.62:8080/hls/streama117998/index.m3u8
 
 #EXTINF:18,FOX
-http://190.80.3.28/FOX/FOX.isml/FOX-audio_128052_eng=128000-video=800000.m3u8
+http://190.80.3.28/FOX/FOX.isml/FOX-audio_128052_eng=128000-video=500000.m3u8
 
 #EXTINF:19,The CW
 http://87.120.36.62:8080/hls/streama118001/index.m3u8
 
 #EXTINF:20,MyNetworkTV
-http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
+http://65.36.6.216:1935/live/kcwx.smil/chunklist_w879211551_b850000_sleng.m3u8
 
 #EXTINF:21,Nickelodeon
 http://ott.artmott.com/Nickelodeon/tracks-v1a1/mono.m3u8
@@ -88,10 +88,10 @@ http://92.43.140.249/s27/03.m3u8
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 
 #EXTINF:30,ABC News Live
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-abcnews/CDN/720x404_1425600/index.m3u8
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
 #EXTINF:31,NBC News Now
-https://nbcnewshls-i.akamaihd.net/hls/live/1005170/nnn_live1/index_375.m3u8
+https://nbcnewshls-i.akamaihd.net/hls/live/1005170/nnn_live1/index.m3u8
 
 #EXTINF:32,NBC News (Pluto TV)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56403d822d2719107d948cb9/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=954c037d-1a11-44d3-b488-9d06f8a3e068&deviceLat=33.9560&deviceLon=-118.3887&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=81.0.4044.26&includeExtendedEvents=false&sid=e6f1682e-cc62-437a-bd0d-082bea9a4059&userId=&serverSideAds=true
@@ -571,13 +571,13 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df97894467dfa0009
 http://161.0.157.50/PLTV/88888888/224/3221227040/01.m3u8
 
 #EXTINF:207,CBSN HD
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a6b92f6e22a617379789618/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=954c037d-1a11-44d3-b488-9d06f8a3e068&deviceLat=33.9560&deviceLon=-118.3887&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=81.0.4044.26&includeExtendedEvents=false&sid=e6f1682e-cc62-437a-bd0d-082bea9a4059&userId=&serverSideAds=true
+https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_7.m3u8
 
 #EXTINF:208,CBS HD
 http://161.0.157.51/PLTV/88888888/224/3221227041/01.m3u8
 
 #EXTINF:209,ABC News Live HD
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+https://abcnewslive.akamaized.net/amagi_hls_data_roku-host-abc/CDN/1280x720_2890800/index.m3u8
 
 #EXTINF:210,ABC HD
 http://190.80.3.28/ABC/ABC.isml/ABC-audio_128052_eng=128000-video=2800000.m3u8
