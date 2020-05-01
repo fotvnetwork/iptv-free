@@ -19,7 +19,7 @@ http://stream3.news5.ph/n5e/tv5/chunklist.m3u8
 http://stream3.news5.ph/n5e/5plus/playlist.m3u8
 
 #EXTINF:7,GMA Pinoy TV
-https://bit.ly/3csa2DS
+http://164.40.161.43:10011
 
 #EXTINF:8,TFC (Free Trial)
 https://bit.ly/3ainBEl
@@ -121,7 +121,7 @@ https://rt-news.secure.footprint.net/1103_800Kb.m3u8
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 
 #EXTINF:41,Euronews
-https://bozztv.com/36bay2/gin/giniko_euronews_800kb_36bay2/tracks-v1a1/mono.m3u8
+http://61.58.60.230:9319/live/129.m3u8
 
 #EXTINF:42,Press TV
 https://live2.presstv.com/liveprs/smil:liveprs.smil/chunklist_w2071542233_b394100_slen.m3u8
@@ -207,8 +207,8 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/master.m3u
 #EXTINF:69,Star Movies
 http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
 
-#EXTINF:70,Gravitas Movies
-https://dai.google.com/linear/hls/event/EpqgwRlpQKq73ySVSohJWA/master.m3u8
+#EXTINF:70,Fox Movies (Free Trial)
+https://cdn-laos.workpoint.news/hd-foxpremium_720/index.m3u8
 
 #EXTINF:71,E!
 http://ott.artmott.com/E!/tracks-v1a1/mono.m3u8
@@ -231,8 +231,8 @@ https://bk7l2w4nlx53-hls-live.5centscdn.com/WWE/961ac1c875f5884f31bdd177365ef1e3
 #EXTINF:77,Cast4U
 http://cdnak21.cast4u.info/channels/4/10804.m3u8
 
-#EXTINF:78,Outside TV
-https://a.jsrdn.com/broadcast/3gT64sH/c.m3u8
+#EXTINF:78,NBA TV (Free Trial)
+https://cdn-laos.workpoint.news/hd-nba_720/index.m3u8
 
 #EXTINF:79,Fox Sports News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master640x360.m3u8
@@ -252,8 +252,8 @@ https://dai.google.com/linear/hls/event/gaDje967RoSDD5llid2OBA/master.m3u8
 #EXTINF:84,The T
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/f.m3u8
 
-#EXTINF:85,NFL Channel (Pluto TV)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?advertisingId=&appName=web&appVersion=5.0.2-97fa211903e9a4370df3912896eb5e2e8e78f998&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=954c037d-1a11-44d3-b488-9d06f8a3e068&deviceLat=34.0729&deviceLon=-118.2606&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=81.0.4044.26&includeExtendedEvents=false&sid=5d083def-5c0b-4245-a7f6-967a25557dd8&userId=&serverSideAds=true
+#EXTINF:85,Eurosport 1 (Free Trial)
+https://cdn-laos.workpoint.news/uk-eurosport_480/index.m3u8
 
 #EXTINF:86,H2
 http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
@@ -534,8 +534,8 @@ https://dai.google.com/linear/hls/event/08ADpEIeQ8iZOjusLsZbCg/master.m3u8
 #EXTINF:178,World Harvest Television
 https://597865f6e4114.streamlock.net/live/leseaorigin.stream/playlist.m3u8
 
-#EXTINF:179,Global Citizen (Pluto TV)
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e94fc9c4598d00007afecee/master.m3u8?advertisingId=&appName=web&appVersion=5.2.4-1efe6efd2b014a3e84fe7ff6f89942eb7c94049f&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=f326520d-7599-402b-adc7-3b65e7a93a7d&deviceLat=40.7145&deviceLon=-74.0029&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=67.0.3575.137&includeExtendedEvents=false&marketingRegion=US&sid=4387d70f-500d-407a-a688-084a24ab19ee&userId=&serverSideAds=true
+#EXTINF:179,NFL Channel (Pluto TV)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?advertisingId=&appName=web&appVersion=5.0.2-97fa211903e9a4370df3912896eb5e2e8e78f998&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=954c037d-1a11-44d3-b488-9d06f8a3e068&deviceLat=34.0729&deviceLon=-118.2606&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=81.0.4044.26&includeExtendedEvents=false&sid=5d083def-5c0b-4245-a7f6-967a25557dd8&userId=&serverSideAds=true
 
 #EXTINF:180,TVshop
 http://59c3ec70cfde0.streamlock.net/channel_1/channel1/chunklist.m3u8
@@ -546,11 +546,11 @@ https://oneamericanews-roku-us.amagi.tv/hls/amagi_hls_data_oneameric-oneamerican
 #EXTINF:182,Fast & Fun Box (Free Trial)
 http://ott.artmott.com/FAST&FUNBOX/tracks-v1a1/mono.m3u8
 
-#EXTINF:183,RESERVED
-https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
+#EXTINF:183,Gravitas Movies
+https://dai.google.com/linear/hls/event/EpqgwRlpQKq73ySVSohJWA/master.m3u8
 
-#EXTINF:184,RESERVED
-https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
+#EXTINF:184,Outside TV
+https://a.jsrdn.com/broadcast/3gT64sH/c.m3u8
 
 #EXTINF:185,RESERVED
 https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
