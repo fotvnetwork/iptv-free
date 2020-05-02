@@ -271,7 +271,7 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
 http://livecdnh3.tvanywhere.ae/hls/docubox/03.m3u8
 
 #EXTINF:91,Docurama
-https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/640x360_394000/chunklist.m3u8
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/640x360_394000/index.m3u8
 
 #EXTINF:92,Investigation Discovery
 http://ott.artmott.com/ID/tracks-v1a1/mono.m3u8
@@ -315,14 +315,14 @@ https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=news
 #EXTINF:105,The First
 https://a.jsrdn.com/broadcast/h3h4gsui4/c.m3u8
 
-#EXTINF:106,C-SPAN
-https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/index_50_av-p.m3u8
+#EXTINF:106,Free Speech
+https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
 
 #EXTINF:107,TYT
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5331d5fb753499095a00045a/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=954c037d-1a11-44d3-b488-9d06f8a3e068&deviceLat=33.9560&deviceLon=-118.3887&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=81.0.4044.26&includeExtendedEvents=false&sid=e6f1682e-cc62-437a-bd0d-082bea9a4059&userId=&serverSideAds=true
+https://tyt-ssai.akamaized.net/amagi_hls_data_tytnetwor-tytxumo/CDN/512x288_879261/index.m3u8
 
 #EXTINF:108,InfoWars
-https://infostream.secure.footprint.net/hls-live/infostream-infostream/_definst_/chunklist_b866304.m3u8
+https://infostream.secure.footprint.net/hls-live/infostream5-infostream5/_definst_/chunklist_b866304.m3u8
 
 #EXTINF:109,Newsmax TV
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_288.m3u8
@@ -385,7 +385,7 @@ https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest_81.m3u8
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/640x360_440000/index.m3u8
 
 #EXTINF:129,Sidewalks
-http://30a-tv.com/sidewalks.m3u8
+https://nimble.dashstreams.net/onestudio/sidewalks30a/chunks.m3u8
 
 #EXTINF:130,ElectricNOW
 https://a.jsrdn.com/broadcast/vf93fRSk7/playlist_360p.m3u8
@@ -430,7 +430,7 @@ https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master6
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_22.m3u8
 
 #EXTINF:144,Tastemade
-https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/master.m3u8
+https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/512x288_875600/index.m3u8
 
 #EXTINF:145,Saveur
 https://a.jsrdn.com/broadcast/060753d37e/+0000/c.m3u8
@@ -454,7 +454,7 @@ https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls_7.m3u8
 https://d3cbe0gidjd4k2.cloudfront.net/channel_5/smil:channel_5.smil/chunklist_w1281634943_b300000_sleng.m3u8
 
 #EXTINF:152,Indonesia Channel
-https://tic.indonusa.net.id:8443/live/ngrp:TIC.stream_all/chunklist_w341658362_b938473.m3u8
+https://tic.indonusa.net.id:8443/live/ngrp:TIC.stream_all/chunklist.m3u8
 
 #EXTINF:153,Stirr
 https://dai.google.com/linear/hls/event/IdHTuehZQPClis-gJaZkFQ/master.m3u8
@@ -492,17 +492,17 @@ https://dai.google.com/linear/hls/event/DWt8iR1YQ-OJQsxczu8KfQ/master.m3u8
 #EXTINF:164,BBC News
 https://edge-1192-ch-gv.filmon.com/live/27.low.stream/playlist.m3u8
 
-#EXTINF:165,Free Speech
-https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
+#EXTINF:165,C-SPAN
+https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/index_50_av-p.m3u8
 
 #EXTINF:166,AMGTV
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/chunklist.m3u8
 
-#EXTINF:167,History (Free Trial)
+#EXTINF:167,History
 http://ott.artmott.com/HistoryChannel/tracks-v1a1/mono.m3u8
 
-#EXTINF:168,popcornflix Action Movies
-https://stitcher.unreel.me/live/5d4b21643f4d602ba521b06c/playlist.m3u8
+#EXTINF:168,Discovery Science
+http://streamidvo.multitvsolution.in/DiscoverScienceEng-a/playlist.m3u8
 
 #EXTINF:169,ITV UK
 http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main600.m3u8
