@@ -55,7 +55,7 @@ http://87.120.36.62:8080/hls/streama117998/index.m3u8
 http://190.80.3.28/FOX/FOX.isml/FOX-audio_128052_eng=128000-video=500000.m3u8
 
 #EXTINF:19,The CW
-http://87.120.36.62:8080/hls/streama118001/index.m3u8
+http://190.80.3.28/CW/CW.isml/CW-audio_128052_eng=128000-video=500000.m3u8
 
 #EXTINF:20,MyNetworkTV
 http://65.36.6.216:1935/live/kcwx.smil/chunklist_w879211551_b850000_sleng.m3u8
@@ -93,7 +93,7 @@ https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:31,NBC News Now
 https://nbcnewshls-i.akamaihd.net/hls/live/1005170/nnn_live1/index.m3u8
 
-#EXTINF:32,NBC News (Pluto TV)
+#EXTINF:32,NBC News
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56403d822d2719107d948cb9/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=954c037d-1a11-44d3-b488-9d06f8a3e068&deviceLat=33.9560&deviceLon=-118.3887&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=81.0.4044.26&includeExtendedEvents=false&sid=e6f1682e-cc62-437a-bd0d-082bea9a4059&userId=&serverSideAds=true
 
 #EXTINF:33,CNBC*
@@ -118,7 +118,7 @@ https://live-hls-web-aje.getaj.net/AJE/03.m3u8
 https://rt-news.secure.footprint.net/1103_800Kb.m3u8
 
 #EXTINF:40,France 24
-http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_500.m3u8
 
 #EXTINF:41,Euronews
 http://61.58.60.230:9319/live/129.m3u8
@@ -133,7 +133,7 @@ https://tv-trtworld.live.trt.com.tr/master_360.m3u8
 https://m-c010-j2apps.s.llnwi.net/hls/8023.DWEnglish.in.m3u8
 
 #EXTINF:45,CNA
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_2.m3u8
 
 #EXTINF:46,CGTN
 https://live.cgtn.com/500/prog_index.m3u8
@@ -144,7 +144,7 @@ https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_600k.m3u8
 #EXTINF:48,Arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b656000_sleng.m3u8
 
-#EXTINF:49,Food TV (Pluto TV)
+#EXTINF:49,Food TV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5877ac8cb791f4eb4a140d81/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=954c037d-1a11-44d3-b488-9d06f8a3e068&deviceLat=33.9560&deviceLon=-118.3887&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=81.0.4044.26&includeExtendedEvents=false&sid=e6f1682e-cc62-437a-bd0d-082bea9a4059&userId=&serverSideAds=true
 
 #EXTINF:50,Lively Place
@@ -316,7 +316,7 @@ https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=news
 https://a.jsrdn.com/broadcast/h3h4gsui4/c.m3u8
 
 #EXTINF:106,Free Speech
-https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
+https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv_4.m3u8
 
 #EXTINF:107,TYT
 https://tyt-ssai.akamaized.net/amagi_hls_data_tytnetwor-tytxumo/CDN/512x288_879261/index.m3u8
@@ -427,7 +427,7 @@ https://contributionstreams.sechls01.visionip.tv/live/visiontv-contributionstrea
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master640x360.m3u8
 
 #EXTINF:143,ABC News Australia
-https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_22.m3u8
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_24.m3u8
 
 #EXTINF:144,Tastemade
 https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/512x288_875600/index.m3u8
@@ -570,8 +570,8 @@ https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
 #EXTINF:190,Oppna Kanalen
 https://edg01-prd-se-dcs.solidtango.com/edge/_78swnzxt_/78swnzxt/playlist.m3u8
 
-#EXTINF:191,RESERVED
-https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
+#EXTINF:191,RTE News Now
+https://live.rte.ie/live/a/channel3/news.isml/news-video=1099968-audio_128k=128000.m3u8
 
 #EXTINF:192,RESERVED
 https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
