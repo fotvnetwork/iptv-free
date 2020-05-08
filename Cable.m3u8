@@ -30,7 +30,7 @@ http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
 #EXTINF:10,ANC (Free Trial)
 https://tfcmsl.akamaized.net/hls/live/2007143/ancglobal/bitrate_2.m3u8
 
-#EXTINF:11,DZMM TeleRadyo (Free Trial)
+#EXTINF:11,TeleRadyo (Free Trial)
 https://tfcmsl.akamaized.net/hls/live/2014654/dzmm/bitrate_2.m3u8
 
 #EXTINF:12,MyTV Cebu
@@ -39,7 +39,7 @@ http://api.new.livestream.com/accounts/15418593/events/4787138/live.m3u8
 #EXTINF:13,CLTV 36
 http://cltv36-lh.akamaihd.net/i/cltv36_1@300961/index_2500_av-p.m3u8
 
-#EXTINF:14,PBS
+#EXTINF:14,PBS KET
 https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/chunklist_b600000.m3u8
 
 #EXTINF:15,NBC
@@ -85,7 +85,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839
 http://92.43.140.249/s27/03.m3u8
 
 #EXTINF:29,CBSN
-http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_500_av-p.m3u8
+https://www.cbsnews.com/common/video/cbsn_header_prod.m3u8
 
 #EXTINF:30,ABC News Live
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
@@ -654,7 +654,7 @@ https://thegateway.app/BizAndYou/Biz_1080p/playlist.m3u8
 #EXTINF:219,Edge Sports HD
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_5640800/index.m3u8
 
-#EXTINF:220,WPSU HD (Free Trial)
+#EXTINF:220,PBS WPSU HD (Free Trial)
 https://ssc4.wpsu.psu.edu/WPSU_LLStream/ngrp:WPSU1_720max/chunklist_b1505792.m3u8
 
 #EXTINF:221,BNC HD (Free Trial)
