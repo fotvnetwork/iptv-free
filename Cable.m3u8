@@ -195,8 +195,8 @@ https://dai.google.com/linear/hls/event/JX5KKhKKRPqchP3LfXD-1A/master.m3u8
 #EXTINF:65,Star World
 http://livecdnh1.tvanywhere.ae/hls/star_world/04.m3u8
 
-#EXTINF:66,The Film Detective
-https://distro.akamaized.net/indexfd_640x360.m3u8
+#EXTINF:66,Fox Life (Free Trial)
+https://itpolly.iptv.digijadoo.net/live/fox_life/chunks.m3u8
 
 #EXTINF:67,Filmbox Arthouse
 http://ott.artmott.com/FILMBOXARTHOUSE/tracks-v1a1/mono.m3u8
@@ -552,8 +552,8 @@ https://dai.google.com/linear/hls/event/EpqgwRlpQKq73ySVSohJWA/master.m3u8
 #EXTINF:184,Outside TV
 https://a.jsrdn.com/broadcast/3gT64sH/c.m3u8
 
-#EXTINF:185,RESERVED
-https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
+#EXTINF:185,The Film Detective
+https://distro.akamaized.net/indexfd_640x360.m3u8
 
 #EXTINF:186,RESERVED
 https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
