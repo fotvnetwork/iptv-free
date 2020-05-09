@@ -30,7 +30,7 @@ http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
 #EXTINF:10,ANC (Free Trial)
 https://tfcmsl.akamaized.net/hls/live/2007143/ancglobal/bitrate_2.m3u8
 
-#EXTINF:11,TeleRadyo (Free Trial)
+#EXTINF:11,DZMM TeleRadyo (Free Trial)
 https://tfcmsl.akamaized.net/hls/live/2014654/dzmm/bitrate_2.m3u8
 
 #EXTINF:12,MyTV Cebu
@@ -603,8 +603,8 @@ https://fluxustv.blogspot.com@bit.ly/EuronewsTV?.m3u8
 #EXTINF:202,Bloomberg TV HD
 https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 
-#EXTINF:203,RESERVED
-https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
+#EXTINF:203,Cheddar HD
+https://live.chdrstatic.com/cheddar/primary/1.m3u8
 
 #EXTINF:204,FOX HD
 http://190.80.3.28/FOX/FOX.isml/FOX-audio_128052_eng=128000-video=2800000.m3u8
@@ -659,3 +659,6 @@ https://ssc4.wpsu.psu.edu/WPSU_LLStream/ngrp:WPSU1_720max/chunklist_b1505792.m3u
 
 #EXTINF:221,BNC HD (Free Trial)
 https://bnc-roku-us.amagi.tv/hls/amagi_hls_data_blacknews-blacknewsnetwork/CDN/1280x720_2890800/index.m3u8
+
+#EXTINF:222,CBC News HD (Free Trial)
+https://cbcnewshd-f.akamaihd.net/i/cbcnews_30@304030/index_2500_av-p.m3u8
