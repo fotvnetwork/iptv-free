@@ -28,10 +28,10 @@ https://bit.ly/3ainBEl
 http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
 
 #EXTINF:10,ANC (Free Trial)
-https://tfcmsl.akamaized.net/hls/live/2007143/ancglobal/bitrate_2.m3u8
+https://tfcmsl.akamaized.net/hls/live/2007143/ancglobal/bitrate_1.m3u8
 
 #EXTINF:11,DZMM TeleRadyo (Free Trial)
-https://tfcmsl.akamaized.net/hls/live/2014654/dzmm/bitrate_2.m3u8
+https://tfcmsl.akamaized.net/hls/live/2014654/dzmm/master.m3u8
 
 #EXTINF:12,MyTV Cebu
 http://api.new.livestream.com/accounts/15418593/events/4787138/live.m3u8
@@ -591,11 +591,11 @@ https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
 #EXTINF:197,RESERVED
 https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
 
-#EXTINF:198,RESERVED
-https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
+#EXTINF:198,OCA
+http://ocatv.mcgi.me:1935/public/247_br/playlist.m3u8
 
-#EXTINF:199,Live Event - Coronavirus Coverage
-https://live.foxnews.com/4cd873537d834444ac8f882831463889/us-east-1/694940094001/playlist.m3u8
+#EXTINF:199,Live Event
+https://foxedge-lh.akamaihd.net/i/EDGE1_1@320288/index_300_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:201,Euronews HD
 https://fluxustv.blogspot.com@bit.ly/EuronewsTV?.m3u8
@@ -662,3 +662,6 @@ https://bnc-roku-us.amagi.tv/hls/amagi_hls_data_blacknews-blacknewsnetwork/CDN/1
 
 #EXTINF:222,CBC News HD (Free Trial)
 https://cbcnewshd-f.akamaihd.net/i/cbcnews_30@304030/index_2500_av-p.m3u8
+
+#EXTINF:223,Channel 4 HD
+http://145.239.255.4:8080/HDCHANNEL4/mono.m3u8?token=test
