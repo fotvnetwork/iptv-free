@@ -9,8 +9,8 @@ https://www.mcgi.org/pray/chunklist_w1403890801.m3u8
 #EXTINF:3,Pop Life TV
 https://d3cbe0gidjd4k2.cloudfront.net/channel_2/channel2/chunklist_w592974426.m3u8
 
-#EXTINF:4,PTV*
-https://www.dailymotion.com/cdn/live/video/x5cr6b9.m3u8?sec=hHJINfz1SJ8zOGt_tui6RSvalrcc6tP2en48kb0cvHUYDUxBlpbQEft2iECyApeQZPnqRqptZPinwTm2VXJsZw
+#EXTINF:4,PTV
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/PTVPH.m3u8
 
 #EXTINF:5,5
 http://stream3.news5.ph/n5e/tv5/chunklist.m3u8
