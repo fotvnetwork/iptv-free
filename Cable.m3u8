@@ -10,7 +10,7 @@ https://www.mcgi.org/pray/chunklist_w1403890801.m3u8
 https://d3cbe0gidjd4k2.cloudfront.net/channel_2/channel2/chunklist_w592974426.m3u8
 
 #EXTINF:4,PTV*
-https://www.youtube.com/watch?v=6yZDJ2HyAk8
+https://www.dailymotion.com/cdn/live/video/x5cr6b9.m3u8?sec=hHJINfz1SJ8zOGt_tui6RSvalrcc6tP2en48kb0cvHUYDUxBlpbQEft2iECyApeQZPnqRqptZPinwTm2VXJsZw
 
 #EXTINF:5,5
 http://stream3.news5.ph/n5e/tv5/chunklist.m3u8
@@ -81,8 +81,8 @@ http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 #EXTINF:27,CNN (Pluto TV)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839419cb3/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=954c037d-1a11-44d3-b488-9d06f8a3e068&deviceLat=33.9560&deviceLon=-118.3887&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=81.0.4044.26&includeExtendedEvents=false&sid=e6f1682e-cc62-437a-bd0d-082bea9a4059&userId=&serverSideAds=true
 
-#EXTINF:28,CNN International*
-http://92.43.140.249/s27/03.m3u8
+#EXTINF:28,CNN International
+https://itpolly.iptv.digijadoo.net/live/cnn/playlist.m3u8
 
 #EXTINF:29,CBSN
 https://www.cbsnews.com/common/video/cbsn_header_prod.m3u8
@@ -106,7 +106,7 @@ https://bk7l2w4nlx53-hls-live.5centscdn.com/FOXNEWS/961ac1c875f5884f31bdd177365e
 https://d1xy5gfz8tdshw.cloudfront.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-440-1_live.m3u8
 
 #EXTINF:36,BBC World News
-http://220.158.149.14:9999/live/TV00000000000000000112@HHZT;LIVE
+https://edge01.iptv.digijadoo.net/live/bbc_world/chunks.m3u8
 
 #EXTINF:37,Sky News
 http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/03.m3u8
