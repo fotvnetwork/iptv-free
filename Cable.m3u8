@@ -9,7 +9,7 @@ https://www.mcgi.org/pray/chunklist_w1403890801.m3u8
 #EXTINF:3,Pop Life TV
 https://d3cbe0gidjd4k2.cloudfront.net/channel_2/channel2/chunklist_w592974426.m3u8
 
-#EXTINF:4,PTV
+#EXTINF:4,PTV*
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/PTVPH.m3u8
 
 #EXTINF:5,5
@@ -595,7 +595,7 @@ https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
 http://ocatv.mcgi.me:1935/public/247_br/playlist.m3u8
 
 #EXTINF:199,Live Event
-https://foxedge-lh.akamaihd.net/i/EDGE1_1@320288/index_300_av-p.m3u8?sd=10&rebase=on
+https://live.foxnews.com/4cd873537d834444ac8f882831463889/us-east-1/694940094001/playlist.m3u8
 
 #EXTINF:201,Euronews HD
 https://fluxustv.blogspot.com@bit.ly/EuronewsTV?.m3u8
