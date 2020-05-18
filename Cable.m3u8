@@ -15,7 +15,7 @@ https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/PTVPH.m3u8
 #EXTINF:5,5
 http://stream3.news5.ph/n5e/tv5/chunklist.m3u8
 
-#EXTINF:6,One Sports
+#EXTINF:6,One Sports*
 http://stream3.news5.ph/n5e/5plus/playlist.m3u8
 
 #EXTINF:7,GMA Pinoy TV
@@ -30,7 +30,7 @@ http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
 #EXTINF:10,ANC (Free Trial)
 https://tfcmsl.akamaized.net/hls/live/2007143/ancglobal/bitrate_1.m3u8
 
-#EXTINF:11,DZMM TeleRadyo (Free Trial)
+#EXTINF:11,DZMM TeleRadyo
 https://tfcmsl.akamaized.net/hls/live/2014654/dzmm/master.m3u8
 
 #EXTINF:12,MyTV Cebu
@@ -49,7 +49,7 @@ http://161.0.157.50/PLTV/88888888/224/3221227040/03.m3u8
 http://161.0.157.51/PLTV/88888888/224/3221227041/03.m3u8
 
 #EXTINF:17,ABC
-http://87.120.36.62:8080/hls/streama117998/index.m3u8
+http://190.80.3.28/ABC/ABC.isml/ABC-audio_128052_eng=128000-video=500000.m3u8
 
 #EXTINF:18,FOX
 http://190.80.3.28/FOX/FOX.isml/FOX-audio_128052_eng=128000-video=500000.m3u8
