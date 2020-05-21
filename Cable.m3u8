@@ -9,7 +9,7 @@ https://www.mcgi.org/pray/chunklist_w1403890801.m3u8
 #EXTINF:3,Pop Life TV
 https://d3cbe0gidjd4k2.cloudfront.net/channel_2/channel2/chunklist_w592974426.m3u8
 
-#EXTINF:4,PTV*
+#EXTINF:4,PTV
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/PTVPH.m3u8
 
 #EXTINF:5,5
@@ -21,17 +21,17 @@ http://stream3.news5.ph/n5e/5plus/playlist.m3u8
 #EXTINF:7,GMA Pinoy TV
 http://164.40.161.43:10011
 
-#EXTINF:8,TFC (Free Trial)
-https://bit.ly/3ainBEl
+#EXTINF:8,RESERVED
+https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
 
 #EXTINF:9,CNN Philippines
 http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
 
-#EXTINF:10,ANC (Free Trial)
-https://tfcmsl.akamaized.net/hls/live/2007143/ancglobal/bitrate_1.m3u8
+#EXTINF:10,TEST STREAM
+http://df7lqp0btxdx2.cloudfront.net/11227.m3u8
 
-#EXTINF:11,DZMM TeleRadyo
-https://tfcmsl.akamaized.net/hls/live/2014654/dzmm/master.m3u8
+#EXTINF:11,RESERVED
+https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
 
 #EXTINF:12,MyTV Cebu
 http://api.new.livestream.com/accounts/15418593/events/4787138/live.m3u8
