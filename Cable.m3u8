@@ -13,7 +13,7 @@ https://d3cbe0gidjd4k2.cloudfront.net/channel_2/channel2/chunklist_w592974426.m3
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/PTVPH.m3u8
 
 #EXTINF:5,5
-http://stream3.news5.ph/n5e/tv5/chunklist.m3u8
+http://stream1.news5.ph/n5e/tv5/chunklist.m3u8
 
 #EXTINF:6,One Sports*
 http://stream3.news5.ph/n5e/5plus/playlist.m3u8
@@ -198,8 +198,8 @@ http://livecdnh1.tvanywhere.ae/hls/star_world/04.m3u8
 #EXTINF:66,Fox Life (Free Trial)
 https://itpolly.iptv.digijadoo.net/live/fox_life/chunks.m3u8
 
-#EXTINF:67,Filmbox Arthouse
-http://ott.artmott.com/FILMBOXARTHOUSE/tracks-v1a1/mono.m3u8
+#EXTINF:67,RedBox FilmHub
+http://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/playlist.m3u8
 
 #EXTINF:68,Filmrise Movies
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/master.m3u8
@@ -370,7 +370,7 @@ https://dotstudio.vo.llnwd.net/v1/livestreams/popstar/master/ec9207ed6819582289c
 https://dai.google.com/linear/hls/event/_xtY848OSRCm_k0veSjMHg/master.m3u8
 
 #EXTINF:124,Law & Crime Network
-https://live-lawandcrime.simplestreamcdn.com/lawcrimehls/2/prog_index.m3u8
+https://dai2.xumo.com/amagi_hls_data_xumo1234A-lawcrime/CDN/master.m3u8
 
 #EXTINF:125,Court TV
 https://content.uplynk.com/channel/92c7be9fb47143a58683d202e321e571.m3u8
