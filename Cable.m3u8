@@ -103,7 +103,7 @@ http://live.highstream.club/live/CNBC/playlist.m3u8
 https://bk7l2w4nlx53-hls-live.5centscdn.com/FOXNEWS/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 
 #EXTINF:35,Bloomberg TV
-https://d1xy5gfz8tdshw.cloudfront.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-440-1_live.m3u8
+http://45.126.83.51/uq2663/h/h03/index2.m3u8
 
 #EXTINF:36,BBC World News
 https://edge01.iptv.digijadoo.net/live/bbc_world/chunks.m3u8
@@ -183,8 +183,8 @@ https://a.jsrdn.com/broadcast/5Gt2c8lsw/c.m3u8
 #EXTINF:61,RedBox Comedy
 https://comedy-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-comedy/CDN/playlist.m3u8
 
-#EXTINF:62,Drybar Comedy
-https://a.jsrdn.com/broadcast/e29bdbbbf3/+0000/c.m3u8
+#EXTINF:62,Comedy Central (Free Trial)
+http://145.239.255.4:8080/COMEDY/mono.m3u8?token=test
 
 #EXTINF:63,TBS (Free Trial)
 http://live.highstream.club/live/TBS/playlist.m3u8
@@ -582,8 +582,8 @@ http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
 #EXTINF:194,TRT World
 https://tv-trtworld.live.trt.com.tr/master_360.m3u8
 
-#EXTINF:195,RESERVED
-https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
+#EXTINF:195,Drybar Comedy
+https://a.jsrdn.com/broadcast/e29bdbbbf3/+0000/c.m3u8
 
 #EXTINF:196,RESERVED
 https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
@@ -665,3 +665,6 @@ https://cbcnewshd-f.akamaihd.net/i/cbcnews_30@304030/index_2500_av-p.m3u8
 
 #EXTINF:223,Channel 4 HD
 http://145.239.255.4:8080/HDCHANNEL4/mono.m3u8?token=test
+
+#EXTINF:224,NBCLX HD (Free Trial)
+https://lxlive-lh.akamaihd.net/i/LX_LIVE@148206/index_1080P_av-p.m3u8
