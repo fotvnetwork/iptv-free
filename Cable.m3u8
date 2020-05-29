@@ -15,8 +15,8 @@ https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/PTVPH.m3u8
 #EXTINF:5,5
 http://stream1.news5.ph/n5e/tv5/chunklist.m3u8
 
-#EXTINF:6,One Sports*
-http://stream3.news5.ph/n5e/5plus/playlist.m3u8
+#EXTINF:6,One Sports (off-air)
+http://corpcms.tv5.com.ph/5network/wp-content/uploads/2019/03/29BA63DF-9235-49A6-9160-865A18AB1CCC.jpeg
 
 #EXTINF:7,GMA Pinoy TV
 http://164.40.161.43:10011
@@ -30,7 +30,7 @@ http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
 #EXTINF:10,TEST STREAM
 http://df7lqp0btxdx2.cloudfront.net/11227.m3u8
 
-#EXTINF:11,TeleRadyo*
+#EXTINF:11,TeleRadyo (mobile-only)
 https://tfcmsl.akamaized.net/hls/live/2014654/dzmm/master.m3u8
 
 #EXTINF:12,MyTV Cebu
@@ -124,7 +124,7 @@ https://rt-news.secure.footprint.net/1103_800Kb.m3u8
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_500.m3u8
 
 #EXTINF:42,Euronews
-http://61.58.60.230:9319/live/129.m3u8
+http://45.126.83.51/qwr9ew/s/s15/02.m3u8
 
 #EXTINF:43,Press TV
 https://live2.presstv.com/liveprs/smil:liveprs.smil/chunklist_w2071542233_b394100_slen.m3u8
@@ -159,8 +159,8 @@ http://145.239.255.4:8080/en-Discovery-HD/mono.m3u8?token=test
 #EXTINF:53,The Asylum
 https://dai.google.com/linear/hls/event/2r7F3DThT-C5YW21CUuGLQ/master.m3u8
 
-#EXTINF:54,Black Widow TV
-https://nrpus.bozztv.com/36bay2/gusa-spydar/tracks-v1a1/mono.m3u8
+#EXTINF:54,BBC America (Free Trial)
+http://live.highstream.club/live/BBCAmerica/playlist.m3u8
 
 #EXTINF:55,MGM Sci-Fi
 https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/master.m3u8
@@ -210,8 +210,8 @@ http://live.highstream.club/live/HBOSignature/playlist.m3u8
 #EXTINF:70,Fox Movies (Free Trial)
 https://cdn-laos.workpoint.news/hd-foxpremium_720/index.m3u8
 
-#EXTINF:71,HBO (Free Trial)
-http://live.highstream.club/live/HBO/playlist.m3u8
+#EXTINF:71,Sony Movies (Free Trial)
+http://51.52.156.22:8888/http/009
 
 #EXTINF:72,Dove Channel
 https://a.jsrdn.com/broadcast/76yg4erz/c.m3u8
