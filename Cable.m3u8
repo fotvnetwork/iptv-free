@@ -27,8 +27,8 @@ https://www.mcgi.org/pray/chunklist_w1403890801.m3u8
 #EXTINF:9,CNN Philippines
 http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
 
-#EXTINF:10,TEST STREAM
-http://df7lqp0btxdx2.cloudfront.net/11227.m3u8
+#EXTINF:10,CNN Philippines (mirror)
+http://df7lqp0btxdx2.cloudfront.net/11227_300.m3u8
 
 #EXTINF:11,TeleRadyo (mobile-only)
 https://tfcmsl.akamaized.net/hls/live/2014654/dzmm/master.m3u8
@@ -43,16 +43,16 @@ http://59c3ec70cfde0.streamlock.net/channel_7/channel7/chunklist.m3u8
 http://cltv36-lh.akamaihd.net/i/cltv36_1@300961/index_2500_av-p.m3u8
 
 #EXTINF:15,NBC
-http://live.highstream.club/live/NBC/playlist.m3u8
+http://161.0.157.50/PLTV/88888888/224/3221227040/03.m3u8
 
 #EXTINF:16,CBS
-http://live.highstream.club/live/CBS/playlist.m3u8
+http://161.0.157.51/PLTV/88888888/224/3221227041/03.m3u8
 
 #EXTINF:17,ABC
 http://190.80.3.28/ABC/ABC.isml/ABC-audio_128052_eng=128000-video=500000.m3u8
 
 #EXTINF:18,FOX
-http://live.highstream.club/live/FOX/playlist.m3u8
+http://190.80.3.28/FOX/FOX.isml/FOX-audio_128052_eng=128000-video=800000.m3u8
 
 #EXTINF:19,The CW
 http://190.80.3.28/CW/CW.isml/CW-audio_128052_eng=128000-video=500000.m3u8
@@ -60,8 +60,8 @@ http://190.80.3.28/CW/CW.isml/CW-audio_128052_eng=128000-video=500000.m3u8
 #EXTINF:20,MyNetworkTV
 http://65.36.6.216:1935/live/kcwx.smil/chunklist_w879211551_b850000_sleng.m3u8
 
-#EXTINF:21,Nick Jr. (Free Trial)
-http://live.highstream.club/live/NICKJUNIOR/playlist.m3u8
+#EXTINF:21,Nickelodeon (Free Trial)
+http://live.highstream.club/live/Nickelodeon/playlist.m3u8
 
 #EXTINF:22,Pop UK (Free Trial)
 http://145.239.255.4:8080/en-POP/mono.m3u8?token=test
@@ -69,7 +69,7 @@ http://145.239.255.4:8080/en-POP/mono.m3u8?token=test
 #EXTINF:23,Boomerang
 http://145.239.255.4:8080/BOO/mono.m3u8?token=test
 
-#EXTINF:24,PBS KET
+#EXTINF:24,PBS
 https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/chunklist_b600000.m3u8
 
 #EXTINF:25,PBS Kids
@@ -456,11 +456,11 @@ https://d3cbe0gidjd4k2.cloudfront.net/channel_5/smil:channel_5.smil/chunklist_w1
 #EXTINF:152,Indonesia Channel
 https://tic.indonusa.net.id:8443/live/ngrp:TIC.stream_all/chunklist.m3u8
 
-#EXTINF:153,Stirr
-https://dai.google.com/linear/hls/event/IdHTuehZQPClis-gJaZkFQ/master.m3u8
+#EXTINF:153,World News Headlines
+https://stitcheraws.unreel.me/live/5e8f15280a063d53b84ad2a9/playlist.m3u8
 
-#EXTINF:154,Pluto TV Kids
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=954c037d-1a11-44d3-b488-9d06f8a3e068&deviceLat=33.9560&deviceLon=-118.3887&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=81.0.4044.26&includeExtendedEvents=false&sid=e6f1682e-cc62-437a-bd0d-082bea9a4059&userId=&serverSideAds=true
+#EXTINF:154,Coronavirus.gov
+https://stitcheraws.unreel.me/live/5e7559e8a46b495a2283c5e8/playlist.m3u8
 
 #EXTINF:155,CBSN New York
 https://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8
@@ -552,10 +552,10 @@ https://dai.google.com/linear/hls/event/EpqgwRlpQKq73ySVSohJWA/master.m3u8
 #EXTINF:184,Outside TV
 https://a.jsrdn.com/broadcast/3gT64sH/c.m3u8
 
-#EXTINF:185,Awesomeness TV (Pluto TV)
+#EXTINF:185,Awesomeness TV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5595e43c66ace1652e63c6a2/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
 
-#EXTINF:186,Internet Gold (Pluto TV)
+#EXTINF:186,Internet Gold
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56b27a7badb45b1f50b91b0b/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
 
 #EXTINF:187,Harley Davidson (Free Trial)
@@ -654,8 +654,8 @@ https://thegateway.app/BizAndYou/Biz_1080p/playlist.m3u8
 #EXTINF:219,Edge Sports HD
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_5640800/index.m3u8
 
-#EXTINF:220,PBS WPSU HD (Free Trial)
-https://ssc4.wpsu.psu.edu/WPSU_LLStream/ngrp:WPSU1_720max/chunklist_b1505792.m3u8
+#EXTINF:220,RESERVED
+https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
 
 #EXTINF:221,BNC HD (Free Trial)
 https://bnc-roku-us.amagi.tv/hls/amagi_hls_data_blacknews-blacknewsnetwork/CDN/1280x720_2890800/index.m3u8
