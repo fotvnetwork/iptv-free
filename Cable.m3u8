@@ -3,10 +3,10 @@
 #EXTINF:1,UNTV
 https://untv.mmdlive.lldns.net/untv/97cc8d2c46bd43b78e0b112761ab71fe/chunklist_b732000.m3u8
 
-#EXTINF:2,TFC
-https://bit.ly/3ainBEl
+#EXTINF:2,ANC (mobile-only)
+https://tfcmsl.akamaized.net/hls/live/2007143/ancglobal/master.m3u8
 
-#EXTINF:3,Pop Life TV
+#EXTINF:3,Pop Life TV (off-air)
 https://d3cbe0gidjd4k2.cloudfront.net/channel_2/channel2/chunklist_w592974426.m3u8
 
 #EXTINF:4,PTV
@@ -49,13 +49,13 @@ http://161.0.157.50/PLTV/88888888/224/3221227040/03.m3u8
 http://161.0.157.51/PLTV/88888888/224/3221227041/03.m3u8
 
 #EXTINF:17,ABC
-http://190.80.3.28/ABC/ABC.isml/ABC-audio_128052_eng=128000-video=500000.m3u8
+http://87.120.36.62:8080/hls/streama117998/index.m3u8
 
 #EXTINF:18,FOX
 http://190.80.3.28/FOX/FOX.isml/FOX-audio_128052_eng=128000-video=800000.m3u8
 
 #EXTINF:19,The CW
-http://190.80.3.28/CW/CW.isml/CW-audio_128052_eng=128000-video=500000.m3u8
+http://87.120.36.62:8080/hls/streama118001/index.m3u8
 
 #EXTINF:20,MyNetworkTV
 http://65.36.6.216:1935/live/kcwx.smil/chunklist_w879211551_b850000_sleng.m3u8
@@ -96,8 +96,8 @@ https://nbcnewshls-i.akamaihd.net/hls/live/1005170/nnn_live1/index_750.m3u8
 #EXTINF:32,MSNBC (Free Trial)
 http://live.highstream.club/live/MSNBC/playlist.m3u8
 
-#EXTINF:33,CNBC (Free Trial)
-http://live.highstream.club/live/CNBC/playlist.m3u8
+#EXTINF:33,CNBC
+http://edge-1192-ch-gv.filmon.com/live/4130.high.stream/playlist.m3u8
 
 #EXTINF:34,Best of Fox News
 https://bk7l2w4nlx53-hls-live.5centscdn.com/FOXNEWS/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
@@ -606,8 +606,8 @@ https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Sour
 #EXTINF:203,Cheddar HD
 https://live.chdrstatic.com/cheddar/primary/1.m3u8
 
-#EXTINF:204,FOX HD
-http://190.80.3.28/FOX/FOX.isml/FOX-audio_128052_eng=128000-video=2800000.m3u8
+#EXTINF:204,RESERVED
+https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
 
 #EXTINF:205,NBC News Now HD
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df97894467dfa00091c873c/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=954c037d-1a11-44d3-b488-9d06f8a3e068&deviceLat=33.9560&deviceLon=-118.3887&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=81.0.4044.26&includeExtendedEvents=false&sid=e6f1682e-cc62-437a-bd0d-082bea9a4059&userId=&serverSideAds=true
@@ -624,8 +624,8 @@ http://161.0.157.51/PLTV/88888888/224/3221227041/01.m3u8
 #EXTINF:209,ABC News Live HD
 https://abcnewslive.akamaized.net/amagi_hls_data_roku-host-abc/CDN/1280x720_2890800/index.m3u8
 
-#EXTINF:210,ABC HD
-http://190.80.3.28/ABC/ABC.isml/ABC-audio_128052_eng=128000-video=2800000.m3u8
+#EXTINF:210,RESERVED
+https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
 
 #EXTINF:211,Red Bull TV HD
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
