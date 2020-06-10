@@ -18,8 +18,8 @@ http://stream1.news5.ph/n5e/tv5/chunklist.m3u8
 #EXTINF:6,One Sports (off-air)
 http://corpcms.tv5.com.ph/5network/wp-content/uploads/2019/03/29BA63DF-9235-49A6-9160-865A18AB1CCC.jpeg
 
-#EXTINF:7,GMA Pinoy TV
-http://164.40.161.43:10011
+#EXTINF:7,BEAM TV
+https://d3cbe0gidjd4k2.cloudfront.net/channel_7/channel7/playlist.m3u8
 
 #EXTINF:8,Community Prayer Broadcast
 https://www.mcgi.org/pray/chunklist_w1403890801.m3u8
