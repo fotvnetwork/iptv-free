@@ -4,7 +4,7 @@
 https://untv.mmdlive.lldns.net/untv/97cc8d2c46bd43b78e0b112761ab71fe/chunklist_b732000.m3u8
 
 #EXTINF:2,ANC (mobile-only)
-https://tfcmsl.akamaized.net/hls/live/2007143/ancglobal/master.m3u8
+https://amdottlive.akamaized.net/hls/live/2015474/iwantanc/master360p.m3u8
 
 #EXTINF:3,Pop Life TV (off-air)
 https://d3cbe0gidjd4k2.cloudfront.net/channel_2/channel2/chunklist_w592974426.m3u8
@@ -15,8 +15,8 @@ https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/PTVPH.m3u8
 #EXTINF:5,5
 http://stream1.news5.ph/n5e/tv5/chunklist.m3u8
 
-#EXTINF:6,One Sports (off-air)
-http://corpcms.tv5.com.ph/5network/wp-content/uploads/2019/03/29BA63DF-9235-49A6-9160-865A18AB1CCC.jpeg
+#EXTINF:6,One Sports
+http://stream1.news5.ph:1935/n5e/5plus/playlist.m3u8
 
 #EXTINF:7,BEAM TV
 https://d3cbe0gidjd4k2.cloudfront.net/channel_7/channel7/playlist.m3u8
@@ -195,8 +195,8 @@ https://dai.google.com/linear/hls/event/JX5KKhKKRPqchP3LfXD-1A/master.m3u8
 #EXTINF:65,Lifetime (Free Trial)
 http://live.highstream.club/live/Lifetime/playlist.m3u8
 
-#EXTINF:66,Fox Life (Free Trial)
-https://itpolly.iptv.digijadoo.net/live/fox_life/chunks.m3u8
+#EXTINF:66,HBO Asia (Free Trial)
+http://220.158.149.28:8180/live/TV00000000000000000166@HHZT
 
 #EXTINF:67,RedBox FilmHub
 http://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/playlist.m3u8
@@ -441,8 +441,8 @@ https://a.jsrdn.com/broadcast/ebf95254ca/+0000/low/c.m3u8
 #EXTINF:147,The Outdoor Cooking Channel
 http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/chunklist_w981409619_b1105254.m3u8
 
-#EXTINF:148,RESERVED
-https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
+#EXTINF:148,Cast4U 2
+http://cdnak3.cast4u.info/channels/2/10802.m3u8
 
 #EXTINF:149,Stirr Cooks
 https://dai.google.com/linear/hls/event/CHaUZsCfSyS2CVF7I-NktA/master.m3u8
@@ -595,7 +595,7 @@ https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
 http://ocatv.mcgi.me:1935/public/247_br/playlist.m3u8
 
 #EXTINF:199,Live Event
-https://live.foxnews.com/4cd873537d834444ac8f882831463889/us-east-1/694940094001/playlist.m3u8
+https://video.nyt.com/live/100000006833597-live-20191119130040/master.m3u8
 
 #EXTINF:201,Euronews HD
 https://fluxustv.blogspot.com@bit.ly/EuronewsTV?.m3u8
@@ -606,8 +606,8 @@ https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Sour
 #EXTINF:203,Cheddar HD
 https://live.chdrstatic.com/cheddar/primary/1.m3u8
 
-#EXTINF:204,RESERVED
-https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
+#EXTINF:204,Newsmax TV HD
+https://cdnapi.kaltura.com/p/2216081/sp/221608100/playManifest/entryId/1_f19eeulz/format/applehttp/protocol/http/uiConfId/28428751/index_720.m3u8
 
 #EXTINF:205,NBC News Now HD
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df97894467dfa00091c873c/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=954c037d-1a11-44d3-b488-9d06f8a3e068&deviceLat=33.9560&deviceLon=-118.3887&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=81.0.4044.26&includeExtendedEvents=false&sid=e6f1682e-cc62-437a-bd0d-082bea9a4059&userId=&serverSideAds=true
