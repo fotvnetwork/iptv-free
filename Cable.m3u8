@@ -93,8 +93,8 @@ https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:31,NBC News Now
 https://nbcnewshls-i.akamaihd.net/hls/live/1005170/nnn_live1/index_750.m3u8
 
-#EXTINF:32,MSNBC (Free Trial)
-http://live.highstream.club/live/MSNBC/playlist.m3u8
+#EXTINF:32,NBC News
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56403d822d2719107d948cb9/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=954c037d-1a11-44d3-b488-9d06f8a3e068&deviceLat=33.9560&deviceLon=-118.3887&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=81.0.4044.26&includeExtendedEvents=false&sid=e6f1682e-cc62-437a-bd0d-082bea9a4059&userId=&serverSideAds=true
 
 #EXTINF:33,CNBC
 http://edge-1192-ch-gv.filmon.com/live/4130.high.stream/playlist.m3u8
@@ -174,8 +174,8 @@ https://dai.google.com/linear/hls/event/e1QjWFRNSR2YFYGsPbkfgg/master.m3u8
 #EXTINF:58,MovieMix
 https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8
 
-#EXTINF:59,FX USA (Free Trial)
-http://live.highstream.club/live/FX/playlist.m3u8
+#EXTINF:59,Thrill
+http://45.126.83.51/qwr9ew/s/s34/index.m3u8
 
 #EXTINF:60,Comedy Dynamics
 https://a.jsrdn.com/broadcast/5Gt2c8lsw/c.m3u8
@@ -186,14 +186,14 @@ https://comedy-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-comedy/CDN/playlist.
 #EXTINF:62,Comedy Central (Free Trial)
 http://145.239.255.4:8080/COMEDY/mono.m3u8?token=test
 
-#EXTINF:63,TBS (Free Trial)
-http://live.highstream.club/live/TBS/playlist.m3u8
+#EXTINF:63,E! (Free Trial)
+http://145.239.255.4:8080/en-E/mono.m3u8?token=test
 
 #EXTINF:64,ShoutFactory TV
 https://dai.google.com/linear/hls/event/JX5KKhKKRPqchP3LfXD-1A/master.m3u8
 
-#EXTINF:65,Lifetime (Free Trial)
-http://live.highstream.club/live/Lifetime/playlist.m3u8
+#EXTINF:65,Sky Cinema Drama (Free Trial)
+http://145.239.255.4:8080/SkyDrama/mono.m3u8?token=test
 
 #EXTINF:66,HBO Asia (Free Trial)
 http://220.158.149.28:8180/live/TV00000000000000000166@HHZT
@@ -204,8 +204,8 @@ http://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/playlist.m3u8
 #EXTINF:68,Filmrise Movies
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/master.m3u8
 
-#EXTINF:69,HBO Signature (Free Trial)
-http://live.highstream.club/live/HBOSignature/playlist.m3u8
+#EXTINF:69,Sky Cinema Action (Free Trial)
+http://145.239.255.4:8080/M4M/mono.m3u8?token=test
 
 #EXTINF:70,Fox Movies (Free Trial)
 https://cdn-laos.workpoint.news/hd-foxpremium_720/index.m3u8
@@ -225,14 +225,14 @@ https://manifest.auditude.com/auditude/variant/nosey_2/aHR0cHM6Ly9ub3NleS0yLnJva
 #EXTINF:75,BeIN Sports Xtra
 https://bein-xtra-roku.amagi.tv/ingest/playlist404p.m3u8
 
-#EXTINF:76,WWE Network (Free Trial)
-http://live.highstream.club/live/WWE/playlist.m3u8
+#EXTINF:76,WWE
+https://bk7l2w4nlx53-hls-live.5centscdn.com/WWE/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 
 #EXTINF:77,Cast4U
 http://cdnak21.cast4u.info/channels/4/10804.m3u8
 
-#EXTINF:78,NBA TV (Free Trial)
-http://live.highstream.club/live/NBATV/playlist.m3u8
+#EXTINF:78,NFL Channel
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?advertisingId=&appName=web&appVersion=5.0.2-97fa211903e9a4370df3912896eb5e2e8e78f998&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=954c037d-1a11-44d3-b488-9d06f8a3e068&deviceLat=34.0729&deviceLon=-118.2606&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=81.0.4044.26&includeExtendedEvents=false&sid=5d083def-5c0b-4245-a7f6-967a25557dd8&userId=&serverSideAds=true
 
 #EXTINF:79,Fox Sports News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master640x360.m3u8
@@ -252,23 +252,23 @@ https://dai.google.com/linear/hls/event/gaDje967RoSDD5llid2OBA/master.m3u8
 #EXTINF:84,The T
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/f.m3u8
 
-#EXTINF:85,Eurosport 1 (Free Trial)
-https://cdn-laos.workpoint.news/uk-eurosport_480/index.m3u8
+#EXTINF:85,WOSN
+http://streamengine.wosn.tv:1935/live/WOSNLive_1/chunklist_w1969979172.m3u8
 
-#EXTINF:86,OWN (Free Trial)
-http://live.highstream.club/live/OWN/playlist.m3u8
+#EXTINF:86,CGTN Documentary
+https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 
-#EXTINF:87,Hallmark Channel (Free Trial)
-http://live.highstream.club/live/Hallmark/playlist.m3u8
+#EXTINF:87,History (Free Trial)
+https://edge01.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8
 
 #EXTINF:88,Nat Geo Wild
 http://103.199.160.85/Content/insync/Live/Channel(Insync)/Stream(02)/index.m3u8
 
-#EXTINF:89,National Geographic (Free Trial)
-https://edge01.iptv.digijadoo.net/live/nat_geo_in/chunks.m3u8
+#EXTINF:89,TV5Monde Style
+http://45.126.83.51/uq2663/h/h01/index2.m3u8
 
-#EXTINF:90,AHC (Free Trial)
-http://live.highstream.club/live/AHC/playlist.m3u8
+#EXTINF:90,Magellan TV
+https://dai.google.com/linear/hls/event/5xreV3X4T9WxeIbrwOmdMA/master.m3u8
 
 #EXTINF:91,Docurama
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/640x360_394000/index.m3u8
@@ -294,8 +294,8 @@ http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 #EXTINF:98,bspoketv
 https://bspoketv.nexustreamer.com/distrotv-usa/master.m3u8
 
-#EXTINF:99,Bravo (Free Trial)
-http://live.highstream.club/live/Bravo/playlist.m3u8
+#EXTINF:99,BBC Lifestyle (Free Trial)
+https://edge01.iptv.digijadoo.net/live/bbc_lifestyle/chunks.m3u8
 
 #EXTINF:100,MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_1250_av-p.m3u8
@@ -534,14 +534,14 @@ https://dai.google.com/linear/hls/event/08ADpEIeQ8iZOjusLsZbCg/master.m3u8
 #EXTINF:178,World Harvest Television
 https://597865f6e4114.streamlock.net/live/leseaorigin.stream/chunklist_w347907757.m3u8
 
-#EXTINF:179,NFL Channel (Pluto TV)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?advertisingId=&appName=web&appVersion=5.0.2-97fa211903e9a4370df3912896eb5e2e8e78f998&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=954c037d-1a11-44d3-b488-9d06f8a3e068&deviceLat=34.0729&deviceLon=-118.2606&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=81.0.4044.26&includeExtendedEvents=false&sid=5d083def-5c0b-4245-a7f6-967a25557dd8&userId=&serverSideAds=true
+#EXTINF:179,O Shopping (mobile-only)
+https://amdottlive.akamaized.net/hls/live/2015808/iwantoshop/master.m3u8
 
 #EXTINF:180,TVshop
 http://59c3ec70cfde0.streamlock.net/channel_1/channel1/chunklist.m3u8
 
 #EXTINF:181,OAN Encore
-https://oneamericanews-roku-us.amagi.tv/hls/amagi_hls_data_oneameric-oneamericanews/CDN/512x288_875600/index.m3u8
+https://oneamericanews-roku-us.amagi.tv/hls/amagi_hls_data_oneameric-oneamericanews/CDN/playlist.m3u8
 
 #EXTINF:182,Pluto TV News
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5268abcd0ce20a8472000114/master.m3u8?advertisingId=&appName=web&appVersion=5.0.3-5a69f0421bfaa21acf57c7f54f9914128359c64e&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceLat=40.7308&deviceLon=-73.9975&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=66.0.3515.115&includeExtendedEvents=false&sid=8731304a-e66f-4ac1-b5f0-6f8c82d02e79&userId=&serverSideAds=true
