@@ -60,23 +60,23 @@ http://87.120.36.62:8080/hls/streama118001/index.m3u8
 #EXTINF:20,MyNetworkTV
 http://65.36.6.216:1935/live/kcwx.smil/chunklist_w879211551_b850000_sleng.m3u8
 
-#EXTINF:21,Nickelodeon (Free Trial)
-http://live.highstream.club/live/Nickelodeon/playlist.m3u8
+#EXTINF:21,Nickelodeon Free
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=954c037d-1a11-44d3-b488-9d06f8a3e068&deviceLat=33.9560&deviceLon=-118.3887&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=81.0.4044.26&includeExtendedEvents=false&sid=e6f1682e-cc62-437a-bd0d-082bea9a4059&userId=&serverSideAds=true
 
-#EXTINF:22,Pop UK (Free Trial)
-http://145.239.255.4:8080/en-POP/mono.m3u8?token=test
+#EXTINF:22,Pop UK
+https://edge-1192-ch-gv.filmon.com/live/320.high.stream/playlist.m3u8
 
-#EXTINF:23,Boomerang
-http://145.239.255.4:8080/BOO/mono.m3u8?token=test
+#EXTINF:23,Pop Max
+https://edge-1192-ch-gv.filmon.com/live/316.high.stream/playlist.m3u8
 
-#EXTINF:24,PBS
-https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/chunklist_b600000.m3u8
+#EXTINF:24,Tiny Pop
+https://edge-1192-ch-gv.filmon.com/live/318.high.stream/playlist.m3u8
 
 #EXTINF:25,PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b600000.m3u8
 
-#EXTINF:26,Cartoon Network (Free Trial)
-http://145.239.255.4:8080/CARUK/mono.m3u8?token=test
+#EXTINF:26,PBS
+https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/chunklist_b600000.m3u8
 
 #EXTINF:27,CNN (Free Trial)
 http://live.highstream.club/live/CNN/playlist.m3u8
@@ -109,7 +109,7 @@ http://45.126.83.51/uq2663/h/h03/index2.m3u8
 https://edge01.iptv.digijadoo.net/live/bbc_world/chunks.m3u8
 
 #EXTINF:37,BBC News
-http://145.239.255.4:8080/bbcnews/mono.m3u8?token=test
+https://edge-1192-ch-gv.filmon.com/live/27.high.stream/playlist.m3u8
 
 #EXTINF:38,Sky News
 http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/03.m3u8
@@ -154,7 +154,7 @@ https://pcor4.manifest.auditude.com/auditude/variant/aenetworks_ae_1/c82b6352-dd
 https://streamidvo.multitvsolution.in/live/TLC_HD-a/p3.m3u8
 
 #EXTINF:52,Discovery
-http://145.239.255.4:8080/en-Discovery-HD/mono.m3u8?token=test
+http://streamidvo.multitvsolution.in/DiscoveryEng-a/playlist.m3u8
 
 #EXTINF:53,The Asylum
 https://dai.google.com/linear/hls/event/2r7F3DThT-C5YW21CUuGLQ/master.m3u8
@@ -184,16 +184,16 @@ https://a.jsrdn.com/broadcast/5Gt2c8lsw/c.m3u8
 https://comedy-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-comedy/CDN/playlist.m3u8
 
 #EXTINF:62,Comedy Central (Free Trial)
-http://145.239.255.4:8080/COMEDY/mono.m3u8?token=test
+https://edge01.iptv.digijadoo.net/live/diva/chunks.m3u8
 
-#EXTINF:63,E! (Free Trial)
-http://145.239.255.4:8080/en-E/mono.m3u8?token=test
+#EXTINF:63,FYI (Free Trial)
+https://edge01.iptv.digijadoo.net/live/fyi_hd/chunks.m3u8
 
 #EXTINF:64,ShoutFactory TV
 https://dai.google.com/linear/hls/event/JX5KKhKKRPqchP3LfXD-1A/master.m3u8
 
-#EXTINF:65,Sky Cinema Drama (Free Trial)
-http://145.239.255.4:8080/SkyDrama/mono.m3u8?token=test
+#EXTINF:65,Cine Life
+https://dai.google.com/linear/hls/event/PFJ1Jhd6SsSMcu3qq86wzQ/master.m3u8
 
 #EXTINF:66,HBO Asia (Free Trial)
 http://220.158.149.28:8180/live/TV00000000000000000166@HHZT
@@ -204,8 +204,8 @@ http://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/playlist.m3u8
 #EXTINF:68,Filmrise Movies
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/master.m3u8
 
-#EXTINF:69,Sky Cinema Action (Free Trial)
-http://145.239.255.4:8080/M4M/mono.m3u8?token=test
+#EXTINF:69,iFILM English
+http://mn-nl.mncdn.com/ifilm/smil:ifilmen.smil/chunklist_b1096000.m3u8
 
 #EXTINF:70,Fox Movies (Free Trial)
 https://cdn-laos.workpoint.news/hd-foxpremium_720/index.m3u8
