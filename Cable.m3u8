@@ -3,11 +3,11 @@
 #EXTINF:1,UNTV
 https://untv.mmdlive.lldns.net/untv/97cc8d2c46bd43b78e0b112761ab71fe/chunklist_b732000.m3u8
 
-#EXTINF:2,ANC (mobile-only)
+#EXTINF:2,ANC*
 https://amdottlive.akamaized.net/hls/live/2015474/iwantanc/master360p.m3u8
 
-#EXTINF:3,Pop Life TV (off-air)
-https://d3cbe0gidjd4k2.cloudfront.net/channel_2/channel2/chunklist_w592974426.m3u8
+#EXTINF:3,Community Prayer Broadcast
+https://www.mcgi.org/pray/chunklist_w1403890801.m3u8
 
 #EXTINF:4,PTV
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/PTVPH.m3u8
@@ -21,8 +21,8 @@ http://stream1.news5.ph:1935/n5e/5plus/playlist.m3u8
 #EXTINF:7,BEAM TV
 https://d3cbe0gidjd4k2.cloudfront.net/channel_7/channel7/playlist.m3u8
 
-#EXTINF:8,Community Prayer Broadcast
-https://www.mcgi.org/pray/chunklist_w1403890801.m3u8
+#EXTINF:8,Island Living Channel
+https://d3cbe0gidjd4k2.cloudfront.net/channel_5/smil:channel_5.smil/chunklist_w1281634943_b300000_sleng.m3u8
 
 #EXTINF:9,CNN Philippines
 http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
@@ -30,7 +30,7 @@ http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
 #EXTINF:10,CNN Philippines (mirror)
 http://df7lqp0btxdx2.cloudfront.net/11227_300.m3u8
 
-#EXTINF:11,TeleRadyo (mobile-only)
+#EXTINF:11,TeleRadyo*
 https://tfcmsl.akamaized.net/hls/live/2014654/dzmm/master.m3u8
 
 #EXTINF:12,MyTV Cebu
@@ -48,14 +48,14 @@ http://161.0.157.50/PLTV/88888888/224/3221227040/03.m3u8
 #EXTINF:16,CBS
 http://161.0.157.51/PLTV/88888888/224/3221227041/03.m3u8
 
-#EXTINF:17,ABC
-http://87.120.36.62:8080/hls/streama117998/index.m3u8
+#EXTINF:17,HJtv
+http://190.80.3.28/HJTV/HJTV.isml/HJTV-audio_128301_und=128000-video=800000.m3u8
 
-#EXTINF:18,FOX
-http://190.80.3.28/FOX/FOX.isml/FOX-audio_128052_eng=128000-video=800000.m3u8
+#EXTINF:18,Channel 5 UK
+http://178.132.3.162:88/Channel_5/index.m3u8?token=test
 
-#EXTINF:19,The CW
-http://87.120.36.62:8080/hls/streama118001/index.m3u8
+#EXTINF:19,BBC Scotland
+http://51.52.156.22:8888/http/001
 
 #EXTINF:20,MyNetworkTV
 http://65.36.6.216:1935/live/kcwx.smil/chunklist_w879211551_b850000_sleng.m3u8
@@ -78,8 +78,8 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b600000.m
 #EXTINF:26,PBS
 https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/chunklist_b600000.m3u8
 
-#EXTINF:27,CNN (Free Trial)
-http://live.highstream.club/live/CNN/playlist.m3u8
+#EXTINF:27,CNN Free
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839419cb3/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=954c037d-1a11-44d3-b488-9d06f8a3e068&deviceLat=33.9560&deviceLon=-118.3887&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=81.0.4044.26&includeExtendedEvents=false&sid=e6f1682e-cc62-437a-bd0d-082bea9a4059&userId=&serverSideAds=true
 
 #EXTINF:28,CNN International
 https://itpolly.iptv.digijadoo.net/live/cnn/playlist.m3u8
@@ -159,8 +159,8 @@ http://streamidvo.multitvsolution.in/DiscoveryEng-a/playlist.m3u8
 #EXTINF:53,The Asylum
 https://dai.google.com/linear/hls/event/2r7F3DThT-C5YW21CUuGLQ/master.m3u8
 
-#EXTINF:54,BBC America (Free Trial)
-http://live.highstream.club/live/BBCAmerica/playlist.m3u8
+#EXTINF:54,CBS Reality (Free Trial)
+http://178.132.3.162:88/cbs_reality/index.m3u8?token=test
 
 #EXTINF:55,MGM Sci-Fi
 https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/master.m3u8
@@ -534,7 +534,7 @@ https://dai.google.com/linear/hls/event/08ADpEIeQ8iZOjusLsZbCg/master.m3u8
 #EXTINF:178,World Harvest Television
 https://597865f6e4114.streamlock.net/live/leseaorigin.stream/chunklist_w347907757.m3u8
 
-#EXTINF:179,O Shopping (mobile-only)
+#EXTINF:179,O Shopping*
 https://amdottlive.akamaized.net/hls/live/2015808/iwantoshop/master.m3u8
 
 #EXTINF:180,TVshop
@@ -663,8 +663,8 @@ https://bnc-roku-us.amagi.tv/hls/amagi_hls_data_blacknews-blacknewsnetwork/CDN/1
 #EXTINF:222,CBC News HD (Free Trial)
 https://cbcnewshd-f.akamaihd.net/i/cbcnews_30@304030/index_2500_av-p.m3u8
 
-#EXTINF:223,Channel 4 HD
-http://145.239.255.4:8080/HDCHANNEL4/mono.m3u8?token=test
+#EXTINF:223,RESERVED
+https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
 
 #EXTINF:224,NBCLX HD (Free Trial)
 https://lxlive-lh.akamaihd.net/i/LX_LIVE@148206/index_1080P_av-p.m3u8
