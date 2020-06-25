@@ -40,7 +40,7 @@ http://api.new.livestream.com/accounts/15418593/events/4787138/live.m3u8
 http://59c3ec70cfde0.streamlock.net/channel_7/channel7/chunklist.m3u8
 
 #EXTINF:14,CLTV 36
-http://cltv36-lh.akamaihd.net/i/cltv36_1@300961/index_2500_av-p.m3u8
+https://usb.bozztv.com/cltv36/index.m3u8
 
 #EXTINF:15,NBC
 http://161.0.157.50/PLTV/88888888/224/3221227040/03.m3u8
@@ -49,7 +49,7 @@ http://161.0.157.50/PLTV/88888888/224/3221227040/03.m3u8
 http://161.0.157.51/PLTV/88888888/224/3221227041/03.m3u8
 
 #EXTINF:17,HJtv
-http://190.80.3.28/HJTV/HJTV.isml/HJTV-audio_128301_und=128000-video=800000.m3u8
+http://190.80.3.28/HJTV/HJTV.isml/HJTV-audio_128301_und=128000-video=500000.m3u8
 
 #EXTINF:18,Channel 5 UK
 http://178.132.3.162:88/Channel_5/index.m3u8?token=test
