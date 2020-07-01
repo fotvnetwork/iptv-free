@@ -25,13 +25,13 @@ https://d3cbe0gidjd4k2.cloudfront.net/channel_7/channel7/playlist.m3u8
 https://d3cbe0gidjd4k2.cloudfront.net/channel_5/smil:channel_5.smil/chunklist_w1281634943_b300000_sleng.m3u8
 
 #EXTINF:9,CNN Philippines
-http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
-
-#EXTINF:10,CNN Philippines (mirror)
 http://df7lqp0btxdx2.cloudfront.net/11227_300.m3u8
 
+#EXTINF:10,Kapamilya*
+https://amdottlive.akamaized.net/hls/live/2015473/iwantabscbn/master360p.m3u8
+
 #EXTINF:11,TeleRadyo*
-https://tfcmsl.akamaized.net/hls/live/2014654/dzmm/master.m3u8
+https://tfcmsl.akamaized.net/hls/live/2014654/dzmm/bitrate_1.m3u8
 
 #EXTINF:12,MyTV Cebu
 http://api.new.livestream.com/accounts/15418593/events/4787138/live.m3u8
@@ -78,8 +78,8 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b600000.m
 #EXTINF:26,PBS
 https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/chunklist_b600000.m3u8
 
-#EXTINF:27,CNN Free
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839419cb3/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=954c037d-1a11-44d3-b488-9d06f8a3e068&deviceLat=33.9560&deviceLon=-118.3887&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=81.0.4044.26&includeExtendedEvents=false&sid=e6f1682e-cc62-437a-bd0d-082bea9a4059&userId=&serverSideAds=true
+#EXTINF:27,CNN
+http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
 
 #EXTINF:28,CNN International
 https://itpolly.iptv.digijadoo.net/live/cnn/playlist.m3u8
@@ -99,8 +99,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56403d822d2719107d
 #EXTINF:33,CNBC
 http://edge-1192-ch-gv.filmon.com/live/4130.high.stream/playlist.m3u8
 
-#EXTINF:34,Best of Fox News
-https://bk7l2w4nlx53-hls-live.5centscdn.com/FOXNEWS/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
+#EXTINF:34,Fox News
+http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
 
 #EXTINF:35,Bloomberg TV
 http://45.126.83.51/uq2663/h/h03/index2.m3u8
