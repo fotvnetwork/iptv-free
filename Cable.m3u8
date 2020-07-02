@@ -151,10 +151,10 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5877ac8cb791f4eb4a
 https://pcor4.manifest.auditude.com/auditude/variant/aenetworks_ae_1/c82b6352-ddd8-4b96-819e-f0ad28870b73/aHR0cHM6Ly9hZW5ldHdvcmtzLWFlLTEucm9rdS53dXJsLmNvbS9tYW5pZmVzdC9wbGF5bGlzdC5tM3U4.m3u8?pttrackingversion=v2&u=19287a324825cc5aacb7e46183c72324&pttrackingmode=sstm&g=1000010&z=268729&k=wurl_channel=285;distributor=roku;ip=192.119.164.38;rdid=121c0a02-8b4f-5ad8-9a0a-d73aa5fd4c92;coppa=false;is_lat=1;ua=Mozilla/5.0+(Windows+NT+10.0;+)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.26+Safari/537.36;content=1f661dde48ba41b0023a303c1c44057d4fbe72dc;genre=;platform=web;content_type=livefeed;content_rating=&ptcueformat=turner
 
 #EXTINF:51,TLC
-https://streamidvo.multitvsolution.in/live/TLC_HD-a/p3.m3u8
+https://itpolly.iptv.digijadoo.net/live/tlc_hd/chunks.m3u8
 
-#EXTINF:52,Discovery
-http://streamidvo.multitvsolution.in/DiscoveryEng-a/playlist.m3u8
+#EXTINF:52,History (Free Trial)
+https://edge01.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8
 
 #EXTINF:53,The Asylum
 https://dai.google.com/linear/hls/event/2r7F3DThT-C5YW21CUuGLQ/master.m3u8
@@ -258,8 +258,8 @@ http://streamengine.wosn.tv:1935/live/WOSNLive_1/chunklist_w1969979172.m3u8
 #EXTINF:86,CGTN Documentary
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 
-#EXTINF:87,History (Free Trial)
-https://edge01.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8
+#EXTINF:87,Documentaries 4U
+https://nimble.dashmedia.tv/onestudio/documentaries4u/playlist.m3u8
 
 #EXTINF:88,Nat Geo Wild
 http://103.199.160.85/Content/insync/Live/Channel(Insync)/Stream(02)/index.m3u8
