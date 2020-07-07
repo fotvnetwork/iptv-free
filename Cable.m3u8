@@ -106,7 +106,7 @@ http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
 http://45.126.83.51/uq2663/h/h03/index2.m3u8
 
 #EXTINF:36,BBC World News
-https://edge01.iptv.digijadoo.net/live/bbc_world/chunks.m3u8
+http://220.158.149.14:9999/live/TV00000000000000000112@HHZT;LIVE
 
 #EXTINF:37,BBC News
 https://edge-1192-ch-gv.filmon.com/live/27.high.stream/playlist.m3u8
@@ -595,7 +595,7 @@ https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
 http://ocatv.mcgi.me:1935/public/247_br/playlist.m3u8
 
 #EXTINF:199,Live Event
-https://video.nyt.com/live/100000006833597-live-20191119130040/master.m3u8
+https://usb.bozztv.com/fotvph/index.m3u8
 
 #EXTINF:201,Euronews HD
 https://fluxustv.blogspot.com@bit.ly/EuronewsTV?.m3u8
@@ -658,10 +658,10 @@ https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_
 http://93.190.140.42:8081/SilenceTV/live/playlist.m3u8
 
 #EXTINF:221,BNC HD (Free Trial)
-https://bnc-roku-us.amagi.tv/hls/amagi_hls_data_blacknews-blacknewsnetwork/CDN/1280x720_2890800/index.m3u8
+https://bnc-roku-us.amagi.tv/hls/amagi_hls_data_blacknews-blacknewsnetwork/CDN/playlist.m3u8
 
-#EXTINF:222,CBC News HD (Free Trial)
-https://cbcnewshd-f.akamaihd.net/i/cbcnews_30@304030/index_2500_av-p.m3u8
+#EXTINF:222,RESERVED
+https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
 
 #EXTINF:223,RESERVED
 https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
