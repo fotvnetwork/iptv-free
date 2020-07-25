@@ -40,7 +40,7 @@ http://api.new.livestream.com/accounts/15418593/events/4787138/live.m3u8
 http://59c3ec70cfde0.streamlock.net/channel_7/channel7/chunklist.m3u8
 
 #EXTINF:14,CLTV 36
-https://usb.bozztv.com/cltv36/index.m3u8
+https://tna5.bozztv.com/cltv36/index.m3u8
 
 #EXTINF:15,NBC
 http://161.0.157.50/PLTV/88888888/224/3221227040/03.m3u8
@@ -48,8 +48,8 @@ http://161.0.157.50/PLTV/88888888/224/3221227040/03.m3u8
 #EXTINF:16,CBS
 http://161.0.157.51/PLTV/88888888/224/3221227041/03.m3u8
 
-#EXTINF:17,HJtv
-http://190.80.3.28/HJTV/HJTV.isml/HJTV-audio_128301_und=128000-video=500000.m3u8
+#EXTINF:17,ITV UK
+http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main600.m3u8
 
 #EXTINF:18,Channel 5 UK
 http://178.132.3.162:88/Channel_5/index.m3u8?token=test
@@ -220,7 +220,7 @@ https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/playl
 http://contv.sinclair.wurl.com/manifest/da1285e1dd4323e6aff01b01cd40651c.m3u8
 
 #EXTINF:74,Nosey
-https://manifest.auditude.com/auditude/variant/nosey_2/aHR0cHM6Ly9ub3NleS0yLnJva3Uud3VybC5jb20vbWFuaWZlc3QvcGxheWxpc3QubTN1OA==.m3u8?u=19287a324825cc5aacb7e46183c72324&z=268729&g=1000010&k=wurl_channel=319;distributor=roku;ip=192.119.164.38;rdid=121c0a02-8b4f-5ad8-9a0a-d73aa5fd4c92;coppa=false;is_lat=1;ua=Mozilla/5.0+(Windows+NT+10.0;+)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.26+Safari/537.36;content=341083177c1ec701eae49422b72f119a7946d49d;genre=;platform=web;content_type=livefeed;content_rating=&ptcueformat=turner&pttrackingmode=sstm&pttrackingversion=v2&__sid__=wurl253276323
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5aec96ec5126c2157123c657/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
 
 #EXTINF:75,BeIN Sports Xtra
 https://bein-xtra-roku.amagi.tv/ingest/playlist404p.m3u8
@@ -252,8 +252,8 @@ https://dai.google.com/linear/hls/event/gaDje967RoSDD5llid2OBA/master.m3u8
 #EXTINF:84,The T
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/f.m3u8
 
-#EXTINF:85,WOSN
-http://streamengine.wosn.tv:1935/live/WOSNLive_1/chunklist_w1969979172.m3u8
+#EXTINF:85,Adventure Sports Network
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/master.m3u8?p=roku&rdid=121c0a02-8b4f-5ad8-9a0a-d73aa5fd4c92&coppa=false&is_lat=1&is_roku_lat=1&content_type=livefeed&content=16e2524cd777af76f1575c077a4faf0699c50f0c&genre=&platform=web&content_rating=&channel_id=ROKU_CHANNEL_ID
 
 #EXTINF:86,CGTN Documentary
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
@@ -261,8 +261,8 @@ https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 #EXTINF:87,Documentaries 4U
 https://nimble.dashmedia.tv/onestudio/documentaries4u/playlist.m3u8
 
-#EXTINF:88,Nat Geo Wild
-http://103.199.160.85/Content/insync/Live/Channel(Insync)/Stream(02)/index.m3u8
+#EXTINF:88,Animal Here
+https://bozztv.com/36bay4/animalshere/index.m3u8
 
 #EXTINF:89,TV5Monde Style
 http://45.126.83.51/uq2663/h/h01/index2.m3u8
@@ -286,7 +286,7 @@ https://dai.google.com/linear/hls/event/WB-7LjdsRVm0wVoLZjR8mA/master.m3u8
 https://pcva4.manifest.auditude.com/auditude/variant/thisoldhouse_2/7b1d6383-3aa6-4601-b8cd-dff13b8b7965/aHR0cHM6Ly90aGlzb2xkaG91c2UtMi5yb2t1Lnd1cmwuY29tL21hbmlmZXN0L3BsYXlsaXN0Lm0zdTg.m3u8?pttrackingversion=v2&u=19287a324825cc5aacb7e46183c72324&pttrackingmode=sstm&g=1000010&z=268729&k=wurl_channel=318
 
 #EXTINF:96,FTV
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/playlist.m3u8
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b900000_t64MzYwcA==.m3u8
 
 #EXTINF:97,Fashion Television
 http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
@@ -294,8 +294,8 @@ http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 #EXTINF:98,bspoketv
 https://bspoketv.nexustreamer.com/distrotv-usa/master.m3u8
 
-#EXTINF:99,BBC Lifestyle (Free Trial)
-https://edge01.iptv.digijadoo.net/live/bbc_lifestyle/chunks.m3u8
+#EXTINF:99,Complex
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-complextv/CDN/playlist.m3u8?p=roku&rdid=121c0a02-8b4f-5ad8-9a0a-d73aa5fd4c92&coppa=false&is_lat=1&is_roku_lat=1&content_type=livefeed&content=9743d0361333fb353f0d48e7595faa96e488bb04&genre=&platform=web&content_rating=&channel_id=ROKU_CHANNEL_ID
 
 #EXTINF:100,MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_1250_av-p.m3u8
@@ -495,17 +495,17 @@ https://dai.google.com/linear/hls/event/o5J3g4U9T16CvYnS7Qd86Q/master.m3u8?iu=/4
 #EXTINF:165,C-SPAN
 https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/index_50_av-p.m3u8
 
-#EXTINF:166,AMGTV
-https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/chunklist.m3u8
+#EXTINF:166,RESERVED
+https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
 
 #EXTINF:167,Best of History
 https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 
-#EXTINF:168,Discovery Science
-http://streamidvo.multitvsolution.in/DiscoverScienceEng-a/playlist.m3u8
+#EXTINF:168,ONNtv
+https://onntv.vantrix.tv/onntv_hls/360p/onntv_hls-HLS-360p.m3u8
 
-#EXTINF:169,ITV UK
-http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main600.m3u8
+#EXTINF:169,AMGTV
+https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/chunklist.m3u8
 
 #EXTINF:170,NTV Newfoundland
 https://2-fss-2.streamhoster.com/pl_138/201748-1282640-1/playlist.m3u8
@@ -534,8 +534,8 @@ https://dai.google.com/linear/hls/event/08ADpEIeQ8iZOjusLsZbCg/master.m3u8
 #EXTINF:178,World Harvest Television
 https://597865f6e4114.streamlock.net/live/leseaorigin.stream/chunklist_w347907757.m3u8
 
-#EXTINF:179,O Shopping*
-https://amdottlive.akamaized.net/hls/live/2015808/iwantoshop/master.m3u8
+#EXTINF:179,RESERVED
+https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
 
 #EXTINF:180,TVshop
 http://59c3ec70cfde0.streamlock.net/channel_1/channel1/chunklist.m3u8
@@ -564,8 +564,8 @@ https://hdtv.prod2.ioio.tv/broker/play/190dac2c-bf76-47e9-9b8f-0d31567f5401.m3u8
 #EXTINF:188,Plymouth Rock TV
 https://hls-cdn.tvstartup.net/barakyah-channel/live/plymouthtv/playlist.m3u8
 
-#EXTINF:189,RESERVED
-https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
+#EXTINF:189,Drybar Comedy
+https://a.jsrdn.com/broadcast/e29bdbbbf3/+0000/c.m3u8
 
 #EXTINF:190,Oppna Kanalen
 https://edg01-prd-se-dcs.solidtango.com/edge/_78swnzxt_/78swnzxt/playlist.m3u8
@@ -582,11 +582,11 @@ http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
 #EXTINF:194,TRT World
 https://tv-trtworld.live.trt.com.tr/master_360.m3u8
 
-#EXTINF:195,Drybar Comedy
-https://a.jsrdn.com/broadcast/e29bdbbbf3/+0000/c.m3u8
+#EXTINF:195,RESERVED
+https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
 
-#EXTINF:196,ONNtv
-https://onntv.vantrix.tv/onntv_hls/h264_aac_ABR.m3u8
+#EXTINF:196,RESERVED
+https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
 
 #EXTINF:197,RESERVED
 https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
@@ -595,7 +595,10 @@ https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
 http://ocatv.mcgi.me:1935/public/247_br/playlist.m3u8
 
 #EXTINF:199,Live Event
-https://usb.bozztv.com/fotvph/index.m3u8
+https://tna5.bozztv.com/fotvph/index.m3u8
+
+#EXTINF:200,Super Radyo DZBB
+http://stream.gmanews.tv/ioslive/livestream/playlist.m3u8
 
 #EXTINF:201,Euronews HD
 https://fluxustv.blogspot.com@bit.ly/EuronewsTV?.m3u8
