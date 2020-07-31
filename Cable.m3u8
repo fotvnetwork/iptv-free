@@ -45,8 +45,8 @@ https://tna5.bozztv.com/cltv36/index.m3u8
 #EXTINF:15,NBC
 http://161.0.157.50/PLTV/88888888/224/3221227040/03.m3u8
 
-#EXTINF:16,CBS
-http://161.0.157.51/PLTV/88888888/224/3221227041/03.m3u8
+#EXTINF:16,HJtv
+http://190.80.3.28/HJTV/HJTV.isml/HJTV-audio_128301_und=128000-video=500000.m3u8
 
 #EXTINF:17,ITV UK
 http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main600.m3u8
@@ -54,8 +54,8 @@ http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Mai
 #EXTINF:18,Channel 5 UK
 http://178.132.3.162:88/Channel_5/index.m3u8?token=test
 
-#EXTINF:19,BBC Scotland
-http://51.52.156.22:8888/http/001
+#EXTINF:19,CBS
+http://161.0.157.51/PLTV/88888888/224/3221227041/03.m3u8
 
 #EXTINF:20,MyNetworkTV
 http://65.36.6.216:1935/live/kcwx.smil/chunklist_w879211551_b850000_sleng.m3u8
@@ -582,8 +582,8 @@ http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
 #EXTINF:194,TRT World
 https://tv-trtworld.live.trt.com.tr/master_360.m3u8
 
-#EXTINF:195,RESERVED
-https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
+#EXTINF:195,BBC Scotland
+http://51.52.156.22:8888/http/001
 
 #EXTINF:196,RESERVED
 https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
@@ -627,8 +627,8 @@ http://161.0.157.51/PLTV/88888888/224/3221227041/01.m3u8
 #EXTINF:209,ABC News Live HD
 https://abcnewslive.akamaized.net/amagi_hls_data_roku-host-abc/CDN/1280x720_2890800/index.m3u8
 
-#EXTINF:210,RESERVED
-https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
+#EXTINF:210,CNN HD (Free Trial)
+https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
 #EXTINF:211,Red Bull TV HD
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
