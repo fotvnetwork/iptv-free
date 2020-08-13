@@ -6,13 +6,13 @@ https://untv.mmdlive.lldns.net/untv/97cc8d2c46bd43b78e0b112761ab71fe/chunklist_b
 #EXTINF:2,ANC*
 https://amdottlive.akamaized.net/hls/live/2015474/iwantanc/master360p.m3u8
 
-#EXTINF:3,Community Prayer Broadcast
-https://www.mcgi.org/pray/chunklist_w1403890801.m3u8
+#EXTINF:3,RESERVED
+https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
 
 #EXTINF:4,PTV
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/PTVPH.m3u8
 
-#EXTINF:5,5
+#EXTINF:5,TV5
 http://stream2.tv5.com.ph:1935/live2/smil:tv5stream.smil/chunklist_w272324549_b628000.m3u8
 
 #EXTINF:6,One Sports
@@ -27,7 +27,7 @@ https://d3cbe0gidjd4k2.cloudfront.net/channel_5/smil:channel_5.smil/chunklist_w1
 #EXTINF:9,CNN Philippines
 http://df7lqp0btxdx2.cloudfront.net/11227_300.m3u8
 
-#EXTINF:10,Kapamilya*
+#EXTINF:10,Kapamilya Channel*
 https://amdottlive.akamaized.net/hls/live/2015473/iwantabscbn/master360p.m3u8
 
 #EXTINF:11,TeleRadyo*
@@ -63,14 +63,14 @@ http://65.36.6.216:1935/live/kcwx.smil/chunklist_w879211551_b850000_sleng.m3u8
 #EXTINF:21,Nickelodeon Free
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=954c037d-1a11-44d3-b488-9d06f8a3e068&deviceLat=33.9560&deviceLon=-118.3887&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=81.0.4044.26&includeExtendedEvents=false&sid=e6f1682e-cc62-437a-bd0d-082bea9a4059&userId=&serverSideAds=true
 
-#EXTINF:22,Pop UK
-https://edge-1192-ch-gv.filmon.com/live/320.high.stream/playlist.m3u8
+#EXTINF:22,Disney Channel (Trial)
+http://103.47.132.164/PLTV/88888888/224/3221227183/index.m3u8
 
 #EXTINF:23,Pop Max
 https://edge-1192-ch-gv.filmon.com/live/316.high.stream/playlist.m3u8
 
-#EXTINF:24,Tiny Pop
-https://edge-1192-ch-gv.filmon.com/live/318.high.stream/playlist.m3u8
+#EXTINF:24,Pop
+https://edge-1192-ch-gv.filmon.com/live/320.high.stream/playlist.m3u8
 
 #EXTINF:25,PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b600000.m3u8
@@ -144,8 +144,8 @@ https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_600k.m3u8
 #EXTINF:48,Arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b656000_sleng.m3u8
 
-#EXTINF:49,Food TV
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5877ac8cb791f4eb4a140d81/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=954c037d-1a11-44d3-b488-9d06f8a3e068&deviceLat=33.9560&deviceLon=-118.3887&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=81.0.4044.26&includeExtendedEvents=false&sid=e6f1682e-cc62-437a-bd0d-082bea9a4059&userId=&serverSideAds=true
+#EXTINF:49,HGTV (Trial)
+http://103.47.132.164/PLTV/88888888/224/3221227035/index.m3u8
 
 #EXTINF:50,Lively Place
 https://pcor4.manifest.auditude.com/auditude/variant/aenetworks_ae_1/c82b6352-ddd8-4b96-819e-f0ad28870b73/aHR0cHM6Ly9hZW5ldHdvcmtzLWFlLTEucm9rdS53dXJsLmNvbS9tYW5pZmVzdC9wbGF5bGlzdC5tM3U4.m3u8?pttrackingversion=v2&u=19287a324825cc5aacb7e46183c72324&pttrackingmode=sstm&g=1000010&z=268729&k=wurl_channel=285;distributor=roku;ip=192.119.164.38;rdid=121c0a02-8b4f-5ad8-9a0a-d73aa5fd4c92;coppa=false;is_lat=1;ua=Mozilla/5.0+(Windows+NT+10.0;+)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.26+Safari/537.36;content=1f661dde48ba41b0023a303c1c44057d4fbe72dc;genre=;platform=web;content_type=livefeed;content_rating=&ptcueformat=turner
@@ -159,7 +159,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e99f4423e067bd6
 #EXTINF:53,The Asylum
 https://dai.google.com/linear/hls/event/2r7F3DThT-C5YW21CUuGLQ/master.m3u8
 
-#EXTINF:54,CBS Reality (Free Trial)
+#EXTINF:54,CBS Reality (Trial)
 http://178.132.3.162:88/cbs_reality/index.m3u8?token=test
 
 #EXTINF:55,MGM Sci-Fi
@@ -186,8 +186,8 @@ https://comedy-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-comedy/CDN/playlist.
 #EXTINF:62,Kitchen Nightmares
 https://sinclair-prod.apigee.net/pemediator/0fdaaae4-1e80-4ea3-ba68-c9b0137233d9.m3u8
 
-#EXTINF:63,FYI (Free Trial)
-https://edge01.iptv.digijadoo.net/live/fyi_hd/chunks.m3u8
+#EXTINF:63,Warner TV (Trial)
+http://104.250.154.42:8080//ZZ_huanadianying/ZZ_huanadianying.m3u8
 
 #EXTINF:64,ShoutFactory TV
 https://dai.google.com/linear/hls/event/JX5KKhKKRPqchP3LfXD-1A/master.m3u8
@@ -195,8 +195,8 @@ https://dai.google.com/linear/hls/event/JX5KKhKKRPqchP3LfXD-1A/master.m3u8
 #EXTINF:65,Cine Life
 https://dai.google.com/linear/hls/event/PFJ1Jhd6SsSMcu3qq86wzQ/master.m3u8
 
-#EXTINF:66,HBO Asia (Free Trial)
-http://220.158.149.28:8180/live/TV00000000000000000166@HHZT
+#EXTINF:66,HBO (Trial)
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 
 #EXTINF:67,RedBox FilmHub
 http://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/playlist.m3u8
@@ -204,13 +204,13 @@ http://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/playlist.m3u8
 #EXTINF:68,Filmrise Movies
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/master.m3u8
 
-#EXTINF:69,AKC TV
-https://video.blivenyc.com/broadcast/prod/2061/22/file-858k.m3u8
+#EXTINF:69,Cinemax (Trial)
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 
-#EXTINF:70,RedBox Hi-Yah!
-http://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhi-ya/CDN/playlist.m3u8
+#EXTINF:70,FX (Trial)
+http://103.47.132.164/PLTV/88888888/224/3221227139/index.m3u8
 
-#EXTINF:71,Sony Movies (Free Trial)
+#EXTINF:71,Sony Movies (Trial)
 http://51.52.156.22:8888/http/009
 
 #EXTINF:72,Dove Channel
@@ -231,8 +231,8 @@ https://bk7l2w4nlx53-hls-live.5centscdn.com/WWE/961ac1c875f5884f31bdd177365ef1e3
 #EXTINF:77,Cast4U
 http://cdnak21.cast4u.info/channels/4/10804.m3u8
 
-#EXTINF:78,NFL Channel
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?advertisingId=&appName=web&appVersion=5.0.2-97fa211903e9a4370df3912896eb5e2e8e78f998&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=954c037d-1a11-44d3-b488-9d06f8a3e068&deviceLat=34.0729&deviceLon=-118.2606&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=81.0.4044.26&includeExtendedEvents=false&sid=5d083def-5c0b-4245-a7f6-967a25557dd8&userId=&serverSideAds=true
+#EXTINF:78,ESPN (Trial)
+http://185.59.223.135/espn/index.m3u8
 
 #EXTINF:79,Fox Sports News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master640x360.m3u8
@@ -270,10 +270,10 @@ http://45.126.83.51/uq2663/h/h01/index2.m3u8
 #EXTINF:90,Magellan TV
 https://dai.google.com/linear/hls/event/5xreV3X4T9WxeIbrwOmdMA/master.m3u8
 
-#EXTINF:91,Docurama
-https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/640x360_394000/index.m3u8
+#EXTINF:91,National Geographic (Trial)
+http://103.47.132.164/PLTV/88888888/224/3221227177/index.m3u8
 
-#EXTINF:92,Demand Africa (Free Trial)
+#EXTINF:92,Demand Africa (Trial)
 https://demandafrica-xumo.amagi.tv/ssai/amagi_hls_data_theafrica-demandafricaxumo/CDN/640x360_516558/chunklist.m3u8
 
 #EXTINF:93,DUSTx
@@ -333,8 +333,8 @@ http://broadcastny.yournewsnet.com:8081/master/newsnetweb/chunks.m3u8
 #EXTINF:111,Cheddar
 https://live.chdrstatic.com/cheddar/primary/5.m3u8
 
-#EXTINF:112,Cheddar News
-https://live.chdrstatic.com/cbn/primary/5.m3u8
+#EXTINF:112,Yahoo! News
+https://content.uplynk.com/channel/411ba7ca8cb6403a9e73509e49c3a77b.m3u8?expand=trc
 
 #EXTINF:113,INC TV
 http://churchrus2-lh.akamaihd.net/i/coctesting_1@57550/index_564_av-b.m3u8
@@ -495,11 +495,11 @@ https://dai.google.com/linear/hls/event/o5J3g4U9T16CvYnS7Qd86Q/master.m3u8?iu=/4
 #EXTINF:165,C-SPAN
 https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/index_50_av-p.m3u8
 
-#EXTINF:166,RESERVED
-https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
+#EXTINF:166,Smithsonian (Trial)
+http://103.47.132.164/PLTV/88888888/224/3221227321/index.m3u8
 
-#EXTINF:167,Best of History
-https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
+#EXTINF:167,History (Trial)
+http://103.47.132.164/PLTV/88888888/224/3221227335/index.m3u8
 
 #EXTINF:168,ONNtv
 https://onntv.vantrix.tv/onntv_hls/360p/onntv_hls-HLS-360p.m3u8
@@ -534,8 +534,8 @@ https://dai.google.com/linear/hls/event/08ADpEIeQ8iZOjusLsZbCg/master.m3u8
 #EXTINF:178,World Harvest Television
 https://597865f6e4114.streamlock.net/live/leseaorigin.stream/chunklist_w347907757.m3u8
 
-#EXTINF:179,RESERVED
-https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
+#EXTINF:179,AKC TV
+https://video.blivenyc.com/broadcast/prod/2061/22/file-858k.m3u8
 
 #EXTINF:180,TVshop
 http://59c3ec70cfde0.streamlock.net/channel_1/channel1/chunklist.m3u8
@@ -558,7 +558,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5595e43c66ace1652e
 #EXTINF:186,Internet Gold
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56b27a7badb45b1f50b91b0b/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
 
-#EXTINF:187,Harley Davidson (Free Trial)
+#EXTINF:187,Harley Davidson (Trial)
 https://hdtv.prod2.ioio.tv/broker/play/190dac2c-bf76-47e9-9b8f-0d31567f5401.m3u8
 
 #EXTINF:188,Plymouth Rock TV
@@ -627,7 +627,7 @@ http://161.0.157.51/PLTV/88888888/224/3221227041/01.m3u8
 #EXTINF:209,ABC News Live HD
 https://abcnewslive.akamaized.net/amagi_hls_data_roku-host-abc/CDN/1280x720_2890800/index.m3u8
 
-#EXTINF:210,CNN HD (Free Trial)
+#EXTINF:210,CNN HD (Trial)
 https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
 #EXTINF:211,Red Bull TV HD
