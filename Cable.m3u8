@@ -61,7 +61,7 @@ http://161.0.157.51/PLTV/88888888/224/3221227041/03.m3u8
 http://65.36.6.216:1935/live/kcwx.smil/chunklist_w879211551_b850000_sleng.m3u8
 
 #EXTINF:21,Nickelodeon Free
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/1539795/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=954c037d-1a11-44d3-b488-9d06f8a3e068&deviceLat=33.9560&deviceLon=-118.3887&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=81.0.4044.26&includeExtendedEvents=false&sid=e6f1682e-cc62-437a-bd0d-082bea9a4059&userId=&serverSideAds=true
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=954c037d-1a11-44d3-b488-9d06f8a3e068&deviceLat=33.9560&deviceLon=-118.3887&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=81.0.4044.26&includeExtendedEvents=false&sid=e6f1682e-cc62-437a-bd0d-082bea9a4059&userId=&serverSideAds=true
 
 #EXTINF:22,Disney Channel (Trial)
 http://103.47.132.164/PLTV/88888888/224/3221227183/1.m3u8
@@ -76,7 +76,7 @@ https://edge-1192-ch-gv.filmon.com/live/320.high.stream/playlist.m3u8
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b600000.m3u8
 
 #EXTINF:26,PBS
-https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/chunklist_b600000.m3u8
+https://cdn3.wowza.com/1/ZE9CSWR3ZDV2WEFQ/VENORDlI/hls/live/playlist.m3u8
 
 #EXTINF:27,CNN
 http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
@@ -94,7 +94,7 @@ https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 https://nbcnewshls-i.akamaihd.net/hls/live/1005170/nnn_live1/index_750.m3u8
 
 #EXTINF:32,MSNBC Free
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56403d822d2719107d948cb9/997452/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=954c037d-1a11-44d3-b488-9d06f8a3e068&deviceLat=33.9560&deviceLon=-118.3887&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=81.0.4044.26&includeExtendedEvents=false&sid=e6f1682e-cc62-437a-bd0d-082bea9a4059&userId=&serverSideAds=true
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56403d822d2719107d948cb9/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=954c037d-1a11-44d3-b488-9d06f8a3e068&deviceLat=33.9560&deviceLon=-118.3887&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=81.0.4044.26&includeExtendedEvents=false&sid=e6f1682e-cc62-437a-bd0d-082bea9a4059&userId=&serverSideAds=true
 
 #EXTINF:33,CNBC
 http://edge-1192-ch-gv.filmon.com/live/4130.high.stream/playlist.m3u8
@@ -154,7 +154,7 @@ https://pcor4.manifest.auditude.com/auditude/variant/aenetworks_ae_1/c82b6352-dd
 https://itpolly.iptv.digijadoo.net/live/tlc_hd/chunks.m3u8
 
 #EXTINF:52,Hell's Kitchen
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e99f4423e067bd6df6903/997452/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceLat=40.8364&deviceLon=-74.1403&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=66.0.3515.72&includeExtendedEvents=false&sid=ed4384ed-108c-4d94-86ab-ab0cc6e41e6f&userId=&serverSideAds=true
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e99f4423e067bd6df6903/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceLat=40.8364&deviceLon=-74.1403&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=66.0.3515.72&includeExtendedEvents=false&sid=ed4384ed-108c-4d94-86ab-ab0cc6e41e6f&userId=&serverSideAds=true
 
 #EXTINF:53,The Asylum
 https://dai.google.com/linear/hls/event/2r7F3DThT-C5YW21CUuGLQ/master.m3u8
@@ -220,7 +220,7 @@ https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/playl
 http://contv.sinclair.wurl.com/manifest/da1285e1dd4323e6aff01b01cd40651c.m3u8
 
 #EXTINF:74,Nosey
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5aec96ec5126c2157123c657/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5aec96ec5126c2157123c657/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
 
 #EXTINF:75,BeIN Sports Xtra
 https://bein-xtra-roku.amagi.tv/ingest/playlist404p.m3u8
@@ -318,7 +318,7 @@ https://a.jsrdn.com/broadcast/h3h4gsui4/c.m3u8
 #EXTINF:106,Free Speech
 https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv_4.m3u8
 
-#EXTINF:107,TYT
+#EXTINF:107,TYT*
 https://tyt-plutolive-vo.akamaized.net/m/hlslive/tyt4/0/tyt4.m3u8?profID=787&n=0&ctype=0&userParams=ccp%3DeyJkZXZpY2VJZCI6ImI3MDIxODFhLWMxZDYtNGVlMi05NDgxLTc1M2Y0NzFlMmNlNyIsImRldmljZVZlcnNpb24iOiI2Ni4wLjM1MTUuMTE1IiwiYXBwVmVyc2lvbiI6IjUuMC4zLTVhNjlmMDQyMWJmYWEyMWFjZjU3YzdmNTRmOTkxNDEyODM1OWM2NGUiLCJkZXZpY2VUeXBlIjoid2ViIiwiZGV2aWNlTWFrZSI6Ik9wZXJhIiwiYWR2ZXJ0aXNpbmdJZCI6IiIsImRldmljZUxhdCI6IjQwLjczMDgiLCJkZXZpY2VMb24iOiItNzMuOTk3NSIsImRldmljZUROVCI6IjAiLCJkZXZpY2VNb2RlbCI6Ik9wZXJhIiwidXNlcklkIjoiIiwiYXBwTmFtZSI6IndlYiIsImFyY2hpdGVjdHVyZSI6IiIsImluY2x1ZGVFeHRlbmRlZEV2ZW50cyI6ImZhbHNlIiwic3JjUHJvdG9jb2wiOiJodHRwcyIsInN0aXRjaGVyVmVyc2lvbiI6IjIuMzkuMCIsInN0aXRjaGVyUmVxSWQiOiI4N2EwNmY3Zi00MTY2LTRiNmMtOWE4YS00NjI3OTFmODI0ODkiLCJhZEltcHJlc3Npb25Qcm94eSI6dHJ1ZSwiaXBfYWRkcmVzcyI6IjEwMy4xMzcuMjA0LjExNCIsImRldmljZV91YSI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjApIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS84NS4wLjQxODMuNzYgU2FmYXJpLzUzNy4zNiIsImRldmljZVVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjApIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS84NS4wLjQxODMuNzYgU2FmYXJpLzUzNy4zNiIsImlwQWRkcmVzcyI6IjEwMy4xMzcuMjA0LjExNCIsImNoSWQiOiI1MzMxZDVmYjc1MzQ5OTA5NWEwMDA0NWEiLCJ0aW1lbGluZUlkIjoiNWYyYzQ1MWQ1NjBhMTYwMDA3Yzc0YTJlIiwiY2xpcElkIjoiNWRlODU4NmE5MGJhM2UwMDA5ZDc5YTY2Iiwic2Vzc2lvbklkIjoiODczMTMwNGEtZTY2Zi00YWMxLWI1ZjAtNmY4YzgyZDAyZTc5IiwiZXBpc29kZUlkIjoiNWIyMTcwODEyNzk1ZDAwMjFiZWEyZGU1IiwicGFydG5lckNvZGUiOiJUWVQgTmV0d29yayBMaXZlIiwicGFydG5lcl9pZCI6IjU4OTBmYjcxYzg1ODhkMTUwMjI3MTYxZiIsIm9yaWdpbiI6ImFkU3BhcngiLCJmcm9tX3N0aXRjaGVyIjp0cnVlfQ%3D%3D&adsid=AXQjqkhIOW54aap-w4b8&chname=tyt4&pub=cd44c23c-4796-475f-bcb1-b846bed4cf40&acsurl=pluto-acs-lb.adsparx.net&mcdn=tyt-plutolive-vo.akamaized.net%2Fm
 
 #EXTINF:108,America's Voice
@@ -544,7 +544,7 @@ http://59c3ec70cfde0.streamlock.net/channel_1/channel1/chunklist.m3u8
 https://oneamericanews-roku-us.amagi.tv/hls/amagi_hls_data_oneameric-oneamericanews/CDN/playlist.m3u8
 
 #EXTINF:182,Pluto TV News
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5268abcd0ce20a8472000114/997452/master.m3u8?advertisingId=&appName=web&appVersion=5.0.3-5a69f0421bfaa21acf57c7f54f9914128359c64e&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceLat=40.7308&deviceLon=-73.9975&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=66.0.3515.115&includeExtendedEvents=false&sid=8731304a-e66f-4ac1-b5f0-6f8c82d02e79&userId=&serverSideAds=true
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5268abcd0ce20a8472000114/master.m3u8?advertisingId=&appName=web&appVersion=5.0.3-5a69f0421bfaa21acf57c7f54f9914128359c64e&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceLat=40.7308&deviceLon=-73.9975&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=66.0.3515.115&includeExtendedEvents=false&sid=8731304a-e66f-4ac1-b5f0-6f8c82d02e79&userId=&serverSideAds=true
 
 #EXTINF:183,Gravitas Movies
 https://dai.google.com/linear/hls/event/EpqgwRlpQKq73ySVSohJWA/master.m3u8
@@ -553,7 +553,7 @@ https://dai.google.com/linear/hls/event/EpqgwRlpQKq73ySVSohJWA/master.m3u8
 https://a.jsrdn.com/broadcast/3gT64sH/c.m3u8
 
 #EXTINF:185,Awesomeness TV
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5595e43c66ace1652e63c6a2/997452/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5595e43c66ace1652e63c6a2/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
 
 #EXTINF:186,Unidentified
 https://studio1091-xumo-us.amagi.tv/hls/amagi_hls_data_studio109-studio1091-xumo/CDN/768x432_1425600/chunklist.m3u8
@@ -613,7 +613,7 @@ https://live.chdrstatic.com/cheddar/primary/1.m3u8
 https://cdnapi.kaltura.com/p/2216081/sp/221608100/playManifest/entryId/1_f19eeulz/format/applehttp/protocol/http/uiConfId/28428751/index_720.m3u8
 
 #EXTINF:205,NBC News Now HD
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df97894467dfa00091c873c/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=954c037d-1a11-44d3-b488-9d06f8a3e068&deviceLat=33.9560&deviceLon=-118.3887&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=81.0.4044.26&includeExtendedEvents=false&sid=e6f1682e-cc62-437a-bd0d-082bea9a4059&userId=&serverSideAds=true
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df97894467dfa00091c873c/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=954c037d-1a11-44d3-b488-9d06f8a3e068&deviceLat=33.9560&deviceLon=-118.3887&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=81.0.4044.26&includeExtendedEvents=false&sid=e6f1682e-cc62-437a-bd0d-082bea9a4059&userId=&serverSideAds=true
 
 #EXTINF:206,NBC HD
 http://161.0.157.50/PLTV/88888888/224/3221227040/01.m3u8
