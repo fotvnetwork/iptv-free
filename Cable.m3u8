@@ -6,8 +6,8 @@ https://untv.mmdlive.lldns.net/untv/97cc8d2c46bd43b78e0b112761ab71fe/chunklist_b
 #EXTINF:2,ANC*
 https://amdottlive.akamaized.net/hls/live/2015474/iwantanc/master360p.m3u8
 
-#EXTINF:3,Lotus Macau
-http://402173193.cloudvdn.com/a.m3u8?domain=live-hls.macaulotustv.com&player=3noAAOnl2HLyDjAW&secondToken=secondToken%3ACYXtsiLX0vMbRxYKwIEMyD-QE74&streamid=lotustv%3Alotustv%2F5562e9e4d409d24c9600075c&v3=1
+#EXTINF:3,TVshop
+http://59c3ec70cfde0.streamlock.net/channel_1/channel1/chunklist.m3u8
 
 #EXTINF:4,PTV
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/PTVPH.m3u8
@@ -537,8 +537,8 @@ https://597865f6e4114.streamlock.net/live/leseaorigin.stream/chunklist_w34790775
 #EXTINF:179,AKC TV
 https://video.blivenyc.com/broadcast/prod/2061/22/file-858k.m3u8
 
-#EXTINF:180,TVshop
-http://59c3ec70cfde0.streamlock.net/channel_1/channel1/chunklist.m3u8
+#EXTINF:180,Voice of America
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
 
 #EXTINF:181,Newsy Top Stories
 https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=newsyweb
