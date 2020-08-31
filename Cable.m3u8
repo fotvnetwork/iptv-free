@@ -42,8 +42,8 @@ http://59c3ec70cfde0.streamlock.net/channel_7/channel7/chunklist.m3u8
 #EXTINF:14,CLTV 36
 https://tna5.bozztv.com/cltv36/index.m3u8
 
-#EXTINF:15,NBC
-http://161.0.157.50/PLTV/88888888/224/3221227040/03.m3u8
+#EXTINF:15,Knowledge*
+https://amdottlive.akamaized.net/hls/live/2018990/iwantknowledge/master360p.m3u8
 
 #EXTINF:16,HJtv
 http://190.80.3.28/HJTV/HJTV.isml/HJTV-audio_128301_und=128000-video=800000.m3u8
@@ -60,8 +60,8 @@ http://161.0.157.51/PLTV/88888888/224/3221227041/03.m3u8
 #EXTINF:20,MyNetworkTV
 http://65.36.6.216:1935/live/kcwx.smil/chunklist_w879211551_b850000_sleng.m3u8
 
-#EXTINF:21,Nickelodeon Free
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=954c037d-1a11-44d3-b488-9d06f8a3e068&deviceLat=33.9560&deviceLon=-118.3887&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=81.0.4044.26&includeExtendedEvents=false&sid=e6f1682e-cc62-437a-bd0d-082bea9a4059&userId=&serverSideAds=true
+#EXTINF:21,NBC
+http://161.0.157.50/PLTV/88888888/224/3221227040/03.m3u8
 
 #EXTINF:22,Disney Channel (Trial)
 http://103.47.132.164/PLTV/88888888/224/3221227183/1.m3u8
