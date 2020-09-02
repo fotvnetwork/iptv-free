@@ -663,8 +663,8 @@ http://93.190.140.42:8081/SilenceTV/live/playlist.m3u8
 #EXTINF:221,BNC HD (Trial)
 https://bnc-roku-us.amagi.tv/hls/amagi_hls_data_blacknews-blacknewsnetwork/CDN/1280x720_2855600/index.m3u8
 
-#EXTINF:222,RESERVED
-https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
+#EXTINF:222,One America News HD (Trial)
+http://n1.klowdtv.net/live1/oan_720p/chunks.m3u8
 
 #EXTINF:223,RESERVED
 https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
