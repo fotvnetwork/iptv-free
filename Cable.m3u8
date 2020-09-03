@@ -13,10 +13,10 @@ http://59c3ec70cfde0.streamlock.net/channel_1/channel1/chunklist.m3u8
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/PTVPH.m3u8
 
 #EXTINF:5,TV5
-http://stream2.tv5.com.ph:1935/live2/smil:tv5stream.smil/chunklist_w1408495560_b628000.m3u8
+http://103.11.112.84:1935/live2/smil:tv5.smil/playlist.m3u8
 
 #EXTINF:6,One Sports
-http://stream2.tv5.com.ph:1935/live3/smil:onesports.smil/chunklist_w1774980267_b628000.m3u8
+http://103.11.112.28:1935/live2/smil:onesports.smil/playlist.m3u8
 
 #EXTINF:7,BEAM TV
 https://d3cbe0gidjd4k2.cloudfront.net/channel_7/channel7/chunklist_w659649511.m3u8
