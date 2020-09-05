@@ -81,8 +81,8 @@ https://ssc4.wpsu.psu.edu/WPSU_LLStream/ngrp:WPSU1_720max/chunklist_b786944.m3u8
 #EXTINF:27,CNN
 http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
 
-#EXTINF:28,CNN International
-https://itpolly.iptv.digijadoo.net/live/cnn/playlist.m3u8
+#EXTINF:28,CNN International*
+http://92.43.140.249/s27/03.m3u8
 
 #EXTINF:29,CBSN
 https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_10.m3u8
@@ -150,8 +150,8 @@ http://103.47.132.164/PLTV/88888888/224/3221227035/index.m3u8
 #EXTINF:50,Lively Place
 https://pcor4.manifest.auditude.com/auditude/variant/aenetworks_ae_1/c82b6352-ddd8-4b96-819e-f0ad28870b73/aHR0cHM6Ly9hZW5ldHdvcmtzLWFlLTEucm9rdS53dXJsLmNvbS9tYW5pZmVzdC9wbGF5bGlzdC5tM3U4.m3u8?pttrackingversion=v2&u=19287a324825cc5aacb7e46183c72324&pttrackingmode=sstm&g=1000010&z=268729&k=wurl_channel=285;distributor=roku;ip=192.119.164.38;rdid=121c0a02-8b4f-5ad8-9a0a-d73aa5fd4c92;coppa=false;is_lat=1;ua=Mozilla/5.0+(Windows+NT+10.0;+)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.26+Safari/537.36;content=1f661dde48ba41b0023a303c1c44057d4fbe72dc;genre=;platform=web;content_type=livefeed;content_rating=&ptcueformat=turner
 
-#EXTINF:51,TLC
-https://itpolly.iptv.digijadoo.net/live/tlc_hd/chunks.m3u8
+#EXTINF:51,DIY Daily
+https://pcor4.manifest.auditude.com/auditude/variant/endemol_restore_1/d86cafeb-69f2-4e89-a54c-224fac757fdb/aHR0cHM6Ly9lbmRlbW9sLXJlc3RvcmUtMS5yb2t1Lnd1cmwuY29tL21hbmlmZXN0L3BsYXlsaXN0Lm0zdTg.m3u8?pttrackingversion=v2&u=19287a324825cc5aacb7e46183c72324&pttrackingmode=sstm&g=1000010&z=268729&k=wurl_channel=321;distributor=roku;ip=192.119.164.38;rdid=121c0a02-8b4f-5ad8-9a0a-d73aa5fd4c92;coppa=false;is_lat=1;ua=Mozilla/5.0+(Windows+NT+10.0;+)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.26+Safari/537.36;content=8b3f8df64de23ce31890645b3b0d576fd7835773;genre=;platform=web;content_type=livefeed;content_rating=&ptcueformat=turner
 
 #EXTINF:52,Gordon Ramsay
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisecooking/CDN/playlist.m3u8?p=roku&rdid=6d139079-f288-57b6-9e26-5e3801ae96af&coppa=false&is_lat=1&is_roku_lat=1&content_type=livefeed&content=385e1e1953f4512aacd8ffc73b76cc32&genre=ROKU_ADS_CONTENT_GENRE&platform=web&content_rating=ROKU_ADS_CONTENT_RATING&channel_id=ROKU_CHANNEL_ID
@@ -162,8 +162,8 @@ https://dai.google.com/linear/hls/event/2r7F3DThT-C5YW21CUuGLQ/master.m3u8
 #EXTINF:54,CBS Reality (Trial)
 http://178.132.3.162:88/cbs_reality/index.m3u8?token=test
 
-#EXTINF:55,MGM Sci-Fi
-https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/master.m3u8
+#EXTINF:55,FilmRise Sci-Fi
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisescifi/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
 
 #EXTINF:56,Stirr City
 https://dai.google.com/linear/hls/event/WHTEcpPjQAaeStCtrJqzVQ/master.m3u8
@@ -201,7 +201,7 @@ http://220.158.149.28:8180/live/TV00000000000000000166@HHZT
 #EXTINF:67,RedBox FilmHub
 http://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/playlist.m3u8
 
-#EXTINF:68,Filmrise Movies
+#EXTINF:68,FilmRise Movies
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
 
 #EXTINF:69,Hits Movies (Trial)
@@ -223,16 +223,16 @@ http://contv.sinclair.wurl.com/manifest/da1285e1dd4323e6aff01b01cd40651c.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redbox-nosey/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
 
 #EXTINF:75,BeIN Sports Xtra
-https://bein-xtra-roku.amagi.tv/ingest/playlist404p.m3u8
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxbeinsports/CDN/playlist.m3u8
 
-#EXTINF:76,WWE
-https://bk7l2w4nlx53-hls-live.5centscdn.com/WWE/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
+#EXTINF:76,CBS Sports HQ (Trial)
+https://dai.google.com/linear/hls/event/9Lq0ERvoSR-z9AwvFS-xYA/master.m3u8
 
 #EXTINF:77,Cast4U
 http://cdnak21.cast4u.info/channels/4/10804.m3u8
 
-#EXTINF:78,ESPN (Trial)
-http://185.59.223.135/espn/index.m3u8
+#EXTINF:78,Sportsnet 360 (Trial)
+https://hackey.stream/hlsrio/test.m3u8
 
 #EXTINF:79,Fox Sports News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master640x360.m3u8
@@ -261,8 +261,8 @@ https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 #EXTINF:87,Documentaries 4U
 https://nimble.dashmedia.tv/onestudio/documentaries4u/playlist.m3u8
 
-#EXTINF:88,Animal Here
-https://bozztv.com/36bay4/animalshere/index.m3u8
+#EXTINF:88,Docurama
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
 
 #EXTINF:89,TV5Monde Style
 http://45.126.83.51/uq2663/h/h01/02.m3u8
@@ -454,13 +454,13 @@ https://buzzrota-web.amagi.tv/playlist.m3u8
 http://stream-e30453a4b.nmbs.top/m3u/Canada/292e76f74f.m3u8
 
 #EXTINF:152,Indonesia Channel
-https://tic.indonusa.net.id:8443/live/ngrp:TIC.stream_all/chunklist.m3u8
+https://wowzaprod236-i.akamaihd.net/hls/live/1019903/7dd4cf51/playlist.m3u8
 
-#EXTINF:153,World News Headlines
-https://stitcheraws.unreel.me/live/5e8f15280a063d53b84ad2a9/playlist.m3u8
+#EXTINF:153,Wired
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxwired/CDN/playlist.m3u8
 
-#EXTINF:154,Coronavirus.gov
-https://stitcheraws.unreel.me/live/5e7559e8a46b495a2283c5e8/playlist.m3u8
+#EXTINF:154,Cloudflare TV
+https://cloudflare.tv/hls/live.m3u8
 
 #EXTINF:155,CBSN New York
 https://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8
@@ -671,3 +671,6 @@ https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
 
 #EXTINF:224,NBCLX HD (Trial)
 https://lxlive-lh.akamaihd.net/i/LX_LIVE@148206/index_1080P_av-p.m3u8
+
+#EXTINF:225,NewsNet HD
+https://nrpus.bozztv.com/36bay2/gusa-newsnet/tracks-v1a1/mono.m3u8
