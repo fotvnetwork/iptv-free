@@ -319,10 +319,10 @@ https://thefirst-plutolive-vo.akamaized.net/m5/hlslive/redseat-ak/1/redseat-ak.m
 https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv_4.m3u8
 
 #EXTINF:107,TYT
-https://tyt-ssai.akamaized.net/amagi_hls_data_tytnetwor-tyt/CDN/720x404_1425600/index.m3u8
+https://tyt-plutolive-vo.akamaized.net/m/hlslive/tyt4/1/tyt4.m3u8?profID=775&n=1&ctype=0&userParams=ccp%3DeyJkZXZpY2VJZCI6ImI3MDIxODFhLWMxZDYtNGVlMi05NDgxLTc1M2Y0NzFlMmNlNyIsImRldmljZVZlcnNpb24iOiI2Ni4wLjM1MTUuMTE1IiwiYXBwVmVyc2lvbiI6IjUuMC4zLTVhNjlmMDQyMWJmYWEyMWFjZjU3YzdmNTRmOTkxNDEyODM1OWM2NGUiLCJkZXZpY2VUeXBlIjoid2ViIiwiZGV2aWNlTWFrZSI6Ik9wZXJhIiwiYWR2ZXJ0aXNpbmdJZCI6IiIsImRldmljZUxhdCI6IjQwLjczMDgiLCJkZXZpY2VMb24iOiItNzMuOTk3NSIsImRldmljZUROVCI6IjAiLCJkZXZpY2VNb2RlbCI6Ik9wZXJhIiwidXNlcklkIjoiIiwiYXBwTmFtZSI6IndlYiIsImFyY2hpdGVjdHVyZSI6IiIsImluY2x1ZGVFeHRlbmRlZEV2ZW50cyI6ImZhbHNlIiwic3JjUHJvdG9jb2wiOiJodHRwcyIsInN0aXRjaGVyVmVyc2lvbiI6IjIuNDEuMCIsInN0aXRjaGVyUmVxSWQiOiJjN2NlNzI2MC1kMmEyLTQ2ZWMtOGEyZC1kYjU3YzEzZWFlN2MiLCJhZEltcHJlc3Npb25Qcm94eSI6dHJ1ZSwiaXBfYWRkcmVzcyI6IjEwMy4xMzcuMjA0LjExNCIsImRldmljZV91YSI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjApIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS84Ni4wLjQyNDAuMjIgU2FmYXJpLzUzNy4zNiIsInRyYW5zYWN0aW9uX2lkIjoiYmYxNjg2MzItNzY4MC00MWYxLWIzOWMtOWE0OD
 
 #EXTINF:108,America's Voice
-https://pcor3.manifest.auditude.com/auditude/variant/p1media_americasvoice_1/2c2dc059-4dc5-4554-bb24-660c53c00d2e/aHR0cHM6Ly9wMW1lZGlhLWFtZXJpY2Fzdm9pY2UtMS5yb2t1Lnd1cmwuY29tL21hbmlmZXN0L3BsYXlsaXN0Lm0zdTg.m3u8?pttrackingversion=v2&u=19287a324825cc5aacb7e46183c72324&pttrackingmode=sstm&g=1000010&ptadwindow=0&z=268729&k=wurl_channel=419;distributor=roku;name=AmericasVoice;ip=192.119.164.160;rdid=121c0a02-8b4f-5ad8-9a0a-d73aa5fd4c92;coppa=false;is_lat=1;ua=Mozilla/5.0+(Windows+NT+10.0;+)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.26+Safari/537.36;content=f880ec33a4b617b940e6f6e6fb627271f0b25344;genre=;platform=web;content_type=livefeed;content_rating=&ptcueformat=turner
+https://pcor3.manifest.auditude.com/auditude/live/p1media_americasvoice_1/1200/2c2dc059-4dc5-4554-bb24-660c53c00d2e/aHR0cHM6Ly9wMW1lZGlhLWFtZXJpY2Fzdm9pY2UtMS5yb2t1Lnd1cmwuY29tL21hbmlmZXN0L2IxYmE0YzVlOTU3MWI0OTE5ZDI0ZDBlOTdmOGI3MjAyLm0zdTg.m3u8?pttrackingversion=v2&u=19287a324825cc5aacb7e46183c72324&pttrackingmode=sstm&g=1000010&ptadwindow=0&z=268729&k=wurl_channel=419;distributor=roku;name=AmericasVoice;ip=192.119.164.160;rdid=121c0a02-8b4f-5ad8-9a0a-d73aa5fd4c92;coppa=false;is_lat=1;ua=Mozilla/5.0+%28Windows+NT+10.0;+%29+AppleWebKit/537.36+%28KHTML,+like+Gecko%29+Chrome/81.0.4044.26+Safari/537.36;content=f880ec33a4b617b940e6f6e6fb627271f0b25344;genre=;platform=web;content_type=livefeed;content_rating=&ptcueformat=turner
 
 #EXTINF:109,One America News Encore
 http://a.jsrdn.com/broadcast/nfbajk34e/OAN_Encore_360p30.m3u8
@@ -376,7 +376,7 @@ https://dai2.xumo.com/amagi_hls_data_xumo1234A-lawcrime/CDN/master.m3u8
 https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8?v=2&ad=web&m.sound=normal&pos=midroll&expand=ad_live&m.sound=normal&m.playback=autoplay&ad.url=https%3A%2F%2Fwww.courttv.com%2F
 
 #EXTINF:126,People TV
-https://a.jsrdn.com/broadcast/b5d2k0x/playlist360p.m3u8
+http://a.jsrdn.com/broadcast/b5d2k0x/playlist360p.m3u8
 
 #EXTINF:127,ET Live
 https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest_81.m3u8
@@ -385,7 +385,7 @@ https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest_81.m3u8
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/640x360_440000/index.m3u8
 
 #EXTINF:129,Sidewalks
-https://nimble.dashstreams.net/onestudio/sidewalks30a/chunks.m3u8
+http://30a-tv.com/sidewalks.m3u8
 
 #EXTINF:130,ElectricNOW
 https://a.jsrdn.com/broadcast/vf93fRSk7/playlist_360p.m3u8
@@ -613,7 +613,7 @@ https://live.chdrstatic.com/cheddar/primary/1.m3u8
 https://cdnapi.kaltura.com/p/2216081/sp/221608100/playManifest/entryId/1_f19eeulz/format/applehttp/protocol/http/uiConfId/28428751/index_720.m3u8
 
 #EXTINF:205,NBC News Now HD
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df97894467dfa00091c873c/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=954c037d-1a11-44d3-b488-9d06f8a3e068&deviceLat=33.9560&deviceLon=-118.3887&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=81.0.4044.26&includeExtendedEvents=false&sid=e6f1682e-cc62-437a-bd0d-082bea9a4059&userId=&serverSideAds=true
+https://nbcnewsglobal-plutolive-vo.akamaized.net/m2/hlslive/nbcglobal-ak/4/nbcglobal-ak.m3u8?profID=879&n=4&ctype=0&userParams=ccp%3DeyJkZXZpY2VJZCI6Ijk1NGMwMzdkLTFhMTEtNDRkMy1iNDg4LTlkMDZmOGEzZTA2OCIsImRldmljZVZlcnNpb24iOiI4MS4wLjQwNDQuMjYiLCJhcHBWZXJzaW9uIjoiMi45LjQtNWE0ZTBkMjYwODY0Y2FiMzJiYjI5NjcwOTc4OTQyNGFiNDhkZjIwNCIsImRldmljZVR5cGUiOiJ3ZWIiLCJkZXZpY2VNYWtlIjoiQ2hyb21lIiwiYWR2ZXJ0aXNpbmdJZCI6IiIsImRldmljZUxhdCI6IjMzLjk1NjAiLCJkZXZpY2VMb24iOiItMTE4LjM4ODciLCJkZXZpY2VETlQiOiIwIiwiZGV2aWNlTW9kZWwiOiJDaHJvbWUiLCJ1c2VySWQiOiIiLCJhcHBOYW1lIjoid2ViIiwiYXJjaGl0ZWN0dXJlIjoiIiwiaW5jbHVkZUV4dGVuZGVkRXZlbnRzIjoiZmFsc2UiLCJzcmNQcm90b2NvbCI6Imh0dHAiLCJzdGl0Y2hlclZlcnNpb24iOiIyLjQxLjAiLCJzdGl0Y2hlclJlcUlkIjoiOTRlYTIzYmUtNDk2NC00MDkzLTk3ZjYtZWIzM2UxMjFlNGJkIiwiYWRJbXByZXNzaW9uUHJveHkiOnRydWUsImlwX2FkZHJlc3MiOiIxMDMuMTM3LjIwNC4xMTQiLCJkZXZpY2VfdWEiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wKSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODYuMC40MjQwLjIyIFNhZmFyaS81MzcuMzYiLCJ0cmFuc2FjdGlvbl9pZCI6ImNjNGQ3NTgxLWRjNWUtNDQ1Ni04NTlhLTljMTY4NTdhYjUxMSIsImRldmljZVVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjApIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS84Ni4wLjQyNDAuMjIgU2FmYXJpLzUzNy4zNiIsImlwQWRkcmVzcyI6IjEwMy4xMzcuMjA0LjExNCIsImNoSWQiOiI1ZGY5Nzg5NDQ2N2RmYTAwMDkxYzg3M2MiLCJ0aW1lbGluZUlkIjoiNWY1MTQyZWUwOWNlN2IwMDA3NzQ3M2Y1IiwiY2xpcElkIjoiNWUyYjYyZDkxMmY4ZjkwMDA5NDc3MTM3Iiwic2Vzc2lvbklkIjoiZTZmMTY4MmUtY2M2Mi00MzdhLWJkMGQtMDgyYmVhOWE0MDU5IiwiZXBpc29kZUlkIjoiNWUyZjNjYjEyNDEyYzQwMDA5YzQyNTEzIiwicGFydG5lckNvZGUiOiJOQkMgTk9XIiwicGFydG5lcl9pZCI6IjVjZTJkMDNkYTI4M2E4NWVjYWY3OGVhNiIsIm9yaWdpbiI6ImFkU3BhcngiLCJmcm9tX3N0aXRjaGVyIjp0cnVlfQ%3D%3D&adsid=AXRtK3A3IklWlOT49RGR&chname=nbcglobal-ak&pub=cd44c23c-4796-475f-bcb1-b846bed4cf40&acsurl=pluto-acs-lb.adsparx.net&mcdn=nbcnewsglobal-plutolive-vo.akamaized.net%2Fm2
 
 #EXTINF:206,NBC HD
 http://161.0.157.50/PLTV/88888888/224/3221227040/01.m3u8
@@ -640,7 +640,7 @@ https://iocchannel-i.akamaihd.net/hls/live/514135/olylinear0629221316/DomesticOl
 http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
 
 #EXTINF:214,Al Jazeera English HD
-http://i.mjh.nz/nz/tv.46.m3u8
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
 #EXTINF:215,InfoWars HD
 http://wpc.9ec1.edgecastcdn.net/249EC1/infowarshd-edgecast/hd720.m3u8
@@ -661,7 +661,7 @@ https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_
 http://93.190.140.42:8081/SilenceTV/live/playlist.m3u8
 
 #EXTINF:221,BNC HD (Trial)
-https://bnc-roku-us.amagi.tv/hls/amagi_hls_data_blacknews-blacknewsnetwork/CDN/1280x720_2855600/index.m3u8
+http://bnc-roku-us.amagi.tv/hls/amagi_hls_data_blacknews-blacknewsnetwork/CDN/1280x720_2855600/index.m3u8
 
 #EXTINF:222,One America News HD (Trial)
 http://n1.klowdtv.net/live1/oan_720p/chunks.m3u8
