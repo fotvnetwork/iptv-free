@@ -25,7 +25,7 @@ https://d3cbe0gidjd4k2.cloudfront.net/channel_7/channel7/chunklist_w659649511.m3
 https://d3cbe0gidjd4k2.cloudfront.net/channel_5/smil:channel_5.smil/chunklist_w1281634943_b300000_sleng.m3u8
 
 #EXTINF:9,CNN Philippines
-http://df7lqp0btxdx2.cloudfront.net/11227_300.m3u8
+http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
 
 #EXTINF:10,Kapamilya Channel*
 https://amdottlive.akamaized.net/hls/live/2015473/iwantabscbn/master360p.m3u8
