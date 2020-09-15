@@ -207,8 +207,8 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/play
 #EXTINF:69,Hits Movies (Trial)
 http://103.47.132.164/PLTV/88888888/224/3221227331/2.m3u8
 
-#EXTINF:70,ABC Spark (Trial)
-http://stream-e30453a4b.nmbs.top/m3u/Canada/f309fef061.m3u8
+#EXTINF:70,RESERVED
+https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
 
 #EXTINF:71,Sony Movies (Trial)
 http://51.52.156.22:8888/http/009
@@ -441,8 +441,8 @@ https://a.jsrdn.com/broadcast/ebf95254ca/+0000/low/c.m3u8
 #EXTINF:147,The Outdoor Cooking Channel
 http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/chunklist_w981409619_b1105254.m3u8
 
-#EXTINF:148,OWN (Trial)
-http://stream-e30453a4b.nmbs.top/m3u/Canada/23c3ee681e.m3u8
+#EXTINF:148,RESERVED
+https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
 
 #EXTINF:149,Stirr Cooks
 https://dai.google.com/linear/hls/event/CHaUZsCfSyS2CVF7I-NktA/master.m3u8
@@ -450,8 +450,8 @@ https://dai.google.com/linear/hls/event/CHaUZsCfSyS2CVF7I-NktA/master.m3u8
 #EXTINF:150,Buzzr
 https://buzzrota-web.amagi.tv/playlist.m3u8
 
-#EXTINF:151,BET (Trial)
-http://stream-e30453a4b.nmbs.top/m3u/Canada/292e76f74f.m3u8
+#EXTINF:151,RESERVED
+https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
 
 #EXTINF:152,Indonesia Channel
 https://wowzaprod236-i.akamaihd.net/hls/live/1019903/7dd4cf51/playlist.m3u8
