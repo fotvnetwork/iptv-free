@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:1,UNTV
-https://untv.mmdlive.lldns.net/untv/97cc8d2c46bd43b78e0b112761ab71fe/chunklist_b732000.m3u8
+https://www.untvweb.com/live-stream/untvweb.m3u8
 
 #EXTINF:2,ANC*
 https://amdottlive.akamaized.net/hls/live/2015474/iwantanc/master360p.m3u8
@@ -31,7 +31,7 @@ http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
 https://amdottlive.akamaized.net/hls/live/2015473/iwantabscbn/master360p.m3u8
 
 #EXTINF:11,TeleRadyo*
-https://amdottlive.akamaized.net/hls/live/2015475/iwantdzmm/master360p.m3u8
+https://tfcmsl.akamaized.net/hls/live/2014654/dzmm/master.m3u8
 
 #EXTINF:12,MyTV Cebu
 http://api.new.livestream.com/accounts/15418593/events/4787138/live.m3u8
@@ -45,14 +45,14 @@ https://tna5.bozztv.com/cltv36/index.m3u8
 #EXTINF:15,Knowledge*
 https://amdottlive.akamaized.net/hls/live/2018990/iwantknowledge/master360p.m3u8
 
-#EXTINF:16,HJtv
-http://190.80.3.28/HJTV/HJTV.isml/HJTV-audio_128301_und=128000-video=800000.m3u8
+#EXTINF:16,BBC One Scotland
+https://edge-1192-ch-gv.filmon.com/live/3166.high.stream/playlist.m3u8
 
 #EXTINF:17,ITV UK
 http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main600.m3u8
 
-#EXTINF:18,Channel 5 UK
-http://flusonic-13.platinum-tv.com/Channel_5/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:18,PBS America
+http://51.52.156.22:8888/http/012
 
 #EXTINF:19,CBS
 http://161.0.157.51/PLTV/88888888/224/3221227041/03.m3u8
@@ -63,8 +63,8 @@ http://65.36.6.216:1935/live/kcwx.smil/chunklist_w879211551_b850000_sleng.m3u8
 #EXTINF:21,NBC
 http://161.0.157.50/PLTV/88888888/224/3221227040/03.m3u8
 
-#EXTINF:22,Disney Channel (Trial)
-http://103.47.132.164/PLTV/88888888/224/3221227183/1.m3u8
+#EXTINF:22,Kabillion (RedBox)
+http://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxkabillion/CDN/playlist.m3u8
 
 #EXTINF:23,Pop Max
 https://edge-1192-ch-gv.filmon.com/live/316.high.stream/playlist.m3u8
@@ -78,7 +78,7 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b600000.m
 #EXTINF:26,PBS
 https://ssc4.wpsu.psu.edu/WPSU_LLStream/ngrp:WPSU1_720max/chunklist_b786944.m3u8
 
-#EXTINF:27,CNN
+#EXTINF:27,CNN (Trial)
 http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
 
 #EXTINF:28,NewsNet
@@ -93,20 +93,20 @@ https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:31,NBC News Now
 https://nbcnewshls-i.akamaihd.net/hls/live/1005170/nnn_live1/index_750.m3u8
 
-#EXTINF:32,MSNBC Free
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56403d822d2719107d948cb9/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=954c037d-1a11-44d3-b488-9d06f8a3e068&deviceLat=33.9560&deviceLon=-118.3887&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=81.0.4044.26&includeExtendedEvents=false&sid=e6f1682e-cc62-437a-bd0d-082bea9a4059&userId=&serverSideAds=true
+#EXTINF:32,MSNBC (Trial)
+http://1111296894.rsc.cdn77.org/LS-ATL-54548-10/tracks-v1a1/mono.m3u8
 
 #EXTINF:33,CNBC
 http://edge-1192-ch-gv.filmon.com/live/4130.high.stream/playlist.m3u8
 
-#EXTINF:34,Fox News
+#EXTINF:34,Fox News (Trial)
 http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
 
 #EXTINF:35,Bloomberg TV
 http://45.126.83.51/uq2663/h/h03/02.m3u8
 
-#EXTINF:36,BBC World News
-http://220.158.149.14:9999/live/TV00000000000000000112@HHZT;LIVE
+#EXTINF:36,BBC World News (Trial)
+http://1111296894.rsc.cdn77.org/LS-ATL-54548-11/tracks-v1a1/mono.m3u8
 
 #EXTINF:37,BBC News
 https://edge-1192-ch-gv.filmon.com/live/27.high.stream/playlist.m3u8
@@ -144,8 +144,8 @@ https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_600k.m3u8
 #EXTINF:48,Arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b656000_sleng.m3u8
 
-#EXTINF:49,HGTV (Trial)
-http://103.47.132.164/PLTV/88888888/224/3221227035/index.m3u8
+#EXTINF:49,Popular Science
+http://a.jsrdn.com/broadcast/447912f76b/+0000/c.m3u8
 
 #EXTINF:50,Lively Place
 https://pcor4.manifest.auditude.com/auditude/variant/aenetworks_ae_1/c82b6352-ddd8-4b96-819e-f0ad28870b73/aHR0cHM6Ly9hZW5ldHdvcmtzLWFlLTEucm9rdS53dXJsLmNvbS9tYW5pZmVzdC9wbGF5bGlzdC5tM3U4.m3u8?pttrackingversion=v2&u=19287a324825cc5aacb7e46183c72324&pttrackingmode=sstm&g=1000010&z=268729&k=wurl_channel=285;distributor=roku;ip=192.119.164.38;rdid=121c0a02-8b4f-5ad8-9a0a-d73aa5fd4c92;coppa=false;is_lat=1;ua=Mozilla/5.0+(Windows+NT+10.0;+)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.26+Safari/537.36;content=1f661dde48ba41b0023a303c1c44057d4fbe72dc;genre=;platform=web;content_type=livefeed;content_rating=&ptcueformat=turner
@@ -204,8 +204,8 @@ http://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/playlist.m3u8
 #EXTINF:68,FilmRise Movies
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
 
-#EXTINF:69,Hits Movies (Trial)
-http://103.47.132.164/PLTV/88888888/224/3221227331/2.m3u8
+#EXTINF:69,RunTime Free Movies
+https://ammoruntime-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-runtime-plex/CDN/playlist.m3u8?us_privacy=1---&did=&dnt=1&X-Plex-Token=vX2gxiT5Q_vtARVYwbZa&channelId=5f47b0b87cb6a400422f9146
 
 #EXTINF:70,CinemaWorld (Trial)
 http://45.126.83.51/uq2663/h/h04/02.m3u8
@@ -270,8 +270,8 @@ http://45.126.83.51/uq2663/h/h01/02.m3u8
 #EXTINF:90,Magellan TV
 https://dai.google.com/linear/hls/event/5xreV3X4T9WxeIbrwOmdMA/master.m3u8
 
-#EXTINF:91,National Geographic (Trial)
-http://103.47.132.164/PLTV/88888888/224/3221227177/1.m3u8
+#EXTINF:91,IDG
+http://a.jsrdn.com/broadcast/529a360c04/+0000/c.m3u8
 
 #EXTINF:92,Demand Africa (Trial)
 https://demandafrica-xumo.amagi.tv/ssai/amagi_hls_data_theafrica-demandafricaxumo/CDN/640x360_516558/chunklist.m3u8
@@ -427,7 +427,7 @@ https://contributionstreams.sechls01.visionip.tv/live/visiontv-contributionstrea
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master640x360.m3u8
 
 #EXTINF:143,ABC News Australia
-https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_34.m3u8
 
 #EXTINF:144,Tastemade
 https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/512x288_875600/index.m3u8
@@ -448,13 +448,13 @@ https://nrpus.bozztv.com/36bay2/gusa-chefchampion/tracks-v1a1/mono.m3u8
 https://dai.google.com/linear/hls/event/CHaUZsCfSyS2CVF7I-NktA/master.m3u8
 
 #EXTINF:150,Buzzr
-https://buzzrota-web.amagi.tv/playlist.m3u8
+https://buzzr-roku-us.amagi.tv/hls/amagi_hls_data_buzzrAAAA-buzzr/CDN/720x404_1460800/index.m3u8
 
 #EXTINF:151,Glewed TV
 https://dai.google.com/linear/hls/event/ChWV1GupQOWE92uG4DvbkQ/master.m3u8
 
 #EXTINF:152,Indonesia Channel
-https://wowzaprod236-i.akamaihd.net/hls/live/1019903/7dd4cf51/playlist.m3u8
+http://wowzaprod236-i.akamaihd.net/hls/live/1019903/7dd4cf51/playlist.m3u8
 
 #EXTINF:153,Wired
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxwired/CDN/playlist.m3u8
@@ -495,11 +495,11 @@ https://dai.google.com/linear/hls/event/o5J3g4U9T16CvYnS7Qd86Q/master.m3u8?iu=/4
 #EXTINF:165,C-SPAN
 https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/index_50_av-p.m3u8
 
-#EXTINF:166,Smithsonian (Trial)
-http://103.47.132.164/PLTV/88888888/224/3221227321/1.m3u8
+#EXTINF:166,SGTN
+http://stgn-49.tulix.tv/live19/Stream1/chunklist_w1498543121.m3u8
 
-#EXTINF:167,History (Trial)
-http://103.47.132.164/PLTV/88888888/224/3221227335/1.m3u8
+#EXTINF:167,alee+
+http://a.jsrdn.com/broadcast/55fgy6xc3/c.m3u8
 
 #EXTINF:168,ONNtv
 https://onntv.vantrix.tv/onntv_hls/360p/onntv_hls-HLS-360p.m3u8
@@ -588,8 +588,8 @@ http://51.52.156.22:8888/http/001
 #EXTINF:196,RESERVED
 https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
 
-#EXTINF:197,RESERVED
-https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
+#EXTINF:197,Live Concerts (test)
+http://cdn3.wowza.com/1/RGZ0WmxZWTZGdmpl/WlkvRDlr/hls/live/playlist.m3u8
 
 #EXTINF:198,OCA
 http://ocatv.mcgi.me:1935/public/247_br/playlist.m3u8
@@ -597,8 +597,8 @@ http://ocatv.mcgi.me:1935/public/247_br/playlist.m3u8
 #EXTINF:199,Live Event
 https://tna5.bozztv.com/fotvph/index.m3u8
 
-#EXTINF:200,Super Radyo DZBB
-http://stream.gmanews.tv/ioslive/livestream/playlist.m3u8
+#EXTINF:200,Wish
+https://www.wish1075.com/radio/wish.m3u8
 
 #EXTINF:201,Euronews HD
 https://github.com/exodiver/IPTV/raw/master/M3U8/Token/EuroNews.m3u8
