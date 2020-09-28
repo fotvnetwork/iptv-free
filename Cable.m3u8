@@ -13,7 +13,7 @@ http://59c3ec70cfde0.streamlock.net/channel_1/channel1/chunklist.m3u8
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/PTVPH.m3u8
 
 #EXTINF:5,TV5
-http://103.11.112.84:1935/live2/smil:tv5.smil/chunklist_w1282916880_b828000.m3u8
+http://103.11.112.84:1935/live2/smil:tv5.smil/playlist.m3u8
 
 #EXTINF:6,One Sports
 http://103.11.112.28:1935/live2/smil:onesports.smil/chunklist_w1210079406_b628000.m3u8
@@ -31,7 +31,7 @@ http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
 https://amdottlive.akamaized.net/hls/live/2015473/iwantabscbn/master360p.m3u8
 
 #EXTINF:11,TeleRadyo*
-https://tfcmsl.akamaized.net/hls/live/2014654/dzmm/master.m3u8
+https://tfcmsl.akamaized.net/hls/live/2014654/dzmm/bitrate_2.m3u8
 
 #EXTINF:12,MyTV Cebu
 http://api.new.livestream.com/accounts/15418593/events/4787138/live.m3u8
@@ -64,7 +64,7 @@ http://65.36.6.216:1935/live/kcwx.smil/chunklist_w879211551_b850000_sleng.m3u8
 http://161.0.157.50/PLTV/88888888/224/3221227040/03.m3u8
 
 #EXTINF:22,Kabillion
-http://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxkabillion/CDN/640x360_440000/index.m3u8
+http://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxkabillion/CDN/playlist.m3u8
 
 #EXTINF:23,Pop Max
 https://edge-1192-ch-gv.filmon.com/live/316.high.stream/playlist.m3u8
@@ -88,7 +88,7 @@ http://broadcastny.yournewsnet.com:8081/master/newsnetweb/chunks.m3u8
 https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_10.m3u8
 
 #EXTINF:30,ABC News Live
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+http://abcnewslive.akamaized.net/amagi_hls_data_roku-host-abc/CDN/playlist.m3u8
 
 #EXTINF:31,NBC News Now
 https://nbcnewshls-i.akamaihd.net/hls/live/1005170/nnn_live1/index_750.m3u8
@@ -154,7 +154,7 @@ https://pcor4.manifest.auditude.com/auditude/variant/aenetworks_ae_1/c82b6352-dd
 https://pcor4.manifest.auditude.com/auditude/variant/endemol_restore_1/d86cafeb-69f2-4e89-a54c-224fac757fdb/aHR0cHM6Ly9lbmRlbW9sLXJlc3RvcmUtMS5yb2t1Lnd1cmwuY29tL21hbmlmZXN0L3BsYXlsaXN0Lm0zdTg.m3u8?pttrackingversion=v2&u=19287a324825cc5aacb7e46183c72324&pttrackingmode=sstm&g=1000010&z=268729&k=wurl_channel=321;distributor=roku;ip=192.119.164.38;rdid=121c0a02-8b4f-5ad8-9a0a-d73aa5fd4c92;coppa=false;is_lat=1;ua=Mozilla/5.0+(Windows+NT+10.0;+)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.26+Safari/537.36;content=8b3f8df64de23ce31890645b3b0d576fd7835773;genre=;platform=web;content_type=livefeed;content_rating=&ptcueformat=turner
 
 #EXTINF:52,Gordon Ramsay
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisecooking/CDN/playlist.m3u8?p=roku&rdid=6d139079-f288-57b6-9e26-5e3801ae96af&coppa=false&is_lat=1&is_roku_lat=1&content_type=livefeed&content=385e1e1953f4512aacd8ffc73b76cc32&genre=ROKU_ADS_CONTENT_GENRE&platform=web&content_rating=ROKU_ADS_CONTENT_RATING&channel_id=ROKU_CHANNEL_ID
+http://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisecooking/CDN/playlist.m3u8
 
 #EXTINF:53,The Asylum
 https://dai.google.com/linear/hls/event/2r7F3DThT-C5YW21CUuGLQ/master.m3u8
@@ -163,7 +163,7 @@ https://dai.google.com/linear/hls/event/2r7F3DThT-C5YW21CUuGLQ/master.m3u8
 http://178.132.3.162:88/cbs_reality/index.m3u8?token=test
 
 #EXTINF:55,FilmRise Sci-Fi
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisescifi/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+http://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisescifi/CDN/playlist.m3u8
 
 #EXTINF:56,Stirr City
 https://dai.google.com/linear/hls/event/WHTEcpPjQAaeStCtrJqzVQ/master.m3u8
@@ -181,13 +181,13 @@ http://45.126.83.51/qwr9ew/s/s34/02.m3u8
 http://a.jsrdn.com/broadcast/5Gt2c8lsw/c.m3u8
 
 #EXTINF:61,RedBox Comedy
-http://comedy-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-comedy/CDN/640x360_730400/index.m3u8
+http://comedy-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-comedy/CDN/playlist.m3u8
 
 #EXTINF:62,Hits (Trial)
 http://210.210.155.35/uq2663/h/h37/02.m3u8
 
-#EXTINF:63,Warner TV (Trial)
-http://104.250.154.42:8080//ZZ_huanadianying/ZZ_huanadianying.m3u8
+#EXTINF:63,Reelz
+http://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxreelzchannel/CDN/playlist.m3u8
 
 #EXTINF:64,ShoutFactory TV
 https://dai.google.com/linear/hls/event/JX5KKhKKRPqchP3LfXD-1A/master.m3u8
@@ -199,13 +199,13 @@ https://dai.google.com/linear/hls/event/PFJ1Jhd6SsSMcu3qq86wzQ/master.m3u8
 http://220.158.149.28:8180/live/TV00000000000000000166@HHZT
 
 #EXTINF:67,RedBox FilmHub
-http://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/640x360_440000/index.m3u8
+http://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/playlist.m3u8
 
 #EXTINF:68,FilmRise Movies
-http://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/640x360_440000/chunklist.m3u8
+http://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/playlist.m3u8
 
 #EXTINF:69,RunTime Free Movies
-https://ammoruntime-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-runtime-plex/CDN/512x288_875600/index.m3u8
+https://ammoruntime-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-runtime-plex/CDN/playlist.m3u8?us_privacy=1---&did=&dnt=1&X-Plex-Token=vX2gxiT5Q_vtARVYwbZa&channelId=5f47b0b87cb6a400422f9146
 
 #EXTINF:70,CinemaWorld (Trial)
 http://45.126.83.51/uq2663/h/h04/02.m3u8
@@ -214,16 +214,16 @@ http://45.126.83.51/uq2663/h/h04/02.m3u8
 http://51.52.156.22:8888/http/009
 
 #EXTINF:72,Dove Channel
-https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/640x360_394000/index.m3u8
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/playlist.m3u8
 
 #EXTINF:73,CONtv
 http://contv.sinclair.wurl.com/manifest/da1285e1dd4323e6aff01b01cd40651c.m3u8
 
 #EXTINF:74,Nosey
-http://dai2.xumo.com/amagi_hls_data_xumo1212A-redbox-nosey/CDN/640x360_700000/index.m3u8
+http://dai2.xumo.com/amagi_hls_data_xumo1212A-redbox-nosey/CDN/playlist.m3u8
 
 #EXTINF:75,BeIN Sports Xtra
-http://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbeinsports/CDN/720x404_1460800/index.m3u8
+http://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbeinsports/CDN/playlist.m3u8
 
 #EXTINF:76,CBS Sports HQ (Trial)
 https://dai.google.com/linear/hls/event/9Lq0ERvoSR-z9AwvFS-xYA/master.m3u8
@@ -253,7 +253,7 @@ https://dai.google.com/linear/hls/event/gaDje967RoSDD5llid2OBA/master.m3u8
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/f.m3u8
 
 #EXTINF:85,Adventure Sports Network
-http://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/640x360_440000/chunklist.m3u8
+http://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/playlist.m3u8
 
 #EXTINF:86,CGTN Documentary
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
@@ -280,7 +280,7 @@ https://demandafrica-xumo.amagi.tv/ssai/amagi_hls_data_theafrica-demandafricaxum
 https://dust.sinclair.wurl.com/manifest/1200.m3u8
 
 #EXTINF:94,Outdoor America
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxoutdooramerica/CDN/640x360_440000/index.m3u8
+http://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxoutdooramerica/CDN/playlist.m3u8
 
 #EXTINF:95,This Old House
 https://pcva4.manifest.auditude.com/auditude/variant/thisoldhouse_2/7b1d6383-3aa6-4601-b8cd-dff13b8b7965/aHR0cHM6Ly90aGlzb2xkaG91c2UtMi5yb2t1Lnd1cmwuY29tL21hbmlmZXN0L3BsYXlsaXN0Lm0zdTg.m3u8?pttrackingversion=v2&u=19287a324825cc5aacb7e46183c72324&pttrackingmode=sstm&g=1000010&z=268729&k=wurl_channel=318
@@ -295,7 +295,7 @@ http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 https://bspoketv.nexustreamer.com/distrotv-usa/master.m3u8
 
 #EXTINF:99,Complex
-http://dai2.xumo.com/amagi_hls_data_xumo1212A-complextv/CDN/640x360_440000/index.m3u8
+http://dai2.xumo.com/amagi_hls_data_xumo1212A-complextv/CDN/playlist.m3u8
 
 #EXTINF:100,MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_1250_av-p.m3u8
@@ -313,7 +313,7 @@ https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e82
 https://theblaze-plutolive-vo.akamaized.net/m6/hlslive/theblaze/1/theblaze.m3u8?profID=905&n=1&ctype=0&userParams=ccp%3DeyJkZXZpY2VJZCI6Ijk1NGMwMzdkLTFhMTEtNDRkMy1iNDg4LTlkMDZmOGEzZTA2OCIsImRldmljZVZlcnNpb24iOiI4MS4wLjQwNDQuMjYiLCJhcHBWZXJzaW9uIjoiMi45LjQtNWE0ZTBkMjYwODY0Y2FiMzJiYjI5NjcwOTc4OTQyNGFiNDhkZjIwNCIsImRldmljZVR5cGUiOiJ3ZWIiLCJkZXZpY2VNYWtlIjoiQ2hyb21lIiwiYWR2ZXJ0aXNpbmdJZCI6IiIsImRldmljZUxhdCI6IjMzLjk1NjAiLCJkZXZpY2VMb24iOiItMTE4LjM4ODciLCJkZXZpY2VETlQiOiIwIiwiZGV2aWNlTW9kZWwiOiJDaHJvbWUiLCJ1c2VySWQiOiIiLCJhcHBOYW1lIjoid2ViIiwiYXJjaGl0ZWN0dXJlIjoiIiwiaW5jbHVkZUV4dGVuZGVkRXZlbnRzIjoiZmFsc2UiLCJzcmNQcm90b2NvbCI6Imh0dHBzIiwic3RpdGNoZXJWZXJzaW9uIjoiMi40MC4wIiwic3RpdGNoZXJSZXFJZCI6ImYzZTg5M2NjLTllMDMtNDFlZi1hYjkzLWRkMmI4MWQxYTMzOSIsImFkSW1wcmVzc2lvblByb3h5Ijp0cnVlLCJpcF9hZGRyZXNzIjoiMTAzLjEzNy4yMDQuMTE0IiwiZGV2aWNlX3VhIjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg2LjAuNDI0MC4yMiBTYWZhcmkvNTM3LjM2IiwiZGV2aWNlVXNlckFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg2LjAuNDI0MC4yMiBTYWZhcmkvNTM3LjM2IiwiaXBBZGRyZXNzIjoiMTAzLjEzNy4yMDQuMTE0IiwiY2hJZCI6IjVlNDZmYmEwYzQzYjBkMDAwOTZlNWFjMSIsInRpbWVsaW5lSWQiOiI1ZjUyNzI0MTgzZmFhZDAwMDcxZThhOWUiLCJjbGlwSWQiOiI1ZTYwMTc0NzQ1NzRjNDAwMDdiM2U3OWYiLCJzZXNzaW9uSWQiOiJlNmYxNjgyZS1jYzYyLTQzN2EtYmQwZC0wODJiZWE5YTQwNTkiLCJlcGlzb2RlSWQiOiI1ZWZiOTdlMmQ4ZjM5MzAwMDhmMDQ2OGMiLCJwYXJ0bmVyQ29kZSI6IlRoZSBCbGF6ZSIsInBhcnRuZXJfaWQiOiI1ZTYxOGJjODI5YTUyZjAwMDcxNWMyNDYiLCJvcmlnaW4iOiJhZFNwYXJ4IiwiZnJvbV9zdGl0Y2hlciI6dHJ1ZX0%3D&adsid=AXRoAePHm8CPDtEqTBuT&chname=theblaze&pub=cd44c23c-4796-475f-bcb1-b846bed4cf40&acsurl=pluto-acs-lb.adsparx.net&mcdn=theblaze-plutolive-vo.akamaized.net%2Fm6
 
 #EXTINF:105,The First
-https://thefirst-plutolive-vo.akamaized.net/m5/hlslive/redseat-ak/1/redseat-ak.m3u8?profID=446&n=1&ctype=0&userParams=ccp%3DeyJkZXZpY2VJZCI6IjgyOTlhN2Y4LTVmYWQtNGY4My04MTBmLWY5YjNiNDU3NTAxMCIsImRldmljZVZlcnNpb24iOiI3NS4wLjM3NzAuMTAwIiwiYXBwVmVyc2lvbiI6IjIuNy4xLTU3MjVjZjA1MmM2ZDVhNzc3NjAwOWY1M2I3MDg2ZjY0ZGE5ZWY1MjgiLCJkZXZpY2VUeXBlIjoid2ViIiwiZGV2aWNlTWFrZSI6IkNocm9tZSIsImFkdmVydGlzaW5nSWQiOiIiLCJkZXZpY2VMYXQiOiIzNy43NTEiLCJkZXZpY2VMb24iOiItOTcuODIyIiwiZGV2aWNlRE5UIjoiMCIsImRldmljZU1vZGVsIjoiQ2hyb21lIiwidXNlcklkIjoiIiwiYXBwTmFtZSI6IndlYiIsImFyY2hpdGVjdHVyZSI6IiIsInNyY1Byb3RvY29sIjoiaHR0cHMiLCJzdGl0Y2hlclZlcnNpb24iOiIyLjQwLjAiLCJzdGl0Y2hlclJlcUlkIjoiN2MzNGI3MDYtNDU1ZS00ZmEzLWE3YWYtZmQ5MDY4NDZlZDk2IiwiYWRJbXByZXNzaW9uUHJveHkiOnRydWUsImlwX2FkZHJlc3MiOiIxMDMuMTM3LjIwNC4xMTQiLCJkZXZpY2VfdWEiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wKSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODYuMC40MjQwLjIyIFNhZmFyaS81MzcuMzYiLCJkZXZpY2VVc2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wKSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODYuMC40MjQwLjIyIFNhZmFyaS81MzcuMzYiLCJpcEFkZHJlc3MiOiIxMDMuMTM3LjIwNC4xMTQiLCJjaElkIjoiNWQ0ODZhY2MzNGNlYjM3ZDNjNDU4YTY0IiwidGltZWxpbmVJZCI6IjVmNTNkODZjNTI5Y2IyMDAwN2NjYjZiMCIsImNsaXBJZCI6IjVkOWI5MWQ5YjQzZGQxYTM5OWIzZThlZSIsInNlc3Npb25JZCI6IjRiYWM3MzlhLWE5NjgtNGIxZi05ZDAxLWQ2OWI2OTkzNGM3NiIsImVwaXNvZGVJZCI6IjVmMzY5MjA1MmI5MmRjMDAwN2QzMDJhZCIsInBhcnRuZXJDb2RlIjoiVGhlIEZpcnN0IiwicGFydG5lcl9pZCI6IjVkODU1YTdhNmY1YzhlNWQ3OWJjZTEwMSIsIm9yaWdpbiI6ImFkU3BhcngiLCJmcm9tX3N0aXRjaGVyIjp0cnVlfQ%3D%3D&adsid=AXRoCXDeaTd8ugDZdiFK&chname=redseat-ak&pub=cd44c23c-4796-475f-bcb1-b846bed4cf40&acsurl=pluto-acs-lb.adsparx.net&mcdn=thefirst-plutolive-vo.akamaized.net%2Fm5
+https://redseat-thefirst-glewedtv.amagi.tv/index360p.m3u8
 
 #EXTINF:106,Free Speech
 https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv_4.m3u8
@@ -325,7 +325,7 @@ https://tyt-plutolive-vo.akamaized.net/m/hlslive/tyt4/1/tyt4.m3u8?profID=775&n=1
 https://klive.kaltura.com/dc-0/live/hls/p/2377021/e/0_m2pjgwiu/sd/6000/t/cQoe4Ve98-YR48etZblOsw/index-s34.m3u8
 
 #EXTINF:109,One America News Encore
-http://a.jsrdn.com/broadcast/nfbajk34e/OAN_Encore_360p30.m3u8
+https://cdn.herringnetwork.com/80A4DFF/oane_oregon/OAN_Encore_360p30.m3u8
 
 #EXTINF:110,Newsmax TV
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_404.m3u8
@@ -382,7 +382,7 @@ http://a.jsrdn.com/broadcast/b5d2k0x/playlist360p.m3u8
 https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest_81.m3u8
 
 #EXTINF:128,TMZ
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/640x360_440000/index.m3u8
+http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/playlist.m3u8
 
 #EXTINF:129,Sidewalks
 http://30a-tv.com/sidewalks.m3u8
@@ -391,7 +391,7 @@ http://30a-tv.com/sidewalks.m3u8
 https://a.jsrdn.com/broadcast/vf93fRSk7/playlist_360p.m3u8
 
 #EXTINF:131,AFV Channel
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxafhv/CDN/480x360_700000/index.m3u8
+http://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxafhv/CDN/playlist.m3u8
 
 #EXTINF:132,The Pet Collective
 https://dai.google.com/linear/hls/event/q0dlRn_xSBGTZYI7vwWWJQ/master.m3u8
@@ -399,7 +399,7 @@ https://dai.google.com/linear/hls/event/q0dlRn_xSBGTZYI7vwWWJQ/master.m3u8
 #EXTINF:133,FailArmy
 https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
 
-#EXTINF:134,Youtoo America
+#EXTINF:134,YTA TV
 http://gideommd.mmdlive.lldns.net/gideommd/d5b6a753f86e4e51b8e15c7d23887a4f/chunklist_b732000.m3u8
 
 #EXTINF:135,Right Now TV
@@ -450,7 +450,7 @@ https://dai.google.com/linear/hls/event/CHaUZsCfSyS2CVF7I-NktA/master.m3u8
 #EXTINF:150,Buzzr
 https://buzzr-roku-us.amagi.tv/hls/amagi_hls_data_buzzrAAAA-buzzr/CDN/720x404_1460800/index.m3u8
 
-#EXTINF:151,Glewed TV
+#EXTINF:151,Glewed TV Fitness
 https://dai.google.com/linear/hls/event/ChWV1GupQOWE92uG4DvbkQ/master.m3u8
 
 #EXTINF:152,Indonesia Channel
@@ -625,7 +625,7 @@ https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d56
 http://161.0.157.51/PLTV/88888888/224/3221227041/01.m3u8
 
 #EXTINF:209,ABC News Live HD
-https://abcnewslive.akamaized.net/amagi_hls_data_roku-host-abc/CDN/1280x720_2890800/index.m3u8
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
 #EXTINF:210,CNN HD (Trial)
 https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
