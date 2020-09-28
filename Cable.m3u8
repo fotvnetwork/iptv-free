@@ -63,8 +63,8 @@ http://65.36.6.216:1935/live/kcwx.smil/chunklist_w879211551_b850000_sleng.m3u8
 #EXTINF:21,NBC
 http://161.0.157.50/PLTV/88888888/224/3221227040/03.m3u8
 
-#EXTINF:22,Kabillion (RedBox)
-http://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxkabillion/CDN/playlist.m3u8
+#EXTINF:22,Kabillion
+http://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxkabillion/CDN/640x360_440000/index.m3u8
 
 #EXTINF:23,Pop Max
 https://edge-1192-ch-gv.filmon.com/live/316.high.stream/playlist.m3u8
@@ -181,7 +181,7 @@ http://45.126.83.51/qwr9ew/s/s34/02.m3u8
 http://a.jsrdn.com/broadcast/5Gt2c8lsw/c.m3u8
 
 #EXTINF:61,RedBox Comedy
-https://comedy-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-comedy/CDN/playlist.m3u8
+http://comedy-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-comedy/CDN/640x360_730400/index.m3u8
 
 #EXTINF:62,Hits (Trial)
 http://210.210.155.35/uq2663/h/h37/02.m3u8
@@ -199,13 +199,13 @@ https://dai.google.com/linear/hls/event/PFJ1Jhd6SsSMcu3qq86wzQ/master.m3u8
 http://220.158.149.28:8180/live/TV00000000000000000166@HHZT
 
 #EXTINF:67,RedBox FilmHub
-http://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/playlist.m3u8
+http://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/640x360_440000/index.m3u8
 
 #EXTINF:68,FilmRise Movies
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+http://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/640x360_440000/chunklist.m3u8
 
 #EXTINF:69,RunTime Free Movies
-https://ammoruntime-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-runtime-plex/CDN/playlist.m3u8?us_privacy=1---&did=&dnt=1&X-Plex-Token=vX2gxiT5Q_vtARVYwbZa&channelId=5f47b0b87cb6a400422f9146
+https://ammoruntime-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-runtime-plex/CDN/512x288_875600/index.m3u8
 
 #EXTINF:70,CinemaWorld (Trial)
 http://45.126.83.51/uq2663/h/h04/02.m3u8
@@ -214,16 +214,16 @@ http://45.126.83.51/uq2663/h/h04/02.m3u8
 http://51.52.156.22:8888/http/009
 
 #EXTINF:72,Dove Channel
-https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/playlist.m3u8
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/640x360_394000/index.m3u8
 
 #EXTINF:73,CONtv
 http://contv.sinclair.wurl.com/manifest/da1285e1dd4323e6aff01b01cd40651c.m3u8
 
 #EXTINF:74,Nosey
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redbox-nosey/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+http://dai2.xumo.com/amagi_hls_data_xumo1212A-redbox-nosey/CDN/640x360_700000/index.m3u8
 
 #EXTINF:75,BeIN Sports Xtra
-https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxbeinsports/CDN/playlist.m3u8
+http://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbeinsports/CDN/720x404_1460800/index.m3u8
 
 #EXTINF:76,CBS Sports HQ (Trial)
 https://dai.google.com/linear/hls/event/9Lq0ERvoSR-z9AwvFS-xYA/master.m3u8
@@ -234,7 +234,7 @@ http://cdnak21.cast4u.info/channels/4/10804.m3u8
 #EXTINF:78,Sportsnet 360 (Trial)
 https://hackey.stream/hlsrio/test.m3u8
 
-#EXTINF:79,Fox Sports News
+#EXTINF:79,Fox Sports Australia
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master640x360.m3u8
 
 #EXTINF:80,Olympic Channel
@@ -253,7 +253,7 @@ https://dai.google.com/linear/hls/event/gaDje967RoSDD5llid2OBA/master.m3u8
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/f.m3u8
 
 #EXTINF:85,Adventure Sports Network
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/master.m3u8?p=roku&rdid=121c0a02-8b4f-5ad8-9a0a-d73aa5fd4c92&coppa=false&is_lat=1&is_roku_lat=1&content_type=livefeed&content=16e2524cd777af76f1575c077a4faf0699c50f0c&genre=&platform=web&content_rating=&channel_id=ROKU_CHANNEL_ID
+http://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/640x360_440000/chunklist.m3u8
 
 #EXTINF:86,CGTN Documentary
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
@@ -273,14 +273,14 @@ https://dai.google.com/linear/hls/event/5xreV3X4T9WxeIbrwOmdMA/master.m3u8
 #EXTINF:91,IDG
 http://a.jsrdn.com/broadcast/529a360c04/+0000/c.m3u8
 
-#EXTINF:92,Demand Africa (Trial)
-https://demandafrica-xumo.amagi.tv/ssai/amagi_hls_data_theafrica-demandafricaxumo/CDN/640x360_516558/chunklist.m3u8
+#EXTINF:92,Demand Africa
+https://demandafrica-xumo.amagi.tv/ssai/amagi_hls_data_theafrica-demandafricaxumo/CDN/512x288_875600/chunklist.m3u8
 
 #EXTINF:93,DUSTx
 https://dust.sinclair.wurl.com/manifest/1200.m3u8
 
 #EXTINF:94,Outdoor America
-https://dai.google.com/linear/hls/event/WB-7LjdsRVm0wVoLZjR8mA/master.m3u8
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxoutdooramerica/CDN/640x360_440000/index.m3u8
 
 #EXTINF:95,This Old House
 https://pcva4.manifest.auditude.com/auditude/variant/thisoldhouse_2/7b1d6383-3aa6-4601-b8cd-dff13b8b7965/aHR0cHM6Ly90aGlzb2xkaG91c2UtMi5yb2t1Lnd1cmwuY29tL21hbmlmZXN0L3BsYXlsaXN0Lm0zdTg.m3u8?pttrackingversion=v2&u=19287a324825cc5aacb7e46183c72324&pttrackingmode=sstm&g=1000010&z=268729&k=wurl_channel=318
@@ -295,7 +295,7 @@ http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 https://bspoketv.nexustreamer.com/distrotv-usa/master.m3u8
 
 #EXTINF:99,Complex
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-complextv/CDN/playlist.m3u8?p=roku&rdid=121c0a02-8b4f-5ad8-9a0a-d73aa5fd4c92&coppa=false&is_lat=1&is_roku_lat=1&content_type=livefeed&content=9743d0361333fb353f0d48e7595faa96e488bb04&genre=&platform=web&content_rating=&channel_id=ROKU_CHANNEL_ID
+http://dai2.xumo.com/amagi_hls_data_xumo1212A-complextv/CDN/640x360_440000/index.m3u8
 
 #EXTINF:100,MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_1250_av-p.m3u8
@@ -391,7 +391,7 @@ http://30a-tv.com/sidewalks.m3u8
 https://a.jsrdn.com/broadcast/vf93fRSk7/playlist_360p.m3u8
 
 #EXTINF:131,AFV Channel
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxafhv/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxafhv/CDN/480x360_700000/index.m3u8
 
 #EXTINF:132,The Pet Collective
 https://dai.google.com/linear/hls/event/q0dlRn_xSBGTZYI7vwWWJQ/master.m3u8
@@ -457,7 +457,7 @@ https://dai.google.com/linear/hls/event/ChWV1GupQOWE92uG4DvbkQ/master.m3u8
 http://wowzaprod236-i.akamaihd.net/hls/live/1019903/7dd4cf51/playlist.m3u8
 
 #EXTINF:153,Wired
-https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxwired/CDN/playlist.m3u8
+http://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxwired/CDN/640x360_440000/index.m3u8
 
 #EXTINF:154,Cloudflare TV
 https://cloudflare.tv/hls/live.m3u8
