@@ -13,7 +13,7 @@ http://59c3ec70cfde0.streamlock.net/channel_1/channel1/chunklist.m3u8
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/PTVPH.m3u8
 
 #EXTINF:5,TV5
-http://103.11.112.84:1935/live2/smil:tv5.smil/playlist.m3u8
+http://103.11.112.28:1935/live3/smil:tv5.smil/chunklist_w297371497_b428000.m3u8
 
 #EXTINF:6,One Sports
 http://103.11.112.28:1935/live2/smil:onesports.smil/chunklist_w1210079406_b628000.m3u8
@@ -64,7 +64,7 @@ http://65.36.6.216:1935/live/kcwx.smil/chunklist_w879211551_b850000_sleng.m3u8
 http://161.0.157.50/PLTV/88888888/224/3221227040/03.m3u8
 
 #EXTINF:22,Kabillion
-http://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxkabillion/CDN/playlist.m3u8
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxkabillion/CDN/playlist.m3u8
 
 #EXTINF:23,Pop Max
 https://edge-1192-ch-gv.filmon.com/live/316.high.stream/playlist.m3u8
@@ -159,8 +159,8 @@ http://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisecooking/CDN/playlist.m3u8
 #EXTINF:53,The Asylum
 https://dai.google.com/linear/hls/event/2r7F3DThT-C5YW21CUuGLQ/master.m3u8
 
-#EXTINF:54,CBS Reality (Trial)
-http://178.132.3.162:88/cbs_reality/index.m3u8?token=test
+#EXTINF:54,Antenna TV
+https://cdn.igocast.com/channel3_hls/channel3_master.m3u8
 
 #EXTINF:55,FilmRise Sci-Fi
 http://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisescifi/CDN/playlist.m3u8
@@ -220,7 +220,7 @@ https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/playl
 http://contv.sinclair.wurl.com/manifest/da1285e1dd4323e6aff01b01cd40651c.m3u8
 
 #EXTINF:74,Nosey
-http://dai2.xumo.com/amagi_hls_data_xumo1212A-redbox-nosey/CDN/playlist.m3u8
+https://manifest.auditude.com/auditude/variant/nosey_2/aHR0cHM6Ly9ub3NleS0yLnJva3Uud3VybC5jb20vbWFuaWZlc3QvcGxheWxpc3QubTN1OA==.m3u8?u=19287a324825cc5aacb7e46183c72324&z=268729&g=1000010&k=wurl_channel=319;distributor=roku;ip=192.119.164.38;rdid=121c0a02-8b4f-5ad8-9a0a-d73aa5fd4c92;coppa=false;is_lat=1;ua=Mozilla/5.0+(Windows+NT+10.0;+)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.26+Safari/537.36;content=341083177c1ec701eae49422b72f119a7946d49d;genre=;platform=web;content_type=livefeed;content_rating=&ptcueformat=turner&pttrackingmode=sstm&pttrackingversion=v2&__sid__=wurl253276323
 
 #EXTINF:75,BeIN Sports Xtra
 http://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbeinsports/CDN/playlist.m3u8
