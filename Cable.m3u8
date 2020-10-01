@@ -144,8 +144,8 @@ https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_600k.m3u8
 #EXTINF:48,Arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b656000_sleng.m3u8
 
-#EXTINF:49,Popular Science
-http://a.jsrdn.com/broadcast/447912f76b/+0000/c.m3u8
+#EXTINF:49,The Preview Channel
+https://hls.xumo.com/channel-hls/v1/bmneuerw7j9k5lfc/9999330/master.m3u8
 
 #EXTINF:50,Lively Place
 https://pcor4.manifest.auditude.com/auditude/variant/aenetworks_ae_1/c82b6352-ddd8-4b96-819e-f0ad28870b73/aHR0cHM6Ly9hZW5ldHdvcmtzLWFlLTEucm9rdS53dXJsLmNvbS9tYW5pZmVzdC9wbGF5bGlzdC5tM3U4.m3u8?pttrackingversion=v2&u=19287a324825cc5aacb7e46183c72324&pttrackingmode=sstm&g=1000010&z=268729&k=wurl_channel=285;distributor=roku;ip=192.119.164.38;rdid=121c0a02-8b4f-5ad8-9a0a-d73aa5fd4c92;coppa=false;is_lat=1;ua=Mozilla/5.0+(Windows+NT+10.0;+)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.26+Safari/537.36;content=1f661dde48ba41b0023a303c1c44057d4fbe72dc;genre=;platform=web;content_type=livefeed;content_rating=&ptcueformat=turner
@@ -306,22 +306,22 @@ http://de1se01.v2beat.live/playlist.m3u8
 #EXTINF:102,UN Web
 https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/index_828_av-p.m3u8
 
-#EXTINF:103,NASA TV
-https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
+#EXTINF:103,One America News Network (Trial)
+http://n1.klowdtv.net/live1/oan_360p/chunks.m3u8
 
-#EXTINF:104,TheBlaze
+#EXTINF:104,Blaze
 https://theblaze-plutolive-vo.akamaized.net/m6/hlslive/theblaze/1/theblaze.m3u8?profID=905&n=1&ctype=0&userParams=ccp%3DeyJkZXZpY2VJZCI6Ijk1NGMwMzdkLTFhMTEtNDRkMy1iNDg4LTlkMDZmOGEzZTA2OCIsImRldmljZVZlcnNpb24iOiI4MS4wLjQwNDQuMjYiLCJhcHBWZXJzaW9uIjoiMi45LjQtNWE0ZTBkMjYwODY0Y2FiMzJiYjI5NjcwOTc4OTQyNGFiNDhkZjIwNCIsImRldmljZVR5cGUiOiJ3ZWIiLCJkZXZpY2VNYWtlIjoiQ2hyb21lIiwiYWR2ZXJ0aXNpbmdJZCI6IiIsImRldmljZUxhdCI6IjMzLjk1NjAiLCJkZXZpY2VMb24iOiItMTE4LjM4ODciLCJkZXZpY2VETlQiOiIwIiwiZGV2aWNlTW9kZWwiOiJDaHJvbWUiLCJ1c2VySWQiOiIiLCJhcHBOYW1lIjoid2ViIiwiYXJjaGl0ZWN0dXJlIjoiIiwiaW5jbHVkZUV4dGVuZGVkRXZlbnRzIjoiZmFsc2UiLCJzcmNQcm90b2NvbCI6Imh0dHBzIiwic3RpdGNoZXJWZXJzaW9uIjoiMi40MC4wIiwic3RpdGNoZXJSZXFJZCI6ImYzZTg5M2NjLTllMDMtNDFlZi1hYjkzLWRkMmI4MWQxYTMzOSIsImFkSW1wcmVzc2lvblByb3h5Ijp0cnVlLCJpcF9hZGRyZXNzIjoiMTAzLjEzNy4yMDQuMTE0IiwiZGV2aWNlX3VhIjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg2LjAuNDI0MC4yMiBTYWZhcmkvNTM3LjM2IiwiZGV2aWNlVXNlckFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg2LjAuNDI0MC4yMiBTYWZhcmkvNTM3LjM2IiwiaXBBZGRyZXNzIjoiMTAzLjEzNy4yMDQuMTE0IiwiY2hJZCI6IjVlNDZmYmEwYzQzYjBkMDAwOTZlNWFjMSIsInRpbWVsaW5lSWQiOiI1ZjUyNzI0MTgzZmFhZDAwMDcxZThhOWUiLCJjbGlwSWQiOiI1ZTYwMTc0NzQ1NzRjNDAwMDdiM2U3OWYiLCJzZXNzaW9uSWQiOiJlNmYxNjgyZS1jYzYyLTQzN2EtYmQwZC0wODJiZWE5YTQwNTkiLCJlcGlzb2RlSWQiOiI1ZWZiOTdlMmQ4ZjM5MzAwMDhmMDQ2OGMiLCJwYXJ0bmVyQ29kZSI6IlRoZSBCbGF6ZSIsInBhcnRuZXJfaWQiOiI1ZTYxOGJjODI5YTUyZjAwMDcxNWMyNDYiLCJvcmlnaW4iOiJhZFNwYXJ4IiwiZnJvbV9zdGl0Y2hlciI6dHJ1ZX0%3D&adsid=AXRoAePHm8CPDtEqTBuT&chname=theblaze&pub=cd44c23c-4796-475f-bcb1-b846bed4cf40&acsurl=pluto-acs-lb.adsparx.net&mcdn=theblaze-plutolive-vo.akamaized.net%2Fm6
 
-#EXTINF:105,The First
+#EXTINF:105,The First TV
 https://redseat-thefirst-glewedtv.amagi.tv/index360p.m3u8
 
-#EXTINF:106,Free Speech
+#EXTINF:106,Free Speech TV
 https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv_4.m3u8
 
-#EXTINF:107,TYT
-https://tyt-plutolive-vo.akamaized.net/m/hlslive/tyt4/1/tyt4.m3u8?profID=775&n=1&ctype=0&userParams=ccp%3DeyJkZXZpY2VJZCI6Ijk1NGMwMzdkLTFhMTEtNDRkMy1iNDg4LTlkMDZmOGEzZTA2OCIsImRldmljZVZlcnNpb24iOiI4MS4wLjQwNDQuMjYiLCJhcHBWZXJzaW9uIjoiMi45LjQtNWE0ZTBkMjYwODY0Y2FiMzJiYjI5NjcwOTc4OTQyNGFiNDhkZjIwNCIsImRldmljZVR5cGUiOiJ3ZWIiLCJkZXZpY2VNYWtlIjoiQ2hyb21lIiwiYWR2ZXJ0aXNpbmdJZCI6IiIsImRldmljZUxhdCI6IjMzLjk1NjAiLCJkZXZpY2VMb24iOiItMTE4LjM4ODciLCJkZXZpY2VETlQiOiIwIiwiZGV2aWNlTW9kZWwiOiJDaHJvbWUiLCJ1c2VySWQiOiIiLCJhcHBOYW1lIjoid2ViIiwiYXJjaGl0ZWN0dXJlIjoiIiwiaW5jbHVkZUV4dGVuZGVkRXZlbnRzIjoiZmFsc2UiLCJzcmNQcm90b2NvbCI6Imh0dHBzIiwic3RpdGNoZXJWZXJzaW9uIjoiMi40MS4wIiwic3RpdGNoZXJSZXFJZCI6ImFhMzZmMjA2LTc5MWEtNGM5Yi1iNWVkLWVhM2NhODJjOGY5ZSIsImFkSW1wcmVzc2lvblByb3h5Ijp0cnVlLCJpcF9hZGRyZXNzIjoiMTAzLjEzNy4yMDQuMTE0IiwiZGV2aWNlX3VhIjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg2LjAuNDI0MC4yMiBTYWZhcmkvNTM3LjM2IiwidHJhbnNhY3Rpb25faWQiOiJiNzJhOThmZC01YTU5LTRhZWQtOTIyZC00NzZjMWVkNWE3OTUiLCJkZXZpY2VVc2VyQWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wKSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODYuMC40MjQwLjIyIFNhZmFyaS81MzcuMzYiLCJpcEFkZHJlc3MiOiIxMDMuMTM3LjIwNC4xMTQiLCJjaElkIjoiNTMzMWQ1ZmI3NTM0OTkwOTVhMDAwNDVhIiwidGltZWxpbmVJZCI6IjVmNGQ0ZWNjODllNzdiMDAwNzE0YmI5NyIsImNsaXBJZCI6IjVkZTg1ODZhOTBiYTNlMDAwOWQ3OWE2NiIsInNlc3Npb25JZCI6ImU2ZjE2ODJlLWNjNjItNDM3YS1iZDBkLTA4MmJlYTlhNDA1OSIsImVwaXNvZGVJZCI6IjViMjE3MDgxMjc5NWQwMDIxYmVhMmRlNSIsInBhcnRuZXJDb2RlIjoiVFlUIE5ldHdvcmsgTGl2ZSIsInBhcnRuZXJfaWQiOiI1ODkwZmI3MWM4NTg4ZDE1MDIyNzE2MWYiLCJvcmlnaW4iOiJhZFNwYXJ4IiwiZnJvbV9zdGl0Y2hlciI6dHJ1ZX0%3D&adsid=AXRuRuJe0O4yD7AKFoFY&chname=tyt4&pub=cd44c23c-4796-475f-bcb1-b846bed4cf40&acsurl=pluto-acs-lb.adsparx.net&mcdn=tyt-plutolive-vo.akamaized.net%2Fm
+#EXTINF:107,TYT Network
+https://tyt-xumo-us.amagi.tv/hls/amagi_hls_data_tytnetwor-tyt-xumo/CDN/master.m3u8
 
-#EXTINF:108,America's Voice
+#EXTINF:108,America's Voice News
 https://klive.kaltura.com/dc-0/live/hls/p/2377021/e/0_m2pjgwiu/sd/6000/t/cQoe4Ve98-YR48etZblOsw/index-s34.m3u8
 
 #EXTINF:109,One America News Encore
@@ -543,8 +543,8 @@ http://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
 #EXTINF:181,Newsy Top Stories
 https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=newsyweb
 
-#EXTINF:182,Pluto TV News
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5268abcd0ce20a8472000114/master.m3u8?advertisingId=&appName=web&appVersion=5.0.3-5a69f0421bfaa21acf57c7f54f9914128359c64e&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceLat=40.7308&deviceLon=-73.9975&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=66.0.3515.115&includeExtendedEvents=false&sid=8731304a-e66f-4ac1-b5f0-6f8c82d02e79&userId=&serverSideAds=true
+#EXTINF:182,NASA TV
+https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
 
 #EXTINF:183,Gravitas Movies
 https://dai.google.com/linear/hls/event/EpqgwRlpQKq73ySVSohJWA/master.m3u8
@@ -588,8 +588,8 @@ http://51.52.156.22:8888/http/001
 #EXTINF:196,RESERVED
 https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
 
-#EXTINF:197,Live Concerts (test)
-http://cdn3.wowza.com/1/RGZ0WmxZWTZGdmpl/WlkvRDlr/hls/live/playlist.m3u8
+#EXTINF:197,Popular Science
+http://a.jsrdn.com/broadcast/447912f76b/+0000/c.m3u8
 
 #EXTINF:198,OCA
 http://ocatv.mcgi.me:1935/public/247_br/playlist.m3u8
