@@ -88,7 +88,7 @@ http://broadcastny.yournewsnet.com:8081/master/newsnetweb/chunks.m3u8
 https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_10.m3u8
 
 #EXTINF:30,ABC News Live
-http://abcnewslive.akamaized.net/amagi_hls_data_roku-host-abc/CDN/playlist.m3u8
+http://dai2.xumo.com/amagi_hls_data_xumo1212A-abcnews/CDN/512x288_875600/chunklist.m3u8
 
 #EXTINF:31,NBC News Now
 https://nbcnewshls-i.akamaihd.net/hls/live/1005170/nnn_live1/index_750.m3u8
@@ -307,7 +307,7 @@ http://de1se01.v2beat.live/playlist.m3u8
 https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/index_828_av-p.m3u8
 
 #EXTINF:103,One America News Network (Trial)
-http://n1.klowdtv.net/live1/oan_360p/chunks.m3u8
+http://n1.klowdtv.net/live1/oan_180p/chunks.m3u8
 
 #EXTINF:104,Blaze
 https://theblaze-plutolive-vo.akamaized.net/m6/hlslive/theblaze/1/theblaze.m3u8?profID=905&n=1&ctype=0&userParams=ccp%3DeyJkZXZpY2VJZCI6Ijk1NGMwMzdkLTFhMTEtNDRkMy1iNDg4LTlkMDZmOGEzZTA2OCIsImRldmljZVZlcnNpb24iOiI4MS4wLjQwNDQuMjYiLCJhcHBWZXJzaW9uIjoiMi45LjQtNWE0ZTBkMjYwODY0Y2FiMzJiYjI5NjcwOTc4OTQyNGFiNDhkZjIwNCIsImRldmljZVR5cGUiOiJ3ZWIiLCJkZXZpY2VNYWtlIjoiQ2hyb21lIiwiYWR2ZXJ0aXNpbmdJZCI6IiIsImRldmljZUxhdCI6IjMzLjk1NjAiLCJkZXZpY2VMb24iOiItMTE4LjM4ODciLCJkZXZpY2VETlQiOiIwIiwiZGV2aWNlTW9kZWwiOiJDaHJvbWUiLCJ1c2VySWQiOiIiLCJhcHBOYW1lIjoid2ViIiwiYXJjaGl0ZWN0dXJlIjoiIiwiaW5jbHVkZUV4dGVuZGVkRXZlbnRzIjoiZmFsc2UiLCJzcmNQcm90b2NvbCI6Imh0dHBzIiwic3RpdGNoZXJWZXJzaW9uIjoiMi40MC4wIiwic3RpdGNoZXJSZXFJZCI6ImYzZTg5M2NjLTllMDMtNDFlZi1hYjkzLWRkMmI4MWQxYTMzOSIsImFkSW1wcmVzc2lvblByb3h5Ijp0cnVlLCJpcF9hZGRyZXNzIjoiMTAzLjEzNy4yMDQuMTE0IiwiZGV2aWNlX3VhIjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg2LjAuNDI0MC4yMiBTYWZhcmkvNTM3LjM2IiwiZGV2aWNlVXNlckFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg2LjAuNDI0MC4yMiBTYWZhcmkvNTM3LjM2IiwiaXBBZGRyZXNzIjoiMTAzLjEzNy4yMDQuMTE0IiwiY2hJZCI6IjVlNDZmYmEwYzQzYjBkMDAwOTZlNWFjMSIsInRpbWVsaW5lSWQiOiI1ZjUyNzI0MTgzZmFhZDAwMDcxZThhOWUiLCJjbGlwSWQiOiI1ZTYwMTc0NzQ1NzRjNDAwMDdiM2U3OWYiLCJzZXNzaW9uSWQiOiJlNmYxNjgyZS1jYzYyLTQzN2EtYmQwZC0wODJiZWE5YTQwNTkiLCJlcGlzb2RlSWQiOiI1ZWZiOTdlMmQ4ZjM5MzAwMDhmMDQ2OGMiLCJwYXJ0bmVyQ29kZSI6IlRoZSBCbGF6ZSIsInBhcnRuZXJfaWQiOiI1ZTYxOGJjODI5YTUyZjAwMDcxNWMyNDYiLCJvcmlnaW4iOiJhZFNwYXJ4IiwiZnJvbV9zdGl0Y2hlciI6dHJ1ZX0%3D&adsid=AXRoAePHm8CPDtEqTBuT&chname=theblaze&pub=cd44c23c-4796-475f-bcb1-b846bed4cf40&acsurl=pluto-acs-lb.adsparx.net&mcdn=theblaze-plutolive-vo.akamaized.net%2Fm6
@@ -663,10 +663,10 @@ http://93.190.140.42:8081/SilenceTV/live/playlist.m3u8
 #EXTINF:221,BNC HD (Trial)
 http://bnc-roku-us.amagi.tv/hls/amagi_hls_data_blacknews-blacknewsnetwork/CDN/1280x720_2855600/index.m3u8
 
-#EXTINF:222,One America News HD (Trial)
+#EXTINF:222,One America News Netrwork HD (Trial)
 http://n1.klowdtv.net/live1/oan_720p/chunks.m3u8
 
-#EXTINF:223,The First HD
+#EXTINF:223,The First TV HD
 http://a.jsrdn.com/broadcast/h3h4gsui4/index720p.m3u8
 
 #EXTINF:224,NBCLX HD (Trial)
