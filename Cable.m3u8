@@ -27,8 +27,8 @@ https://d3cbe0gidjd4k2.cloudfront.net/channel_5/smil:channel_5.smil/chunklist_w1
 #EXTINF:9,CNN Philippines
 http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
 
-#EXTINF:10,Kapamilya Channel*
-https://amdottlive.akamaized.net/hls/live/2015473/iwantabscbn/master360p.m3u8
+#EXTINF:10,Kapamilya Channel (Trial)*
+https://iwantvsphls-lh.akamaihd.net/i/iwantspabscbnhd_1@388790/master.m3u8
 
 #EXTINF:11,TeleRadyo*
 https://tfcmsl.akamaized.net/hls/live/2014654/dzmm/bitrate_2.m3u8
