@@ -195,9 +195,6 @@ https://dai.google.com/linear/hls/event/JX5KKhKKRPqchP3LfXD-1A/master.m3u8
 #EXTINF:65,Cine Life
 https://dai.google.com/linear/hls/event/PFJ1Jhd6SsSMcu3qq86wzQ/master.m3u8
 
-#EXTINF:66,HBO (Trial)
-http://220.158.149.28:8180/live/TV00000000000000000166@HHZT
-
 #EXTINF:67,RedBox FilmHub
 http://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/playlist.m3u8
 
