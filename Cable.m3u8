@@ -27,8 +27,8 @@ https://d3cbe0gidjd4k2.cloudfront.net/channel_5/smil:channel_5.smil/chunklist_w1
 #EXTINF:9,CNN Philippines
 http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
 
-#EXTINF:10,Kapamilya Channel (Trial)*
-https://iwantvsphls-lh.akamaihd.net/i/iwantspabscbnhd_1@388790/master.m3u8
+#EXTINF:10,RESERVED
+https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
 
 #EXTINF:11,TeleRadyo*
 https://tfcmsl.akamaized.net/hls/live/2014654/dzmm/bitrate_2.m3u8
@@ -78,7 +78,7 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b600000.m
 #EXTINF:26,PBS
 https://ssc4.wpsu.psu.edu/WPSU_LLStream/ngrp:WPSU1_720max/chunklist_b786944.m3u8
 
-#EXTINF:27,CNN (Trial)
+#EXTINF:27,CNN
 http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
 
 #EXTINF:28,NewsNet
@@ -99,13 +99,13 @@ http://1111296894.rsc.cdn77.org/LS-ATL-54548-10/tracks-v1a1/mono.m3u8
 #EXTINF:33,CNBC
 http://edge-1192-ch-gv.filmon.com/live/4130.high.stream/playlist.m3u8
 
-#EXTINF:34,Fox News (Trial)
+#EXTINF:34,Fox News
 http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
 
 #EXTINF:35,Bloomberg TV
 http://45.126.83.51/uq2663/h/h03/02.m3u8
 
-#EXTINF:36,BBC World News (Trial)
+#EXTINF:36,BBC World News
 http://1111296894.rsc.cdn77.org/LS-ATL-54548-11/tracks-v1a1/mono.m3u8
 
 #EXTINF:37,BBC News
@@ -183,7 +183,7 @@ http://a.jsrdn.com/broadcast/5Gt2c8lsw/c.m3u8
 #EXTINF:61,RedBox Comedy
 http://comedy-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-comedy/CDN/playlist.m3u8
 
-#EXTINF:62,Hits (Trial)
+#EXTINF:62,Hits
 http://210.210.155.35/uq2663/h/h37/02.m3u8
 
 #EXTINF:63,Reelz
@@ -195,8 +195,8 @@ https://dai.google.com/linear/hls/event/JX5KKhKKRPqchP3LfXD-1A/master.m3u8
 #EXTINF:65,Cine Life
 https://dai.google.com/linear/hls/event/PFJ1Jhd6SsSMcu3qq86wzQ/master.m3u8
 
-#EXTINF:66,HBO (Trial)
-http://220.158.149.28:8180/live/TV00000000000000000166@HHZT
+#EXTINF:66,DistroTV 24-Hour Movies
+https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDUDigital-Production/145.m3u8
 
 #EXTINF:67,RedBox FilmHub
 http://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/playlist.m3u8
@@ -207,11 +207,11 @@ http://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/playlist.m3
 #EXTINF:69,RunTime Free Movies
 https://ammoruntime-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-runtime-plex/CDN/playlist.m3u8?us_privacy=1---&did=&dnt=1&X-Plex-Token=vX2gxiT5Q_vtARVYwbZa&channelId=5f47b0b87cb6a400422f9146
 
-#EXTINF:70,CinemaWorld (Trial)
+#EXTINF:70,CinemaWorld
 http://45.126.83.51/uq2663/h/h04/02.m3u8
 
-#EXTINF:71,Sony Movies (Trial)
-http://51.52.156.22:8888/http/009
+#EXTINF:71,BritCom
+https://dai.google.com/linear/hls/event/IdHTuehZQPClis-gJaZkFQ/master.m3u8
 
 #EXTINF:72,Dove Channel
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/playlist.m3u8
@@ -225,14 +225,14 @@ https://manifest.auditude.com/auditude/variant/nosey_2/aHR0cHM6Ly9ub3NleS0yLnJva
 #EXTINF:75,BeIN Sports Xtra
 http://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbeinsports/CDN/playlist.m3u8
 
-#EXTINF:76,CBS Sports HQ (Trial)
+#EXTINF:76,CBS Sports HQ
 https://dai.google.com/linear/hls/event/9Lq0ERvoSR-z9AwvFS-xYA/master.m3u8
 
 #EXTINF:77,Cast4U
 http://cdnak21.cast4u.info/channels/4/10804.m3u8
 
-#EXTINF:78,Sportsnet 360 (Trial)
-https://hackey.stream/hlsrio/test.m3u8
+#EXTINF:78,SportsGrid Network
+https://dai.google.com/linear/hls/event/9FKrAqCfRvGfn3tPbVFO-g/master.m3u8
 
 #EXTINF:79,Fox Sports Australia
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master640x360.m3u8
@@ -297,7 +297,7 @@ https://bspoketv.nexustreamer.com/distrotv-usa/master.m3u8
 #EXTINF:99,Complex
 http://dai2.xumo.com/amagi_hls_data_xumo1212A-complextv/CDN/playlist.m3u8
 
-#EXTINF:100,MTV
+#EXTINF:100,MTV Norway
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_1250_av-p.m3u8
 
 #EXTINF:101,V2BEAT TV
@@ -558,7 +558,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5595e43c66ace1652e6
 #EXTINF:186,Unidentified
 https://studio1091-xumo-us.amagi.tv/hls/amagi_hls_data_studio109-studio1091-xumo/CDN/768x432_1425600/chunklist.m3u8
 
-#EXTINF:187,Harley Davidson (Trial)
+#EXTINF:187,Harley Davidson
 https://hdtv.prod2.ioio.tv/broker/play/190dac2c-bf76-47e9-9b8f-0d31567f5401.m3u8
 
 #EXTINF:188,Plymouth Rock TV
@@ -660,7 +660,7 @@ https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_
 #EXTINF:220,SilenceTV
 http://93.190.140.42:8081/SilenceTV/live/playlist.m3u8
 
-#EXTINF:221,BNC HD (Trial)
+#EXTINF:221,BNC HD
 http://bnc-roku-us.amagi.tv/hls/amagi_hls_data_blacknews-blacknewsnetwork/CDN/1280x720_2855600/index.m3u8
 
 #EXTINF:222,One America News Netrwork HD (Trial)
@@ -669,7 +669,7 @@ http://n1.klowdtv.net/live1/oan_720p/chunks.m3u8
 #EXTINF:223,The First TV HD
 http://a.jsrdn.com/broadcast/h3h4gsui4/index720p.m3u8
 
-#EXTINF:224,NBCLX HD (Trial)
+#EXTINF:224,NBCLX HD
 https://lxlive-lh.akamaihd.net/i/LX_LIVE@148206/index_1080P_av-p.m3u8
 
 #EXTINF:225,NewsNet HD
