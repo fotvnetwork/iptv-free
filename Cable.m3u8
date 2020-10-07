@@ -13,7 +13,7 @@ http://59c3ec70cfde0.streamlock.net/channel_1/channel1/chunklist.m3u8
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/PTVPH.m3u8
 
 #EXTINF:5,TV5
-http://103.11.112.28:1935/live3/smil:tv5.smil/chunklist_w297371497_b428000.m3u8
+http://103.11.112.28:1935/live3/smil:tv5.smil/chunklist_w297371497_b628000.m3u8
 
 #EXTINF:6,One Sports
 http://103.11.112.28:1935/live2/smil:onesports.smil/chunklist_w1210079406_b628000.m3u8
@@ -27,8 +27,8 @@ https://d3cbe0gidjd4k2.cloudfront.net/channel_5/smil:channel_5.smil/chunklist_w1
 #EXTINF:9,CNN Philippines
 http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
 
-#EXTINF:10,RESERVED
-https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
+#EXTINF:10,TEST
+https://live.prd.dlive.tv/hls/live/dlive-ohxebgkzeq.m3u8?web=true
 
 #EXTINF:11,TeleRadyo*
 https://tfcmsl.akamaized.net/hls/live/2014654/dzmm/bitrate_2.m3u8
@@ -40,7 +40,7 @@ http://api.new.livestream.com/accounts/15418593/events/4787138/live.m3u8
 http://59c3ec70cfde0.streamlock.net/channel_7/channel7/chunklist.m3u8
 
 #EXTINF:14,CLTV 36
-https://tna5.bozztv.com/cltv36/index.m3u8
+http://stream.ssh101.com:1935/live/cltv36/playlist.m3u8
 
 #EXTINF:15,Knowledge*
 https://amdottlive.akamaized.net/hls/live/2018990/iwantknowledge/master360p.m3u8
@@ -306,8 +306,8 @@ http://de1se01.v2beat.live/playlist.m3u8
 #EXTINF:102,UN Web
 https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/index_828_av-p.m3u8
 
-#EXTINF:103,One America News Network (Trial)
-http://n1.klowdtv.net/live1/oan_180p/chunks.m3u8
+#EXTINF:103,America's Voice News
+https://klive.kaltura.com/dc-0/live/hls/p/2377021/e/0_m2pjgwiu/sd/6000/t/cQoe4Ve98-YR48etZblOsw/index-s34.m3u8
 
 #EXTINF:104,Blaze
 https://theblaze-plutolive-vo.akamaized.net/m6/hlslive/theblaze/1/theblaze.m3u8?profID=905&n=1&ctype=0&userParams=ccp%3DeyJkZXZpY2VJZCI6Ijk1NGMwMzdkLTFhMTEtNDRkMy1iNDg4LTlkMDZmOGEzZTA2OCIsImRldmljZVZlcnNpb24iOiI4MS4wLjQwNDQuMjYiLCJhcHBWZXJzaW9uIjoiMi45LjQtNWE0ZTBkMjYwODY0Y2FiMzJiYjI5NjcwOTc4OTQyNGFiNDhkZjIwNCIsImRldmljZVR5cGUiOiJ3ZWIiLCJkZXZpY2VNYWtlIjoiQ2hyb21lIiwiYWR2ZXJ0aXNpbmdJZCI6IiIsImRldmljZUxhdCI6IjMzLjk1NjAiLCJkZXZpY2VMb24iOiItMTE4LjM4ODciLCJkZXZpY2VETlQiOiIwIiwiZGV2aWNlTW9kZWwiOiJDaHJvbWUiLCJ1c2VySWQiOiIiLCJhcHBOYW1lIjoid2ViIiwiYXJjaGl0ZWN0dXJlIjoiIiwiaW5jbHVkZUV4dGVuZGVkRXZlbnRzIjoiZmFsc2UiLCJzcmNQcm90b2NvbCI6Imh0dHBzIiwic3RpdGNoZXJWZXJzaW9uIjoiMi40MC4wIiwic3RpdGNoZXJSZXFJZCI6ImYzZTg5M2NjLTllMDMtNDFlZi1hYjkzLWRkMmI4MWQxYTMzOSIsImFkSW1wcmVzc2lvblByb3h5Ijp0cnVlLCJpcF9hZGRyZXNzIjoiMTAzLjEzNy4yMDQuMTE0IiwiZGV2aWNlX3VhIjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg2LjAuNDI0MC4yMiBTYWZhcmkvNTM3LjM2IiwiZGV2aWNlVXNlckFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg2LjAuNDI0MC4yMiBTYWZhcmkvNTM3LjM2IiwiaXBBZGRyZXNzIjoiMTAzLjEzNy4yMDQuMTE0IiwiY2hJZCI6IjVlNDZmYmEwYzQzYjBkMDAwOTZlNWFjMSIsInRpbWVsaW5lSWQiOiI1ZjUyNzI0MTgzZmFhZDAwMDcxZThhOWUiLCJjbGlwSWQiOiI1ZTYwMTc0NzQ1NzRjNDAwMDdiM2U3OWYiLCJzZXNzaW9uSWQiOiJlNmYxNjgyZS1jYzYyLTQzN2EtYmQwZC0wODJiZWE5YTQwNTkiLCJlcGlzb2RlSWQiOiI1ZWZiOTdlMmQ4ZjM5MzAwMDhmMDQ2OGMiLCJwYXJ0bmVyQ29kZSI6IlRoZSBCbGF6ZSIsInBhcnRuZXJfaWQiOiI1ZTYxOGJjODI5YTUyZjAwMDcxNWMyNDYiLCJvcmlnaW4iOiJhZFNwYXJ4IiwiZnJvbV9zdGl0Y2hlciI6dHJ1ZX0%3D&adsid=AXRoAePHm8CPDtEqTBuT&chname=theblaze&pub=cd44c23c-4796-475f-bcb1-b846bed4cf40&acsurl=pluto-acs-lb.adsparx.net&mcdn=theblaze-plutolive-vo.akamaized.net%2Fm6
@@ -321,8 +321,8 @@ https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv_4.m3u8
 #EXTINF:107,TYT Network
 https://tyt-xumo-us.amagi.tv/hls/amagi_hls_data_tytnetwor-tyt-xumo/CDN/master.m3u8
 
-#EXTINF:108,America's Voice News
-https://klive.kaltura.com/dc-0/live/hls/p/2377021/e/0_m2pjgwiu/sd/6000/t/cQoe4Ve98-YR48etZblOsw/index-s34.m3u8
+#EXTINF:108,One America News Network (Trial)
+http://n1.klowdtv.net/live1/oan_180p/chunks.m3u8
 
 #EXTINF:109,One America News Encore
 https://cdn.herringnetwork.com/80A4DFF/oane_oregon/OAN_Encore_360p30.m3u8
@@ -595,7 +595,7 @@ http://a.jsrdn.com/broadcast/447912f76b/+0000/c.m3u8
 http://ocatv.mcgi.me:1935/public/247_br/playlist.m3u8
 
 #EXTINF:199,Live Event
-https://tna5.bozztv.com/fotvph/index.m3u8
+https://foxedge-lh.akamaihd.net/i/EDGE1_1@320288/master.m3u8
 
 #EXTINF:200,Wish
 https://www.wish1075.com/radio/wish.m3u8
