@@ -39,14 +39,14 @@ http://api.new.livestream.com/accounts/15418593/events/4787138/live.m3u8
 #EXTINF:13,Inquirer 990 Television
 http://59c3ec70cfde0.streamlock.net/channel_7/channel7/chunklist.m3u8
 
-#EXTINF:14,ARC (Trial)*
-https://tfcmsl.akamaized.net/hls/live/2007140/arcemea/bitrate_1.m3u8
+#EXTINF:14,O Shopping*
+https://amdottlive.akamaized.net/hls/live/2015808/iwantoshop/master.m3u8
 
 #EXTINF:15,Knowledge*
 https://amdottlive.akamaized.net/hls/live/2018990/iwantknowledge/master360p.m3u8
 
-#EXTINF:16,BBC One Scotland
-https://edge-1192-ch-gv.filmon.com/live/3166.high.stream/playlist.m3u8
+#EXTINF:16,Chooks 3x3 TM
+http://59c3ec70cfde0.streamlock.net/channel_2/channel2/chunklist_w2083452780.m3u8
 
 #EXTINF:17,ITV UK
 http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main600.m3u8
