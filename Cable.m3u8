@@ -196,7 +196,7 @@ https://dai.google.com/linear/hls/event/JX5KKhKKRPqchP3LfXD-1A/master.m3u8
 https://dai.google.com/linear/hls/event/PFJ1Jhd6SsSMcu3qq86wzQ/master.m3u8
 
 #EXTINF:66,DistroTV 24-Hour Movies
-https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDUDigital-Production/145.m3u8
+http://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDUDigital-Production/145.m3u8
 
 #EXTINF:67,RedBox FilmHub
 http://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/playlist.m3u8
@@ -303,8 +303,8 @@ http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_1250_av-p.m3u8
 #EXTINF:101,V2BEAT TV
 http://de1se01.v2beat.live/playlist.m3u8
 
-#EXTINF:102,UN Web
-https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/index_828_av-p.m3u8
+#EXTINF:102,InfoWars
+https://freespeech.akamaized.net/hls/live/2016712/live2/playlist.m3u8
 
 #EXTINF:103,America's Voice News
 https://klive.kaltura.com/dc-0/live/hls/p/2377021/e/0_m2pjgwiu/sd/6000/t/cQoe4Ve98-YR48etZblOsw/index-s34.m3u8
@@ -528,8 +528,8 @@ https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1309230/chunklist_b1000000.
 #EXTINF:176,Stirr National
 https://playoutengine.sinclairstoryline.com/playout/74594c4d-49cd-416c-8ecd-a01f77d7b0b3.m3u8
 
-#EXTINF:177,Stirr COVID-19 News
-https://dai.google.com/linear/hls/event/08ADpEIeQ8iZOjusLsZbCg/master.m3u8
+#EXTINF:177,UN Web
+https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/index_828_av-p.m3u8
 
 #EXTINF:178,World Harvest Television
 https://597865f6e4114.streamlock.net/live/leseaorigin.stream/chunklist_w347907757.m3u8
