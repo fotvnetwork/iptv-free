@@ -13,7 +13,7 @@ http://59c3ec70cfde0.streamlock.net/channel_1/channel1/chunklist.m3u8
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/PTVPH.m3u8
 
 #EXTINF:5,TV5
-http://103.11.112.84:1935/live2/smil:tv5.smil/playlist.m3u8
+http://103.11.112.84:1935/live2/smil:tv5.smil/chunklist_w1486130098_b628000.m3u8
 
 #EXTINF:6,One Sports
 http://103.11.112.28:1935/live2/smil:onesports.smil/chunklist_w1210079406_b628000.m3u8
@@ -39,14 +39,14 @@ http://api.new.livestream.com/accounts/15418593/events/4787138/live.m3u8
 #EXTINF:13,Inquirer 990 Television
 http://59c3ec70cfde0.streamlock.net/channel_7/channel7/chunklist.m3u8
 
-#EXTINF:14,O Shopping*
-https://amdottlive.akamaized.net/hls/live/2015808/iwantoshop/master.m3u8
+#EXTINF:14,TV5 (mirror)
+http://103.11.112.84:1935/live2/smil:tv5.smil/playlist.m3u8
 
 #EXTINF:15,Knowledge*
 https://amdottlive.akamaized.net/hls/live/2018990/iwantknowledge/master360p.m3u8
 
-#EXTINF:16,Chooks 3x3 TM
-http://59c3ec70cfde0.streamlock.net/channel_2/channel2/chunklist_w2083452780.m3u8
+#EXTINF:16,TeleRadyo (mirror)*
+https://amdottlive.akamaized.net/hls/live/2015475/iwantdzmm/master.m3u8
 
 #EXTINF:17,ITV UK
 http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main600.m3u8
@@ -427,7 +427,7 @@ https://contributionstreams.sechls01.visionip.tv/live/visiontv-contributionstrea
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master640x360.m3u8
 
 #EXTINF:143,ABC News Australia
-https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_34.m3u8
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 
 #EXTINF:144,Tastemade
 https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/512x288_875600/index.m3u8
