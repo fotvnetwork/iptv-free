@@ -45,14 +45,14 @@ http://103.11.112.84:1935/live2/smil:tv5.smil/playlist.m3u8
 #EXTINF:15,Knowledge*
 https://amdottlive.akamaized.net/hls/live/2018990/iwantknowledge/master360p.m3u8
 
-#EXTINF:16,TeleRadyo (mirror)*
-https://amdottlive.akamaized.net/hls/live/2015475/iwantdzmm/master.m3u8
+#EXTINF:16,Tap TV (New!)
+https://tapdigitallive.s.llnwi.net/wta-cc/smil:wta-cc-abr2.smil/-urlsig=O0U9MTYwNDgwMTI1NDtBPTE7Sz0yO1A9MDExMDtTPWQzYmY2MWEzODEwZGQzYWM3ZWYzMWFlMzE2NGVmNDE0MzhhYTVlODE/chunklist_b978000_sleng.m3u8
 
 #EXTINF:17,ITV UK
 http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main600.m3u8
 
-#EXTINF:18,PBS America
-http://51.52.156.22:8888/http/012
+#EXTINF:18,Tap Sports (New!)
+https://tapdigitallive.s.llnwi.net/atp-cc/smil:atp-cc-abr2.smil/-urlsig=O0U9MTYwNDgwMTM5OTtBPTE7Sz0yO1A9MDExMDtTPTEzZDdiOTBhNDA4M2YzMGEzN2MxMTdhZmU0NDY1ZmZmNTc4ODhkYmU/chunklist_b978000_sleng.m3u8
 
 #EXTINF:19,CBS
 http://161.0.157.51/PLTV/88888888/224/3221227041/03.m3u8
@@ -109,7 +109,7 @@ http://45.126.83.51/uq2663/h/h03/02.m3u8
 http://1111296894.rsc.cdn77.org/LS-ATL-54548-11/tracks-v1a1/mono.m3u8
 
 #EXTINF:37,BBC News
-https://edge-1192-ch-gv.filmon.com/live/27.high.stream/playlist.m3u8
+https://bozztv.com/36bay2/gin/giniko_bbc22_1000kb_36bay2/tracks-v1a1/mono.m3u8
 
 #EXTINF:38,Sky News
 http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/03.m3u8
@@ -655,13 +655,13 @@ https://thegateway.app/YouToo/CueTones/playlist.m3u8
 https://thegateway.app/BizAndYou/Biz_1080p/playlist.m3u8
 
 #EXTINF:219,Edge Sports HD
-https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_5640800/index.m3u8
+https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
 
 #EXTINF:220,SilenceTV HD
 http://93.190.140.42:8081/SilenceTV/live/playlist.m3u8
 
 #EXTINF:221,BNC HD
-http://bnc-roku-us.amagi.tv/hls/amagi_hls_data_blacknews-blacknewsnetwork/CDN/1280x720_2855600/index.m3u8
+http://bnc-roku-us.amagi.tv/hls/amagi_hls_data_blacknews-blacknewsnetwork/CDN/playlist.m3u8
 
 #EXTINF:222,One America News Netrwork HD (Trial)
 http://n1.klowdtv.net/live1/oan_720p/chunks.m3u8
