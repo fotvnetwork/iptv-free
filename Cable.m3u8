@@ -46,13 +46,13 @@ http://103.11.112.84:1935/live2/smil:tv5.smil/playlist.m3u8
 https://amdottlive.akamaized.net/hls/live/2018990/iwantknowledge/master360p.m3u8
 
 #EXTINF:16,Tap TV (New!)
-https://tapdigitallive.s.llnwi.net/wta-cc/smil:wta-cc-abr2.smil/-urlsig=O0U9MTYwNDgwMTI1NDtBPTE7Sz0yO1A9MDExMDtTPWQzYmY2MWEzODEwZGQzYWM3ZWYzMWFlMzE2NGVmNDE0MzhhYTVlODE/chunklist_b978000_sleng.m3u8
+https://tapdigitallive.s.llnwi.net/wta-cc/smil:wta-cc-abr2.smil/-urlsig=O0U9MTYwNDg0OTYxODtBPTE7Sz0yO1A9MDExMDtTPTY4ODA1N2Y2OGRhZmY1M2Q2YThmMWVkZjYzMzA5MjdlMjIyNjcxMzc/chunklist_b978000_sleng.m3u8
 
-#EXTINF:17,ITV UK
-http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main600.m3u8
+#EXTINF:17,Tap Edge (New!)
+https://tapdigitallive.s.llnwi.net/edgesports-cc/smil:edgesports-cc-abr2.smil/-urlsig=O0U9MTYwNDg0OTc5ODtBPTE7Sz0yO1A9MDExMDtTPTJiZTdkMGFiMDMzMTdmMmZjMGUwMmI1YWIxNzM4MmEwMTY2ZTE3NWM/chunklist_b978000_sleng.m3u8
 
 #EXTINF:18,Tap Sports (New!)
-https://tapdigitallive.s.llnwi.net/atp-cc/smil:atp-cc-abr2.smil/-urlsig=O0U9MTYwNDgwMTM5OTtBPTE7Sz0yO1A9MDExMDtTPTEzZDdiOTBhNDA4M2YzMGEzN2MxMTdhZmU0NDY1ZmZmNTc4ODhkYmU/chunklist_b978000_sleng.m3u8
+https://tapdigitallive.s.llnwi.net/atp-cc/smil:atp-cc-abr2.smil/-urlsig=O0U9MTYwNDg0OTIzMDtBPTE7Sz0yO1A9MDExMDtTPWU5MmM0NjMwYjg3ZTBmZGNhODQ1ZjVlODc5Njk4ZWRkNDJhZjA5YWM/chunklist_b978000_sleng.m3u8
 
 #EXTINF:19,CBS
 http://161.0.157.51/PLTV/88888888/224/3221227041/03.m3u8
@@ -127,7 +127,7 @@ http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_500.m3u8
 https://bozztv.com/36bay2/gin/giniko_euronews_800kb_36bay2/tracks-v1a1/mono.m3u8
 
 #EXTINF:43,Press TV
-https://live2.presstv.com/liveprs/smil:liveprs.smil/chunklist_w2071542233_b394100_slen.m3u8
+https://bozztv.com/36bay2/gin/giniko_presstv_900kb_36bay2/tracks-v1a1/mono.m3u8
 
 #EXTINF:44,DW
 https://m-c010-j2apps.s.llnwi.net/hls/8023.DWEnglish.in.m3u8
@@ -582,8 +582,8 @@ http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
 #EXTINF:194,TRT World
 https://tv-trtworld.live.trt.com.tr/master_360.m3u8
 
-#EXTINF:195,BBC Scotland
-http://51.52.156.22:8888/http/001
+#EXTINF:195,ITV UK
+http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main600.m3u8
 
 #EXTINF:196,RESERVED
 https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
@@ -627,8 +627,8 @@ http://161.0.157.51/PLTV/88888888/224/3221227041/01.m3u8
 #EXTINF:209,ABC News Live HD
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
-#EXTINF:210,CNN HD (Trial)
-https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:210,RESERVED
+https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
 
 #EXTINF:211,Red Bull TV HD
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
