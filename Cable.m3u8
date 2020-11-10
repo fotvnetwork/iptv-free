@@ -64,7 +64,7 @@ http://65.36.6.216:1935/live/kcwx.smil/chunklist_w879211551_b850000_sleng.m3u8
 http://161.0.157.50/PLTV/88888888/224/3221227040/03.m3u8
 
 #EXTINF:22,Toon Goggles
-https://pcor3.manifest.auditude.com/auditude/variant/toon_goggles_samsung/5e2bd437-b966-4c97-a2aa-deb6ac353d82/aHR0cHM6Ly90b29uLWdvZ2dsZXMtc2Ftc3VuZy5yb2t1Lnd1cmwuY29tL21hbmlmZXN0L3BsYXlsaXN0Lm0zdTg.m3u8?pttrackingversion=v2&u=19287a324825cc5aacb7e46183c72324&pttrackingmode=sstm&g=1000010&z=268729&k=wurl_channel=183;distributor=roku;ip=192.119.164.38;rdid=121c0a02-8b4f-5ad8-9a0a-d73aa5fd4c92;coppa=true;is_lat=1;ua=Mozilla/5.0+(Windows+NT+10.0;+)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.26+Safari/537.36;content=f23f51102040f9ad18318e61222ecd48e8f1562b;genre=;platform=web;content_type=livefeed;content_rating=&ptcueformat=turner
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=59&live=1&app_bundle=com.plexapp.desktop&did=5e9a5548-cd0d-5475-8166-4e1f173b2021&app_domain=app.plex.tv&app_name=plex&h=768&w=1024&content_title=Mf1soNpzyo3dSwiSSU6n&content_series=5f170d60b898490041b49359&custom4=plex&gdpr=0&device_make=Windows&device_model=Chrome&coppa=1&us_privacy=1---
 
 #EXTINF:23,Pop Max
 https://edge-1192-ch-gv.filmon.com/live/316.high.stream/playlist.m3u8
@@ -153,8 +153,8 @@ https://pcor4.manifest.auditude.com/auditude/variant/aenetworks_ae_1/c82b6352-dd
 #EXTINF:51,DIY Daily
 https://pcor4.manifest.auditude.com/auditude/variant/endemol_restore_1/d86cafeb-69f2-4e89-a54c-224fac757fdb/aHR0cHM6Ly9lbmRlbW9sLXJlc3RvcmUtMS5yb2t1Lnd1cmwuY29tL21hbmlmZXN0L3BsYXlsaXN0Lm0zdTg.m3u8?pttrackingversion=v2&u=19287a324825cc5aacb7e46183c72324&pttrackingmode=sstm&g=1000010&z=268729&k=wurl_channel=321;distributor=roku;ip=192.119.164.38;rdid=121c0a02-8b4f-5ad8-9a0a-d73aa5fd4c92;coppa=false;is_lat=1;ua=Mozilla/5.0+(Windows+NT+10.0;+)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.26+Safari/537.36;content=8b3f8df64de23ce31890645b3b0d576fd7835773;genre=;platform=web;content_type=livefeed;content_rating=&ptcueformat=turner
 
-#EXTINF:52,Gordon Ramsay
-http://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisecooking/CDN/playlist.m3u8
+#EXTINF:52,Skills + Thrills
+https://aenetworks-skills-thrills-1.plex.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:53,The Asylum
 https://dai.google.com/linear/hls/event/2r7F3DThT-C5YW21CUuGLQ/master.m3u8
@@ -180,8 +180,8 @@ http://45.126.83.51/qwr9ew/s/s34/02.m3u8
 #EXTINF:60,Comedy Dynamics
 http://a.jsrdn.com/broadcast/5Gt2c8lsw/c.m3u8
 
-#EXTINF:61,RedBox Comedy
-http://comedy-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-comedy/CDN/playlist.m3u8
+#EXTINF:61,Allsprk
+https://stream.allsprk.tv/live/1/index.m3u8
 
 #EXTINF:62,Hits
 http://210.210.155.35/uq2663/h/h37/02.m3u8
@@ -195,11 +195,11 @@ https://dai.google.com/linear/hls/event/JX5KKhKKRPqchP3LfXD-1A/master.m3u8
 #EXTINF:65,Cine Life
 https://dai.google.com/linear/hls/event/PFJ1Jhd6SsSMcu3qq86wzQ/master.m3u8
 
-#EXTINF:66,DistroTV 24-Hour Movies
-http://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDUDigital-Production/145.m3u8
+#EXTINF:66,Allsprk 2
+https://stream.allsprk.tv/live/2/index.m3u8
 
-#EXTINF:67,RedBox FilmHub
-http://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/playlist.m3u8
+#EXTINF:67,Hollywood Classics
+https://fef5003bb7e7447ab21a2c3fd81e3b74.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_HollywoodClassics/playlist.m3u8?ads.wurl_channel=532&ads.wurl_name=HollywoodClassics&ads.us_privacy=1---&ads.psid=&ads.targetopt=1&ads.plex_token=z1MCPUpbxYcHru-5hdyq&ads.plex_id=5f0ff265d71dcb00449ec02d&ads.ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36+OPR%2F70.0.3728.95&ads.app_bundle=&ads.app_store_url=&ads.gdpr=0&ads.consent=0
 
 #EXTINF:68,FilmRise Movies
 http://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/playlist.m3u8
@@ -295,7 +295,7 @@ http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 https://bspoketv.nexustreamer.com/distrotv-usa/master.m3u8
 
 #EXTINF:99,Complex
-http://dai2.xumo.com/amagi_hls_data_xumo1212A-complextv/CDN/playlist.m3u8
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxcomplex/CDN/playlist.m3u8
 
 #EXTINF:100,MTV Norway
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_1250_av-p.m3u8
@@ -304,7 +304,7 @@ http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_1250_av-p.m3u8
 http://de1se01.v2beat.live/playlist.m3u8
 
 #EXTINF:102,InfoWars
-https://freespeech.akamaized.net/hls/live/2016712/live2/playlist.m3u8
+http://freespeech.akamaized.net/hls/live/2016712/live2/playlist.m3u8
 
 #EXTINF:103,America's Voice News
 https://klive.kaltura.com/dc-0/live/hls/p/2377021/e/0_m2pjgwiu/sd/6000/t/cQoe4Ve98-YR48etZblOsw/index-s34.m3u8
@@ -399,7 +399,7 @@ https://dai.google.com/linear/hls/event/q0dlRn_xSBGTZYI7vwWWJQ/master.m3u8
 #EXTINF:133,FailArmy
 https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
 
-#EXTINF:134,YTA TV
+#EXTINF:134,YTA
 http://gideommd.mmdlive.lldns.net/gideommd/d5b6a753f86e4e51b8e15c7d23887a4f/chunklist_b732000.m3u8
 
 #EXTINF:135,Right Now TV
@@ -648,7 +648,7 @@ http://wpc.9ec1.edgecastcdn.net/249EC1/infowarshd-edgecast/hd720.m3u8
 #EXTINF:216,Plant-Based Network HD
 https://hls-cdn.tvstartup.net/barakyah-channel/live/pbtv/chunklist_w2143964786.m3u8
 
-#EXTINF:217,Youtoo America HD
+#EXTINF:217,YTA HD
 https://thegateway.app/YouToo/CueTones/playlist.m3u8
 
 #EXTINF:218,Biz TV HD
