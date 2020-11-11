@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:1,UNTV
-https://www.untvweb.com/live-stream/untvweb.m3u8
+https://bit.ly/3ncxSsr?.m3u8
 
 #EXTINF:2,ANC*
 https://amdottlive.akamaized.net/hls/live/2015474/iwantanc/master360p.m3u8
@@ -46,10 +46,10 @@ http://103.11.112.84:1935/live2/smil:tv5.smil/playlist.m3u8
 https://amdottlive.akamaized.net/hls/live/2018990/iwantknowledge/master360p.m3u8
 
 #EXTINF:16,Tap TV*
-https://tapdigitallive.s.llnwi.net/wta-cc/smil:wta-cc-abr2.smil/-urlsig=O0U9MTYwNTA2ODQ3NTtBPTE7Sz0yO1A9MDExMDtTPTAyYWUwZTBjZDA0MGU4ZjJiYWUxNGQ4Y2IwZWI4YWY0MDgyMzI4ZGQ/playlist.m3u8
+https://tapdigitallive.s.llnwi.net/wta-cc/smil:wta-cc-abr2.smil/-urlsig=O0U9MTYwNTE2OTMyMztBPTE7Sz0yO1A9MDExMDtTPWM3OGUzNDczNTdhNjQ4YjA3OGM0NDE2YjRlZDZiYTRlYzZjOTc1ODE/playlist.m3u8
 
 #EXTINF:17,Tap Sports*
-https://tapdigitallive.s.llnwi.net/atp-cc/smil:atp-cc-abr2.smil/-urlsig=O0U9MTYwNTA2ODU2MztBPTE7Sz0yO1A9MDExMDtTPTMwNzI5OGFmYTgxMTUxNjY3NzBiZmJiZDMwZTBkYzE1NmQ5YjhmYmI/playlist.m3u8
+https://tapdigitallive.s.llnwi.net/atp-cc/smil:atp-cc-abr2.smil/-urlsig=O0U9MTYwNTE2OTM0ODtBPTE7Sz0yO1A9MDExMDtTPWNkMDM2MDMwMzI1YWE4YTgxNTkxMTllMDBjMWZhNmU5Mzk3OTE5NTg/playlist.m3u8
 
 #EXTINF:18,HJtv*
 http://190.80.3.28/HJTV/HJTV.isml/HJTV-audio_128301_und=128000-video=500000.m3u8
@@ -187,7 +187,7 @@ https://stream.allsprk.tv/live/1/index.m3u8
 http://210.210.155.35/uq2663/h/h37/02.m3u8
 
 #EXTINF:63,Reelz
-http://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxreelzchannel/CDN/playlist.m3u8
+http://a.jsrdn.com/broadcast/d37066a396/+0000/c.m3u8
 
 #EXTINF:64,ShoutFactory TV
 https://dai.google.com/linear/hls/event/JX5KKhKKRPqchP3LfXD-1A/master.m3u8
@@ -210,8 +210,8 @@ https://ammoruntime-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-runtime-plex/CDN/
 #EXTINF:70,CinemaWorld
 http://45.126.83.51/uq2663/h/h04/02.m3u8
 
-#EXTINF:71,BritCom
-https://dai.google.com/linear/hls/event/IdHTuehZQPClis-gJaZkFQ/master.m3u8
+#EXTINF:71,Johnny Carson TV
+https://johnnycarson-zype.amagi.tv/playlist.m3u8
 
 #EXTINF:72,Dove Channel
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/playlist.m3u8
@@ -297,7 +297,7 @@ https://bspoketv.nexustreamer.com/distrotv-usa/master.m3u8
 #EXTINF:99,Complex
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxcomplex/CDN/playlist.m3u8
 
-#EXTINF:100,MTV Norway
+#EXTINF:100,MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_1250_av-p.m3u8
 
 #EXTINF:101,V2BEAT TV
