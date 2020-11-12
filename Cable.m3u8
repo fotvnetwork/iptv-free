@@ -46,10 +46,10 @@ http://103.11.112.84:1935/live2/smil:tv5.smil/playlist.m3u8
 https://amdottlive.akamaized.net/hls/live/2018990/iwantknowledge/master360p.m3u8
 
 #EXTINF:16,Tap TV*
-https://tapdigitallive.s.llnwi.net/wta-cc/smil:wta-cc-abr2.smil/-urlsig=O0U9MTYwNTE2OTMyMztBPTE7Sz0yO1A9MDExMDtTPWM3OGUzNDczNTdhNjQ4YjA3OGM0NDE2YjRlZDZiYTRlYzZjOTc1ODE/playlist.m3u8
+https://tapdigitallive.s.llnwi.net/wta-cc/smil:wta-cc-abr2.smil/-urlsig=O0U9MTYwNTI4NjkxOTtBPTE7Sz0yO1A9MDExMDtTPTMxMmZlN2NiZjVmYzUzNWViNTZmNTg0OTdlYmJkZjdmYWNlNDU4ZDE/playlist.m3u8
 
 #EXTINF:17,Tap Sports*
-https://tapdigitallive.s.llnwi.net/atp-cc/smil:atp-cc-abr2.smil/-urlsig=O0U9MTYwNTE2OTM0ODtBPTE7Sz0yO1A9MDExMDtTPWNkMDM2MDMwMzI1YWE4YTgxNTkxMTllMDBjMWZhNmU5Mzk3OTE5NTg/playlist.m3u8
+https://tapdigitallive.s.llnwi.net/atp-cc/smil:atp-cc-abr2.smil/-urlsig=O0U9MTYwNTI4Njg5MztBPTE7Sz0yO1A9MDExMDtTPWVlYWEzYTdmMjM0OThhMDJmODhkMjU1MDEyZGI2NjIzOGJlNWM1MjI/playlist.m3u8
 
 #EXTINF:18,HJtv*
 http://190.80.3.28/HJTV/HJTV.isml/HJTV-audio_128301_und=128000-video=500000.m3u8
