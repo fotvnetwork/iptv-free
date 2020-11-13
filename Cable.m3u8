@@ -46,10 +46,10 @@ http://103.11.112.84:1935/live2/smil:tv5.smil/playlist.m3u8
 https://amdottlive.akamaized.net/hls/live/2018990/iwantknowledge/master360p.m3u8
 
 #EXTINF:16,Tap TV*
-https://tapdigitallive.s.llnwi.net/wta-cc/smil:wta-cc-abr2.smil/-urlsig=O0U9MTYwNTI4NjkxOTtBPTE7Sz0yO1A9MDExMDtTPTMxMmZlN2NiZjVmYzUzNWViNTZmNTg0OTdlYmJkZjdmYWNlNDU4ZDE/playlist.m3u8
+https://tapdigitallive.s.llnwi.net/wta-cc/smil:wta-cc-abr2.smil/-urlsig=O0U9MTYwNTM0NDEyOTtBPTE7Sz0yO1A9MDExMDtTPWIxOGZhZDc3Zjk3MWZjYWI5YjE1ZjE0MWYyNmMwZjRjZmFkMjFjYTc/playlist.m3u8
 
 #EXTINF:17,Tap Sports*
-https://tapdigitallive.s.llnwi.net/atp-cc/smil:atp-cc-abr2.smil/-urlsig=O0U9MTYwNTI4Njg5MztBPTE7Sz0yO1A9MDExMDtTPWVlYWEzYTdmMjM0OThhMDJmODhkMjU1MDEyZGI2NjIzOGJlNWM1MjI/playlist.m3u8
+https://tapdigitallive.s.llnwi.net/atp-cc/smil:atp-cc-abr2.smil/-urlsig=O0U9MTYwNTM0NDE1NTtBPTE7Sz0yO1A9MDExMDtTPWY2ZmI4ZTZlOTg2M2VkMmQwZGI1ODU4YTZlYmMxOGIxMzUwYTk3OTI/playlist.m3u8
 
 #EXTINF:18,HJtv*
 http://190.80.3.28/HJTV/HJTV.isml/HJTV-audio_128301_und=128000-video=500000.m3u8
@@ -91,7 +91,7 @@ https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d56
 http://dai2.xumo.com/amagi_hls_data_xumo1212A-abcnews/CDN/512x288_875600/chunklist.m3u8
 
 #EXTINF:31,NBC News Now
-https://nbcnewshls-i.akamaihd.net/hls/live/1005170/nnn_live1/index_750.m3u8
+http://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/848x480_965800/index.m3u8
 
 #EXTINF:32,MSNBC (Trial)
 http://1111296894.rsc.cdn77.org/LS-ATL-54548-10/tracks-v1a1/mono.m3u8
