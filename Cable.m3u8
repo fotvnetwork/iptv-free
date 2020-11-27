@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:1,UNTV
-https://bit.ly/3ncxSsr?.m3u8
+https://www.untvweb.com/live-stream/chunklist_b732000.m3u8
 
 #EXTINF:2,ANC*
 https://amdottlive.akamaized.net/hls/live/2015474/iwantanc/master360p.m3u8
@@ -45,11 +45,11 @@ http://103.11.112.84:1935/live2/smil:tv5.smil/playlist.m3u8
 #EXTINF:15,Knowledge*
 https://amdottlive.akamaized.net/hls/live/2018990/iwantknowledge/master360p.m3u8
 
-#EXTINF:16,Tap TV*
-https://tapdigitallive.s.llnwi.net/wta-cc/smil:wta-cc-abr2.smil/-urlsig=O0U9MTYwNTU4NTY2MjtBPTE7Sz0yO1A9MDExMDtTPWU0NDZjMWMxYjAyZDU1ZTM0ZGRjZTAzYWFjODEwYTIwZjFiMTU1MTE/playlist.m3u8
+#EXTINF:16,TeleRadyo (mirror)*
+https://amdottlive.akamaized.net/hls/live/2015475/iwantdzmm/master.m3u8
 
-#EXTINF:17,Tap Sports*
-https://tapdigitallive.s.llnwi.net/atp-cc/smil:atp-cc-abr2.smil/-urlsig=O0U9MTYwNTU4NTcxNDtBPTE7Sz0yO1A9MDExMDtTPTU1NjY1MTZjMzVhZDhmN2I5YmVjZWFjMTRiZWI4YTYzYzY5NTNiNjg/playlist.m3u8
+#EXTINF:17,TV5 (mirror 2)
+http://stream2.tv5.com.ph:1935/live2/smil:tv5stream.smil/playlist.m3u8
 
 #EXTINF:18,HJtv*
 http://190.80.3.28/HJTV/HJTV.isml/HJTV-audio_128301_und=128000-video=500000.m3u8
@@ -66,11 +66,11 @@ http://161.0.157.50/PLTV/88888888/224/3221227040/03.m3u8
 #EXTINF:22,Toon Goggles
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=59&live=1&app_bundle=com.plexapp.desktop&did=5e9a5548-cd0d-5475-8166-4e1f173b2021&app_domain=app.plex.tv&app_name=plex&h=768&w=1024&content_title=Mf1soNpzyo3dSwiSSU6n&content_series=5f170d60b898490041b49359&custom4=plex&gdpr=0&device_make=Windows&device_model=Chrome&coppa=1&us_privacy=1---
 
-#EXTINF:23,Pop Max
-https://edge-1192-ch-gv.filmon.com/live/316.high.stream/playlist.m3u8
+#EXTINF:23,Kids Central
+http://nrpus.bozztv.com/36bay2/gusa-kidcentral/index.m3u8
 
-#EXTINF:24,Pop
-https://edge-1192-ch-gv.filmon.com/live/320.high.stream/playlist.m3u8
+#EXTINF:24,Battery Pop
+http://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbatterypop/CDN/playlist.m3u8
 
 #EXTINF:25,PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b600000.m3u8
@@ -97,7 +97,7 @@ http://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/848x480_965800
 http://1111296894.rsc.cdn77.org/LS-ATL-54548-10/tracks-v1a1/mono.m3u8
 
 #EXTINF:33,CNBC
-http://edge-1192-ch-gv.filmon.com/live/4130.high.stream/playlist.m3u8
+http://tohome.redirectme.net:8001/1:0:1:272e:402:1:c00000:0:0:0
 
 #EXTINF:34,Fox News
 http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
@@ -109,7 +109,7 @@ http://45.126.83.51/uq2663/h/h03/02.m3u8
 http://1111296894.rsc.cdn77.org/LS-ATL-54548-11/tracks-v1a1/mono.m3u8
 
 #EXTINF:37,BBC News
-https://edge-1192-ch-gv.filmon.com/live/27.low.stream/playlist.m3u8
+http://51.52.156.22:8888/http/004
 
 #EXTINF:38,Sky News
 http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/03.m3u8
@@ -130,7 +130,7 @@ https://bozztv.com/36bay2/gin/giniko_euronews_800kb_36bay2/tracks-v1a1/mono.m3u8
 https://bozztv.com/36bay2/gin/giniko_presstv_900kb_36bay2/tracks-v1a1/mono.m3u8
 
 #EXTINF:44,DW
-https://m-c010-j2apps.s.llnwi.net/hls/8023.DWEnglish.in.m3u8
+https://m-c010-j2apps.s.llnwi.net/hls/8023.DWEnglish.in_360p/index.m3u8
 
 #EXTINF:45,CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_2.m3u8
@@ -597,8 +597,8 @@ http://ocatv.mcgi.me:1935/public/247_br/playlist.m3u8
 #EXTINF:199,Live Event
 https://live.prd.dlive.tv/hls/live/dlive-ohxebgkzeq.m3u8?web=true
 
-#EXTINF:200,Wish 107.5
-https://www.wish1075.com/radio/wish.m3u8
+#EXTINF:200,UNTV HD
+https://www.untvweb.com/live-stream/chunklist_b2592000.m3u8
 
 #EXTINF:201,Euronews HD
 https://github.com/exodiver/IPTV/raw/master/M3U8/Token/EuroNews.m3u8
@@ -674,3 +674,6 @@ https://lxlive-lh.akamaihd.net/i/LX_LIVE@148206/index_1080P_av-p.m3u8
 
 #EXTINF:225,NewsNet HD
 https://nrpus.bozztv.com/36bay2/gusa-newsnet/tracks-v1a1/mono.m3u8
+
+#EXTINF:226,PBS HD
+https://ssc4.wpsu.psu.edu/WPSU_LLStream/ngrp:WPSU1_720max/playlist.m3u8
