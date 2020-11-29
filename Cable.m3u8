@@ -63,11 +63,11 @@ http://65.36.6.216:1935/live/kcwx.smil/chunklist_w879211551_b850000_sleng.m3u8
 #EXTINF:21,NBC
 http://161.0.157.50/PLTV/88888888/224/3221227040/03.m3u8
 
-#EXTINF:22,Toon Goggles
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=59&live=1&app_bundle=com.plexapp.desktop&did=5e9a5548-cd0d-5475-8166-4e1f173b2021&app_domain=app.plex.tv&app_name=plex&h=768&w=1024&content_title=Mf1soNpzyo3dSwiSSU6n&content_series=5f170d60b898490041b49359&custom4=plex&gdpr=0&device_make=Windows&device_model=Chrome&coppa=1&us_privacy=1---
+#EXTINF:22,YTA
+http://gideommd.mmdlive.lldns.net/gideommd/d5b6a753f86e4e51b8e15c7d23887a4f/chunklist_b732000.m3u8
 
-#EXTINF:23,Kids Central
-http://nrpus.bozztv.com/36bay2/gusa-kidcentral/index.m3u8
+#EXTINF:23,Toon Goggles
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=59&live=1&app_bundle=com.plexapp.desktop&did=5e9a5548-cd0d-5475-8166-4e1f173b2021&app_domain=app.plex.tv&app_name=plex&h=768&w=1024&content_title=Mf1soNpzyo3dSwiSSU6n&content_series=5f170d60b898490041b49359&custom4=plex&gdpr=0&device_make=Windows&device_model=Chrome&coppa=1&us_privacy=1---
 
 #EXTINF:24,Battery Pop
 http://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbatterypop/CDN/playlist.m3u8
@@ -96,8 +96,8 @@ http://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/848x480_965800
 #EXTINF:32,MSNBC (Trial)
 http://1111296894.rsc.cdn77.org/LS-ATL-54548-10/tracks-v1a1/mono.m3u8
 
-#EXTINF:33,CNBC
-http://tohome.redirectme.net:8001/1:0:1:272e:402:1:c00000:0:0:0
+#EXTINF:33,NBCLX
+https://lxlive-lh.akamaihd.net/i/LX_LIVE@148206/index_360P_av-p.m3u8
 
 #EXTINF:34,Fox News
 http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
@@ -105,8 +105,8 @@ http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
 #EXTINF:35,Bloomberg TV
 http://45.126.83.51/uq2663/h/h03/02.m3u8
 
-#EXTINF:36,BBC World News
-http://1111296894.rsc.cdn77.org/LS-ATL-54548-11/tracks-v1a1/mono.m3u8
+#EXTINF:36,Bloomberg Quicktake
+https://d1g4mbj10o50ni.cloudfront.net/qt/Channel-QT-TX-AWS-virginia-2/Source-QT-10M-2-sn9jy9-BP-07-06-y1AnSKguPCm_live.m3u8
 
 #EXTINF:37,BBC News
 http://51.52.156.22:8888/http/004
@@ -238,7 +238,7 @@ https://dai.google.com/linear/hls/event/9FKrAqCfRvGfn3tPbVFO-g/master.m3u8
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master640x360.m3u8
 
 #EXTINF:80,Olympic Channel
-http://ott-live.olympicchannel.com/out/u/OC1_4.m3u8
+https://dai.google.com/linear/hls/event/onLv29SuSWKUAry_Z7h-Qg/master.m3u8
 
 #EXTINF:81,Stadium
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master_1000k.m3u8
@@ -376,7 +376,7 @@ https://dai2.xumo.com/amagi_hls_data_xumo1234A-lawcrime/CDN/master.m3u8
 https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8?v=2&ad=web&m.sound=normal&pos=midroll&expand=ad_live&m.sound=normal&m.playback=autoplay&ad.url=https%3A%2F%2Fwww.courttv.com%2F
 
 #EXTINF:126,People TV
-http://a.jsrdn.com/broadcast/b5d2k0x/playlist360p.m3u8
+https://peopletv-oo.akamaized.net/playlist240p.m3u8
 
 #EXTINF:127,ET Live
 https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest_81.m3u8
@@ -399,8 +399,8 @@ https://dai.google.com/linear/hls/event/q0dlRn_xSBGTZYI7vwWWJQ/master.m3u8
 #EXTINF:133,FailArmy
 https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
 
-#EXTINF:134,YTA
-http://gideommd.mmdlive.lldns.net/gideommd/d5b6a753f86e4e51b8e15c7d23887a4f/chunklist_b732000.m3u8
+#EXTINF:134,Game Show Central
+https://3fd18dd6813c49e09df1b7ce494b7ed5.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_GameShowCentral/playlist.m3u8?ads.wurl_channel=462&ads.wurl_name=GameShowCentral&ads.ip=77.111.246.13&ads.rdid=6d139079-f288-57b6-9e26-5e3801ae96af&ads.coppa=false&ads.is_lat=1&ads.ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F83.0.4103.97+Safari%2F537.36+OPR%2F69.0.3686.36&ads.content=3241c85298d253a380f4284f23b71fa9&ads.genre=ROKU_ADS_CONTENT_GENRE&ads.platform=web&ads.content_type=livefeed&ads.content_rating=TV14
 
 #EXTINF:135,Right Now TV
 https://feed.rightnowtelevision.com/live/smil:rntv.smil/chunklist_w94831124_b1692000_sleng.m3u8
