@@ -106,7 +106,7 @@ http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
 http://45.126.83.51/uq2663/h/h03/02.m3u8
 
 #EXTINF:36,Bloomberg Quicktake
-https://d1g4mbj10o50ni.cloudfront.net/qt/Channel-QT-TX-AWS-virginia-2/Source-QT-10M-2-sn9jy9-BP-07-06-y1AnSKguPCm_live.m3u8
+https://dai.google.com/linear/hls/event/cFDvmqo4TGW7EfHwscU_Ew/master.m3u8
 
 #EXTINF:37,BBC News
 http://51.52.156.22:8888/http/004
@@ -610,7 +610,7 @@ https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Sour
 https://live.chdrstatic.com/cheddar/primary/1.m3u8
 
 #EXTINF:204,Newsmax TV HD
-https://cdnapi.kaltura.com/p/2216081/sp/221608100/playManifest/entryId/1_f19eeulz/format/applehttp/protocol/http/uiConfId/28428751/index_720.m3u8
+https://nmxairy.akamaized.net/hls/live/529965/Live_1/index_1080.m3u8
 
 #EXTINF:205,NBC News Now HD
 http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
@@ -673,7 +673,7 @@ http://a.jsrdn.com/broadcast/h3h4gsui4/index720p.m3u8
 https://lxlive-lh.akamaihd.net/i/LX_LIVE@148206/index_1080P_av-p.m3u8
 
 #EXTINF:225,NewsNet HD
-https://nrpus.bozztv.com/36bay2/gusa-newsnet/tracks-v1a1/mono.m3u8
+https://nimble.dashstreams.net/mytvtogo/newsnet007/playlist.m3u8
 
 #EXTINF:226,PBS HD
 https://ssc4.wpsu.psu.edu/WPSU_LLStream/ngrp:WPSU1_720max/playlist.m3u8
