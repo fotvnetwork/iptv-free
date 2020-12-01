@@ -237,8 +237,8 @@ https://dai.google.com/linear/hls/event/9FKrAqCfRvGfn3tPbVFO-g/master.m3u8
 #EXTINF:79,Fox Sports Australia
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master640x360.m3u8
 
-#EXTINF:80,Olympic Channel
-https://dai.google.com/linear/hls/event/onLv29SuSWKUAry_Z7h-Qg/master.m3u8
+#EXTINF:80,Fite
+https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
 
 #EXTINF:81,Stadium
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master_1000k.m3u8
@@ -270,8 +270,8 @@ http://45.126.83.51/uq2663/h/h01/02.m3u8
 #EXTINF:90,Magellan TV
 https://dai.google.com/linear/hls/event/5xreV3X4T9WxeIbrwOmdMA/master.m3u8
 
-#EXTINF:91,IDG
-http://a.jsrdn.com/broadcast/529a360c04/+0000/c.m3u8
+#EXTINF:91,RESERVED
+https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
 
 #EXTINF:92,Demand Africa
 https://demandafrica-xumo.amagi.tv/ssai/amagi_hls_data_theafrica-demandafricaxumo/CDN/512x288_875600/chunklist.m3u8
@@ -354,8 +354,8 @@ https://bcliveunivsecure-lh.akamaihd.net/i/International_1@571272/index_1192_av-
 #EXTINF:118,CBN
 https://bcliveunivsecure-lh.akamaihd.net/i/iptv1_1@500579/master.m3u8
 
-#EXTINF:119,EWTN Asia Pacific
-https://d19y0p9magl0wf.cloudfront.net/p/PACE_640x360_800k.m3u8
+#EXTINF:119,CTN
+https://rrsatrtmp.tulix.tv/ctntv/ctntvmulti.smil/chunklist_w876251872_b564000.m3u8
 
 #EXTINF:120,Hillsong Channel
 http://api.new.livestream.com/accounts/27460990/events/8266909/live.m3u8
@@ -636,8 +636,8 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:212,Olympic Channel USA HD
 https://iocchannel-i.akamaihd.net/hls/live/514135/olylinear0629221316/DomesticOlympicsLinear_VIDEO_0_7064000.m3u8
 
-#EXTINF:213,Olympic Channel HD
-http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
+#EXTINF:213,Horse Shopping Channel (Trial)
+https://uplynkcontent.sinclairstoryline.com/channel/26c7a77fd6ed453da6846a16ad0625d9.m3u8
 
 #EXTINF:214,Al Jazeera English HD
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
