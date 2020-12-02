@@ -448,7 +448,7 @@ https://nrpus.bozztv.com/36bay2/gusa-chefchampion/tracks-v1a1/mono.m3u8
 https://dai.google.com/linear/hls/event/CHaUZsCfSyS2CVF7I-NktA/master.m3u8
 
 #EXTINF:150,Buzzr
-https://buzzr-roku-us.amagi.tv/hls/amagi_hls_data_buzzrAAAA-buzzr/CDN/720x404_1460800/index.m3u8
+http://a.jsrdn.com/broadcast/ds80weh4/playlistR288p.m3u8
 
 #EXTINF:151,Glewed TV Fitness
 https://dai.google.com/linear/hls/event/ChWV1GupQOWE92uG4DvbkQ/master.m3u8
@@ -585,8 +585,8 @@ https://tv-trtworld.live.trt.com.tr/master_360.m3u8
 #EXTINF:195,ITV UK
 http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main600.m3u8
 
-#EXTINF:196,RESERVED
-https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
+#EXTINF:196,Horse Shopping Channel (Trial)
+https://uplynkcontent.sinclairstoryline.com/channel/26c7a77fd6ed453da6846a16ad0625d9.m3u8
 
 #EXTINF:197,Popular Science
 http://a.jsrdn.com/broadcast/447912f76b/+0000/c.m3u8
@@ -636,8 +636,8 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:212,Olympic Channel USA HD
 https://iocchannel-i.akamaihd.net/hls/live/514135/olylinear0629221316/DomesticOlympicsLinear_VIDEO_0_7064000.m3u8
 
-#EXTINF:213,Horse Shopping Channel (Trial)
-https://uplynkcontent.sinclairstoryline.com/channel/26c7a77fd6ed453da6846a16ad0625d9.m3u8
+#EXTINF:213,RESERVED
+https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
 
 #EXTINF:214,Al Jazeera English HD
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
@@ -676,4 +676,4 @@ https://lxlive-lh.akamaihd.net/i/LX_LIVE@148206/index_1080P_av-p.m3u8
 https://nimble.dashstreams.net/mytvtogo/newsnet007/playlist.m3u8
 
 #EXTINF:226,PBS HD
-https://ssc4.wpsu.psu.edu/WPSU_LLStream/ngrp:WPSU1_720max/playlist.m3u8
+https://ssc4.wpsu.psu.edu/WPSU_LLStream/ngrp:WPSU1_720max/chunklist_b2169344.m3u8
