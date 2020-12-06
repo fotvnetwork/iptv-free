@@ -40,16 +40,16 @@ http://api.new.livestream.com/accounts/15418593/events/4787138/live.m3u8
 http://59c3ec70cfde0.streamlock.net/channel_7/channel7/chunklist.m3u8
 
 #EXTINF:14,TV5 (mirror)
-http://103.11.112.84:1935/live2/smil:tv5.smil/playlist.m3u8
+http://stream2.tv5.com.ph:1935/live2/smil:tv5stream.smil/playlist.m3u8
 
 #EXTINF:15,Knowledge*
 https://amdottlive.akamaized.net/hls/live/2018990/iwantknowledge/master360p.m3u8
 
-#EXTINF:16,TeleRadyo (mirror)*
-https://amdottlive.akamaized.net/hls/live/2015475/iwantdzmm/master.m3u8
+#EXTINF:16,Buzzr
+https://dai.google.com/linear/hls/event/wFZ1ufQ8ToaSdPgGtbBbpw/master.m3u8
 
-#EXTINF:17,TV5 (mirror 2)
-http://stream2.tv5.com.ph:1935/live2/smil:tv5stream.smil/playlist.m3u8
+#EXTINF:17,Stirr City
+https://dai.google.com/linear/hls/event/WHTEcpPjQAaeStCtrJqzVQ/master.m3u8
 
 #EXTINF:18,HJtv*
 http://190.80.3.28/HJTV/HJTV.isml/HJTV-audio_128301_und=128000-video=500000.m3u8
@@ -165,8 +165,8 @@ https://cdn.igocast.com/channel3_hls/channel3_master.m3u8
 #EXTINF:55,Comet
 https://dai.google.com/linear/hls/event/83L2OqtGSZ6lbWt8ODomWg/master.m3u8
 
-#EXTINF:56,Stirr City
-https://dai.google.com/linear/hls/event/WHTEcpPjQAaeStCtrJqzVQ/master.m3u8
+#EXTINF:56,Retro TV
+https://cdn.igocast.com/channel9_hls/channel9_master.m3u8
 
 #EXTINF:57,Charge!
 https://dai.google.com/linear/hls/event/e1QjWFRNSR2YFYGsPbkfgg/master.m3u8
@@ -447,8 +447,8 @@ https://nrpus.bozztv.com/36bay2/gusa-chefchampion/tracks-v1a1/mono.m3u8
 #EXTINF:149,Stirr Cooks
 https://dai.google.com/linear/hls/event/CHaUZsCfSyS2CVF7I-NktA/master.m3u8
 
-#EXTINF:150,Buzzr
-http://a.jsrdn.com/broadcast/ds80weh4/playlistR288p.m3u8
+#EXTINF:150,Rev'n
+https://cdn.igocast.com/channel7_hls/channel7_master.m3u8
 
 #EXTINF:151,Glewed TV Fitness
 https://dai.google.com/linear/hls/event/ChWV1GupQOWE92uG4DvbkQ/master.m3u8
@@ -499,7 +499,7 @@ https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/index_50_av-p.m3u8
 http://stgn-49.tulix.tv/live19/Stream1/chunklist_w1498543121.m3u8
 
 #EXTINF:167,alee+
-http://a.jsrdn.com/broadcast/55fgy6xc3/c.m3u8
+http://a.jsrdn.com/broadcast/55fgy6xc3/REWIREMASTER_SCTE_Low.m3u8
 
 #EXTINF:168,ONNtv
 https://onntv.vantrix.tv/onntv_hls/360p/onntv_hls-HLS-360p.m3u8
@@ -510,8 +510,8 @@ https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/chunklist.m3u8
 #EXTINF:170,NTV Newfoundland
 https://2-fss-2.streamhoster.com/pl_138/201748-1282640-1/playlist.m3u8
 
-#EXTINF:171,Retro TV
-https://cdn.igocast.com/channel9_hls/channel9_master.m3u8
+#EXTINF:171,TVS Television Network
+https://nrpus.bozztv.com/36bay2/gusa-tvstn/tracks-v1a1/mono.m3u8
 
 #EXTINF:172,Z Living
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v4a1/index.m3u8
