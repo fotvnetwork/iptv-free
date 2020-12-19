@@ -91,7 +91,7 @@ https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d56
 http://dai2.xumo.com/amagi_hls_data_xumo1212A-abcnews/CDN/512x288_875600/chunklist.m3u8
 
 #EXTINF:31,NBC News Now
-http://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/848x480_965800/index.m3u8
+https://nbcnewshls.akamaized.net/hls/live/2011820/nnn_live1/index_750.m3u8
 
 #EXTINF:32,MSNBC (Trial)
 http://1111296894.rsc.cdn77.org/LS-ATL-54548-10/tracks-v1a1/mono.m3u8
@@ -270,8 +270,8 @@ http://45.126.83.51/uq2663/h/h01/02.m3u8
 #EXTINF:90,Magellan TV
 https://dai.google.com/linear/hls/event/5xreV3X4T9WxeIbrwOmdMA/master.m3u8
 
-#EXTINF:91,RESERVED
-https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
+#EXTINF:91,NTD
+https://live.ntdimg.com/en01live900/playlist.m3u8
 
 #EXTINF:92,Demand Africa
 https://demandafrica-xumo.amagi.tv/ssai/amagi_hls_data_theafrica-demandafricaxumo/CDN/512x288_875600/chunklist.m3u8
@@ -559,7 +559,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5595e43c66ace1652e6
 https://studio1091-xumo-us.amagi.tv/hls/amagi_hls_data_studio109-studio1091-xumo/CDN/768x432_1425600/chunklist.m3u8
 
 #EXTINF:187,Harley Davidson
-https://hdtv.prod2.ioio.tv/broker/play/190dac2c-bf76-47e9-9b8f-0d31567f5401.m3u8
+https://hdtv.prod2.ioio.tv/broker/play/cb4086ca-daba-42f5-8acf-27ee93fee0e8.m3u8
 
 #EXTINF:188,Plymouth Rock TV
 https://hls-cdn.tvstartup.net/barakyah-channel/live/plymouthtv/playlist.m3u8
