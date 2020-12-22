@@ -82,7 +82,7 @@ https://ssc4.wpsu.psu.edu/WPSU_LLStream/ngrp:WPSU1_720max/chunklist_b786944.m3u8
 http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
 
 #EXTINF:28,NewsNet
-http://broadcastny.yournewsnet.com:8081/master/newsnetweb/chunks.m3u8
+https://broadcaster1.prolivestream.net:8083/onair/newsnetweb/chunks.m3u8
 
 #EXTINF:29,CBSN
 https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_10.m3u8
@@ -673,7 +673,7 @@ http://a.jsrdn.com/broadcast/h3h4gsui4/index720p.m3u8
 https://lxlive-lh.akamaihd.net/i/LX_LIVE@148206/index_1080P_av-p.m3u8
 
 #EXTINF:225,NewsNet HD
-https://nimble.dashstreams.net/mytvtogo/newsnet007/playlist.m3u8
+https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1311088/chunklist_b2000000.m3u8
 
 #EXTINF:226,PBS HD
 https://ssc4.wpsu.psu.edu/WPSU_LLStream/ngrp:WPSU1_720max/chunklist_b2169344.m3u8
