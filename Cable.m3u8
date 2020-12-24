@@ -292,7 +292,7 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_p
 http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 
 #EXTINF:98,bspoketv
-https://bspoketv.nexustreamer.com/distrotv-usa/master.m3u8
+https://22f602fbcc1044a396291bf96e9545c2.mediatailor.us-west-2.amazonaws.com/v1/master/c1b71c59ab5459a71bd6a4f3ea279ca69e03566d/bspoketv-llnw-global/322/master.m3u8
 
 #EXTINF:99,Complex
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxcomplex/CDN/playlist.m3u8
@@ -391,7 +391,7 @@ http://30a-tv.com/sidewalks.m3u8
 https://a.jsrdn.com/broadcast/vf93fRSk7/playlist_360p.m3u8
 
 #EXTINF:131,AFV Family
-https://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8
+https://dai.google.com/linear/hls/event/18_lZXPySFa5_GRVEbOX_A/master.m3u8
 
 #EXTINF:132,The Pet Collective
 https://dai.google.com/linear/hls/event/q0dlRn_xSBGTZYI7vwWWJQ/master.m3u8
@@ -499,7 +499,7 @@ https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/index_50_av-p.m3u8
 http://stgn-49.tulix.tv/live19/Stream1/chunklist_w1498543121.m3u8
 
 #EXTINF:167,alee+
-http://a.jsrdn.com/broadcast/55fgy6xc3/REWIREMASTER_SCTE_Low.m3u8
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/alee/REWIRE_SCTE.m3u8
 
 #EXTINF:168,ONNtv
 https://onntv.vantrix.tv/onntv_hls/360p/onntv_hls-HLS-360p.m3u8
@@ -511,7 +511,7 @@ https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/chunklist.m3u8
 https://2-fss-2.streamhoster.com/pl_138/201748-1282640-1/playlist.m3u8
 
 #EXTINF:171,TVS Television Network
-https://nrpus.bozztv.com/36bay2/gusa-tvstn/tracks-v1a1/mono.m3u8
+http://nrpus.bozztv.com/36bay2/gusa-tvstn/tracks-v1a1/mono.m3u8
 
 #EXTINF:172,Z Living
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v4a1/index.m3u8
@@ -552,8 +552,8 @@ https://dai.google.com/linear/hls/event/EpqgwRlpQKq73ySVSohJWA/master.m3u8
 #EXTINF:184,Outside TV
 https://dai.google.com/linear/hls/event/HJAq3zH1SUy_B6fb1j80_Q/master.m3u8
 
-#EXTINF:185,Awesomeness TV
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5595e43c66ace1652e63c6a2/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+#EXTINF:185,TV5 Monde Pacific
+https://tv5pacifiqueen-i.akamaihd.net/hls/live/630175-b/tv5pacifiqueen/master.m3u8
 
 #EXTINF:186,Unidentified
 https://studio1091-xumo-us.amagi.tv/hls/amagi_hls_data_studio109-studio1091-xumo/CDN/768x432_1425600/chunklist.m3u8
@@ -562,19 +562,19 @@ https://studio1091-xumo-us.amagi.tv/hls/amagi_hls_data_studio109-studio1091-xumo
 https://hdtv.prod2.ioio.tv/broker/play/cb4086ca-daba-42f5-8acf-27ee93fee0e8.m3u8
 
 #EXTINF:188,Plymouth Rock TV
-https://hls-cdn.tvstartup.net/barakyah-channel/live/plymouthtv/playlist.m3u8
+https://na-us-sw10.secdn.net/barakyah-channel/play/mp4:plymouthtvedge/playlist.m3u8
 
 #EXTINF:189,Drybar Comedy
 https://a.jsrdn.com/broadcast/e29bdbbbf3/+0000/c.m3u8
 
 #EXTINF:190,Oppna Kanalen
-https://edg01-prd-se-dcs.solidtango.com/edge/_78swnzxt_/78swnzxt/playlist.m3u8
+https://edg03-prd-se-ixn.solidtango.com/edge/_451iw2h_/451iw2h/playlist.m3u8
 
 #EXTINF:191,RTE News Now
 https://live.rte.ie/live/a/channel3/news.isml/news-video=1099968-audio_128k=128000.m3u8
 
-#EXTINF:192,KCTV
-https://tv.nknews.org/tvhls/stream.m3u8
+#EXTINF:192,RESERVED (192)
+https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
 
 #EXTINF:193,Russia 1
 http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
@@ -627,7 +627,7 @@ http://161.0.157.51/PLTV/88888888/224/3221227041/01.m3u8
 #EXTINF:209,ABC News Live HD
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
-#EXTINF:210,RESERVED
+#EXTINF:210,RESERVED (210)
 https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
 
 #EXTINF:211,Red Bull TV HD
@@ -636,8 +636,8 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:212,Olympic Channel USA HD
 https://iocchannel-i.akamaihd.net/hls/live/514135/olylinear0629221316/DomesticOlympicsLinear_VIDEO_0_7064000.m3u8
 
-#EXTINF:213,RESERVED
-https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
+#EXTINF:213,Stadium HD
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master_3000k.m3u8
 
 #EXTINF:214,Al Jazeera English HD
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
@@ -677,3 +677,6 @@ https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1311088/chunklist_b2000000.
 
 #EXTINF:226,PBS HD
 https://ssc4.wpsu.psu.edu/WPSU_LLStream/ngrp:WPSU1_720max/chunklist_b2169344.m3u8
+
+#EXTINF:227,Kool TV HD
+http://209.182.219.50:1935/roku/roku/playlist.m3u8
