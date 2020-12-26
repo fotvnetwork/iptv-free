@@ -295,7 +295,7 @@ http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 https://22f602fbcc1044a396291bf96e9545c2.mediatailor.us-west-2.amazonaws.com/v1/master/c1b71c59ab5459a71bd6a4f3ea279ca69e03566d/bspoketv-llnw-global/322/master.m3u8
 
 #EXTINF:99,Complex
-https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxcomplex/CDN/playlist.m3u8
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcomplex/CDN/playlist.m3u8
 
 #EXTINF:100,MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_1250_av-p.m3u8
@@ -391,16 +391,16 @@ http://30a-tv.com/sidewalks.m3u8
 https://1cfc2538e92a49b6aca3ccd424b3d474.mediatailor.us-west-2.amazonaws.com/v1/master/2aa80169619e70d2ce8badd72baf024f656bee6b/ElecNowVeset/prod/elec/linear_channel/ottera_cdn.m3u8
 
 #EXTINF:131,AFV Family
-https://f0bf1e7453204df8a7cb6f76918b16b8.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-12-AFV-ROKU/12/hls/master/playlist.m3u8
+https://dai.google.com/linear/hls/event/18_lZXPySFa5_GRVEbOX_A/master.m3u8
 
 #EXTINF:132,The Pet Collective
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-petcollective/CDN/master.m3u8
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxpetcollective/CDN/playlist.m3u8
 
 #EXTINF:133,FailArmy
 https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
 
 #EXTINF:134,Game Show Central
-https://3fd18dd6813c49e09df1b7ce494b7ed5.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_GameShowCentral/playlist.m3u8?ads.wurl_channel=462&ads.wurl_name=GameShowCentral&ads.ip=77.111.246.13&ads.rdid=6d139079-f288-57b6-9e26-5e3801ae96af&ads.coppa=false&ads.is_lat=1&ads.ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F83.0.4103.97+Safari%2F537.36+OPR%2F69.0.3686.36&ads.content=3241c85298d253a380f4284f23b71fa9&ads.genre=ROKU_ADS_CONTENT_GENRE&ads.platform=web&ads.content_type=livefeed&ads.content_rating=TV14
+https://3fd18dd6813c49e09df1b7ce494b7ed5.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_GameShowCentral/playlist.m3u8
 
 #EXTINF:135,Right Now TV
 https://feed.rightnowtelevision.com/live/smil:rntv.smil/chunklist_w94831124_b1692000_sleng.m3u8
@@ -418,7 +418,7 @@ https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
 https://dai.google.com/linear/hls/event/KAfBFcVrQgKmHhpzvkEn9A/master.m3u8
 
 #EXTINF:140,People Are Awesome
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-peopleareawesome/CDN/playlist.m3u8
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxpeopleareawesome/CDN/playlist.m3u8
 
 #EXTINF:141,Arise News
 https://contributionstreams.sechls01.visionip.tv/live/visiontv-contributionstreams-arise-tv-25f-16x9-SDh/chunklist.m3u8
