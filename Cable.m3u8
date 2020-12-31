@@ -178,7 +178,7 @@ https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8
 http://45.126.83.51/qwr9ew/s/s34/02.m3u8
 
 #EXTINF:60,Comedy Dynamics
-http://a.jsrdn.com/broadcast/5Gt2c8lsw/c.m3u8
+https://dai.google.com/linear/hls/event/NJK_yxrcTBqULaHt-wi0Wg/master.m3u8
 
 #EXTINF:61,Allsprk
 https://stream.allsprk.tv/live/1/index.m3u8
@@ -228,8 +228,8 @@ https://bein-plutolive-vo.akamaized.net/playlist480bp.m3u8
 #EXTINF:76,CBS Sports HQ
 https://dai.google.com/linear/hls/event/9Lq0ERvoSR-z9AwvFS-xYA/master.m3u8
 
-#EXTINF:77,Cast4U
-http://cdnak21.cast4u.info/channels/4/10804.m3u8
+#EXTINF:77,ESPN (Trial)
+https://gma2.blab.email/fs2.m3u8
 
 #EXTINF:78,SportsGrid Network
 https://dai.google.com/linear/hls/event/9FKrAqCfRvGfn3tPbVFO-g/master.m3u8
@@ -253,7 +253,7 @@ https://dai.google.com/linear/hls/event/gaDje967RoSDD5llid2OBA/master.m3u8
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/f.m3u8
 
 #EXTINF:85,Adventure Sports Network
-http://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/playlist.m3u8
+http://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/640x360_440000/index.m3u8
 
 #EXTINF:86,CGTN Documentary
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
@@ -262,7 +262,7 @@ https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvoyager/CDN/playlist.m3u8
 
 #EXTINF:88,Docurama
-https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/640x360_394000/chunklist.m3u8
 
 #EXTINF:89,TV5Monde Style
 http://45.126.83.51/uq2663/h/h01/02.m3u8
@@ -394,7 +394,7 @@ https://1cfc2538e92a49b6aca3ccd424b3d474.mediatailor.us-west-2.amazonaws.com/v1/
 https://dai.google.com/linear/hls/event/18_lZXPySFa5_GRVEbOX_A/master.m3u8
 
 #EXTINF:132,The Pet Collective
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxpetcollective/CDN/playlist.m3u8
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxpetcollective/CDN/1280x720_440000/index.m3u8
 
 #EXTINF:133,FailArmy
 https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
@@ -418,10 +418,10 @@ https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
 https://dai.google.com/linear/hls/event/KAfBFcVrQgKmHhpzvkEn9A/master.m3u8
 
 #EXTINF:140,People Are Awesome
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxpeopleareawesome/CDN/playlist.m3u8
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxpeopleareawesome/CDN/640x360_440000/index.m3u8
 
 #EXTINF:141,Arise News
-https://contributionstreams.sechls01.visionip.tv/live/visiontv-contributionstreams-arise-tv-25f-16x9-SDh/chunklist.m3u8
+https://contributionstreams.sechls01.visionip.tv/live/visiontv-contributionstreams-arise-tv-25f-16x9-SDh/playlist.m3u8
 
 #EXTINF:142,Australia Channel News
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master640x360.m3u8
@@ -505,7 +505,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://onntv.vantrix.tv/onntv_hls/360p/onntv_hls-HLS-360p.m3u8
 
 #EXTINF:169,AMGTV
-https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/chunklist.m3u8
+https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
 
 #EXTINF:170,NTV Newfoundland
 https://2-fss-2.streamhoster.com/pl_138/201748-1282640-1/playlist.m3u8
@@ -538,7 +538,7 @@ https://597865f6e4114.streamlock.net/live/leseaorigin.stream/chunklist_w34790775
 https://video.blivenyc.com/broadcast/prod/2061/22/file-858k.m3u8
 
 #EXTINF:180,Voice of America
-http://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/index_0360_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:181,Newsy Top Stories
 https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=newsyweb
