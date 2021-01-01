@@ -202,7 +202,7 @@ https://stream.allsprk.tv/live/2/index.m3u8
 https://fef5003bb7e7447ab21a2c3fd81e3b74.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_HollywoodClassics/playlist.m3u8?ads.wurl_channel=532&ads.wurl_name=HollywoodClassics&ads.us_privacy=1---&ads.psid=&ads.targetopt=1&ads.plex_token=z1MCPUpbxYcHru-5hdyq&ads.plex_id=5f0ff265d71dcb00449ec02d&ads.ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36+OPR%2F70.0.3728.95&ads.app_bundle=&ads.app_store_url=&ads.gdpr=0&ads.consent=0
 
 #EXTINF:68,FilmRise Movies
-http://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/playlist.m3u8
+http://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/640x360_440000/index.m3u8
 
 #EXTINF:69,RunTime Free Movies
 https://ammoruntime-plex.amagi.tv/playlistR432p.m3u8
@@ -279,8 +279,8 @@ https://demandafrica-xumo.amagi.tv/ssai/amagi_hls_data_theafrica-demandafricaxum
 #EXTINF:93,DUSTx
 https://dust.sinclair.wurl.com/manifest/1200.m3u8
 
-#EXTINF:94,Outdoor America
-http://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxoutdooramerica/CDN/playlist.m3u8
+#EXTINF:94,Bob Ross
+https://bobross-us-roku.cinedigm.com/midroll/amagi_hls_data_xumo-host-roku-bobross/CDN/playlist.m3u8
 
 #EXTINF:95,This Old House
 https://pcva4.manifest.auditude.com/auditude/variant/thisoldhouse_2/7b1d6383-3aa6-4601-b8cd-dff13b8b7965/aHR0cHM6Ly90aGlzb2xkaG91c2UtMi5yb2t1Lnd1cmwuY29tL21hbmlmZXN0L3BsYXlsaXN0Lm0zdTg.m3u8?pttrackingversion=v2&u=19287a324825cc5aacb7e46183c72324&pttrackingmode=sstm&g=1000010&z=268729&k=wurl_channel=318
@@ -310,7 +310,7 @@ https://freespeech.akamaized.net/hls/live/2016873/live3/playlist.m3u8
 https://klive.kaltura.com/dc-0/live/hls/p/2377021/e/0_m2pjgwiu/sd/6000/t/cQoe4Ve98-YR48etZblOsw/index-s34.m3u8
 
 #EXTINF:104,The Blaze
-https://theblaze-plutolive-vo.akamaized.net/r/hlslive/theblaze.m3u8?chname=theblaze&pub=cd44c23c-4796-475f-bcb1-b846bed4cf40&ctype=0&acsurl=pluto-acs-lb.adsparx.net&mcdn=theblaze-plutolive-vo.akamaized.net&userParams=ccp%3DeyJkZXZpY2VJZCI6Ijk1NGMwMzdkLTFhMTEtNDRkMy1iNDg4LTlkMDZmOGEzZTA2OCIsImRldmljZVZlcnNpb24iOiI4My4wLjQxMDMuMjQiLCJhcHBWZXJzaW9uIjoiNS44LjAtNWFmZmJjMTllMjgwNDI5MjYxZmNhZTBkMTAzMjVjZWU2NDEwNzUzYiIsImRldmljZVR5cGUiOiJ3ZWIiLCJkZXZpY2VNYWtlIjoiQ2hyb21lIiwiYWR2ZXJ0aXNpbmdJZCI6IiIsImRldmljZUxhdCI6IjM0LjA3MjkiLCJkZXZpY2VMb24iOiItMTE4LjI2MDYiLCJkZXZpY2VETlQiOiJmYWxzZSIsImRldmljZU1vZGVsIjoiQ2hyb21lIiwidXNlcklkIjoiIiwiYXBwTmFtZSI6IndlYiIsImFyY2hpdGVjdHVyZSI6IiIsImluY2x1ZGVFeHRlbmRlZEV2ZW50cyI6ImZhbHNlIiwic3JjUHJvdG9jb2wiOiJodHRwcyIsInN0aXRjaGVyVmVyc2lvbiI6IjIuNDQuMCIsInN0aXRjaGVyUmVxSWQiOiJmZGMzNWRhMS1hYjRiLTQwMDctYTMzZi1mMDUwYTIxMTQ0ZjQiLCJhZEltcHJlc3Npb25Qcm94eSI6dHJ1ZSwiaXBfYWRkcmVzcyI6IjE5Mi4xMTkuMTY0LjEwOCIsImRldmljZV91YSI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjApIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS84Ni4wLjQyNDAuNzUgU2FmYXJpLzUzNy4zNiIsInRyYW5zYWN0aW9uX2lkIjoiMGYyMzlmN2UtMWZjZC00NGY4LThlY2QtNmQ0ZjMwNjg5OWJjIiwiZGV2aWNlVXNlckFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzg2LjAuNDI0MC43NSBTYWZhcmkvNTM3LjM2IiwiaXBBZGRyZXNzIjoiMTkyLjExOS4xNjQuMTA4IiwiY2hJZCI6IjVlNDZmYmEwYzQzYjBkMDAwOTZlNWFjMSIsInRpbWVsaW5lSWQiOiI1Zjc2YjIzMzAyODM5MjAwMDc5MTc0N2EiLCJjbGlwSWQiOiI1ZTYwMTc0NzQ1NzRjNDAwMDdiM2U3OWYiLCJzZXNzaW9uSWQiOiI3OTJkMmU2MC0wYTUxLTExZWItOTg1Ny0wMjQyYWMxMTAwMDIiLCJlcGlzb2RlSWQiOiI1ZTU4MTI1OTRjNjRjZjAwMDkwZjU3YzIiLCJwYXJ0bmVyQ29kZSI6IlRoZSBCbGF6ZSIsInBhcnRuZXJfaWQiOiI1ZTYxOGJjODI5YTUyZjAwMDcxNWMyNDYiLCJvcmlnaW4iOiJhZFNwYXJ4IiwiZnJvbV9zdGl0Y2hlciI6dHJ1ZX0%3D
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e46fba0c43b0d00096e5ac1/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=954c037d-1a11-44d3-b488-9d06f8a3e068&deviceLat=33.9560&deviceLon=-118.3887&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=81.0.4044.26&includeExtendedEvents=false&sid=e6f1682e-cc62-437a-bd0d-082bea9a4059&userId=&serverSideAds=true
 
 #EXTINF:105,The First TV
 https://redseat-thefirst-glewedtv.amagi.tv/index360p.m3u8
@@ -370,7 +370,7 @@ https://dotstudio.vo.llnwd.net/v1/livestreams/popstar/master/ec9207ed6819582289c
 https://dai.google.com/linear/hls/event/_xtY848OSRCm_k0veSjMHg/master.m3u8
 
 #EXTINF:124,Law & Crime Network
-https://dai2.xumo.com/amagi_hls_data_xumo1234A-lawcrime/CDN/master.m3u8
+https://dai.google.com/linear/hls/event/3w3PsYzZQzS8lyRfi7e4mQ/master.m3u8
 
 #EXTINF:125,Court TV
 https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8?v=2&ad=web&m.sound=normal&pos=midroll&expand=ad_live&m.sound=normal&m.playback=autoplay&ad.url=https%3A%2F%2Fwww.courttv.com%2F
@@ -382,13 +382,13 @@ https://peopletv-oo.akamaized.net/playlist240p.m3u8
 https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest_81.m3u8
 
 #EXTINF:128,TMZ
-http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/playlist.m3u8
+http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/640x360_440000/index.m3u8
 
 #EXTINF:129,Sidewalks
 http://30a-tv.com/sidewalks.m3u8
 
 #EXTINF:130,ElectricNOW
-https://1cfc2538e92a49b6aca3ccd424b3d474.mediatailor.us-west-2.amazonaws.com/v1/master/2aa80169619e70d2ce8badd72baf024f656bee6b/ElecNowVeset/prod/elec/linear_channel/ottera_cdn.m3u8
+https://dai.google.com/linear/hls/event/KsvJAc81Qoewj6opYso6Fw/master.m3u8
 
 #EXTINF:131,AFV Family
 https://dai.google.com/linear/hls/event/18_lZXPySFa5_GRVEbOX_A/master.m3u8
