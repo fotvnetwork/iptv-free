@@ -96,8 +96,8 @@ https://nbcnewshls.akamaized.net/hls/live/2011820/nnn_live1/index_750.m3u8
 #EXTINF:32,MSNBC (Trial)
 http://1111296894.rsc.cdn77.org/LS-ATL-54548-10/tracks-v1a1/mono.m3u8
 
-#EXTINF:33,NBCLX
-https://lxlive-lh.akamaihd.net/i/LX_LIVE@148206/index_360P_av-p.m3u8
+#EXTINF:33,NewsNOW from Fox
+http://fox-foxnewsnow-samsungus.amagi.tv/playlist360p.m3u8
 
 #EXTINF:34,Fox News
 http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
@@ -108,8 +108,8 @@ http://45.126.83.51/uq2663/h/h03/02.m3u8
 #EXTINF:36,Bloomberg Quicktake
 https://dai.google.com/linear/hls/event/cFDvmqo4TGW7EfHwscU_Ew/master.m3u8
 
-#EXTINF:37,BBC News
-http://51.52.156.22:8888/http/004
+#EXTINF:37,BBC World News
+http://1111296894.rsc.cdn77.org/LS-ATL-54548-11/tracks-v1a1/mono.m3u8
 
 #EXTINF:38,Sky News
 http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/03.m3u8
@@ -151,7 +151,7 @@ https://hls.xumo.com/channel-hls/v1/bmneuerw7j9k5lfc/9999330/master.m3u8
 https://pcor4.manifest.auditude.com/auditude/variant/aenetworks_ae_1/c82b6352-ddd8-4b96-819e-f0ad28870b73/aHR0cHM6Ly9hZW5ldHdvcmtzLWFlLTEucm9rdS53dXJsLmNvbS9tYW5pZmVzdC9wbGF5bGlzdC5tM3U4.m3u8?pttrackingversion=v2&u=19287a324825cc5aacb7e46183c72324&pttrackingmode=sstm&g=1000010&z=268729&k=wurl_channel=285;distributor=roku;ip=192.119.164.38;rdid=121c0a02-8b4f-5ad8-9a0a-d73aa5fd4c92;coppa=false;is_lat=1;ua=Mozilla/5.0+(Windows+NT+10.0;+)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.26+Safari/537.36;content=1f661dde48ba41b0023a303c1c44057d4fbe72dc;genre=;platform=web;content_type=livefeed;content_rating=&ptcueformat=turner
 
 #EXTINF:51,DIY Daily
-https://pcor4.manifest.auditude.com/auditude/variant/endemol_restore_1/d86cafeb-69f2-4e89-a54c-224fac757fdb/aHR0cHM6Ly9lbmRlbW9sLXJlc3RvcmUtMS5yb2t1Lnd1cmwuY29tL21hbmlmZXN0L3BsYXlsaXN0Lm0zdTg.m3u8?pttrackingversion=v2&u=19287a324825cc5aacb7e46183c72324&pttrackingmode=sstm&g=1000010&z=268729&k=wurl_channel=321;distributor=roku;ip=192.119.164.38;rdid=121c0a02-8b4f-5ad8-9a0a-d73aa5fd4c92;coppa=false;is_lat=1;ua=Mozilla/5.0+(Windows+NT+10.0;+)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.26+Safari/537.36;content=8b3f8df64de23ce31890645b3b0d576fd7835773;genre=;platform=web;content_type=livefeed;content_rating=&ptcueformat=turner
+https://endemol-restore-2-gb.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:52,Skills + Thrills
 https://aenetworks-skills-thrills-1.plex.wurl.com/manifest/1200.m3u8
@@ -256,7 +256,7 @@ https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d556
 http://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/640x360_440000/index.m3u8
 
 #EXTINF:86,CGTN Documentary
-https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+https://livedoc.cgtn.com/500d/prog_index.m3u8
 
 #EXTINF:87,Voyager Docs
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvoyager/CDN/playlist.m3u8
@@ -292,7 +292,7 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_p
 http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 
 #EXTINF:98,bspoketv
-https://22f602fbcc1044a396291bf96e9545c2.mediatailor.us-west-2.amazonaws.com/v1/master/c1b71c59ab5459a71bd6a4f3ea279ca69e03566d/bspoketv-llnw-global/322/master.m3u8
+https://bspoketv.s.llnwi.net/streams/322/master.m3u8
 
 #EXTINF:99,Complex
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcomplex/CDN/playlist.m3u8
@@ -336,8 +336,8 @@ https://live.chdrstatic.com/cheddar/primary/5.m3u8
 #EXTINF:112,Yahoo! News
 https://content.uplynk.com/channel/411ba7ca8cb6403a9e73509e49c3a77b.m3u8?expand=trc
 
-#EXTINF:113,INC TV
-http://churchrus2-lh.akamaihd.net/i/coctesting_1@57550/index_564_av-b.m3u8
+#EXTINF:113,NBCLX
+https://lxlive-lh.akamaihd.net/i/LX_LIVE@148206/index_360P_av-p.m3u8
 
 #EXTINF:114,SMNI
 http://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
