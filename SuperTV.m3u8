@@ -106,7 +106,7 @@ http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
 http://45.126.83.51/uq2663/h/h03/02.m3u8
 
 #EXTINF:36,Bloomberg Quicktake
-https://dai.google.com/linear/hls/event/cFDvmqo4TGW7EfHwscU_Ew/master.m3u8
+https://bloomberg-quicktake-1-au.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:37,BBC World News
 http://1111296894.rsc.cdn77.org/LS-ATL-54548-11/tracks-v1a1/mono.m3u8
@@ -148,7 +148,7 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklis
 https://hls.xumo.com/channel-hls/v1/bmneuerw7j9k5lfc/9999330/master.m3u8
 
 #EXTINF:50,Lively Place
-https://pcor4.manifest.auditude.com/auditude/variant/aenetworks_ae_1/c82b6352-ddd8-4b96-819e-f0ad28870b73/aHR0cHM6Ly9hZW5ldHdvcmtzLWFlLTEucm9rdS53dXJsLmNvbS9tYW5pZmVzdC9wbGF5bGlzdC5tM3U4.m3u8?pttrackingversion=v2&u=19287a324825cc5aacb7e46183c72324&pttrackingmode=sstm&g=1000010&z=268729&k=wurl_channel=285;distributor=roku;ip=192.119.164.38;rdid=121c0a02-8b4f-5ad8-9a0a-d73aa5fd4c92;coppa=false;is_lat=1;ua=Mozilla/5.0+(Windows+NT+10.0;+)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.26+Safari/537.36;content=1f661dde48ba41b0023a303c1c44057d4fbe72dc;genre=;platform=web;content_type=livefeed;content_rating=&ptcueformat=turner
+https://aenetworks-ae-1.roku.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:51,DIY Daily
 https://endemol-restore-2-gb.samsung.wurl.com/manifest/playlist.m3u8
@@ -220,7 +220,7 @@ https://dovenow-roku-ingest.cinedigm.com/master432p.m3u8
 http://contv.sinclair.wurl.com/manifest/da1285e1dd4323e6aff01b01cd40651c.m3u8
 
 #EXTINF:74,Nosey
-https://manifest.auditude.com/auditude/variant/nosey_2/aHR0cHM6Ly9ub3NleS0yLnJva3Uud3VybC5jb20vbWFuaWZlc3QvcGxheWxpc3QubTN1OA==.m3u8?u=19287a324825cc5aacb7e46183c72324&z=268729&g=1000010&k=wurl_channel=319;distributor=roku;ip=192.119.164.38;rdid=121c0a02-8b4f-5ad8-9a0a-d73aa5fd4c92;coppa=false;is_lat=1;ua=Mozilla/5.0+(Windows+NT+10.0;+)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.26+Safari/537.36;content=341083177c1ec701eae49422b72f119a7946d49d;genre=;platform=web;content_type=livefeed;content_rating=&ptcueformat=turner&pttrackingmode=sstm&pttrackingversion=v2&__sid__=wurl253276323
+https://nosey-2.roku.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:75,BeIN Sports Xtra
 https://bein-plutolive-vo.akamaized.net/playlist480bp.m3u8
@@ -268,7 +268,7 @@ https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/640
 http://45.126.83.51/uq2663/h/h01/02.m3u8
 
 #EXTINF:90,Magellan TV
-https://dai.google.com/linear/hls/event/5xreV3X4T9WxeIbrwOmdMA/master.m3u8
+https://magellantv-1.vizio.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:91,NTD
 https://live.ntdimg.com/en01live900/playlist.m3u8
@@ -283,7 +283,7 @@ https://dust.sinclair.wurl.com/manifest/1200.m3u8
 https://bobross-us-roku.cinedigm.com/midroll/amagi_hls_data_xumo-host-roku-bobross/CDN/playlist.m3u8
 
 #EXTINF:95,This Old House
-https://pcva4.manifest.auditude.com/auditude/variant/thisoldhouse_2/7b1d6383-3aa6-4601-b8cd-dff13b8b7965/aHR0cHM6Ly90aGlzb2xkaG91c2UtMi5yb2t1Lnd1cmwuY29tL21hbmlmZXN0L3BsYXlsaXN0Lm0zdTg.m3u8?pttrackingversion=v2&u=19287a324825cc5aacb7e46183c72324&pttrackingmode=sstm&g=1000010&z=268729&k=wurl_channel=318
+https://thisoldhouse-2.roku.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:96,Fashion TV
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b900000_t64MzYwcA==.m3u8
@@ -400,7 +400,7 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxpetcollective/CDN/1280x720_
 https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
 
 #EXTINF:134,Game Show Central
-https://3fd18dd6813c49e09df1b7ce494b7ed5.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_GameShowCentral/playlist.m3u8
+https://gsn-gameshowchannnel-1.vizio.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:135,Right Now TV
 https://feed.rightnowtelevision.com/live/smil:rntv.smil/chunklist_w94831124_b1692000_sleng.m3u8
