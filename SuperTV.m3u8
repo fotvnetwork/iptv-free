@@ -36,8 +36,8 @@ https://tfcmsl.akamaized.net/hls/live/2014654/dzmm/bitrate_1.m3u8
 #EXTINF:12,MyTV Cebu
 http://api.new.livestream.com/accounts/15418593/events/4787138/live.m3u8
 
-#EXTINF:13,Inquirer 990 Television
-http://59c3ec70cfde0.streamlock.net/channel_7/channel7/chunklist.m3u8
+#EXTINF:13,Super Radyo DZBB
+http://stream.gmanews.tv/ioslive/livestream/playlist.m3u8
 
 #EXTINF:14,TV5 (mirror)
 http://stream2.tv5.com.ph:1935/live2/smil:tv5stream.smil/playlist.m3u8
