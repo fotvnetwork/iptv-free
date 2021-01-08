@@ -106,7 +106,7 @@ http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
 http://45.126.83.51/uq2663/h/h03/02.m3u8
 
 #EXTINF:36,Bloomberg Quicktake
-https://bloomberg-quicktake-1-au.samsung.wurl.com/manifest/playlist.m3u8
+https://bloomberg-quicktake-1-au.samsung.wurl.com/manifest/4fb34ea986cade9391e8c6e31793a382.m3u8
 
 #EXTINF:37,BBC World News
 http://1111296894.rsc.cdn77.org/LS-ATL-54548-11/tracks-v1a1/mono.m3u8
@@ -220,7 +220,7 @@ https://dovenow-roku-ingest.cinedigm.com/master432p.m3u8
 http://contv.sinclair.wurl.com/manifest/da1285e1dd4323e6aff01b01cd40651c.m3u8
 
 #EXTINF:74,Nosey
-https://nosey-2.roku.wurl.com/manifest/playlist.m3u8
+https://nosey-2.roku.wurl.com/manifest/1200.m3u8
 
 #EXTINF:75,BeIN Sports Xtra
 https://bein-plutolive-vo.akamaized.net/playlist480bp.m3u8
@@ -268,7 +268,7 @@ https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/640
 http://45.126.83.51/uq2663/h/h01/02.m3u8
 
 #EXTINF:90,Magellan TV
-https://magellantv-1.vizio.wurl.com/manifest/playlist.m3u8
+https://magellantv-1.vizio.wurl.com/manifest/1200.m3u8
 
 #EXTINF:91,NTD
 https://live.ntdimg.com/en01live900/playlist.m3u8
@@ -280,10 +280,10 @@ https://demandafrica-xumo.amagi.tv/ssai/amagi_hls_data_theafrica-demandafricaxum
 https://dust.sinclair.wurl.com/manifest/1200.m3u8
 
 #EXTINF:94,Bob Ross
-https://bobross-us-roku.cinedigm.com/midroll/amagi_hls_data_xumo-host-roku-bobross/CDN/playlist.m3u8
+https://bobross-us-roku.cinedigm.com/midroll/amagi_hls_data_xumo-host-roku-bobross/CDN/720x404_1790800/index.m3u8
 
 #EXTINF:95,This Old House
-https://thisoldhouse-2.roku.wurl.com/manifest/playlist.m3u8
+https://thisoldhouse-2.roku.wurl.com/manifest/1200.m3u8
 
 #EXTINF:96,Fashion TV
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b900000_t64MzYwcA==.m3u8
@@ -292,10 +292,10 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_p
 http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 
 #EXTINF:98,bspoketv
-https://bspoketv.s.llnwi.net/streams/322/master.m3u8
+https://bspoketv.s.llnwi.net/streams/322/out_0.m3u8
 
 #EXTINF:99,Complex
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcomplex/CDN/playlist.m3u8
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcomplex/CDN/640x360_440000/index.m3u8
 
 #EXTINF:100,MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_1250_av-p.m3u8
@@ -304,7 +304,7 @@ http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_1250_av-p.m3u8
 http://de1se01.v2beat.live/playlist.m3u8
 
 #EXTINF:102,InfoWars
-https://freespeech.akamaized.net/hls/live/2016873/live3/playlist.m3u8
+http://wpc.9ec1.edgecastcdn.net/249EC1/infowarshd-edgecast/hd720.m3u8
 
 #EXTINF:103,Real America's Voice
 https://klive.kaltura.com/dc-0/live/hls/p/2377021/e/0_m2pjgwiu/sd/6000/t/cQoe4Ve98-YR48etZblOsw/index-s34.m3u8
@@ -427,7 +427,7 @@ https://contributionstreams.sechls01.visionip.tv/live/visiontv-contributionstrea
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master640x360.m3u8
 
 #EXTINF:143,ABC News Australia
-https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_43.m3u8
 
 #EXTINF:144,Tastemade
 https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/512x288_875600/index.m3u8
@@ -643,7 +643,7 @@ https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master_3000k.m3u8
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
 #EXTINF:215,InfoWars HD
-http://wpc.9ec1.edgecastcdn.net/249EC1/infowarshd-edgecast/hd720.m3u8
+https://freespeech.akamaized.net/hls/live/2016873/live3/playlist.m3u8
 
 #EXTINF:216,Plant-Based Network HD
 https://hls-cdn.tvstartup.net/barakyah-channel/live/pbtv/chunklist_w2143964786.m3u8
@@ -655,13 +655,13 @@ https://thegateway.app/YouToo/CueTones/playlist.m3u8
 https://thegateway.app/BizAndYou/Biz_1080p/playlist.m3u8
 
 #EXTINF:219,Edge Sports HD
-https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
+https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_5640800/index.m3u8
 
 #EXTINF:220,SilenceTV HD
 http://93.190.140.42:8081/SilenceTV/live/playlist.m3u8
 
 #EXTINF:221,BNC HD
-http://bnc-roku-us.amagi.tv/hls/amagi_hls_data_blacknews-blacknewsnetwork/CDN/playlist.m3u8
+http://bnc-roku-us.amagi.tv/hls/amagi_hls_data_blacknews-blacknewsnetwork/CDN/1280x720_2855600/index.m3u8
 
 #EXTINF:222,One America News Netrwork HD (Trial)
 http://n1.klowdtv.net/live1/oan_720p/chunks.m3u8
