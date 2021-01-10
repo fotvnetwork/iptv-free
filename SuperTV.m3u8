@@ -9,8 +9,8 @@ https://amdottlive.akamaized.net/hls/live/2015474/iwantanc/master360p.m3u8
 #EXTINF:3,TVshop
 http://59c3ec70cfde0.streamlock.net/channel_1/channel1/chunklist.m3u8
 
-#EXTINF:4,PTV
-https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/PTVPH.m3u8
+#EXTINF:4,PTV*
+https://www.dailymotion.com/cdn/live/video/x5cr6b9.m3u8?sec=hHJINfz1SJ8zOGt_tui6RRBeq6zx88JCcJYw_9dA-imah-Pkvj-P2XDFgvYItYxQ-it81reLX0NXwjW0K4fEqA
 
 #EXTINF:5,TV5
 http://103.11.112.84:1935/live2/smil:tv5.smil/chunklist_w1486130098_b628000.m3u8
@@ -25,7 +25,7 @@ https://d3cbe0gidjd4k2.cloudfront.net/channel_7/channel7/chunklist_w659649511.m3
 https://d3cbe0gidjd4k2.cloudfront.net/channel_5/smil:channel_5.smil/chunklist_w1281634943_b300000_sleng.m3u8
 
 #EXTINF:9,CNN Philippines
-https://streaming.cnnphilippines.com/live/myStream/playlist.m3u8
+https://streaming.cnnphilippines.com/live/myStream/chunklist_w286607220.m3u8
 
 #EXTINF:10,Kapamilya Channel*
 https://amdottlive.akamaized.net/hls/live/2014575/iwantabscbn/master360p.m3u8
