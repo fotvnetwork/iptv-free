@@ -157,16 +157,16 @@ https://endemol-restore-2-gb.samsung.wurl.com/manifest/1200.m3u8
 https://aenetworks-skills-thrills-1.plex.wurl.com/manifest/1200.m3u8
 
 #EXTINF:53,The Asylum
-https://dai.google.com/linear/hls/event/2r7F3DThT-C5YW21CUuGLQ/master.m3u8
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-theasylum/CDN/768x432_1200000/index.m3u8
 
-#EXTINF:54,Antenna TV
-https://cdn.igocast.com/channel3_hls/channel3_master.m3u8
+#EXTINF:54,Positiv TV
+https://player-api.new.livestream.com/accounts/27460990/events/8973036/live.m3u8
 
 #EXTINF:55,Comet
 https://dai.google.com/linear/hls/event/83L2OqtGSZ6lbWt8ODomWg/master.m3u8
 
-#EXTINF:56,Retro TV
-https://cdn.igocast.com/channel9_hls/channel9_master.m3u8
+#EXTINF:56,24-7 Retro TV
+http://hlsdpi-cdn-chqtx02.totalstream.net/dpilive/247retro/ret/dai/playlist.m3u8
 
 #EXTINF:57,Charge!
 https://dai.google.com/linear/hls/event/e1QjWFRNSR2YFYGsPbkfgg/master.m3u8
