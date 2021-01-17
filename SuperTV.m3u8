@@ -76,7 +76,7 @@ https://simultv.s.llnwi.net/n4s4/KartoonCircus/interlink.m3u8
 https://kedoo-supertoonstv-1-gb.samsung.wurl.com/manifest/1200.m3u8
 
 #EXTINF:26,Zoo Moo
-https://zoomoo-samsung.roku.wurl.com/manifest/1200.m3u8
+https://rockentertainment-zoomoo-1.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:27,CNN
 http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
@@ -394,13 +394,13 @@ https://dai.google.com/linear/hls/event/KsvJAc81Qoewj6opYso6Fw/master.m3u8
 https://dai.google.com/linear/hls/event/18_lZXPySFa5_GRVEbOX_A/master.m3u8
 
 #EXTINF:132,The Pet Collective
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxpetcollective/CDN/1280x720_440000/index.m3u8
+https://the-pet-collective-linear.vizio.wurl.com/manifest/1200.m3u8
 
 #EXTINF:133,FailArmy
 https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
 
 #EXTINF:134,Game Show Central
-https://gsn-gameshowchannnel-1.vizio.wurl.com/manifest/playlist.m3u8
+https://gsn-gameshowchannnel-1.vizio.wurl.com/manifest/1200.m3u8
 
 #EXTINF:135,Right Now TV
 https://feed.rightnowtelevision.com/live/smil:rntv.smil/chunklist_w94831124_b1692000_sleng.m3u8
@@ -418,7 +418,7 @@ https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
 https://dai.google.com/linear/hls/event/KAfBFcVrQgKmHhpzvkEn9A/master.m3u8
 
 #EXTINF:140,People Are Awesome
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxpeopleareawesome/CDN/640x360_440000/index.m3u8
+https://jukin-peopleareawesome-2-gb.samsung.wurl.com/manifest/1200.m3u8
 
 #EXTINF:141,Arise News
 https://contributionstreams.sechls01.visionip.tv/live/visiontv-contributionstreams-arise-tv-25f-16x9-SDh/playlist.m3u8
@@ -441,8 +441,8 @@ https://a.jsrdn.com/broadcast/ebf95254ca/+0000/low/c.m3u8
 #EXTINF:147,The Outdoor Cooking Channel
 http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/chunklist_w981409619_b1105254.m3u8
 
-#EXTINF:148,Chef Champion
-http://nrpus.bozztv.com/36bay2/gusa-chefchampion/tracks-v1a1/mono.m3u8
+#EXTINF:148,Bon Appetit
+https://condenast-bonappetit-vizio.amagi.tv/playlist.m3u8
 
 #EXTINF:149,Stirr Cooks
 https://dai.google.com/linear/hls/event/CHaUZsCfSyS2CVF7I-NktA/master.m3u8
