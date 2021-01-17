@@ -627,8 +627,8 @@ http://161.0.157.51/PLTV/88888888/224/3221227041/01.m3u8
 #EXTINF:209,ABC News Live HD
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
-#EXTINF:210,RESERVED (210)
-https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
+#EXTINF:210,CNN Live Events HD
+https://cnnlive.warnermediacdn.com/hls/live/2011591/PROD-cnnlive0/VIDEO_6_3628000.m3u8
 
 #EXTINF:211,Red Bull TV HD
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
@@ -643,7 +643,7 @@ https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master_3000k.m3u8
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
 #EXTINF:215,InfoWars HD
-https://freespeech.akamaized.net/hls/live/2016873/live3/playlist.m3u8
+https://freespeech.akamaized.net/hls/live/2016712/live1/playlist.m3u8
 
 #EXTINF:216,Plant-Based Network HD
 https://hls-cdn.tvstartup.net/barakyah-channel/live/pbtv/chunklist_w2143964786.m3u8
@@ -683,3 +683,9 @@ http://209.182.219.50:1935/roku/roku/playlist.m3u8
 
 #EXTINF:228,NASA TV Media HD
 http://iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3u8
+
+#EXTINF:229,RESERVED HD (229)
+https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
+
+#EXTINF:230,Tennis Channel HD
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
