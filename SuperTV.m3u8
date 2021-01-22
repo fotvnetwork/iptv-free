@@ -135,7 +135,7 @@ https://m-c010-j2apps.s.llnwi.net/hls/8023.DWEnglish.in_360p/index.m3u8
 #EXTINF:45,CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_2.m3u8
 
-#EXTINF:46,CGTN
+#EXTINF:46,CGTN*
 https://live.cgtn.com/500/prog_index.m3u8
 
 #EXTINF:47,NHK World Japan
@@ -373,7 +373,7 @@ https://dai.google.com/linear/hls/event/_xtY848OSRCm_k0veSjMHg/master.m3u8
 https://dai.google.com/linear/hls/event/3w3PsYzZQzS8lyRfi7e4mQ/master.m3u8
 
 #EXTINF:125,Court TV
-https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8?v=2&ad=web&m.sound=normal&pos=midroll&expand=ad_live&m.sound=normal&m.playback=autoplay&ad.url=https%3A%2F%2Fwww.courttv.com%2F
+https://courttv-plutolive-vo.akamaized.net/m/hlslive/courttv/1/courttv.m3u8?chname=courttv&pub=0
 
 #EXTINF:126,People TV
 https://peopletv-oo.akamaized.net/playlist240p.m3u8
@@ -436,7 +436,7 @@ https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/512x2
 https://a.jsrdn.com/broadcast/060753d37e/+0000/c.m3u8
 
 #EXTINF:146,Gusto TV
-https://a.jsrdn.com/broadcast/ebf95254ca/+0000/low/c.m3u8
+https://gustotv-gustotv-1.roku.wurl.com/manifest/1200.m3u8
 
 #EXTINF:147,The Outdoor Cooking Channel
 http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/chunklist_w981409619_b1105254.m3u8
@@ -447,8 +447,8 @@ https://condenast-bonappetit-vizio.amagi.tv/playlist.m3u8
 #EXTINF:149,Stirr Cooks
 https://dai.google.com/linear/hls/event/CHaUZsCfSyS2CVF7I-NktA/master.m3u8
 
-#EXTINF:150,Rev'n
-https://cdn.igocast.com/channel7_hls/channel7_master.m3u8
+#EXTINF:150,XCorps
+https://simultv.s.llnwi.net/n4s4/xcorps/interlink.m3u8
 
 #EXTINF:151,Glewed TV
 https://dai.google.com/linear/hls/event/ChWV1GupQOWE92uG4DvbkQ/master.m3u8
@@ -490,10 +490,10 @@ https://dai.google.com/linear/hls/event/i5SXVKI4QIuV-eF2XAH4FQ/master.m3u8
 https://dai.google.com/linear/hls/event/DWt8iR1YQ-OJQsxczu8KfQ/master.m3u8
 
 #EXTINF:164,CBSN Dallas-FW
-https://dai.google.com/linear/hls/event/o5J3g4U9T16CvYnS7Qd86Q/master.m3u8?iu=/4128/CBS.DALLAS.OTT
+https://dai.google.com/linear/hls/event/o5J3g4U9T16CvYnS7Qd86Q/master.m3u8
 
 #EXTINF:165,C-SPAN
-https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/index_50_av-p.m3u8
+https://bozztv.com/teleyupp/teleup-cspan/tracks-v3a1/mono.m3u8
 
 #EXTINF:166,SGTN
 http://stgn-49.tulix.tv/live19/Stream1/chunklist_w1498543121.m3u8
@@ -519,8 +519,8 @@ https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v4a1/index.m3u8
 #EXTINF:173,Cozi TV
 https://2-fss-2.streamhoster.com/pl_120/201852-1297026-1/master.m3u8
 
-#EXTINF:174,The Action Channel
-https://cdn.igocast.com/channel4_hls/channel4_master.m3u8
+#EXTINF:174,Get TV
+https://bozztv.com/teleyupp/teleup-gettv/tracks-v2a1/mono.m3u8
 
 #EXTINF:175,KVVB-TV
 https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1309230/chunklist_b1000000.m3u8
@@ -540,8 +540,8 @@ https://video.blivenyc.com/broadcast/prod/2061/22/file-858k.m3u8
 #EXTINF:180,Voice of America
 http://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/index_0360_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:181,Newsy Top Stories
-https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=newsyweb
+#EXTINF:181,Newsy
+https://newsy.vizio.wurl.com/manifest/1200.m3u8
 
 #EXTINF:182,NASA TV
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
@@ -565,13 +565,13 @@ https://hdtv.prod2.ioio.tv/broker/play/cb4086ca-daba-42f5-8acf-27ee93fee0e8.m3u8
 https://na-us-sw10.secdn.net/barakyah-channel/play/mp4:plymouthtvedge/playlist.m3u8
 
 #EXTINF:189,Drybar Comedy
-https://a.jsrdn.com/broadcast/e29bdbbbf3/+0000/c.m3u8
+https://drybar-drybarcomedy-1-au.samsung.wurl.com/manifest/1200.m3u8
 
 #EXTINF:190,Oppna Kanalen
 https://edg03-prd-se-ixn.solidtango.com/edge/_451iw2h_/451iw2h/playlist.m3u8
 
 #EXTINF:191,RTE News Now
-https://live.rte.ie/live/a/channel3/news.isml/news-video=1099968-audio_128k=128000.m3u8
+https://live.rte.ie/live/a/channel3/news.isml/news-video=729984-audio_128k=128000.m3u8
 
 #EXTINF:192,TeleSUR
 https://d7g1ebft2592.cloudfront.net/mblivev3/360p/chunklist.m3u8
