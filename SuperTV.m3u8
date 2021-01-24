@@ -9,8 +9,8 @@ https://amdottlive.akamaized.net/hls/live/2015474/iwantanc/master360p.m3u8
 #EXTINF:3,TVshop
 http://59c3ec70cfde0.streamlock.net/channel_1/channel1/chunklist.m3u8
 
-#EXTINF:4,PTV*
-https://www.dailymotion.com/cdn/live/video/x5cr6b9.m3u8?sec=hHJINfz1SJ8zOGt_tui6RQc1MF-YtZgo-x8Qd2HWYqwJEBVNKDG1E1CYXBDov1q-ZgGFy2yzBoK48qkKE9brwA
+#EXTINF:4,Super Radyo DZBB
+http://stream.gmanews.tv/ioslive/livestream/playlist.m3u8
 
 #EXTINF:5,TV5
 http://103.11.112.84:1935/live2/smil:tv5.smil/chunklist_w1486130098_b628000.m3u8
@@ -25,25 +25,25 @@ https://d3cbe0gidjd4k2.cloudfront.net/channel_7/channel7/chunklist_w659649511.m3
 https://d3cbe0gidjd4k2.cloudfront.net/channel_5/smil:channel_5.smil/chunklist_w1281634943_b300000_sleng.m3u8
 
 #EXTINF:9,CNN Philippines
-https://streaming.cnnphilippines.com/live/myStream/chunklist.m3u8
+https://streaming.cnnphilippines.com/live/myStream/playlist.m3u8
 
 #EXTINF:10,Kapamilya Channel*
 https://amdottlive.akamaized.net/hls/live/2014575/iwantabscbn/master360p.m3u8
 
 #EXTINF:11,TeleRadyo*
-https://tfcmsl.akamaized.net/hls/live/2014654/dzmm/bitrate_1.m3u8
+https://tfcmsl.akamaized.net/hls/live/2014654/dzmm/bitrate_2.m3u8
 
-#EXTINF:12,MyTV Cebu
+#EXTINF:12,Knowledge Channel*
+https://amdottlive.akamaized.net/hls/live/2018990/iwantknowledge/master360p.m3u8
+
+#EXTINF:13,MyTV Cebu
 http://api.new.livestream.com/accounts/15418593/events/4787138/live.m3u8
-
-#EXTINF:13,Super Radyo DZBB
-http://stream.gmanews.tv/ioslive/livestream/playlist.m3u8
 
 #EXTINF:14,TV5 (mirror)
 http://stream2.tv5.com.ph:1935/live2/smil:tv5stream.smil/playlist.m3u8
 
-#EXTINF:15,Knowledge*
-https://amdottlive.akamaized.net/hls/live/2018990/iwantknowledge/master360p.m3u8
+#EXTINF:15,YTA
+http://gideommd.mmdlive.lldns.net/gideommd/d5b6a753f86e4e51b8e15c7d23887a4f/chunklist_b732000.m3u8
 
 #EXTINF:16,Buzzr
 https://dai.google.com/linear/hls/event/wFZ1ufQ8ToaSdPgGtbBbpw/master.m3u8
@@ -51,20 +51,20 @@ https://dai.google.com/linear/hls/event/wFZ1ufQ8ToaSdPgGtbBbpw/master.m3u8
 #EXTINF:17,Stirr City
 https://dai.google.com/linear/hls/event/WHTEcpPjQAaeStCtrJqzVQ/master.m3u8
 
-#EXTINF:18,PBS
+#EXTINF:18,PBS WPSU
 https://ssc4.wpsu.psu.edu/WPSU_LLStream/ngrp:WPSU1_720max/chunklist_b786944.m3u8
 
 #EXTINF:19,CBS
 http://161.0.157.51/PLTV/88888888/224/3221227041/03.m3u8
 
-#EXTINF:20,MyNetworkTV
+#EXTINF:20,KCWX
 http://65.36.6.216:1935/live/kcwx.smil/chunklist_w879211551_b850000_sleng.m3u8
 
 #EXTINF:21,NBC
 http://161.0.157.50/PLTV/88888888/224/3221227040/03.m3u8
 
-#EXTINF:22,YTA
-http://gideommd.mmdlive.lldns.net/gideommd/d5b6a753f86e4e51b8e15c7d23887a4f/chunklist_b732000.m3u8
+#EXTINF:22,ABC (Trial)
+https://cdn008.teleuptv.net/oKMfGHckPJ/playlist.m3u8
 
 #EXTINF:23,Toon Goggles
 https://toon-goggles-samsung.vizio.wurl.com/manifest/1200.m3u8
@@ -75,8 +75,8 @@ https://simultv.s.llnwi.net/n4s4/KartoonCircus/interlink.m3u8
 #EXTINF:25,Supertoons
 https://kedoo-supertoonstv-1-gb.samsung.wurl.com/manifest/1200.m3u8
 
-#EXTINF:26,Zoo Moo
-https://rockentertainment-zoomoo-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:26,Fox (Trial)
+https://cdn006.teleuptv.net/GgIpXe0CjT/playlist.m3u8
 
 #EXTINF:27,CNN
 http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
@@ -207,8 +207,8 @@ http://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/640x360_440
 #EXTINF:69,RunTime Free Movies
 https://ammoruntime-plex.amagi.tv/playlistR432p.m3u8
 
-#EXTINF:70,CinemaWorld
-http://45.126.83.51/uq2663/h/h04/02.m3u8
+#EXTINF:70,Zoo Moo
+https://rockentertainment-zoomoo-1.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:71,Johnny Carson TV
 https://johnnycarson-zype.amagi.tv/playlistR432p.m3u8
@@ -322,10 +322,10 @@ https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv_4.m3u8
 https://tyt-xumo-us.amagi.tv/hls/amagi_hls_data_tytnetwor-tyt-xumo/CDN/master.m3u8
 
 #EXTINF:108,One America News Network (Trial)
-https://cdn.klowdtv.net/803B48A/oan_aws_ms/OAN_360p30.m3u8
+https://cdn.klowdtv.net/803B48A/oan_aws_ms/OAN_180p30.m3u8
 
 #EXTINF:109,One America News Encore
-https://cdn.herringnetwork.com/80A4DFF/oane_oregon/OAN_Encore_360p30.m3u8
+https://cdn.herringnetwork.com/80A4DFF/oane_oregon/OAN_Encore_180p30.m3u8
 
 #EXTINF:110,Newsmax TV
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_404.m3u8
