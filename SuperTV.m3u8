@@ -48,8 +48,8 @@ http://gideommd.mmdlive.lldns.net/gideommd/d5b6a753f86e4e51b8e15c7d23887a4f/chun
 #EXTINF:16,Buzzr
 https://dai.google.com/linear/hls/event/wFZ1ufQ8ToaSdPgGtbBbpw/master.m3u8
 
-#EXTINF:17,Stirr City
-https://dai.google.com/linear/hls/event/WHTEcpPjQAaeStCtrJqzVQ/master.m3u8
+#EXTINF:17,Stirr City Channel
+https://dai.google.com/linear/hls/event/IdHTuehZQPClis-gJaZkFQ/master.m3u8
 
 #EXTINF:18,PBS WPSU
 https://ssc4.wpsu.psu.edu/WPSU_LLStream/ngrp:WPSU1_720max/chunklist_b786944.m3u8
@@ -69,8 +69,8 @@ https://cdn008.teleuptv.net/oKMfGHckPJ/tracks-v3a1/mono.m3u8
 #EXTINF:23,Toon Goggles
 https://toon-goggles-samsung.vizio.wurl.com/manifest/1200.m3u8
 
-#EXTINF:24,Kartoon Fun Time
-https://simultv.s.llnwi.net/n4s4/KartoonCircus/interlink.m3u8
+#EXTINF:24,CW (Trial)
+https://cdn006.teleuptv.net/rTK2EQCVCX/tracks-v3a1/mono.m3u8
 
 #EXTINF:25,Supertoons
 https://kedoo-supertoonstv-1-gb.samsung.wurl.com/manifest/1200.m3u8
@@ -99,8 +99,8 @@ http://1111296894.rsc.cdn77.org/LS-ATL-54548-10/tracks-v1a1/mono.m3u8
 #EXTINF:33,NewsNOW from Fox
 http://fox-foxnewsnow-samsungus.amagi.tv/playlist360p.m3u8
 
-#EXTINF:34,Fox News
-http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
+#EXTINF:34,Fox News (Trial)
+https://cdn008.teleuptv.net/AsEAeOtIxz/tracks-v3a1/mono.m3u8
 
 #EXTINF:35,Bloomberg TV
 http://45.126.83.51/uq2663/h/h03/02.m3u8
@@ -183,8 +183,8 @@ https://dai.google.com/linear/hls/event/NJK_yxrcTBqULaHt-wi0Wg/master.m3u8
 #EXTINF:61,Allsprk
 https://stream.allsprk.tv/live/1/index.m3u8
 
-#EXTINF:62,Hits
-http://210.210.155.35/uq2663/h/h37/02.m3u8
+#EXTINF:62,Kartoon Fun Time
+https://simultv.s.llnwi.net/n4s4/KartoonCircus/interlink.m3u8
 
 #EXTINF:63,Reelz
 http://a.jsrdn.com/broadcast/d37066a396/+0000/c.m3u8
@@ -633,8 +633,8 @@ https://cnnlive.warnermediacdn.com/hls/live/2011591/PROD-cnnlive0/VIDEO_6_362800
 #EXTINF:211,Red Bull TV HD
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
-#EXTINF:212,Olympic Channel USA HD
-https://iocchannel-i.akamaihd.net/hls/live/514135/olylinear0629221316/DomesticOlympicsLinear_VIDEO_0_7064000.m3u8
+#EXTINF:212,Fox News HD
+http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
 
 #EXTINF:213,Stadium HD
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master_3000k.m3u8
