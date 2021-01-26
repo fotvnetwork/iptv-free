@@ -64,7 +64,7 @@ http://65.36.6.216:1935/live/kcwx.smil/chunklist_w879211551_b850000_sleng.m3u8
 http://161.0.157.50/PLTV/88888888/224/3221227040/03.m3u8
 
 #EXTINF:22,ABC (Trial)
-https://cdn008.teleuptv.net/oKMfGHckPJ/playlist.m3u8
+https://cdn008.teleuptv.net/oKMfGHckPJ/tracks-v3a1/mono.m3u8
 
 #EXTINF:23,Toon Goggles
 https://toon-goggles-samsung.vizio.wurl.com/manifest/1200.m3u8
@@ -76,7 +76,7 @@ https://simultv.s.llnwi.net/n4s4/KartoonCircus/interlink.m3u8
 https://kedoo-supertoonstv-1-gb.samsung.wurl.com/manifest/1200.m3u8
 
 #EXTINF:26,Fox (Trial)
-https://cdn006.teleuptv.net/GgIpXe0CjT/playlist.m3u8
+https://cdn006.teleuptv.net/GgIpXe0CjT/tracks-v3a1/mono.m3u8
 
 #EXTINF:27,CNN
 http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
