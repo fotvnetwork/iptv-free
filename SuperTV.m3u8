@@ -48,8 +48,8 @@ http://gideommd.mmdlive.lldns.net/gideommd/d5b6a753f86e4e51b8e15c7d23887a4f/chun
 #EXTINF:16,Buzzr
 https://dai.google.com/linear/hls/event/wFZ1ufQ8ToaSdPgGtbBbpw/master.m3u8
 
-#EXTINF:17,Stirr City Channel
-https://dai.google.com/linear/hls/event/IdHTuehZQPClis-gJaZkFQ/master.m3u8
+#EXTINF:17,Stirr City
+https://dai.google.com/linear/hls/event/WHTEcpPjQAaeStCtrJqzVQ/master.m3u8
 
 #EXTINF:18,PBS WPSU
 https://ssc4.wpsu.psu.edu/WPSU_LLStream/ngrp:WPSU1_720max/chunklist_b786944.m3u8
@@ -525,14 +525,14 @@ https://bozztv.com/teleyupp/teleup-gettv/tracks-v2a1/mono.m3u8
 #EXTINF:175,KVVB-TV
 https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1309230/chunklist_b1000000.m3u8
 
-#EXTINF:176,Stirr National
-https://playoutengine.sinclairstoryline.com/playout/74594c4d-49cd-416c-8ecd-a01f77d7b0b3.m3u8
+#EXTINF:176,Stingray Ambiance
+https://dai.google.com/linear/hls/event/6RPZlzksTCyB1euPqLcBZQ/master.m3u8
 
 #EXTINF:177,UN Web
 https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/index_828_av-p.m3u8
 
-#EXTINF:178,World Harvest Television
-https://597865f6e4114.streamlock.net/live/leseaorigin.stream/chunklist_w347907757.m3u8
+#EXTINF:178,Stirr City LA
+https://dai.google.com/linear/hls/event/n3PVAFmPTJSVYjdSVf7XZw/master.m3u8
 
 #EXTINF:179,AKC TV
 https://video.blivenyc.com/broadcast/prod/2061/22/file-858k.m3u8
