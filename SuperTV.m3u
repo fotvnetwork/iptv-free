@@ -51,32 +51,32 @@ https://dai.google.com/linear/hls/event/wFZ1ufQ8ToaSdPgGtbBbpw/master.m3u8
 #EXTINF:17,Stirr City
 https://dai.google.com/linear/hls/event/WHTEcpPjQAaeStCtrJqzVQ/master.m3u8
 
-#EXTINF:18,PBS WPSU
+#EXTINF:18,WPSU
 https://ssc4.wpsu.psu.edu/WPSU_LLStream/ngrp:WPSU1_720max/chunklist_b786944.m3u8
 
-#EXTINF:19,CBS
+#EXTINF:19,WFOR-TV
 http://161.0.157.51/PLTV/88888888/224/3221227041/03.m3u8
 
 #EXTINF:20,KCWX
 http://65.36.6.216:1935/live/kcwx.smil/chunklist_w879211551_b850000_sleng.m3u8
 
-#EXTINF:21,NBC
+#EXTINF:21,WTVJ
 http://161.0.157.50/PLTV/88888888/224/3221227040/03.m3u8
 
-#EXTINF:22,ABC (Trial)
-https://cdn008.teleuptv.net/oKMfGHckPJ/tracks-v3a1/mono.m3u8
+#EXTINF:22,WWSB
+https://d2nt5wxzqbe1ad.cloudfront.net/out/raycom-wwsb1-hls/live_480p30.m3u8
 
-#EXTINF:23,Toon Goggles
-https://toon-goggles-samsung.vizio.wurl.com/manifest/1200.m3u8
+#EXTINF:23,WMFD
+https://player-api.new.livestream.com/accounts/1194911/events/3466400/live.m3u8
 
-#EXTINF:24,CW (Trial)
-https://cdn006.teleuptv.net/rTK2EQCVCX/tracks-v3a1/mono.m3u8
+#EXTINF:24,KRON
+https://d1ic2n79madyox.cloudfront.net/v1/master/dfe581e0a446a1e548014078b2d81b62b917979d/kronon_v3fehu4u4van4jxckwj6/5c49e2df36324f2b88079b5c526d2c62/index.m3u8
 
-#EXTINF:25,Supertoons
-https://kedoo-supertoonstv-1-gb.samsung.wurl.com/manifest/1200.m3u8
+#EXTINF:25,Black News Channel
+https://lnc-black-news.tubi.video/BNC-OTT-audio_131652_eng=131600-video=872000.m3u8
 
-#EXTINF:26,Fox (Trial)
-https://cdn006.teleuptv.net/GgIpXe0CjT/tracks-v3a1/mono.m3u8
+#EXTINF:26,WSVN
+https://bcsecurelivehls-i.akamaihd.net/hls/live/598043/4368278029001_1/onair/master.m3u8
 
 #EXTINF:27,CNN
 http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
@@ -99,8 +99,8 @@ http://1111296894.rsc.cdn77.org/LS-ATL-54548-10/tracks-v1a1/mono.m3u8
 #EXTINF:33,NewsNOW from Fox
 http://fox-foxnewsnow-samsungus.amagi.tv/playlist360p.m3u8
 
-#EXTINF:34,Fox News (Trial)
-https://cdn008.teleuptv.net/AsEAeOtIxz/tracks-v3a1/mono.m3u8
+#EXTINF:34,Fox News
+http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
 
 #EXTINF:35,Bloomberg TV
 http://45.126.83.51/uq2663/h/h03/02.m3u8
@@ -183,8 +183,8 @@ https://dai.google.com/linear/hls/event/NJK_yxrcTBqULaHt-wi0Wg/master.m3u8
 #EXTINF:61,Allsprk
 https://stream.allsprk.tv/live/1/index.m3u8
 
-#EXTINF:62,Kartoon Fun Time
-https://simultv.s.llnwi.net/n4s4/KartoonCircus/interlink.m3u8
+#EXTINF:62,RunTime Free Movies
+https://ammoruntime-plex.amagi.tv/playlistR432p.m3u8
 
 #EXTINF:63,Reelz
 http://a.jsrdn.com/broadcast/d37066a396/+0000/c.m3u8
@@ -201,11 +201,11 @@ https://stream.allsprk.tv/live/2/index.m3u8
 #EXTINF:67,Hollywood Classics
 https://fef5003bb7e7447ab21a2c3fd81e3b74.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_HollywoodClassics/playlist.m3u8?ads.wurl_channel=532&ads.wurl_name=HollywoodClassics&ads.us_privacy=1---&ads.psid=&ads.targetopt=1&ads.plex_token=z1MCPUpbxYcHru-5hdyq&ads.plex_id=5f0ff265d71dcb00449ec02d&ads.ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36+OPR%2F70.0.3728.95&ads.app_bundle=&ads.app_store_url=&ads.gdpr=0&ads.consent=0
 
-#EXTINF:68,FilmRise Movies
-http://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/640x360_440000/index.m3u8
+#EXTINF:68,Toon Goggles
+https://toon-goggles-samsung.vizio.wurl.com/manifest/1200.m3u8
 
-#EXTINF:69,RunTime Free Movies
-https://ammoruntime-plex.amagi.tv/playlistR432p.m3u8
+#EXTINF:69,Kartoon Fun Time
+https://simultv.s.llnwi.net/n4s4/KartoonCircus/interlink.m3u8
 
 #EXTINF:70,Zoo Moo
 https://rockentertainment-zoomoo-1.samsung.wurl.com/manifest/playlist.m3u8
@@ -588,8 +588,8 @@ http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Mai
 #EXTINF:196,Horse Shopping Channel (Trial)
 https://uplynkcontent.sinclairstoryline.com/channel/26c7a77fd6ed453da6846a16ad0625d9.m3u8
 
-#EXTINF:197,Popular Science
-http://a.jsrdn.com/broadcast/447912f76b/+0000/c.m3u8
+#EXTINF:197,Supertoons
+https://kedoo-supertoonstv-1-gb.samsung.wurl.com/manifest/1200.m3u8
 
 #EXTINF:198,OCA
 http://ocatv.mcgi.me:1935/public/247_br/playlist.m3u8
@@ -633,8 +633,8 @@ https://cnnlive.warnermediacdn.com/hls/live/2011591/PROD-cnnlive0/VIDEO_6_362800
 #EXTINF:211,Red Bull TV HD
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
-#EXTINF:212,Fox News HD
-http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
+#EXTINF:212,RESERVED HD (212)
+https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
 
 #EXTINF:213,Stadium HD
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master_3000k.m3u8
@@ -660,7 +660,7 @@ https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_
 #EXTINF:220,SilenceTV HD
 http://93.190.140.42:8081/SilenceTV/live/playlist.m3u8
 
-#EXTINF:221,BNC HD
+#EXTINF:221,Black News Channel HD
 http://bnc-roku-us.amagi.tv/hls/amagi_hls_data_blacknews-blacknewsnetwork/CDN/1280x720_2855600/index.m3u8
 
 #EXTINF:222,One America News Netrwork HD (Trial)
