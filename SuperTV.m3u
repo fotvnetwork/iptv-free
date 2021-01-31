@@ -28,7 +28,7 @@ https://d3cbe0gidjd4k2.cloudfront.net/channel_5/smil:channel_5.smil/chunklist_w1
 https://streaming.cnnphilippines.com/live/myStream/playlist.m3u8
 
 #EXTINF:10,Kapamilya Channel*
-https://tfciptv-lh.akamaihd.net/i/kapcha_1@342755/master.m3u8?hdnea=st=1612093842~exp=1612094052~acl=/i/kapcha_1@342755/*~id=6c268aae-0626-41cb-bbfc-88e584817d63~data=289007~hmac=65d9448eed128678e9d884e97af06d7cac1019f4c81fb6b06485d5aa62c5fda1&b=100-1300
+https://tfciptv-lh.akamaihd.net/i/kapcha_1@342755/master.m3u8
 
 #EXTINF:11,TeleRadyo*
 https://tfcmsl.akamaized.net/hls/live/2014654/dzmm/bitrate_2.m3u8
