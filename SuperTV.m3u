@@ -28,7 +28,7 @@ https://d3cbe0gidjd4k2.cloudfront.net/channel_5/smil:channel_5.smil/chunklist_w1
 https://streaming.cnnphilippines.com/live/myStream/playlist.m3u8
 
 #EXTINF:10,Kapamilya Channel*
-https://tfciptv-lh.akamaihd.net/i/kapcha_1@342755/master.m3u8
+https://amdottlive.akamaized.net/hls/live/2014575/iwantabscbn/master360p.m3u8
 
 #EXTINF:11,TeleRadyo*
 https://tfcmsl.akamaized.net/hls/live/2014654/dzmm/bitrate_2.m3u8
@@ -69,8 +69,8 @@ https://d2nt5wxzqbe1ad.cloudfront.net/out/raycom-wwsb1-hls/live_480p30.m3u8
 #EXTINF:23,WMFD
 https://player-api.new.livestream.com/accounts/1194911/events/3466400/live.m3u8
 
-#EXTINF:24,KRON
-https://d1ic2n79madyox.cloudfront.net/v1/master/dfe581e0a446a1e548014078b2d81b62b917979d/kronon_v3fehu4u4van4jxckwj6/5c49e2df36324f2b88079b5c526d2c62/index.m3u8
+#EXTINF:24,News 12
+https://lnc-news12.tubi.video/5.m3u8
 
 #EXTINF:25,Black News Channel
 https://lnc-black-news.tubi.video/BNC-OTT-audio_131652_eng=131600-video=872000.m3u8
@@ -499,7 +499,7 @@ https://bozztv.com/teleyupp/teleup-cspan/tracks-v3a1/mono.m3u8
 http://stgn-49.tulix.tv/live19/Stream1/chunklist_w1498543121.m3u8
 
 #EXTINF:167,alee+
-http://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/alee/REWIRE_SCTE.m3u8
+https://1123112950.rsc.cdn77.org/FTF/REWIREMASTER_Low.m3u8
 
 #EXTINF:168,ONNtv
 https://onntv.vantrix.tv/onntv_hls/360p/onntv_hls-HLS-360p.m3u8
