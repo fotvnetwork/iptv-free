@@ -3,8 +3,8 @@
 #EXTINF:1,UNTV
 https://www.untvweb.com/live-stream/chunklist_b732000.m3u8
 
-#EXTINF:2,ANC*
-https://amdottlive.akamaized.net/hls/live/2015474/iwantanc/master360p.m3u8
+#EXTINF:2,RESERVED (2)
+https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
 
 #EXTINF:3,TVshop
 http://59c3ec70cfde0.streamlock.net/channel_1/channel1/chunklist.m3u8
@@ -27,8 +27,8 @@ https://d3cbe0gidjd4k2.cloudfront.net/channel_5/smil:channel_5.smil/chunklist_w1
 #EXTINF:9,CNN Philippines
 https://streaming.cnnphilippines.com/live/myStream/playlist.m3u8
 
-#EXTINF:10,Kapamilya Channel*
-https://amdottlive.akamaized.net/hls/live/2014575/iwantabscbn/master360p.m3u8
+#EXTINF:10,RESERVED (10)
+https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
 
 #EXTINF:11,TeleRadyo*
 https://tfcmsl.akamaized.net/hls/live/2014654/dzmm/bitrate_2.m3u8
@@ -66,8 +66,8 @@ http://161.0.157.50/PLTV/88888888/224/3221227040/03.m3u8
 #EXTINF:22,WWSB
 https://d2nt5wxzqbe1ad.cloudfront.net/out/raycom-wwsb1-hls/live_480p30.m3u8
 
-#EXTINF:23,WMFD
-https://player-api.new.livestream.com/accounts/1194911/events/3466400/live.m3u8
+#EXTINF:23,Newsy
+https://dai.google.com/linear/hls/event/0PopB0AoSiClAGrHVHBTlw/master.m3u8
 
 #EXTINF:24,News 12
 https://lnc-news12.tubi.video/5.m3u8
@@ -75,8 +75,8 @@ https://lnc-news12.tubi.video/5.m3u8
 #EXTINF:25,Black News Channel
 https://lnc-black-news.tubi.video/BNC-OTT-audio_131652_eng=131600-video=872000.m3u8
 
-#EXTINF:26,WSVN
-https://bcsecurelivehls-i.akamaihd.net/hls/live/598043/4368278029001_1/onair/master.m3u8
+#EXTINF:26,News Press Now
+https://dai.google.com/linear/hls/event/UT7H2vbsSg6FZH19JWfpzw/master.m3u8
 
 #EXTINF:27,CNN
 http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
@@ -540,8 +540,8 @@ https://video.blivenyc.com/broadcast/prod/2061/22/file-858k.m3u8
 #EXTINF:180,Voice of America
 http://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/index_0360_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:181,Newsy
-https://newsy.vizio.wurl.com/manifest/1200.m3u8
+#EXTINF:181,WMFD
+https://player-api.new.livestream.com/accounts/1194911/events/3466400/live.m3u8
 
 #EXTINF:182,NASA TV
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
