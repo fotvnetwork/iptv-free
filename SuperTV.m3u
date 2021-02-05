@@ -82,7 +82,7 @@ https://dai.google.com/linear/hls/event/UT7H2vbsSg6FZH19JWfpzw/master.m3u8
 http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
 
 #EXTINF:28,NewsNet
-https://broadcaster1.prolivestream.net:8083/onair/newsnetweb/chunks.m3u8
+https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1311088/chunklist_b600000.m3u8
 
 #EXTINF:29,CBSN
 https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_10.m3u8
@@ -106,7 +106,7 @@ http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
 http://45.126.83.51/uq2663/h/h03/02.m3u8
 
 #EXTINF:36,Bloomberg Quicktake
-https://bloomberg-quicktake-1-au.samsung.wurl.com/manifest/4fb34ea986cade9391e8c6e31793a382.m3u8
+https://dai.google.com/linear/hls/event/cFDvmqo4TGW7EfHwscU_Ew/master.m3u8
 
 #EXTINF:37,BBC World News
 http://1111296894.rsc.cdn77.org/LS-ATL-54548-11/tracks-v1a1/mono.m3u8
@@ -135,8 +135,8 @@ https://m-c010-j2apps.s.llnwi.net/hls/8023.DWEnglish.in_360p/index.m3u8
 #EXTINF:45,CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_2.m3u8
 
-#EXTINF:46,CGTN*
-https://live.cgtn.com/500/prog_index.m3u8
+#EXTINF:46,CGTN
+https://dai.google.com/linear/hls/event/r4sa-f6GSN2XIvzKv5jVng/master.m3u8
 
 #EXTINF:47,NHK World Japan
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_600k.m3u8
