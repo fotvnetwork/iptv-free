@@ -67,7 +67,7 @@ http://161.0.157.50/PLTV/88888888/224/3221227040/03.m3u8
 https://d2nt5wxzqbe1ad.cloudfront.net/out/raycom-wwsb1-hls/live_480p30.m3u8
 
 #EXTINF:23,Newsy
-https://newsy-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_5f8495060fb0504aa2496f03_newsy-live/index.m3u8?ads.cb=5415957367799727&ads.w=1366&ads.h=768&ads.dnt=0&ads.cust_devicename=desktop_web&ads.ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F88.0.4324.104%20Safari%2F537.36&ads.content_title=Newsy&ads.content_id=5f8495060fb0504aa2496f03&ads.content_genre=News&ads.content_provider=newsy&ads.content_len=0&ads.content_livestream=1&ads.ip=156.146.59.36&ads.payid=6ec8debb969b70cf&ads.SSID=4deca47b-b376-42e1-9eee-97d25f3bc9ec&ads.iris_context=ic_6892597&ads.iris_id=iris_b960914e5fc313ef
+https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=newsyweb
 
 #EXTINF:24,News 12
 https://lnc-news12.tubi.video/5.m3u8
