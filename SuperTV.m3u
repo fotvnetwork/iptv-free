@@ -3,8 +3,8 @@
 #EXTINF:1,UNTV
 https://www.untvweb.com/live-stream/chunklist_b732000.m3u8
 
-#EXTINF:2,RESERVED (2)
-https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
+#EXTINF:2,UNTV (mirror)
+https://www.untvweb.com/live-stream/chunklist_b332000.m3u8
 
 #EXTINF:3,TVshop
 http://59c3ec70cfde0.streamlock.net/channel_1/channel1/chunklist.m3u8
@@ -633,8 +633,8 @@ https://cnnlive.warnermediacdn.com/hls/live/2011591/PROD-cnnlive0/VIDEO_6_362800
 #EXTINF:211,Red Bull TV HD
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
-#EXTINF:212,RESERVED HD (212)
-https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
+#EXTINF:212,Mav TV HD (Trial)
+https://bozztv.com/teleyupp/teleup-mavtv/tracks-v1a1/mono.m3u8
 
 #EXTINF:213,Stadium HD
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master_3000k.m3u8
