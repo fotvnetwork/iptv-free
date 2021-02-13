@@ -124,10 +124,10 @@ https://rt-news.secure.footprint.net/1103_800Kb.m3u8
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_500.m3u8
 
 #EXTINF:42,Euronews
-https://bozztv.com/36bay2/gin/giniko_euronews_800kb_36bay2/tracks-v1a1/mono.m3u8
+https://euronews-euronews-world-1.roku.wurl.com/manifest/b34060fcaf527710b244a3e16504edd0.m3u8
 
 #EXTINF:43,Press TV
-https://bozztv.com/36bay2/gin/giniko_presstv_900kb_36bay2/tracks-v1a1/mono.m3u8
+https://live.presstv.com/liveprs/smil:liveprs/chunklist_w1027720361_b644100_slen.m3u8
 
 #EXTINF:44,DW
 https://m-c010-j2apps.s.llnwi.net/hls/8023.DWEnglish.in_360p/index.m3u8
