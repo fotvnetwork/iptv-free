@@ -3,8 +3,8 @@
 #EXTINF:1,UNTV
 https://www.untvweb.com/live-stream/chunklist_b732000.m3u8
 
-#EXTINF:2,UNTV (mirror)
-https://www.untvweb.com/live-stream/chunklist_b332000.m3u8
+#EXTINF:2,Life TV (test)
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/fc256993b031626.m3u8
 
 #EXTINF:3,TVshop
 http://59c3ec70cfde0.streamlock.net/channel_1/channel1/chunklist.m3u8
@@ -13,7 +13,7 @@ http://59c3ec70cfde0.streamlock.net/channel_1/channel1/chunklist.m3u8
 http://stream.gmanews.tv/ioslive/livestream/playlist.m3u8
 
 #EXTINF:5,TV5
-http://103.11.112.84:1935/live2/smil:tv5.smil/chunklist_w1486130098_b628000.m3u8
+http://stream2.tv5.com.ph:1935/live2/smil:tv5stream.smil/chunklist_w1787918823_b628000.m3u8
 
 #EXTINF:6,One Sports
 http://103.11.112.28:1935/live2/smil:onesports.smil/chunklist_w1210079406_b628000.m3u8
@@ -27,11 +27,11 @@ https://d3cbe0gidjd4k2.cloudfront.net/channel_5/smil:channel_5.smil/chunklist_w1
 #EXTINF:9,CNN Philippines
 https://streaming.cnnphilippines.com/live/myStream/playlist.m3u8
 
-#EXTINF:10,RESERVED (10)
-https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
+#EXTINF:10,Pinoy TV (test)
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/cd1b220644affbb.m3u8
 
-#EXTINF:11,RESERVED (11)
-https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
+#EXTINF:11,News TV International (test)
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/f9973976ebde68c.m3u8
 
 #EXTINF:12,Knowledge Channel*
 https://amdottlive.akamaized.net/hls/live/2018990/iwantknowledge/master360p.m3u8
@@ -39,8 +39,8 @@ https://amdottlive.akamaized.net/hls/live/2018990/iwantknowledge/master360p.m3u8
 #EXTINF:13,MyTV Cebu
 http://api.new.livestream.com/accounts/15418593/events/4787138/live.m3u8
 
-#EXTINF:14,TV5 (mirror)
-http://stream2.tv5.com.ph:1935/live2/smil:tv5stream.smil/playlist.m3u8
+#EXTINF:14,Kapatid (test)
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/9488d35066fc606.m3u8
 
 #EXTINF:15,YTA
 http://gideommd.mmdlive.lldns.net/gideommd/d5b6a753f86e4e51b8e15c7d23887a4f/chunklist_b732000.m3u8
@@ -342,7 +342,7 @@ https://lxlive-lh.akamaihd.net/i/LX_LIVE@148206/index_360P_av-p.m3u8
 #EXTINF:114,SMNI
 http://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
 
-#EXTINF:115,Life TV
+#EXTINF:115,Life TV - ONK
 http://59c3ec70cfde0.streamlock.net/channel_6/channel6/chunklist.m3u8
 
 #EXTINF:116,Hope Channel Philippines
@@ -627,8 +627,8 @@ http://161.0.157.51/PLTV/88888888/224/3221227041/01.m3u8
 #EXTINF:209,ABC News Live HD
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
-#EXTINF:210,CNN Live Events HD
-https://cnnlive.warnermediacdn.com/hls/live/2011591/PROD-cnnlive0/VIDEO_6_3628000.m3u8
+#EXTINF:210,CNN HD (Trial)
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
 
 #EXTINF:211,Red Bull TV HD
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
