@@ -30,8 +30,8 @@ https://streaming.cnnphilippines.com/live/myStream/playlist.m3u8
 #EXTINF:10,Pinoy TV (test)
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/cd1b220644affbb.m3u8
 
-#EXTINF:11,News TV International (test)
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/f9973976ebde68c.m3u8
+#EXTINF:11,TeleRadyo*
+https://tfcmsl.akamaized.net/hls/live/2014654/dzmm/master.m3u8
 
 #EXTINF:12,Knowledge Channel*
 https://amdottlive.akamaized.net/hls/live/2018990/iwantknowledge/master360p.m3u8
@@ -42,8 +42,8 @@ http://api.new.livestream.com/accounts/15418593/events/4787138/live.m3u8
 #EXTINF:14,Kapatid (test)
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/9488d35066fc606.m3u8
 
-#EXTINF:15,YTA
-http://gideommd.mmdlive.lldns.net/gideommd/d5b6a753f86e4e51b8e15c7d23887a4f/chunklist_b732000.m3u8
+#EXTINF:15,News TV International (test)
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/f9973976ebde68c.m3u8
 
 #EXTINF:16,Buzzr
 https://dai.google.com/linear/hls/event/wFZ1ufQ8ToaSdPgGtbBbpw/master.m3u8
@@ -51,8 +51,8 @@ https://dai.google.com/linear/hls/event/wFZ1ufQ8ToaSdPgGtbBbpw/master.m3u8
 #EXTINF:17,Stirr City
 https://dai.google.com/linear/hls/event/WHTEcpPjQAaeStCtrJqzVQ/master.m3u8
 
-#EXTINF:18,WPSU
-https://bozztv.com/teleyupp/lnABbIUBrO/tracks-v3a1/mono.m3u8
+#EXTINF:18,YTA
+http://gideommd.mmdlive.lldns.net/gideommd/d5b6a753f86e4e51b8e15c7d23887a4f/chunklist_b732000.m3u8
 
 #EXTINF:19,WFOR-TV
 http://161.0.157.51/PLTV/88888888/224/3221227041/03.m3u8
@@ -63,7 +63,7 @@ http://65.36.6.216:1935/live/kcwx.smil/chunklist_w879211551_b850000_sleng.m3u8
 #EXTINF:21,WTVJ
 http://161.0.157.50/PLTV/88888888/224/3221227040/03.m3u8
 
-#EXTINF:22,WGN 9 (test)
+#EXTINF:22,WGN (Trial)
 https://bozztv.com/teleyupp1/teleup-mBm5MQ50rA/tracks-v3a1/mono.m3u8
 
 #EXTINF:23,Newsy
