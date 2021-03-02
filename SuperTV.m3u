@@ -30,8 +30,8 @@ https://streaming.cnnphilippines.com/live/myStream/playlist.m3u8
 #EXTINF:10,Pinoy TV (test)
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/cd1b220644affbb.m3u8
 
-#EXTINF:11,TeleRadyo*
-https://tfcmsl.akamaized.net/hls/live/2014654/dzmm/master.m3u8
+#EXTINF:11,News TV International (test)
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/f9973976ebde68c.m3u8
 
 #EXTINF:12,Knowledge Channel*
 https://amdottlive.akamaized.net/hls/live/2018990/iwantknowledge/master360p.m3u8
@@ -42,8 +42,8 @@ http://api.new.livestream.com/accounts/15418593/events/4787138/live.m3u8
 #EXTINF:14,Kapatid (test)
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/9488d35066fc606.m3u8
 
-#EXTINF:15,News TV International (test)
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/f9973976ebde68c.m3u8
+#EXTINF:15,YTA
+http://gideommd.mmdlive.lldns.net/gideommd/d5b6a753f86e4e51b8e15c7d23887a4f/chunklist_b732000.m3u8
 
 #EXTINF:16,Buzzr
 https://dai.google.com/linear/hls/event/wFZ1ufQ8ToaSdPgGtbBbpw/master.m3u8
@@ -51,17 +51,17 @@ https://dai.google.com/linear/hls/event/wFZ1ufQ8ToaSdPgGtbBbpw/master.m3u8
 #EXTINF:17,Stirr City
 https://dai.google.com/linear/hls/event/WHTEcpPjQAaeStCtrJqzVQ/master.m3u8
 
-#EXTINF:18,YTA
-http://gideommd.mmdlive.lldns.net/gideommd/d5b6a753f86e4e51b8e15c7d23887a4f/chunklist_b732000.m3u8
+#EXTINF:18,KET
+https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/chunklist_b600000_DVR.m3u8
 
-#EXTINF:19,WFOR-TV
-http://161.0.157.51/PLTV/88888888/224/3221227041/03.m3u8
+#EXTINF:19,WSVN (Trial)
+https://bozztv.com/teleyupp1/teleup-GgIpXe0CjT/tracks-v3a1/mono.m3u8
 
 #EXTINF:20,KCWX
 http://65.36.6.216:1935/live/kcwx.smil/chunklist_w879211551_b850000_sleng.m3u8
 
-#EXTINF:21,WTVJ
-http://161.0.157.50/PLTV/88888888/224/3221227040/03.m3u8
+#EXTINF:21,WCTX (Trial)
+https://bozztv.com/teleyupp/e5CGxWp8iU/tracks-v3a1/mono.m3u8
 
 #EXTINF:22,WGN (Trial)
 https://bozztv.com/teleyupp1/teleup-mBm5MQ50rA/tracks-v3a1/mono.m3u8
@@ -73,7 +73,7 @@ https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=news
 https://lnc-news12.tubi.video/5.m3u8
 
 #EXTINF:25,Black News Channel
-https://lnc-black-news.tubi.video/BNC-OTT-audio_131652_eng=131600-video=872000.m3u8
+https://blacknewschannel-xumo-us.amagi.tv/playlistR404p.m3u8
 
 #EXTINF:26,News Press Now
 https://dai.google.com/linear/hls/event/UT7H2vbsSg6FZH19JWfpzw/master.m3u8
@@ -307,10 +307,10 @@ http://de1se01.v2beat.live/playlist.m3u8
 http://wpc.9ec1.edgecastcdn.net/249EC1/infowarshd-edgecast/hd720.m3u8
 
 #EXTINF:103,Real America's Voice
-https://content.uplynk.com/channel/26bd482ffe364a1282bc3df28bd3c21f.m3u8
+https://amvoice-plutolive-vo.akamaized.net/AVPluto/O3/playlistSCTE35.m3u8
 
 #EXTINF:104,The Blaze
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e46fba0c43b0d00096e5ac1/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=954c037d-1a11-44d3-b488-9d06f8a3e068&deviceLat=33.9560&deviceLon=-118.3887&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=81.0.4044.26&includeExtendedEvents=false&sid=e6f1682e-cc62-437a-bd0d-082bea9a4059&userId=&serverSideAds=true
+https://theblaze-plutolive-vo.akamaized.net/hls/live/666597/theblaze/cm-dvr/master_480p.m3u8
 
 #EXTINF:105,The First TV
 https://redseat-thefirst-glewedtv.amagi.tv/index360p.m3u8
@@ -364,7 +364,7 @@ http://api.new.livestream.com/accounts/27460990/events/8266909/live.m3u8
 http://210.210.155.35/qwr9ew/s/s39/02.m3u8
 
 #EXTINF:122,Popstar! TV
-https://dotstudio.vo.llnwd.net/v1/livestreams/popstar/master/ec9207ed6819582289cfdc7569d8065cc8aca126/Popstar_-_Frequency/playlist.m3u8
+http://a.jsrdn.com/broadcast/wAlxn4cs/cupertino10_360p_1000000.m3u8
 
 #EXTINF:123,TBD
 https://dai.google.com/linear/hls/event/_xtY848OSRCm_k0veSjMHg/master.m3u8
@@ -373,7 +373,7 @@ https://dai.google.com/linear/hls/event/_xtY848OSRCm_k0veSjMHg/master.m3u8
 https://dai.google.com/linear/hls/event/3w3PsYzZQzS8lyRfi7e4mQ/master.m3u8
 
 #EXTINF:125,Court TV
-https://courttv-plutolive-vo.akamaized.net/m/hlslive/courttv/1/courttv.m3u8?chname=courttv&pub=0
+https://courttv-plutolive-vo.akamaized.net/Court_TV_480p30.m3u8
 
 #EXTINF:126,People TV
 https://peopletv-oo.akamaized.net/playlist240p.m3u8
@@ -615,14 +615,14 @@ https://nmxairy.akamaized.net/hls/live/529965/Live_1/index_1080.m3u8
 #EXTINF:205,NBC News Now HD
 http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
 
-#EXTINF:206,NBC HD
-http://161.0.157.50/PLTV/88888888/224/3221227040/01.m3u8
+#EXTINF:206,RESERVED (206)
+https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
 
 #EXTINF:207,CBSN HD
 https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_7.m3u8
 
-#EXTINF:208,CBS HD
-http://161.0.157.51/PLTV/88888888/224/3221227041/01.m3u8
+#EXTINF:208,People TV HD
+https://peopletv-oo.akamaized.net/playlist720p.m3u8
 
 #EXTINF:209,ABC News Live HD
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
