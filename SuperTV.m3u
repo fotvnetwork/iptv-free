@@ -247,25 +247,25 @@ https://midnightpulp-samsung.roku.wurl.com/manifest/playlist.m3u8
 https://dai.google.com/linear/hls/event/7LAMGFcmQN6iFJjNoHWXrg/master.m3u8
 
 #EXTINF:83,Ion Plus
-https://ion-ion-plus-1.vizio.wurl.com/manifest/playlist.m3u8
+https://ion-ion-plus-1.vizio.wurl.com/manifest/playlist_640x360_1200k.m3u8
 
-#EXTINF:84,MHZ
-https://mhz-samsung-linear-ca.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:84,MHz
+https://mhz-samsung-linear-ca.samsung.wurl.com/manifest/1200.m3u8
 
-#EXTINF:85,Absolute Reality
-https://amc-absolutereality-1.imdbtv.wurl.com/manifest/playlist.m3u8
+#EXTINF:85,Crackle
+https://crackle-plex.amagi.tv/playlist480p.m3u8
 
 #EXTINF:86,AMC Presents
-https://amc-amcpresents-1.vizio.wurl.com/manifest/playlist.m3u8
+https://amc-amcpresents-1.vizio.wurl.com/manifest/1200.m3u8
 
 #EXTINF:87,IFC Film Picks
-https://amc-ifc-films-picks-1.vizio.wurl.com/manifest/playlist.m3u8
+https://amc-ifc-films-picks-1.vizio.wurl.com/manifest/1200.m3u8
 
 #EXTINF:88,Slightly Off
-https://amc-slightly-off-by-amc-1.vizio.wurl.com/manifest/playlist.m3u8
+https://amc-slightly-off-by-amc-1.vizio.wurl.com/manifest/1200.m3u8
 
 #EXTINF:89,All Weddings
-https://amc-allweddings-1.vizio.wurl.com/manifest/playlist.m3u8
+https://amc-allweddings-1.vizio.wurl.com/manifest/1200.m3u8
 
 #EXTINF:90,Revry
 https://linear-5.frequency.stream/dist/plex/5/hls/master/playlist.m3u8
@@ -304,10 +304,10 @@ https://tg-junior.samsung.wurl.com/manifest/playlist.m3u8
 https://simultv.s.llnwi.net/n4s4/KartoonCircus/interlink.m3u8
 
 #EXTINF:102,Zoo Moo
-https://rockentertainment-zoomoo-1.samsung.wurl.com/manifest/playlist.m3u8
+https://rockentertainment-zoomoo-1.samsung.wurl.com/manifest/1200.m3u8
 
-#EXTINF:103,HappyKids (Vizio)
-https://happykids-vizio.amagi.tv/playlist.m3u8
+#EXTINF:103,HappyKids
+https://happykids-vizio.amagi.tv/playlist480p.m3u8
 
 #EXTINF:104,BeIN Sports Xtra
 https://bein-plutolive-vo.akamaized.net/playlist480bp.m3u8
@@ -343,16 +343,16 @@ https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d556
 http://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/640x360_440000/index.m3u8
 
 #EXTINF:115,Pac-12 Insider
-https://pac12-roku-us.amagi.tv/playlist.m3u8
+https://pac12-roku-us.amagi.tv/playlistR432p.m3u8
 
 #EXTINF:116,Outside TV
 https://dai.google.com/linear/hls/event/HJAq3zH1SUy_B6fb1j80_Q/master.m3u8
 
 #EXTINF:117,Fuel TV
-https://fueltv-fueltv-2-gb.samsung.wurl.com/manifest/playlist.m3u8
+https://fueltv-fueltv-2-gb.samsung.wurl.com/manifest/playlist_640x360_1000k.m3u8
 
 #EXTINF:118,Waypoint TV
-https://waypointtv-samsung.plex.wurl.com/manifest/playlist.m3u8
+https://waypointtv-samsung.plex.wurl.com/manifest/1200.m3u8
 
 #EXTINF:119,CGTN Documentary
 https://livedoc.cgtn.com/500d/prog_index.m3u8
@@ -520,7 +520,7 @@ https://gustotv-gustotv-1.roku.wurl.com/manifest/1200.m3u8
 http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/chunklist_w981409619_b1105254.m3u8
 
 #EXTINF:174,Bon Appetit
-https://condenast-bonappetit-vizio.amagi.tv/playlist.m3u8
+https://condenast-bonappetit-vizio.amagi.tv/playlist480p.m3u8
 
 #EXTINF:175,Stirr Cooks
 https://dai.google.com/linear/hls/event/CHaUZsCfSyS2CVF7I-NktA/master.m3u8
@@ -726,7 +726,7 @@ http://93.190.140.42:8081/SilenceTV/live/playlist.m3u8
 #EXTINF:321,Black News Channel HD
 http://bnc-roku-us.amagi.tv/hls/amagi_hls_data_blacknews-blacknewsnetwork/CDN/1280x720_2855600/index.m3u8
 
-#EXTINF:322,One America News Netrwork HD (Trial)
+#EXTINF:322,One America News Netrwork HD
 http://n1.klowdtv.net/live1/oan_720p/chunks.m3u8
 
 #EXTINF:323,The First TV HD
@@ -752,3 +752,6 @@ https://bozztv.com/teleyupp1/teleup-iSykLSKMFr/tracks-v1a1/mono.m3u8
 
 #EXTINF:330,Tennis Channel HD
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
+
+#EXTINF:331,Absolute Reality HD
+https://amc-absolutereality-1.imdbtv.wurl.com/manifest/4300.m3u8
