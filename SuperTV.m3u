@@ -49,10 +49,10 @@ http://supersonictv.live:25461/903310/034806/71396
 http://supersonictv.live:25461/903310/034806/71483
 
 #EXTINF:17,Fox (Trial)
-http://supersonictv.live:25461/903310/034806/71640
+http://supersonictv.live:25461/903310/034806/71417
 
 #EXTINF:18,NBC (Trial)
-http://supersonictv.live:25461/903310/034806/71664
+http://supersonictv.live:25461/903310/034806/71804
 
 #EXTINF:19,The CW (Trial)
 http://supersonictv.live:25461/903310/034806/71359
@@ -226,7 +226,7 @@ https://stream.allsprk.tv/live/1/index.m3u8
 https://ammoruntime-plex.amagi.tv/playlistR432p.m3u8
 
 #EXTINF:76,Reelz
-http://a.jsrdn.com/broadcast/d37066a396/+0000/c.m3u8
+http://a.jsrdn.com/broadcast/d37066a396/+0000/mid/c.m3u8
 
 #EXTINF:77,ShoutFactory TV
 https://shoutfactory-shoutfactory-zype.amagi.tv/playlistR432p.m3u8
@@ -241,7 +241,7 @@ https://stream.allsprk.tv/live/2/index.m3u8
 https://fef5003bb7e7447ab21a2c3fd81e3b74.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_HollywoodClassics/playlist.m3u8?ads.wurl_channel=532&ads.wurl_name=HollywoodClassics&ads.us_privacy=1---&ads.psid=&ads.targetopt=1&ads.plex_token=z1MCPUpbxYcHru-5hdyq&ads.plex_id=5f0ff265d71dcb00449ec02d&ads.ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36+OPR%2F70.0.3728.95&ads.app_bundle=&ads.app_store_url=&ads.gdpr=0&ads.consent=0
 
 #EXTINF:81,Midnight Pulp
-https://midnightpulp-samsung.roku.wurl.com/manifest/playlist.m3u8
+https://midnightpulp-samsung.roku.wurl.com/manifest/1200.m3u8
 
 #EXTINF:82,RetroCrush
 https://dai.google.com/linear/hls/event/7LAMGFcmQN6iFJjNoHWXrg/master.m3u8
@@ -298,7 +298,7 @@ https://thisoldhouse-2.roku.wurl.com/manifest/1200.m3u8
 https://toon-goggles-samsung.vizio.wurl.com/manifest/1200.m3u8
 
 #EXTINF:100,TG Junior
-https://tg-junior.samsung.wurl.com/manifest/playlist.m3u8
+https://tg-junior.samsung.wurl.com/manifest/1200.m3u8
 
 #EXTINF:101,Kartoon Fun Time
 https://simultv.s.llnwi.net/n4s4/KartoonCircus/interlink.m3u8
