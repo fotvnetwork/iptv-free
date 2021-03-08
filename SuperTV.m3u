@@ -3,7 +3,7 @@
 #EXTINF:1,UNTV
 https://www.untvweb.com/live-stream/chunklist_b732000.m3u8
 
-#EXTINF:2,Life TV (test)
+#EXTINF:2,GMA Life TV (Trial)
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/fc256993b031626.m3u8
 
 #EXTINF:3,TVshop
@@ -21,16 +21,16 @@ http://103.11.112.28:1935/live2/smil:onesports.smil/chunklist_w1210079406_b62800
 #EXTINF:7,BEAM TV
 https://d3cbe0gidjd4k2.cloudfront.net/channel_7/channel7/chunklist_w659649511.m3u8
 
-#EXTINF:8,Island Living Channel
+#EXTINF:8,Pilipinas HD
 https://d3cbe0gidjd4k2.cloudfront.net/channel_5/smil:channel_5.smil/chunklist_w1281634943_b300000_sleng.m3u8
 
 #EXTINF:9,CNN Philippines
 https://streaming.cnnphilippines.com/live/myStream/playlist.m3u8
 
-#EXTINF:10,Pinoy TV (test)
+#EXTINF:10,GMA Pinoy TV (Trial)
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/cd1b220644affbb.m3u8
 
-#EXTINF:11,News TV International (test)
+#EXTINF:11,GMA News TV International (Trial)
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/f9973976ebde68c.m3u8
 
 #EXTINF:12,Knowledge Channel*
@@ -39,7 +39,7 @@ https://amdottlive.akamaized.net/hls/live/2018990/iwantknowledge/master360p.m3u8
 #EXTINF:13,MyTV Cebu
 http://api.new.livestream.com/accounts/15418593/events/4787138/live.m3u8
 
-#EXTINF:14,Kapatid (test)
+#EXTINF:14,Kapatid Channel (Trial)
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/9488d35066fc606.m3u8
 
 #EXTINF:15,ABC (Trial)
