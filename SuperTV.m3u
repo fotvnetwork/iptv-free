@@ -244,7 +244,7 @@ https://fef5003bb7e7447ab21a2c3fd81e3b74.mediatailor.us-east-1.amazonaws.com/v1/
 https://midnightpulp-samsung.roku.wurl.com/manifest/1200.m3u8
 
 #EXTINF:82,RetroCrush
-https://dai.google.com/linear/hls/event/7LAMGFcmQN6iFJjNoHWXrg/master.m3u8
+https://digitalmediarights-retrocrush-1.sinclair.wurl.com/manifest/1200.m3u8
 
 #EXTINF:83,Ion Plus
 https://ion-ion-plus-1.vizio.wurl.com/manifest/playlist_640x360_1200k.m3u8
@@ -345,8 +345,8 @@ http://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/640x360
 #EXTINF:115,Pac-12 Insider
 https://pac12-roku-us.amagi.tv/playlistR432p.m3u8
 
-#EXTINF:116,Outside TV
-https://dai.google.com/linear/hls/event/HJAq3zH1SUy_B6fb1j80_Q/master.m3u8
+#EXTINF:116,Outside TV+
+https://outsidetvplus-stirr.amagi.tv/playlistR360p.m3u8
 
 #EXTINF:117,Fuel TV
 https://fueltv-fueltv-2-gb.samsung.wurl.com/manifest/playlist_640x360_1000k.m3u8
@@ -385,7 +385,7 @@ https://bspoketv.s.llnwi.net/streams/322/out_0.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcomplex/CDN/640x360_440000/index.m3u8
 
 #EXTINF:129,Glewed TV
-https://dai.google.com/linear/hls/event/ChWV1GupQOWE92uG4DvbkQ/master.m3u8
+https://glewedtv-1.sinclair.wurl.com/manifest/1200.m3u8
 
 #EXTINF:130,MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_1250_av-p.m3u8
