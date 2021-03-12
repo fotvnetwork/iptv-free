@@ -43,7 +43,7 @@ http://api.new.livestream.com/accounts/15418593/events/4787138/live.m3u8
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/9488d35066fc606.m3u8
 
 #EXTINF:15,ABC (Trial)
-http://supersonictv.live:25461/903310/034806/71396
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/483
 
 #EXTINF:16,CBS (Trial)
 http://supersonictv.live:25461/903310/034806/71483
@@ -204,8 +204,8 @@ https://player-api.new.livestream.com/accounts/27460990/events/8973036/live.m3u8
 #EXTINF:68,Comet
 https://dai.google.com/linear/hls/event/83L2OqtGSZ6lbWt8ODomWg/master.m3u8
 
-#EXTINF:69,24-7 Retro TV
-http://hlsdpi-cdn-chqtx02.totalstream.net/dpilive/247retro/ret/dai/nimble-absolute-url-chunklist.m3u8?nimblesessionid=48726530&nimbleabsoluteurl=AQoFJWVxjVXzeyt4zDMWm8QpWGqQPHVbjtQk1V6ctZBKLFeg+qj01UVk7NxScFkidOE9JGTrD2eFffQYQdAob25OMq+Rh8CM09lQCUsci%2FNaNftT6PTLp16MBJjuZkrThdakkj2BrOzs5V6FrKHtPd6Cyl+jJaTEDJiU4cKyVJk=&nimbleurlhash=08gJv%2FfYL%2FaLOd%2Ful6+Oow==&nimbleurliv=2emjeX91tl9NYe64B32Mig==
+#EXTINF:69,Grit
+https://bozztv.com/teleyupp/teleup-grit/tracks-v3a1/mono.m3u8
 
 #EXTINF:70,Charge!
 https://dai.google.com/linear/hls/event/e1QjWFRNSR2YFYGsPbkfgg/master.m3u8
@@ -699,7 +699,7 @@ https://peopletv-oo.akamaized.net/playlist720p.m3u8
 #EXTINF:309,ABC News Live HD
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
-#EXTINF:310,CNN HD (Trial)
+#EXTINF:310,CNN International HD (Trial)
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
 
 #EXTINF:311,Red Bull TV HD
