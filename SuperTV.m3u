@@ -13,7 +13,7 @@ http://59c3ec70cfde0.streamlock.net/channel_1/channel1/chunklist.m3u8
 http://stream.gmanews.tv/ioslive/livestream/playlist.m3u8
 
 #EXTINF:5,TV5
-http://stream2.tv5.com.ph:1935/live2/smil:tv5stream.smil/chunklist_w1787918823_b628000.m3u8
+http://103.11.112.84:1935/live2/smil:tv5.smil/chunklist_w542293137_b828000.m3u8
 
 #EXTINF:6,One Sports
 http://103.11.112.28:1935/live2/smil:onesports.smil/chunklist_w1210079406_b628000.m3u8
@@ -46,13 +46,13 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/9488d3506
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/483
 
 #EXTINF:16,CBS (Trial)
-http://supersonictv.live:25461/903310/034806/71483
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/496
 
 #EXTINF:17,Fox (Trial)
-http://supersonictv.live:25461/903310/034806/71332
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/539
 
 #EXTINF:18,NBC (Trial)
-http://supersonictv.live:25461/903310/034806/71293
+http://37723998.to:2052/joe1/joe2/21150
 
 #EXTINF:19,The CW (Trial)
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/732
@@ -300,8 +300,8 @@ https://toon-goggles-samsung.vizio.wurl.com/manifest/1200.m3u8
 #EXTINF:100,TG Junior
 https://tg-junior.samsung.wurl.com/manifest/1200.m3u8
 
-#EXTINF:101,Kartoon Fun Time
-https://simultv.s.llnwi.net/n4s4/KartoonCircus/interlink.m3u8
+#EXTINF:101,Cartoon Network (Trial)
+http://51.68.141.106:8081/tv/cartoon-network/playlist.m3u8
 
 #EXTINF:102,Zoo Moo
 https://rockentertainment-zoomoo-1.samsung.wurl.com/manifest/1200.m3u8
@@ -665,6 +665,9 @@ https://stream.allsprk.tv/live/1/index.m3u8
 
 #EXTINF:222,Allsprk 2
 https://stream.allsprk.tv/live/2/index.m3u8
+
+#EXTINF:223,Kartoon Fun Time
+https://simultv.s.llnwi.net/n4s4/KartoonCircus/interlink.m3u8
 
 #EXTINF:299,Live Event
 https://live.prd.dlive.tv/hls/live/dlive-ohxebgkzeq.m3u8?web=true
