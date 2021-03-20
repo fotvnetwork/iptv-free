@@ -669,6 +669,12 @@ https://stream.allsprk.tv/live/2/index.m3u8
 #EXTINF:223,Kartoon Fun Time
 https://simultv.s.llnwi.net/n4s4/KartoonCircus/interlink.m3u8
 
+#EXTINF:224,Quahz TV
+https://t06243a-lh.akamaihd.net/i/t06243a_1@536897/master.m3u8?set-akamai-hls-revision=5&set-cc-attribute=none
+
+#EXTINF:225,iHolyfield TV
+https://simultv.s.llnwi.net/n4s4/GITV/iH/iHolyfield/interlink_3200.m3u8
+
 #EXTINF:299,Live Event
 https://live.prd.dlive.tv/hls/live/dlive-ohxebgkzeq.m3u8?web=true
 
