@@ -85,10 +85,10 @@ https://bozztv.com/teleyupp/e5CGxWp8iU/tracks-v3a1/mono.m3u8
 https://bozztv.com/teleyupp1/teleup-mBm5MQ50rA/tracks-v3a1/mono.m3u8
 
 #EXTINF:29,Newsy
-https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=newsyweb
+https://newsy.sinclair.wurl.com/manifest/1200.m3u8
 
 #EXTINF:30,News 12
-https://lnc-news12.tubi.video/5.m3u8
+https://lnc-news12.tubi.video/primary/5.m3u8
 
 #EXTINF:31,Black News Channel
 https://blacknewschannel-xumo-us.amagi.tv/playlistR404p.m3u8
