@@ -42,23 +42,23 @@ http://api.new.livestream.com/accounts/15418593/events/4787138/live.m3u8
 #EXTINF:14,Kapatid Channel (Trial)
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/9488d35066fc606.m3u8
 
-#EXTINF:15,ABC (Trial)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/483
+#EXTINF:15,RESERVED (15)
+https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
 
-#EXTINF:16,CBS (Trial)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/496
+#EXTINF:16,RESERVED (16)
+https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
 
-#EXTINF:17,Fox (Trial)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/539
+#EXTINF:17,RESERVED (17)
+https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
 
-#EXTINF:18,NBC (Trial)
-http://37723998.to:2052/joe1/joe2/21150
+#EXTINF:18,RESERVED (18)
+https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
 
-#EXTINF:19,The CW (Trial)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/732
+#EXTINF:19,RESERVED (19)
+https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
 
-#EXTINF:20,PBS (Trial)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/773
+#EXTINF:20,RESERVED (20)
+https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
 
 #EXTINF:21,YTA
 http://gideommd.mmdlive.lldns.net/gideommd/d5b6a753f86e4e51b8e15c7d23887a4f/chunklist_b732000.m3u8
@@ -216,8 +216,8 @@ https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8
 #EXTINF:72,Thrill
 http://45.126.83.51/qwr9ew/s/s34/02.m3u8
 
-#EXTINF:73,Lifetime (Trial)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/567
+#EXTINF:73,RESERVED (73)
+https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
 
 #EXTINF:74,Hallmark (Trial)
 https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_yupptvfrn-hallmark-frndlytv/CDN/768x432_2340800/index.m3u8
@@ -234,8 +234,8 @@ https://shoutfactory-shoutfactory-zype.amagi.tv/playlistR432p.m3u8
 #EXTINF:78,Cine Life
 https://dai.google.com/linear/hls/event/PFJ1Jhd6SsSMcu3qq86wzQ/master.m3u8
 
-#EXTINF:79,USA Network (Trial)
-http://supersonictv.live:25461/903310/034806/22129
+#EXTINF:79,RESERVED (79)
+https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
 
 #EXTINF:80,Hollywood Classics
 https://fef5003bb7e7447ab21a2c3fd81e3b74.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_HollywoodClassics/playlist.m3u8?ads.wurl_channel=532&ads.wurl_name=HollywoodClassics&ads.us_privacy=1---&ads.psid=&ads.targetopt=1&ads.plex_token=z1MCPUpbxYcHru-5hdyq&ads.plex_id=5f0ff265d71dcb00449ec02d&ads.ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36+OPR%2F70.0.3728.95&ads.app_bundle=&ads.app_store_url=&ads.gdpr=0&ads.consent=0
