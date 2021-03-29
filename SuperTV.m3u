@@ -45,8 +45,8 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/9488d3506
 #EXTINF:15,UNTV (mirror)
 https://cdn.untvweb.com/live-stream/chunklist_b332000.m3u8
 
-#EXTINF:16,RESERVED (16)
-https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
+#EXTINF:16,TeleRadyo*
+https://tfcmsl.akamaized.net/hls/live/2014654/dzmm/bitrate_2.m3u8
 
 #EXTINF:17,RESERVED (17)
 https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
@@ -283,16 +283,16 @@ http://contv.sinclair.wurl.com/manifest/da1285e1dd4323e6aff01b01cd40651c.m3u8
 https://nosey-2.roku.wurl.com/manifest/1200.m3u8
 
 #EXTINF:95,Demand Africa
-https://demandafrica-xumo.amagi.tv/ssai/amagi_hls_data_theafrica-demandafricaxumo/CDN/512x288_875600/chunklist.m3u8
+https://demandafrica-vizio.amagi.tv/playlist480p.m3u8
 
 #EXTINF:96,DUSTx
-https://dust.sinclair.wurl.com/manifest/1200.m3u8
+https://dust.samsung.wurl.com/manifest/1200.m3u8
 
 #EXTINF:97,Bob Ross
 https://bobross-us-roku.cinedigm.com/midroll/amagi_hls_data_xumo-host-roku-bobross/CDN/720x404_1790800/index.m3u8
 
 #EXTINF:98,This Old House
-https://thisoldhouse-2.roku.wurl.com/manifest/1200.m3u8
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziothisoldhouse/CDN/640x360_440000/index.m3u8
 
 #EXTINF:99,Toon Goggles
 https://toon-goggles-samsung.vizio.wurl.com/manifest/1200.m3u8
@@ -310,7 +310,7 @@ https://rockentertainment-zoomoo-1.samsung.wurl.com/manifest/1200.m3u8
 https://happykids-vizio.amagi.tv/playlist480p.m3u8
 
 #EXTINF:104,BeIN Sports Xtra
-https://bein-plutolive-vo.akamaized.net/playlist480bp.m3u8
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
 
 #EXTINF:105,Sports Channel Network
 https://vod365-sports-channel-network-1-gb.samsung.wurl.com/manifest/1200.m3u8
@@ -322,7 +322,7 @@ https://gma2.blab.email/fs2.m3u8
 https://dai.google.com/linear/hls/event/9FKrAqCfRvGfn3tPbVFO-g/master.m3u8
 
 #EXTINF:108,Fox Sports Australia
-https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master640x360.m3u8
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master640x360_v3.m3u8
 
 #EXTINF:109,Fite
 https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_360/chunks.m3u8
@@ -334,7 +334,7 @@ https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master_1000k.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 
 #EXTINF:112,CombatGo
-https://dai.google.com/linear/hls/event/gaDje967RoSDD5llid2OBA/master.m3u8
+https://120sports-accdn-1.samsung.wurl.com/manifest/1200.m3u8
 
 #EXTINF:113,The T
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/f.m3u8
@@ -409,7 +409,7 @@ https://redseat-thefirst-glewedtv.amagi.tv/index360p.m3u8
 https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv_4.m3u8
 
 #EXTINF:137,TYT Network
-https://tyt-xumo-us.amagi.tv/hls/amagi_hls_data_tytnetwor-tyt-xumo/CDN/master.m3u8
+https://tyt-xumo-us.amagi.tv/hls/amagi_hls_data_tytnetwor-tyt-xumo/CDN/768x432_1531200/chunklist.m3u8
 
 #EXTINF:138,One America News Network
 https://cdn.klowdtv.net/803B48A/oan_aws_ms/OAN_180p30.m3u8
@@ -433,16 +433,16 @@ http://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
 http://59c3ec70cfde0.streamlock.net/channel_6/channel6/chunklist.m3u8
 
 #EXTINF:145,Hope Channel Philippines
-https://bcliveunivsecure-lh.akamaihd.net/i/HopeChannelPhilippines_1@310362/index_2000_av-b.m3u8
+https://hcfilipino.mmdlive.lldns.net/hcfilipino/f6e775755f2647159e0adefe01a44a0e/manifest.m3u8
 
 #EXTINF:146,Hope Channel International
-https://bcliveunivsecure-lh.akamaihd.net/i/International_1@571272/index_1192_av-p.m3u8
+https://hcintlinc.mmdlive.lldns.net/hcintlinc/60f14a7fec64454e90712421a46ac6f1/manifest.m3u8
 
 #EXTINF:147,CBN
 https://bcliveunivsecure-lh.akamaihd.net/i/iptv1_1@500579/master.m3u8
 
 #EXTINF:148,CTN
-https://rrsatrtmp.tulix.tv/ctntv/ctntvmulti.smil/chunklist_w876251872_b564000.m3u8
+https://rrsatrtmp.tulix.tv/ctntv/ctntvmulti.smil/chunklist_w534945064_b564000.m3u8
 
 #EXTINF:149,Hillsong Channel
 http://api.new.livestream.com/accounts/27460990/events/8266909/live.m3u8
