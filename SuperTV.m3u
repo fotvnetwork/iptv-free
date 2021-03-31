@@ -43,7 +43,7 @@ http://api.new.livestream.com/accounts/15418593/events/4787138/live.m3u8
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/9488d35066fc606.m3u8
 
 #EXTINF:15,UNTV (mirror)
-https://cdn.untvweb.com/live-stream/chunklist_b332000.m3u8
+http://cdn.untvweb.com/live-stream/chunklist_b332000.m3u8
 
 #EXTINF:16,TeleRadyo*
 https://tfcmsl.akamaized.net/hls/live/2014654/dzmm/bitrate_2.m3u8
@@ -58,19 +58,19 @@ https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
 https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1311088/chunklist_b600000.m3u8
 
 #EXTINF:20,Right Now TV
-https://feed.rightnowtelevision.com/live/smil:rntv.smil/chunklist_w94831124_b1692000_sleng.m3u8
+https://feed.rightnowtelevision.com/live/smil:rntv.smil/chunklist_w791901914_b542000_sleng.m3u8
 
 #EXTINF:21,YTA
 http://gideommd.mmdlive.lldns.net/gideommd/d5b6a753f86e4e51b8e15c7d23887a4f/chunklist_b732000.m3u8
 
 #EXTINF:22,Buzzr
-https://dai.google.com/linear/hls/event/wFZ1ufQ8ToaSdPgGtbBbpw/master.m3u8
+https://buzzr-roku-us.amagi.tv/playlistR404p.m3u8
 
-#EXTINF:23,Stirr City
-https://dai.google.com/linear/hls/event/WHTEcpPjQAaeStCtrJqzVQ/master.m3u8
+#EXTINF:23,Stirr Channel
+https://dai.google.com/linear/hls/event/4aD5IJf0QgKUJwPbq2fngg/master.m3u8
 
 #EXTINF:24,KET
-https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/chunklist_b600000_DVR.m3u8
+https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/chunklist_b2000000_DVR.m3u8
 
 #EXTINF:25,WSVN (Trial)
 https://bozztv.com/teleyupp1/teleup-GgIpXe0CjT/tracks-v3a1/mono.m3u8
@@ -93,8 +93,8 @@ https://lnc-news12.tubi.video/primary/5.m3u8
 #EXTINF:31,Black News Channel
 https://blacknewschannel-xumo-us.amagi.tv/playlistR404p.m3u8
 
-#EXTINF:32,News Press Now
-https://dai.google.com/linear/hls/event/UT7H2vbsSg6FZH19JWfpzw/master.m3u8
+#EXTINF:32,Stirr News 24/7
+https://dai.google.com/linear/hls/event/8hUeiLMpTm-YNqk7kadUwA/master.m3u8
 
 #EXTINF:33,CNN
 http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
@@ -189,8 +189,8 @@ https://hls.xumo.com/channel-hls/v1/bmneuerw7j9k5lfc/9999330/master.m3u8
 #EXTINF:63,Lively Place
 https://aenetworks-ae-1.roku.wurl.com/manifest/2000.m3u8
 
-#EXTINF:64,DIY Daily
-https://endemol-restore-2-gb.samsung.wurl.com/manifest/1200.m3u8
+#EXTINF:64,Love Nature
+https://bamus-eng-roku.amagi.tv/hls/amagi_hls_data_bamusaAAA-roku-bam-usa/CDN/512x288_981200/index.m3u8
 
 #EXTINF:65,Skills + Thrills
 https://aenetworks-skills-thrills-1.plex.wurl.com/manifest/1200.m3u8
@@ -199,13 +199,13 @@ https://aenetworks-skills-thrills-1.plex.wurl.com/manifest/1200.m3u8
 https://bozztv.com/teleyupp/teleup-tlc/tracks-v2a1/mono.m3u8
 
 #EXTINF:67,A&E Reality Mashup
-https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8
+https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/AETV/OBS12/chunks.m3u8
 
 #EXTINF:68,Comet
 https://dai.google.com/linear/hls/event/83L2OqtGSZ6lbWt8ODomWg/master.m3u8
 
-#EXTINF:69,Grit
-https://bozztv.com/teleyupp/teleup-grit/tracks-v3a1/mono.m3u8
+#EXTINF:69,TBD
+https://dai.google.com/linear/hls/event/_xtY848OSRCm_k0veSjMHg/master.m3u8
 
 #EXTINF:70,Charge!
 https://dai.google.com/linear/hls/event/e1QjWFRNSR2YFYGsPbkfgg/master.m3u8
@@ -216,8 +216,8 @@ https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8
 #EXTINF:72,Thrill
 http://45.126.83.51/qwr9ew/s/s34/02.m3u8
 
-#EXTINF:73,RESERVED (73)
-https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
+#EXTINF:73,Pop (Trial)
+http://n1.klowdtv.net/live2/pop_180p/chunks.m3u8
 
 #EXTINF:74,Hallmark (Trial)
 https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_yupptvfrn-hallmark-frndlytv/CDN/768x432_2340800/index.m3u8
@@ -234,8 +234,8 @@ https://shoutfactory-shoutfactory-zype.amagi.tv/playlistR432p.m3u8
 #EXTINF:78,Cine Life
 https://dai.google.com/linear/hls/event/PFJ1Jhd6SsSMcu3qq86wzQ/master.m3u8
 
-#EXTINF:79,RESERVED (79)
-https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
+#EXTINF:79,Galxy TV
+https://content.uplynk.com/channel/f467430e4a8e49a59ff3183cf51092b2.m3u8
 
 #EXTINF:80,Hollywood Classics
 https://fef5003bb7e7447ab21a2c3fd81e3b74.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_HollywoodClassics/playlist.m3u8?ads.wurl_channel=532&ads.wurl_name=HollywoodClassics&ads.us_privacy=1---&ads.psid=&ads.targetopt=1&ads.plex_token=z1MCPUpbxYcHru-5hdyq&ads.plex_id=5f0ff265d71dcb00449ec02d&ads.ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36+OPR%2F70.0.3728.95&ads.app_bundle=&ads.app_store_url=&ads.gdpr=0&ads.consent=0
@@ -333,7 +333,7 @@ https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master_1000k.m3u8
 #EXTINF:111,Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 
-#EXTINF:112,CombatGo
+#EXTINF:112,ACCDN
 https://120sports-accdn-1.samsung.wurl.com/manifest/1200.m3u8
 
 #EXTINF:113,The T
@@ -370,7 +370,7 @@ http://45.126.83.51/uq2663/h/h01/02.m3u8
 https://magellantv-1.vizio.wurl.com/manifest/1200.m3u8
 
 #EXTINF:124,NTD
-https://live.ntdimg.com/en01live900/playlist.m3u8
+https://1117825885.rsc.cdn77.org/1117825885/tracks-v2a1/mono.m3u8
 
 #EXTINF:125,Fashion TV
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b900000_t64MzYwcA==.m3u8
@@ -453,8 +453,8 @@ http://210.210.155.35/qwr9ew/s/s39/02.m3u8
 #EXTINF:151,Popstar! TV
 http://a.jsrdn.com/broadcast/wAlxn4cs/cupertino10_360p_1000000.m3u8
 
-#EXTINF:152,TBD
-https://dai.google.com/linear/hls/event/_xtY848OSRCm_k0veSjMHg/master.m3u8
+#EXTINF:152,Folk TV
+https://584b0aa350b92.streamlock.net/folk-tv/myStream.sdp/chunklist_w1786741766.m3u8
 
 #EXTINF:153,Law & Crime Network
 https://dai.google.com/linear/hls/event/3w3PsYzZQzS8lyRfi7e4mQ/master.m3u8
@@ -489,8 +489,8 @@ https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
 #EXTINF:163,Game Show Central
 https://gsn-gameshowchannnel-1.vizio.wurl.com/manifest/1200.m3u8
 
-#EXTINF:164,RESERVED (164)
-https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
+#EXTINF:164,Grit
+https://bozztv.com/teleyupp/teleup-grit/tracks-v3a1/mono.m3u8
 
 #EXTINF:165,Safe TV
 http://18.191.91.130:1935/live/safetv/playlist.m3u8
