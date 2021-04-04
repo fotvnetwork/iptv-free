@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:1,UNTV
-https://cdn.untvweb.com/live-stream/chunklist_b732000.m3u8
+http://cdn.untvweb.com/live-stream/chunklist_b732000.m3u8
 
 #EXTINF:2,GMA Life TV (Trial)
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/fc256993b031626.m3u8
@@ -10,7 +10,7 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/fc256993b
 http://59c3ec70cfde0.streamlock.net/channel_1/channel1/chunklist.m3u8
 
 #EXTINF:4,Super Radyo DZBB
-http://stream.gmanews.tv/ioslive/livestream/playlist.m3u8
+http://stream.gmanews.tv/ioslive/livestream/chunklist.m3u8?wowzasessionid=693701106
 
 #EXTINF:5,TV5
 http://103.11.112.84:1935/live2/smil:tv5.smil/chunklist_w542293137_b828000.m3u8
@@ -25,7 +25,7 @@ https://d3cbe0gidjd4k2.cloudfront.net/channel_7/channel7/chunklist_w659649511.m3
 https://d3cbe0gidjd4k2.cloudfront.net/channel_5/smil:channel_5.smil/chunklist_w1281634943_b300000_sleng.m3u8
 
 #EXTINF:9,CNN Philippines
-https://streaming.cnnphilippines.com/live/myStream/playlist.m3u8
+https://streaming.cnnphilippines.com/live/myStream/chunklist_w1877522213.m3u8
 
 #EXTINF:10,GMA Pinoy TV (Trial)
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/cd1b220644affbb.m3u8
@@ -39,14 +39,14 @@ https://amdottlive.akamaized.net/hls/live/2018990/iwantknowledge/master360p.m3u8
 #EXTINF:13,MyTV Cebu
 http://api.new.livestream.com/accounts/15418593/events/4787138/live.m3u8
 
-#EXTINF:14,Kapatid Channel (Trial)
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/9488d35066fc606.m3u8
+#EXTINF:14,RESERVED (14)
+https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
 
 #EXTINF:15,UNTV (mirror)
 http://cdn.untvweb.com/live-stream/chunklist_b332000.m3u8
 
 #EXTINF:16,TeleRadyo*
-https://tfcmsl.akamaized.net/hls/live/2014654/dzmm/bitrate_2.m3u8
+https://tfcmsl.akamaized.net/hls/live/2014654/dzmm/bitrate_3.m3u8
 
 #EXTINF:17,RESERVED (17)
 https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
@@ -670,7 +670,7 @@ https://stream.allsprk.tv/live/2/index.m3u8
 https://simultv.s.llnwi.net/n4s4/KartoonCircus/interlink.m3u8
 
 #EXTINF:224,Quahz TV
-https://t06243a-lh.akamaihd.net/i/t06243a_1@536897/master.m3u8?set-akamai-hls-revision=5&set-cc-attribute=none
+https://t06243a-lh.akamaihd.net/i/t06243a_1@536897/index_750_av-p.m3u8
 
 #EXTINF:225,iHolyfield TV
 https://simultv.s.llnwi.net/n4s4/GITV/iH/iHolyfield/interlink_3200.m3u8
