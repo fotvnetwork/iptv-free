@@ -3,8 +3,8 @@
 #EXTINF:1,UNTV
 http://cdn.untvweb.com/live-stream/chunklist_b732000.m3u8
 
-#EXTINF:2,GMA Life TV (Trial)
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/fc256993b031626.m3u8
+#EXTINF:2,RESERVED (2)
+https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
 
 #EXTINF:3,TVshop
 http://59c3ec70cfde0.streamlock.net/channel_1/channel1/chunklist.m3u8
@@ -27,11 +27,11 @@ https://d3cbe0gidjd4k2.cloudfront.net/channel_5/smil:channel_5.smil/chunklist_w1
 #EXTINF:9,CNN Philippines
 https://streaming.cnnphilippines.com/live/myStream/chunklist_w1877522213.m3u8
 
-#EXTINF:10,GMA Pinoy TV (Trial)
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/cd1b220644affbb.m3u8
+#EXTINF:10,RESERVED (10)
+https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
 
-#EXTINF:11,GMA News TV International (Trial)
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/f9973976ebde68c.m3u8
+#EXTINF:11,RESERVED (11)
+https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
 
 #EXTINF:12,Knowledge Channel*
 https://amdottlive.akamaized.net/hls/live/2018990/iwantknowledge/master360p.m3u8
