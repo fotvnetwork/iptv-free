@@ -52,13 +52,13 @@ https://tfcmsl.akamaized.net/hls/live/2014654/dzmm/bitrate_3.m3u8
 https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
 
 #EXTINF:18,AMGTV
-https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
+https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/chunklist.m3u8
 
 #EXTINF:19,NewsNet
 https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1311088/chunklist_b600000.m3u8
 
 #EXTINF:20,Right Now TV
-https://feed.rightnowtelevision.com/live/smil:rntv.smil/chunklist_w791901914_b542000_sleng.m3u8
+https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastrightnowtv/playlist.m3u8
 
 #EXTINF:21,YTA
 http://gideommd.mmdlive.lldns.net/gideommd/d5b6a753f86e4e51b8e15c7d23887a4f/chunklist_b732000.m3u8
@@ -69,8 +69,8 @@ https://buzzr-roku-us.amagi.tv/playlistR404p.m3u8
 #EXTINF:23,Stirr Channel
 https://dai.google.com/linear/hls/event/4aD5IJf0QgKUJwPbq2fngg/master.m3u8
 
-#EXTINF:24,KET
-https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/chunklist_b2000000_DVR.m3u8
+#EXTINF:24,MPT
+https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/chunklist_b600000.m3u8
 
 #EXTINF:25,WSVN (Trial)
 https://bozztv.com/teleyupp1/teleup-GgIpXe0CjT/tracks-v3a1/mono.m3u8
@@ -124,7 +124,7 @@ http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
 https://livestream.chdrstatic.com/b93e5b0d43ea306310a379971e384964acbe4990ce193c0bd50078275a9a657d/cheddar-42620/cheddarweblive/cheddar/primary/5.m3u8
 
 #EXTINF:42,Bloomberg TV
-https://www.bloomberg.com/media-manifest/streams/asia.m3u8
+https://liveprodapnortheast.akamaized.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-700-1_live.m3u8
 
 #EXTINF:43,Bloomberg Quicktake
 https://dai.google.com/linear/hls/event/cFDvmqo4TGW7EfHwscU_Ew/master.m3u8
@@ -757,7 +757,7 @@ http://bnc-roku-us.amagi.tv/hls/amagi_hls_data_blacknews-blacknewsnetwork/CDN/12
 http://n1.klowdtv.net/live1/oan_720p/chunks.m3u8
 
 #EXTINF:323,The First TV HD
-https://thefirst-plutolive-vo.akamaized.net/index720p.m3u8
+https://thefirst-distroscale.amagi.tv/index1080p.m3u8
 
 #EXTINF:324,NBCLX HD
 https://lxlive-lh.akamaihd.net/i/LX_LIVE@148206/index_1080P_av-p.m3u8
@@ -765,8 +765,8 @@ https://lxlive-lh.akamaihd.net/i/LX_LIVE@148206/index_1080P_av-p.m3u8
 #EXTINF:325,NewsNet HD
 https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1311088/chunklist_b2000000.m3u8
 
-#EXTINF:326,PBS HD
-https://ssc4.wpsu.psu.edu/WPSU_LLStream/ngrp:WPSU1_720max/chunklist_b2169344.m3u8
+#EXTINF:326,RESERVED (326)
+https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
 
 #EXTINF:327,Kool TV HD
 http://209.182.219.50:1935/roku/roku/playlist.m3u8
