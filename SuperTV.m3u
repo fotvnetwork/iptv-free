@@ -753,7 +753,7 @@ http://93.190.140.42:8081/SilenceTV/live/playlist.m3u8
 #EXTINF:321,Black News Channel HD
 http://bnc-roku-us.amagi.tv/hls/amagi_hls_data_blacknews-blacknewsnetwork/CDN/1280x720_2855600/index.m3u8
 
-#EXTINF:322,One America News Netrwork HD
+#EXTINF:322,One America News Network HD
 http://n1.klowdtv.net/live1/oan_720p/chunks.m3u8
 
 #EXTINF:323,The First TV HD
