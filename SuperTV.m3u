@@ -357,7 +357,7 @@ https://waypointtv-samsung.plex.wurl.com/manifest/1200.m3u8
 #EXTINF:119,CGTN Documentary
 https://livedoc.cgtn.com/500d/prog_index.m3u8
 
-#EXTINF:120,Voyager Docs
+#EXTINF:120,Voyager Documentaries
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvoyager/CDN/playlist.m3u8
 
 #EXTINF:121,Docurama
