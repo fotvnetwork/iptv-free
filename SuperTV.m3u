@@ -58,7 +58,7 @@ https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/chunklist.m3u8
 https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1311088/chunklist_b600000.m3u8
 
 #EXTINF:20,Right Now TV
-https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastrightnowtv/playlist.m3u8
+https://feed.rightnowtelevision.com/live/smil:rntv.smil/playlist.m3u8
 
 #EXTINF:21,YTA
 http://gideommd.mmdlive.lldns.net/gideommd/d5b6a753f86e4e51b8e15c7d23887a4f/chunklist_b732000.m3u8
@@ -76,7 +76,7 @@ https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/chunklist_b600000.m
 https://bozztv.com/teleyupp1/teleup-GgIpXe0CjT/tracks-v3a1/mono.m3u8
 
 #EXTINF:26,KCWX
-http://65.36.6.216:1935/live/kcwx.smil/chunklist_w879211551_b850000_sleng.m3u8
+http://65.36.6.216:1935/live/kcwx.smil/chunklist_w1137540697_b350000_sleng.m3u8
 
 #EXTINF:27,WCTX (Trial)
 https://bozztv.com/teleyupp/e5CGxWp8iU/tracks-v3a1/mono.m3u8
@@ -100,7 +100,7 @@ https://dai.google.com/linear/hls/event/8hUeiLMpTm-YNqk7kadUwA/master.m3u8
 http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
 
 #EXTINF:34,CNN International
-https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_640x360_1200k.m3u8
+https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_384_216_500k.m3u8
 
 #EXTINF:35,CBSN
 https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_10.m3u8
@@ -300,8 +300,8 @@ https://toon-goggles-samsung.vizio.wurl.com/manifest/1200.m3u8
 #EXTINF:100,TG Junior
 https://tg-junior.samsung.wurl.com/manifest/1200.m3u8
 
-#EXTINF:101,Cartoon Network (Trial)
-http://51.68.141.106:8081/tv/cartoon-network/playlist.m3u8
+#EXTINF:101,Nick Pluto TV
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=954c037d-1a11-44d3-b488-9d06f8a3e068&deviceLat=33.9560&deviceLon=-118.3887&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=81.0.4044.26&includeExtendedEvents=false&sid=e6f1682e-cc62-437a-bd0d-082bea9a4059&userId=&serverSideAds=true
 
 #EXTINF:102,Zoo Moo
 https://rockentertainment-zoomoo-1.samsung.wurl.com/manifest/1200.m3u8
@@ -576,8 +576,8 @@ https://1123112950.rsc.cdn77.org/FTF/REWIREMASTER_Low.m3u8
 #EXTINF:192,ONNtv
 https://onntv.vantrix.tv/onntv_hls/360p/onntv_hls-HLS-360p.m3u8
 
-#EXTINF:193,RESERVED (193)
-https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
+#EXTINF:193,KCRT-TV
+http://granicusliveus3-a.akamaihd.net/richmond/G0034_002/chunklist.m3u8
 
 #EXTINF:194,NTV Newfoundland
 https://2-fss-2.streamhoster.com/pl_138/201748-1282640-1/playlist.m3u8
@@ -683,6 +683,9 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-theasylum/CDN/768x432_1200000/ind
 
 #EXTINF:228,Positiv TV
 https://player-api.new.livestream.com/accounts/27460990/events/8973036/live.m3u8
+
+#EXTINF:229,Biz TV
+https://thegateway.app/BizAndYou/Biz_480p/playlist.m3u8
 
 #EXTINF:299,Live Event
 https://live.prd.dlive.tv/hls/live/dlive-ohxebgkzeq.m3u8?web=true
