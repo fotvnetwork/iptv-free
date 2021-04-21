@@ -1,0 +1,820 @@
+#EXTM3U
+
+#EXTINF:1,UNTV
+http://cdn.untvweb.com/live-stream/chunklist_b732000.m3u8
+
+#EXTINF:2,Kapamilya Channel
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/829dbdfe0b57013.m3u8
+
+#EXTINF:3,TVshop
+http://59c3ec70cfde0.streamlock.net/channel_1/channel1/chunklist.m3u8
+
+#EXTINF:4,One PH (Trial)
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/114.m3u8
+
+#EXTINF:5,TV5
+http://103.11.112.84:1935/live2/smil:tv5.smil/chunklist_w542293137_b828000.m3u8
+
+#EXTINF:6,One Sports
+http://103.11.112.28:1935/live2/smil:onesports.smil/chunklist_w1210079406_b628000.m3u8
+
+#EXTINF:7,GMA (Trial)
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/99.m3u8
+
+#EXTINF:8,BEAM/DepEd TV
+https://d3cbe0gidjd4k2.cloudfront.net/channel_7/channel7/chunklist_w659649511.m3u8
+
+#EXTINF:9,CNN Philippines
+https://streaming.cnnphilippines.com/live/myStream/chunklist_w1877522213.m3u8
+
+#EXTINF:10,GMA Pinoy TV
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/cd1b220644affbb.m3u8
+
+#EXTINF:11,GMA News TV International
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/f9973976ebde68c.m3u8
+
+#EXTINF:12,GMA Life TV
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/fc256993b031626.m3u8
+
+#EXTINF:13,IBC (Trial)
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/98.m3u8
+
+#EXTINF:14,Knowledge Channel*
+https://amdottlive.akamaized.net/hls/live/2018990/iwantknowledge/master360p.m3u8
+
+#EXTINF:15,NET 25 (Trial)
+https://ebc.sytes.net/hls/net25.m3u8
+
+#EXTINF:16,UNTV (mirror)
+http://cdn.untvweb.com/live-stream/chunklist_b332000.m3u8
+
+#EXTINF:17,TeleRadyo*
+https://tfcmsl.akamaized.net/hls/live/2014654/dzmm/bitrate_3.m3u8
+
+#EXTINF:18,ANC (Trial)
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/103.m3u8
+
+#EXTINF:19,TFC
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/298a3f407e14a38.m3u8
+
+#EXTINF:20,Kapamilya Channel (mirror)
+http://202.57.43.60:8443/live/4fd87006e1106cbde6b1d0b32464825d/100.m3u8
+
+#EXTINF:21,Jeepney TV (Trial)
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/106.m3u8
+
+#EXTINF:22,Pilipinas HD
+https://d3cbe0gidjd4k2.cloudfront.net/channel_5/smil:channel_5.smil/chunklist_w1281634943_b300000_sleng.m3u8
+
+#EXTINF:23,MyTV Cebu
+http://api.new.livestream.com/accounts/15418593/events/4787138/live.m3u8
+
+#EXTINF:24,CLTV 36 (Trial)
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/134.m3u8
+
+#EXTINF:25,Super Radyo DZBB
+http://stream.gmanews.tv/ioslive/livestream/chunklist.m3u8?wowzasessionid=693701106
+
+#EXTINF:26,Solar Learning (Trial)
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/123.m3u8
+
+#EXTINF:27,Solar Sports (Trial)
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/118.m3u8
+
+#EXTINF:28,AMGTV
+https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/chunklist.m3u8
+
+#EXTINF:29,NewsNet
+https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1311088/chunklist_b600000.m3u8
+
+#EXTINF:30,Right Now TV
+https://feed.rightnowtelevision.com/live/smil:rntv.smil/playlist.m3u8
+
+#EXTINF:31,YTA
+http://gideommd.mmdlive.lldns.net/gideommd/d5b6a753f86e4e51b8e15c7d23887a4f/chunklist_b732000.m3u8
+
+#EXTINF:32,Buzzr
+https://buzzr-roku-us.amagi.tv/playlistR404p.m3u8
+
+#EXTINF:33,Hallypop
+https://content.uplynk.com/channel/01cd8b33410c4682bcba1404e10c841a.m3u8
+
+#EXTINF:34,Stirr Channel
+https://dai.google.com/linear/hls/event/4aD5IJf0QgKUJwPbq2fngg/master.m3u8
+
+#EXTINF:35,MPT
+https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/chunklist_b600000.m3u8
+
+#EXTINF:36,WSVN (Trial)
+https://bozztv.com/teleyupp1/teleup-GgIpXe0CjT/tracks-v3a1/mono.m3u8
+
+#EXTINF:37,KCWX
+http://65.36.6.216:1935/live/kcwx.smil/chunklist_w1137540697_b350000_sleng.m3u8
+
+#EXTINF:38,WCTX (Trial)
+https://bozztv.com/teleyupp/e5CGxWp8iU/tracks-v3a1/mono.m3u8
+
+#EXTINF:39,WGN (Trial)
+https://bozztv.com/teleyupp1/teleup-mBm5MQ50rA/tracks-v3a1/mono.m3u8
+
+#EXTINF:40,Newsy
+https://newsy.sinclair.wurl.com/manifest/1200.m3u8
+
+#EXTINF:41,News 12
+https://lnc-news12.tubi.video/primary/5.m3u8
+
+#EXTINF:42,Black News Channel
+https://blacknewschannel-xumo-us.amagi.tv/playlistR404p.m3u8
+
+#EXTINF:43,Stirr News 24/7
+https://dai.google.com/linear/hls/event/8hUeiLMpTm-YNqk7kadUwA/master.m3u8
+
+#EXTINF:44,CNN
+http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
+
+#EXTINF:45,CNN International
+https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_384_216_500k.m3u8
+
+CBSN
+https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_10.m3u8
+
+ABC News Live
+http://dai2.xumo.com/amagi_hls_data_xumo1212A-abcnews/CDN/512x288_875600/chunklist.m3u8
+
+NBC News Now
+https://nbcnewshls.akamaized.net/hls/live/2011820/nnn_live1/index_750.m3u8
+
+MSNBC
+http://1111296894.rsc.cdn77.org/LS-ATL-54548-10/tracks-v1a1/mono.m3u8
+
+NewsNOW from Fox
+http://fox-foxnewsnow-samsungus.amagi.tv/playlist360p.m3u8
+
+Fox News
+http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
+
+Cheddar
+https://livestream.chdrstatic.com/b93e5b0d43ea306310a379971e384964acbe4990ce193c0bd50078275a9a657d/cheddar-42620/cheddarweblive/cheddar/primary/5.m3u8
+
+Bloomberg TV
+https://liveprodapnortheast.akamaized.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-700-1_live.m3u8
+
+Bloomberg Quicktake
+https://dai.google.com/linear/hls/event/cFDvmqo4TGW7EfHwscU_Ew/master.m3u8
+
+C-SPAN
+https://bozztv.com/teleyupp/teleup-cspan/tracks-v3a1/mono.m3u8
+
+BBC World News
+http://1111296894.rsc.cdn77.org/LS-ATL-54548-11/tracks-v1a1/mono.m3u8
+
+#EXTINF:46,Sky News
+http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/03.m3u8
+
+#EXTINF:47,Australia Channel News
+https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master640x360v3.m3u8
+
+#EXTINF:48,ABC News Australia
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_43.m3u8
+
+#EXTINF:49,Al Jazeera
+https://live-hls-web-aje.getaj.net/AJE/03.m3u8
+
+#EXTINF:50,RT
+https://rt-news.secure.footprint.net/1103_800Kb.m3u8
+
+#EXTINF:51,France 24
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_500.m3u8
+
+#EXTINF:52,Euronews
+https://euronews-euronews-world-1.roku.wurl.com/manifest/b34060fcaf527710b244a3e16504edd0.m3u8
+
+#EXTINF:53,Press TV
+https://live.presstv.com/liveprs/smil:liveprs/chunklist_w1027720361_b644100_slen.m3u8
+
+#EXTINF:54,DW
+https://m-c010-j2apps.s.llnwi.net/hls/8023.DWEnglish.in_360p/index.m3u8
+
+#EXTINF:55,CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_2.m3u8
+
+#EXTINF:56,CGTN
+https://dai.google.com/linear/hls/event/r4sa-f6GSN2XIvzKv5jVng/master.m3u8
+
+#EXTINF:57,NHK World Japan
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_600k.m3u8
+
+#EXTINF:58,Arirang
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b656000_sleng.m3u8
+
+#EXTINF:59,Arise News
+https://contributionstreams.sechls01.visionip.tv/live/visiontv-contributionstreams-arise-tv-25f-16x9-SDh/playlist.m3u8
+
+#EXTINF:60,TeleSUR
+https://d7g1ebft2592.cloudfront.net/mblivev3/360p/chunklist.m3u8
+
+#EXTINF:61,TRT World
+https://tv-trtworld.live.trt.com.tr/master_360.m3u8
+
+#EXTINF:62,The Preview Channel
+https://hls.xumo.com/channel-hls/v1/bmneuerw7j9k5lfc/9999330/master.m3u8
+
+#EXTINF:63,Lively Place
+https://aenetworks-ae-1.roku.wurl.com/manifest/2000.m3u8
+
+#EXTINF:64,Love Nature
+https://bamus-eng-roku.amagi.tv/hls/amagi_hls_data_bamusaAAA-roku-bam-usa/CDN/512x288_981200/index.m3u8
+
+#EXTINF:65,Skills + Thrills
+https://aenetworks-skills-thrills-1.plex.wurl.com/manifest/1200.m3u8
+
+#EXTINF:66,TLC (Trial)
+https://bozztv.com/teleyupp/teleup-tlc/tracks-v2a1/mono.m3u8
+
+#EXTINF:67,A&E Reality Mashup
+https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/AETV/OBS12/chunks.m3u8
+
+#EXTINF:68,Comet
+https://dai.google.com/linear/hls/event/83L2OqtGSZ6lbWt8ODomWg/master.m3u8
+
+#EXTINF:69,TBD
+https://dai.google.com/linear/hls/event/_xtY848OSRCm_k0veSjMHg/master.m3u8
+
+#EXTINF:70,Charge!
+https://dai.google.com/linear/hls/event/e1QjWFRNSR2YFYGsPbkfgg/master.m3u8
+
+#EXTINF:71,MovieMix
+https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8
+
+#EXTINF:72,Thrill
+http://45.126.83.51/qwr9ew/s/s34/02.m3u8
+
+#EXTINF:73,Pop (Trial)
+http://n1.klowdtv.net/live2/pop_180p/chunks.m3u8
+
+#EXTINF:74,Hallmark (Trial)
+https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_yupptvfrn-hallmark-frndlytv/CDN/768x432_2340800/index.m3u8
+
+#EXTINF:75,RunTime Free Movies
+https://ammoruntime-plex.amagi.tv/playlistR432p.m3u8
+
+#EXTINF:76,Reelz
+http://a.jsrdn.com/broadcast/d37066a396/+0000/mid/c.m3u8
+
+#EXTINF:77,ShoutFactory TV
+https://shoutfactory-shoutfactory-zype.amagi.tv/playlistR432p.m3u8
+
+#EXTINF:78,Cine Life
+https://dai.google.com/linear/hls/event/PFJ1Jhd6SsSMcu3qq86wzQ/master.m3u8
+
+#EXTINF:79,Galxy TV
+https://content.uplynk.com/channel/f467430e4a8e49a59ff3183cf51092b2.m3u8
+
+#EXTINF:80,Hollywood Classics
+https://fef5003bb7e7447ab21a2c3fd81e3b74.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_HollywoodClassics/playlist.m3u8?ads.wurl_channel=532&ads.wurl_name=HollywoodClassics&ads.us_privacy=1---&ads.psid=&ads.targetopt=1&ads.plex_token=z1MCPUpbxYcHru-5hdyq&ads.plex_id=5f0ff265d71dcb00449ec02d&ads.ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36+OPR%2F70.0.3728.95&ads.app_bundle=&ads.app_store_url=&ads.gdpr=0&ads.consent=0
+
+#EXTINF:81,Midnight Pulp
+https://midnightpulp-samsung.roku.wurl.com/manifest/1200.m3u8
+
+#EXTINF:82,RetroCrush
+https://digitalmediarights-retrocrush-1.sinclair.wurl.com/manifest/1200.m3u8
+
+#EXTINF:83,Ion Plus
+https://ion-ion-plus-1.vizio.wurl.com/manifest/playlist_640x360_1200k.m3u8
+
+#EXTINF:84,MHz
+https://mhz-samsung-linear-ca.samsung.wurl.com/manifest/1200.m3u8
+
+#EXTINF:85,Crackle
+https://crackle-plex.amagi.tv/playlist480p.m3u8
+
+#EXTINF:86,AMC Presents
+https://amc-amcpresents-1.vizio.wurl.com/manifest/1200.m3u8
+
+#EXTINF:87,IFC Film Picks
+https://amc-ifc-films-picks-1.vizio.wurl.com/manifest/1200.m3u8
+
+#EXTINF:88,Slightly Off
+https://amc-slightly-off-by-amc-1.vizio.wurl.com/manifest/1200.m3u8
+
+#EXTINF:89,All Weddings
+https://amc-allweddings-1.vizio.wurl.com/manifest/1200.m3u8
+
+#EXTINF:90,Revry
+https://linear-5.frequency.stream/dist/plex/5/hls/master/playlist.m3u8
+
+#EXTINF:91,Johnny Carson TV
+https://johnnycarson-zype.amagi.tv/playlistR432p.m3u8
+
+#EXTINF:92,Dove Channel
+https://dovenow-roku-ingest.cinedigm.com/master432p.m3u8
+
+#EXTINF:93,CONtv
+http://contv.sinclair.wurl.com/manifest/da1285e1dd4323e6aff01b01cd40651c.m3u8
+
+#EXTINF:94,Nosey
+https://nosey-2.roku.wurl.com/manifest/1200.m3u8
+
+#EXTINF:95,Demand Africa
+https://demandafrica-vizio.amagi.tv/playlist480p.m3u8
+
+#EXTINF:96,DUSTx
+https://dust.samsung.wurl.com/manifest/1200.m3u8
+
+#EXTINF:97,The Bob Ross Channel
+https://bobross-us-roku.cinedigm.com/midroll/amagi_hls_data_xumo-host-roku-bobross/CDN/720x404_1790800/index.m3u8
+
+#EXTINF:98,This Old House
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziothisoldhouse/CDN/640x360_440000/index.m3u8
+
+#EXTINF:99,Toon Goggles
+https://toon-goggles-samsung.vizio.wurl.com/manifest/1200.m3u8
+
+#EXTINF:100,TG Junior
+https://tg-junior.samsung.wurl.com/manifest/1200.m3u8
+
+#EXTINF:101,Nick Pluto TV
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=954c037d-1a11-44d3-b488-9d06f8a3e068&deviceLat=33.9560&deviceLon=-118.3887&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=81.0.4044.26&includeExtendedEvents=false&sid=e6f1682e-cc62-437a-bd0d-082bea9a4059&userId=&serverSideAds=true
+
+#EXTINF:102,Zoo Moo
+https://rockentertainment-zoomoo-1.samsung.wurl.com/manifest/1200.m3u8
+
+#EXTINF:103,HappyKids
+https://happykids-vizio.amagi.tv/playlist480p.m3u8
+
+#EXTINF:104,BeIN Sports Xtra
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:105,Sports Channel Network
+https://vod365-sports-channel-network-1-gb.samsung.wurl.com/manifest/1200.m3u8
+
+#EXTINF:106,ESPN (Trial)
+https://gma2.blab.email/fs2.m3u8
+
+#EXTINF:107,SportsGrid Network
+https://dai.google.com/linear/hls/event/9FKrAqCfRvGfn3tPbVFO-g/master.m3u8
+
+#EXTINF:108,Fox Sports Australia
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master640x360_v3.m3u8
+
+#EXTINF:109,Fite
+https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_360/chunks.m3u8
+
+#EXTINF:110,Stadium
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master_1000k.m3u8
+
+#EXTINF:111,Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
+
+#EXTINF:112,ACCDN
+https://120sports-accdn-1.samsung.wurl.com/manifest/1200.m3u8
+
+#EXTINF:113,The T
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/f.m3u8
+
+#EXTINF:114,Adventure Sports Network
+http://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/640x360_440000/index.m3u8
+
+#EXTINF:115,Pac-12 Insider
+https://pac12-roku-us.amagi.tv/playlistR432p.m3u8
+
+#EXTINF:116,Outside TV+
+https://outsidetvplus-stirr.amagi.tv/playlistR360p.m3u8
+
+#EXTINF:117,Fuel TV
+https://fueltv-fueltv-2-gb.samsung.wurl.com/manifest/playlist_640x360_1000k.m3u8
+
+#EXTINF:118,Waypoint TV
+https://waypointtv-samsung.plex.wurl.com/manifest/1200.m3u8
+
+#EXTINF:119,CGTN Documentary
+https://livedoc.cgtn.com/500d/prog_index.m3u8
+
+#EXTINF:120,Voyager Documentaries
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvoyager/CDN/playlist.m3u8
+
+#EXTINF:121,Docurama
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/640x360_394000/chunklist.m3u8
+
+#EXTINF:122,TV5Monde Style
+http://45.126.83.51/uq2663/h/h01/02.m3u8
+
+#EXTINF:123,Magellan TV
+https://magellantv-1.vizio.wurl.com/manifest/1200.m3u8
+
+#EXTINF:124,NTD
+https://1117825885.rsc.cdn77.org/1117825885/tracks-v2a1/mono.m3u8
+
+#EXTINF:125,Fashion TV
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b900000_t64MzYwcA==.m3u8
+
+#EXTINF:126,Fashion TV 2
+http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
+
+#EXTINF:127,bspoketv
+https://bspoketv.s.llnwi.net/streams/322/out_0.m3u8
+
+#EXTINF:128,Complex
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcomplex/CDN/640x360_440000/index.m3u8
+
+#EXTINF:129,Glewed TV
+https://glewedtv-1.sinclair.wurl.com/manifest/1200.m3u8
+
+#EXTINF:130,MTV
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_1250_av-p.m3u8
+
+#EXTINF:131,V2BEAT TV
+http://de1se01.v2beat.live/playlist.m3u8
+
+#EXTINF:132,InfoWars
+http://wpc.9ec1.edgecastcdn.net/249EC1/infowarshd-edgecast/hd720.m3u8
+
+#EXTINF:133,Real America's Voice
+https://p1media-americasvoice-1.roku.wurl.com/manifest/b1ba4c5e9571b4919d24d0e97f8b7202.m3u8
+
+#EXTINF:134,The Blaze
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e46fba0c43b0d00096e5ac1/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=954c037d-1a11-44d3-b488-9d06f8a3e068&deviceLat=33.9560&deviceLon=-118.3887&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=81.0.4044.26&includeExtendedEvents=false&sid=e6f1682e-cc62-437a-bd0d-082bea9a4059&userId=&serverSideAds=true
+
+#EXTINF:135,The First TV
+https://redseat-thefirst-glewedtv.amagi.tv/index360p.m3u8
+
+#EXTINF:136,Free Speech TV
+https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv_4.m3u8
+
+#EXTINF:137,TYT Network
+https://tyt-xumo-us.amagi.tv/hls/amagi_hls_data_tytnetwor-tyt-xumo/CDN/768x432_1531200/chunklist.m3u8
+
+#EXTINF:138,One America News Network
+https://cdn.klowdtv.net/803B48A/oan_aws_ms/OAN_180p30.m3u8
+
+#EXTINF:139,OAN Plus
+https://cdn.herringnetwork.com/80A4DFF/oane_oregon/OAN_Encore_180p30.m3u8
+
+#EXTINF:140,Newsmax TV
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_404.m3u8
+
+#EXTINF:141,Yahoo! News
+https://content.uplynk.com/channel/411ba7ca8cb6403a9e73509e49c3a77b.m3u8?expand=trc
+
+#EXTINF:142,NBCLX
+https://lxlive-lh.akamaihd.net/i/LX_LIVE@148206/index_360P_av-p.m3u8
+
+#EXTINF:143,SMNI
+http://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
+
+#EXTINF:144,Life TV - ONK
+http://59c3ec70cfde0.streamlock.net/channel_6/channel6/chunklist.m3u8
+
+#EXTINF:145,Hope Channel Philippines
+https://hcfilipino.mmdlive.lldns.net/hcfilipino/f6e775755f2647159e0adefe01a44a0e/manifest.m3u8
+
+#EXTINF:146,Hope Channel International
+https://hcintlinc.mmdlive.lldns.net/hcintlinc/60f14a7fec64454e90712421a46ac6f1/manifest.m3u8
+
+#EXTINF:147,CBN
+https://bcliveunivsecure-lh.akamaihd.net/i/iptv1_1@500579/master.m3u8
+
+#EXTINF:148,CTN
+https://rrsatrtmp.tulix.tv/ctntv/ctntvmulti.smil/chunklist_w534945064_b564000.m3u8
+
+#EXTINF:149,Hillsong Channel
+http://api.new.livestream.com/accounts/27460990/events/8266909/live.m3u8
+
+#EXTINF:150,TBN Asia
+http://210.210.155.35/qwr9ew/s/s39/02.m3u8
+
+#EXTINF:151,Popstar! TV
+http://a.jsrdn.com/broadcast/wAlxn4cs/cupertino10_360p_1000000.m3u8
+
+#EXTINF:152,Folk TV
+https://584b0aa350b92.streamlock.net/folk-tv/myStream.sdp/chunklist_w1786741766.m3u8
+
+#EXTINF:153,Law & Crime Network
+https://dai.google.com/linear/hls/event/3w3PsYzZQzS8lyRfi7e4mQ/master.m3u8
+
+#EXTINF:154,Court TV
+https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8?v=2&ad=web&m.sound=normal&pos=midroll&expand=ad_live&m.sound=normal&m.playback=autoplay&ad.url=https%3A%2F%2Fwww.courttv.com%2F
+
+#EXTINF:155,People TV
+https://peopletv-oo.akamaized.net/playlist480p.m3u8
+
+#EXTINF:156,ET Live
+https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest_81.m3u8
+
+#EXTINF:157,TMZ
+http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/640x360_440000/index.m3u8
+
+#EXTINF:158,Sidewalks
+http://30a-tv.com/sidewalks.m3u8
+
+#EXTINF:159,ElectricNOW
+https://dai.google.com/linear/hls/event/KsvJAc81Qoewj6opYso6Fw/master.m3u8
+
+#EXTINF:160,AFV Family
+https://dai.google.com/linear/hls/event/18_lZXPySFa5_GRVEbOX_A/master.m3u8
+
+#EXTINF:161,The Pet Collective
+https://the-pet-collective-linear.vizio.wurl.com/manifest/1200.m3u8
+
+#EXTINF:162,FailArmy
+https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
+
+#EXTINF:163,Game Show Central
+https://gsn-gameshowchannnel-1.vizio.wurl.com/manifest/1200.m3u8
+
+#EXTINF:164,Grit
+https://bozztv.com/teleyupp/teleup-grit/tracks-v3a1/mono.m3u8
+
+#EXTINF:165,Safe TV
+http://18.191.91.130:1935/live/safetv/playlist.m3u8
+
+#EXTINF:166,Camera Smile TV
+https://playout4multirtmp.tulix.tv/live7/Stream1/playlist.m3u8
+
+#EXTINF:167,Hunt Channel
+https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
+
+#EXTINF:168,Insight TV
+https://dai.google.com/linear/hls/event/KAfBFcVrQgKmHhpzvkEn9A/master.m3u8
+
+#EXTINF:169,People Are Awesome
+https://jukin-peopleareawesome-2-gb.samsung.wurl.com/manifest/1200.m3u8
+
+#EXTINF:170,Tastemade
+https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/512x288_875600/index.m3u8
+
+#EXTINF:171,Saveur
+https://a.jsrdn.com/broadcast/060753d37e/+0000/c.m3u8
+
+#EXTINF:172,Gusto TV
+https://gustotv-gustotv-1.roku.wurl.com/manifest/1200.m3u8
+
+#EXTINF:173,The Outdoor Cooking Channel
+http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/chunklist_w981409619_b1105254.m3u8
+
+#EXTINF:174,Bon Appetit
+https://condenast-bonappetit-vizio.amagi.tv/playlist480p.m3u8
+
+#EXTINF:175,Stirr Cooks
+https://dai.google.com/linear/hls/event/CHaUZsCfSyS2CVF7I-NktA/master.m3u8
+
+#EXTINF:176,XCorps
+https://simultv.s.llnwi.net/n4s4/xcorps/interlink.m3u8
+
+#EXTINF:177,Indonesia Channel
+http://wowzaprod236-i.akamaihd.net/hls/live/1019903/7dd4cf51/playlist.m3u8
+
+#EXTINF:178,Wired
+http://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxwired/CDN/640x360_440000/index.m3u8
+
+#EXTINF:179,Cloudflare TV
+https://cloudflare.tv/hls/live.m3u8
+
+#EXTINF:180,CBSN New York
+https://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8
+
+#EXTINF:181,CBSN Los Angeles
+https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8
+
+#EXTINF:182,CBSN Boston
+https://dai.google.com/linear/hls/event/26FJK7wRSo6RhPsK70XS_w/master.m3u8
+
+#EXTINF:183,CBSN Bay Area
+https://dai.google.com/linear/hls/event/VE8b4n-YStusEGv5Z2NmsQ/master.m3u8
+
+#EXTINF:184,CBSN Minnesota
+https://dai.google.com/linear/hls/event/zcWPVCfURNSPxeidcckQLA/master.m3u8
+
+#EXTINF:185,CBSN Philly
+https://dai.google.com/linear/hls/event/Xu-ITJ2GTNGaxGn893mmWg/master.m3u8
+
+#EXTINF:186,CBSN Denver
+https://dai.google.com/linear/hls/event/EUo67MWSRh6toPi0heJKnQ/master.m3u8
+
+#EXTINF:187,CBSN Pittsburgh
+https://dai.google.com/linear/hls/event/i5SXVKI4QIuV-eF2XAH4FQ/master.m3u8
+
+#EXTINF:188,CBSN Chicago
+https://dai.google.com/linear/hls/event/DWt8iR1YQ-OJQsxczu8KfQ/master.m3u8
+
+#EXTINF:189,CBSN Dallas-FW
+https://dai.google.com/linear/hls/event/o5J3g4U9T16CvYnS7Qd86Q/master.m3u8
+
+#EXTINF:190,SGTN
+http://stgn-49.tulix.tv/live19/Stream1/chunklist_w1498543121.m3u8
+
+#EXTINF:191,alee+
+https://1123112950.rsc.cdn77.org/FTF/REWIREMASTER_Low.m3u8
+
+#EXTINF:192,ONNtv
+https://onntv.vantrix.tv/onntv_hls/360p/onntv_hls-HLS-360p.m3u8
+
+#EXTINF:193,KCRT-TV
+http://granicusliveus3-a.akamaihd.net/richmond/G0034_002/chunklist.m3u8
+
+#EXTINF:194,NTV Newfoundland
+https://2-fss-2.streamhoster.com/pl_138/201748-1282640-1/playlist.m3u8
+
+#EXTINF:195,TVS Television Network
+http://nrpus.bozztv.com/36bay2/gusa-tvstn/tracks-v1a1/mono.m3u8
+
+#EXTINF:196,Z Living
+https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v4a1/index.m3u8
+
+#EXTINF:197,Cozi TV
+https://2-fss-2.streamhoster.com/pl_120/201852-1297026-1/master.m3u8
+
+#EXTINF:198,Get TV
+https://bozztv.com/teleyupp/teleup-gettv/tracks-v2a1/mono.m3u8
+
+#EXTINF:199,KVVB-TV
+https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1309230/chunklist_b1000000.m3u8
+
+#EXTINF:200,Stingray Ambiance
+https://dai.google.com/linear/hls/event/6RPZlzksTCyB1euPqLcBZQ/master.m3u8
+
+#EXTINF:201,UN Web
+https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/index_828_av-p.m3u8
+
+#EXTINF:202,Stirr City LA
+https://dai.google.com/linear/hls/event/n3PVAFmPTJSVYjdSVf7XZw/master.m3u8
+
+#EXTINF:203,AKC TV
+https://video.blivenyc.com/broadcast/prod/2061/22/file-858k.m3u8
+
+#EXTINF:204,Voice of America
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/index_0360_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:205,WMFD
+https://player-api.new.livestream.com/accounts/1194911/events/3466400/live.m3u8
+
+#EXTINF:206,NASA TV
+https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
+
+#EXTINF:207,Gravitas Movies
+https://dai.google.com/linear/hls/event/EpqgwRlpQKq73ySVSohJWA/master.m3u8
+
+#EXTINF:208,TV5 Monde Pacific
+https://tv5pacifiqueen-i.akamaihd.net/hls/live/630175-b/tv5pacifiqueen/master.m3u8
+
+#EXTINF:209,Unidentified
+https://studio1091-xumo-us.amagi.tv/hls/amagi_hls_data_studio109-studio1091-xumo/CDN/768x432_1425600/chunklist.m3u8
+
+#EXTINF:210,Harley Davidson
+https://hdtv.prod2.ioio.tv/broker/play/cb4086ca-daba-42f5-8acf-27ee93fee0e8.m3u8
+
+#EXTINF:211,Plymouth Rock TV
+https://na-us-sw10.secdn.net/barakyah-channel/play/mp4:plymouthtvedge/playlist.m3u8
+
+#EXTINF:212,Drybar Comedy
+https://drybar-drybarcomedy-1-au.samsung.wurl.com/manifest/1200.m3u8
+
+#EXTINF:213,Oppna Kanalen
+https://edg03-prd-se-ixn.solidtango.com/edge/_451iw2h_/451iw2h/playlist.m3u8
+
+#EXTINF:214,RTE News Now
+https://live.rte.ie/live/a/channel3/news.isml/news-video=729984-audio_128k=128000.m3u8
+
+#EXTINF:215,Russia 1
+http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
+
+#EXTINF:216,ITV UK
+http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main600.m3u8
+
+#EXTINF:217,Horse Shopping Channel (Trial)
+https://uplynkcontent.sinclairstoryline.com/channel/26c7a77fd6ed453da6846a16ad0625d9.m3u8
+
+#EXTINF:218,Supertoons
+https://kedoo-supertoonstv-1-gb.samsung.wurl.com/manifest/1200.m3u8
+
+#EXTINF:219,OCA
+http://ocatv.mcgi.me:1935/public/247_br/playlist.m3u8
+
+#EXTINF:220,Comedy Dynamics
+https://dai.google.com/linear/hls/event/NJK_yxrcTBqULaHt-wi0Wg/master.m3u8
+
+#EXTINF:221,Allsprk
+https://stream.allsprk.tv/live/1/index.m3u8
+
+#EXTINF:222,Allsprk 2
+https://stream.allsprk.tv/live/2/index.m3u8
+
+#EXTINF:223,Kartoon Fun Time
+https://simultv.s.llnwi.net/n4s4/KartoonCircus/interlink.m3u8
+
+#EXTINF:224,Quahz TV
+https://t06243a-lh.akamaihd.net/i/t06243a_1@536897/index_750_av-p.m3u8
+
+#EXTINF:225,iHolyfield TV
+https://simultv.s.llnwi.net/n4s4/GITV/iH/iHolyfield/interlink_3200.m3u8
+
+#EXTINF:226,LIT
+https://studio1-lit.amagi.tv/playlist360p.m3u8
+
+#EXTINF:227,The Asylum
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-theasylum/CDN/768x432_1200000/index.m3u8
+
+#EXTINF:228,Positiv TV
+https://player-api.new.livestream.com/accounts/27460990/events/8973036/live.m3u8
+
+#EXTINF:229,Biz TV
+https://thegateway.app/BizAndYou/Biz_480p/playlist.m3u8
+
+#EXTINF:299,Live Event
+https://live.prd.dlive.tv/hls/live/dlive-ohxebgkzeq.m3u8?web=true
+
+#EXTINF:300,UNTV HD
+https://cdn.untvweb.com/live-stream/chunklist_b2592000.m3u8
+
+#EXTINF:301,Euronews HD
+https://euronews-euronews-world-1.roku.wurl.com/manifest/71bf778598cc9ce36952bb8a3331551a.m3u8
+
+#EXTINF:302,Bloomberg TV HD
+https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+
+#EXTINF:303,Cheddar HD
+https://live.chdrstatic.com/cheddar/primary/1.m3u8
+
+#EXTINF:304,Newsmax TV HD
+https://nmxairy.akamaized.net/hls/live/529965/Live_1/index_1080.m3u8
+
+#EXTINF:305,NBC News Now HD
+http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
+
+#EXTINF:306,RESERVED (206)
+https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
+
+#EXTINF:307,CBSN HD
+https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_7.m3u8
+
+#EXTINF:308,People TV HD
+https://peopletv-oo.akamaized.net/playlist720p.m3u8
+
+#EXTINF:309,ABC News Live HD
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+
+#EXTINF:310,CNN International HD
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
+
+#EXTINF:311,Red Bull TV HD
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:312,Mav TV HD (Trial)
+https://bozztv.com/teleyupp/teleup-mavtv/tracks-v1a1/mono.m3u8
+
+#EXTINF:313,Stadium HD
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master_3000k.m3u8
+
+#EXTINF:314,Al Jazeera English HD
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+
+#EXTINF:315,InfoWars HD
+https://freespeech.akamaized.net/hls/live/2016712/live1/playlist.m3u8
+
+#EXTINF:316,Plant-Based Network HD
+https://hls-cdn.tvstartup.net/barakyah-channel/live/pbtv/chunklist_w2143964786.m3u8
+
+#EXTINF:317,YTA HD
+https://thegateway.app/YouToo/CueTones/playlist.m3u8
+
+#EXTINF:318,Biz TV HD
+https://thegateway.app/BizAndYou/Biz_1080p/playlist.m3u8
+
+#EXTINF:319,Edge Sports HD
+https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_5640800/index.m3u8
+
+#EXTINF:320,SilenceTV HD
+http://93.190.140.42:8081/SilenceTV/live/playlist.m3u8
+
+#EXTINF:321,Black News Channel HD
+http://bnc-roku-us.amagi.tv/hls/amagi_hls_data_blacknews-blacknewsnetwork/CDN/1280x720_2855600/index.m3u8
+
+#EXTINF:322,One America News Network HD
+http://n1.klowdtv.net/live1/oan_720p/chunks.m3u8
+
+#EXTINF:323,The First TV HD
+https://thefirst-distroscale.amagi.tv/index1080p.m3u8
+
+#EXTINF:324,NBCLX HD
+https://lxlive-lh.akamaihd.net/i/LX_LIVE@148206/index_1080P_av-p.m3u8
+
+#EXTINF:325,NewsNet HD
+https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1311088/chunklist_b2000000.m3u8
+
+#EXTINF:326,RESERVED (326)
+https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
+
+#EXTINF:327,Kool TV HD
+http://209.182.219.50:1935/roku/roku/playlist.m3u8
+
+#EXTINF:328,NASA TV Media HD
+http://iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3u8
+
+#EXTINF:329,CityTV HD (Trial)
+https://bozztv.com/teleyupp1/teleup-iSykLSKMFr/tracks-v1a1/mono.m3u8
+
+#EXTINF:330,Tennis Channel HD
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
+
+#EXTINF:331,Absolute Reality HD
+https://amc-absolutereality-1.imdbtv.wurl.com/manifest/4300.m3u8
