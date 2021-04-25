@@ -18,7 +18,7 @@ http://103.11.112.84:1935/live2/smil:tv5.smil/chunklist_w542293137_b828000.m3u8
 #EXTINF:6,One Sports
 http://103.11.112.28:1935/live2/smil:onesports.smil/chunklist_w1210079406_b628000.m3u8
 
-#EXTINF:7,
+#EXTINF:7,RESERVED (7)
 https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
 
 #EXTINF:8,BEAM
@@ -36,7 +36,7 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/f9973976e
 #EXTINF:12,GMA Life TV
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/fc256993b031626.m3u8
 
-#EXTINF:13,
+#EXTINF:13,RESERVED (13)
 https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
 
 #EXTINF:14,Knowledge Channel*
@@ -51,16 +51,16 @@ http://cdn.untvweb.com/live-stream/chunklist_b332000.m3u8
 #EXTINF:17,TeleRadyo*
 https://tfcmsl.akamaized.net/hls/live/2014654/dzmm/bitrate_3.m3u8
 
-#EXTINF:18,
-https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
+#EXTINF:18,DZRH (YT)*
+https://www.youtube.com/embed/live_stream?channel=UCcTiBX8js_djhSSlmJRI99A
 
 #EXTINF:19,TFC
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/298a3f407e14a38.m3u8
 
-#EXTINF:20,
+#EXTINF:20,RESERVED (20)
 https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
 
-#EXTINF:21,
+#EXTINF:21,RESERVED (21)
 https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
 
 #EXTINF:22,Pilipinas HD
@@ -69,17 +69,17 @@ https://d3cbe0gidjd4k2.cloudfront.net/channel_5/smil:channel_5.smil/chunklist_w1
 #EXTINF:23,MyTV Cebu
 http://api.new.livestream.com/accounts/15418593/events/4787138/live.m3u8
 
-#EXTINF:24,
+#EXTINF:24,RESERVED (24)
 https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
 
 #EXTINF:25,Super Radyo DZBB
 http://stream.gmanews.tv/ioslive/livestream/chunklist.m3u8?wowzasessionid=693701106
 
-#EXTINF:26,
+#EXTINF:26,RESERVED (26)
 https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
 
-#EXTINF:27,
-https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
+#EXTINF:27,NBCLX
+https://lxlive-lh.akamaihd.net/i/LX_LIVE@148206/index_360P_av-p.m3u8
 
 #EXTINF:28,AMGTV
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/chunklist.m3u8
@@ -420,16 +420,16 @@ https://cdn.herringnetwork.com/80A4DFF/oane_oregon/OAN_Encore_180p30.m3u8
 #EXTINF:140,Newsmax TV
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_404.m3u8
 
-#EXTINF:141,Yahoo! News
-https://content.uplynk.com/channel/411ba7ca8cb6403a9e73509e49c3a77b.m3u8?expand=trc
+#EXTINF:141,GCTV
+http://45.32.115.103/live/livestream/index.m3u8
 
-#EXTINF:142,NBCLX
-https://lxlive-lh.akamaihd.net/i/LX_LIVE@148206/index_360P_av-p.m3u8
+#EXTINF:142,INC TV
+http://churchrus2-lh.akamaihd.net/i/coctesting_1@57550/master.m3u8
 
 #EXTINF:143,SMNI
 http://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
 
-#EXTINF:144,Life TV - ONK
+#EXTINF:144,Life TV
 http://59c3ec70cfde0.streamlock.net/channel_6/channel6/chunklist.m3u8
 
 #EXTINF:145,Hope Channel Philippines
@@ -719,6 +719,9 @@ http://de1se01.v2beat.live/playlist.m3u8
 
 #EXTINF:240,Voyager Documentaries
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvoyager/CDN/playlist.m3u8
+
+#EXTINF:241,Yahoo! News
+https://content.uplynk.com/channel/411ba7ca8cb6403a9e73509e49c3a77b.m3u8?expand=trc
 
 #EXTINF:299,Live Event
 https://live.prd.dlive.tv/hls/live/dlive-ohxebgkzeq.m3u8?web=true
