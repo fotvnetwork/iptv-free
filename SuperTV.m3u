@@ -42,26 +42,26 @@ https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
 #EXTINF:14,Knowledge Channel*
 https://amdottlive.akamaized.net/hls/live/2018990/iwantknowledge/master360p.m3u8
 
-#EXTINF:15,NET 25 (Trial)
-https://ebc.sytes.net/hls/net25.m3u8
-
-#EXTINF:16,UNTV (mirror)
+#EXTINF:15,UNTV (mirror)
 http://cdn.untvweb.com/live-stream/chunklist_b332000.m3u8
+
+#EXTINF:16,NET 25 (Trial)
+https://ebc.sytes.net/hls/net25.m3u8
 
 #EXTINF:17,TeleRadyo*
 https://tfcmsl.akamaized.net/hls/live/2014654/dzmm/bitrate_3.m3u8
 
 #EXTINF:18,DZRH (YT)*
-https://www.youtube.com/embed/live_stream?channel=UCcTiBX8js_djhSSlmJRI99A
+https://www.youtube.com/watch?v=uRLg3vA8SX8
 
 #EXTINF:19,TFC
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/298a3f407e14a38.m3u8
 
-#EXTINF:20,RESERVED (20)
-https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
+#EXTINF:20,TFC 2
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/cd855b97a246caf.m3u8
 
-#EXTINF:21,RESERVED (21)
-https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
+#EXTINF:21,Cinema One
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/8b50f0987797f7d.m3u8
 
 #EXTINF:22,Pilipinas HD
 https://d3cbe0gidjd4k2.cloudfront.net/channel_5/smil:channel_5.smil/chunklist_w1281634943_b300000_sleng.m3u8
@@ -96,8 +96,8 @@ http://gideommd.mmdlive.lldns.net/gideommd/d5b6a753f86e4e51b8e15c7d23887a4f/chun
 #EXTINF:32,Buzzr
 https://buzzr-roku-us.amagi.tv/playlistR404p.m3u8
 
-#EXTINF:33,Hallypop
-https://content.uplynk.com/channel/01cd8b33410c4682bcba1404e10c841a.m3u8
+#EXTINF:33,Circle
+https://circle-roku.amagi.tv/playlistR432p.m3u8
 
 #EXTINF:34,Stirr Channel
 https://dai.google.com/linear/hls/event/4aD5IJf0QgKUJwPbq2fngg/master.m3u8
@@ -124,7 +124,7 @@ https://hls.xumo.com/channel-hls/v1/bmneuerw7j9k5lfc/9999330/master.m3u8
 https://aenetworks-ae-1.roku.wurl.com/manifest/2000.m3u8
 
 #EXTINF:42,Love Nature
-https://bamus-eng-roku.amagi.tv/hls/amagi_hls_data_bamusaAAA-roku-bam-usa/CDN/512x288_981200/index.m3u8
+http://bamus-eng-roku.amagi.tv/playlist404p.m3u8
 
 #EXTINF:43,Skills + Thrills
 https://aenetworks-skills-thrills-1.plex.wurl.com/manifest/1200.m3u8
@@ -132,7 +132,7 @@ https://aenetworks-skills-thrills-1.plex.wurl.com/manifest/1200.m3u8
 #EXTINF:44,TLC (Trial)
 https://bozztv.com/teleyupp/teleup-tlc/tracks-v2a1/mono.m3u8
 
-#EXTINF:45,A&E Reality Mashup
+#EXTINF:45,Reality Mashup
 https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/AETV/OBS12/chunks.m3u8
 
 #EXTINF:46,Comet
@@ -151,7 +151,7 @@ https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8
 http://45.126.83.51/qwr9ew/s/s34/02.m3u8
 
 #EXTINF:51,Pop (Trial)
-http://n1.klowdtv.net/live2/pop_180p/chunks.m3u8
+https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
 
 #EXTINF:52,Hallmark (Trial)
 https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_yupptvfrn-hallmark-frndlytv/CDN/768x432_2340800/index.m3u8
@@ -181,7 +181,7 @@ https://midnightpulp-samsung.roku.wurl.com/manifest/1200.m3u8
 https://digitalmediarights-retrocrush-1.sinclair.wurl.com/manifest/1200.m3u8
 
 #EXTINF:61,Ion Plus
-https://ion-ion-plus-1.vizio.wurl.com/manifest/playlist_640x360_1200k.m3u8
+https://ion-ion-plus-1.vizio.wurl.com/manifest/playlist_640x360_1000k.m3u8
 
 #EXTINF:62,MHz
 https://mhz-samsung-linear-ca.samsung.wurl.com/manifest/1200.m3u8
@@ -223,7 +223,7 @@ https://demandafrica-vizio.amagi.tv/playlist480p.m3u8
 https://dust.samsung.wurl.com/manifest/1200.m3u8
 
 #EXTINF:75,The Bob Ross Channel
-https://bobross-us-roku.cinedigm.com/midroll/amagi_hls_data_xumo-host-roku-bobross/CDN/720x404_1790800/index.m3u8
+https://cinedigm-bobross-1.vizio.wurl.com/manifest/39d7b421c0fd490a786834b9ff51319a.m3u8
 
 #EXTINF:76,This Old House
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziothisoldhouse/CDN/640x360_440000/index.m3u8
@@ -286,7 +286,7 @@ https://livestream.chdrstatic.com/b93e5b0d43ea306310a379971e384964acbe4990ce193c
 https://liveprodapnortheast.akamaized.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-700-1_live.m3u8
 
 #EXTINF:96,Bloomberg Quicktake
-https://dai.google.com/linear/hls/event/cFDvmqo4TGW7EfHwscU_Ew/master.m3u8
+https://bloomberg-quicktake-1.samsung.wurl.com/manifest/f27117694d659b1d42a25c772cf586b3.m3u8
 
 #EXTINF:97,C-SPAN
 https://bozztv.com/teleyupp/teleup-cspan/tracks-v3a1/mono.m3u8
@@ -310,7 +310,7 @@ https://live-hls-web-aje.getaj.net/AJE/03.m3u8
 https://rt-news.secure.footprint.net/1103_800Kb.m3u8
 
 #EXTINF:104,France 24
-http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_500.m3u8
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_old_900.m3u8
 
 #EXTINF:105,Euronews
 https://euronews-euronews-world-1.roku.wurl.com/manifest/b34060fcaf527710b244a3e16504edd0.m3u8
