@@ -18,8 +18,8 @@ http://103.11.112.84:1935/live2/smil:tv5.smil/chunklist_w542293137_b828000.m3u8
 #EXTINF:6,One Sports
 http://103.11.112.28:1935/live2/smil:onesports.smil/chunklist_w1210079406_b628000.m3u8
 
-#EXTINF:7,RESERVED (7)
-https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
+#EXTINF:7,News5 (YT-Kodi)*
+plugin://plugin.video.youtube/play/?video_id=uYDfvCTrhxQ
 
 #EXTINF:8,BEAM
 https://d3cbe0gidjd4k2.cloudfront.net/channel_7/channel7/chunklist_w659649511.m3u8
@@ -36,8 +36,8 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/f9973976e
 #EXTINF:12,GMA Life TV
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/fc256993b031626.m3u8
 
-#EXTINF:13,RESERVED (13)
-https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
+#EXTINF:13,Kapamilya Online Live (YT-Kodi)*
+plugin://plugin.video.youtube/play/?video_id=8a_0neGcVuM
 
 #EXTINF:14,Knowledge Channel*
 https://amdottlive.akamaized.net/hls/live/2018990/iwantknowledge/master360p.m3u8
@@ -48,8 +48,8 @@ http://cdn.untvweb.com/live-stream/chunklist_b332000.m3u8
 #EXTINF:16,NET 25 (Trial)
 https://ebc.sytes.net/hls/net25.m3u8
 
-#EXTINF:17,TeleRadyo*
-https://tfcmsl.akamaized.net/hls/live/2014654/dzmm/bitrate_3.m3u8
+#EXTINF:17,TeleRadyo
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/bf85cce9b7906bf.m3u8
 
 #EXTINF:18,DZRH (YT-Kodi)*
 plugin://plugin.video.youtube/play/?video_id=uRLg3vA8SX8
