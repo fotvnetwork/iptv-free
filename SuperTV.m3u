@@ -18,11 +18,11 @@ http://103.11.112.84:1935/live2/smil:tv5.smil/chunklist_w542293137_b828000.m3u8
 #EXTINF:6,One Sports
 http://103.11.112.28:1935/live2/smil:onesports.smil/chunklist_w1210079406_b628000.m3u8
 
-#EXTINF:7,News5 (YT-Kodi)*
-plugin://plugin.video.youtube/play/?video_id=uYDfvCTrhxQ
+#EXTINF:7,Super Radyo DZBB
+http://stream.gmanews.tv/ioslive/livestream/chunklist.m3u8?wowzasessionid=693701106
 
-#EXTINF:8,BEAM
-https://d3cbe0gidjd4k2.cloudfront.net/channel_7/channel7/chunklist_w659649511.m3u8
+#EXTINF:8,News5 Always On (Kodi only)*
+plugin://plugin.video.youtube/play/?video_id=xH4IFlszDIs
 
 #EXTINF:9,CNN Philippines
 https://streaming.cnnphilippines.com/live/myStream/chunklist_w1877522213.m3u8
@@ -36,8 +36,8 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/f9973976e
 #EXTINF:12,GMA Life TV
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/fc256993b031626.m3u8
 
-#EXTINF:13,Kapamilya Online Live (YT-Kodi)*
-plugin://plugin.video.youtube/play/?video_id=8a_0neGcVuM
+#EXTINF:13,BEAM
+https://d3cbe0gidjd4k2.cloudfront.net/channel_7/channel7/chunklist_w659649511.m3u8
 
 #EXTINF:14,Knowledge Channel*
 https://amdottlive.akamaized.net/hls/live/2018990/iwantknowledge/master360p.m3u8
@@ -45,13 +45,13 @@ https://amdottlive.akamaized.net/hls/live/2018990/iwantknowledge/master360p.m3u8
 #EXTINF:15,UNTV (mirror)
 http://cdn.untvweb.com/live-stream/chunklist_b332000.m3u8
 
-#EXTINF:16,NET 25 (Trial)
-https://ebc.sytes.net/hls/net25.m3u8
+#EXTINF:16,Truth Channel (Kodi only)*
+plugin://plugin.video.youtube/play/?video_id=CJlpaLQUkWk
 
-#EXTINF:17,TeleRadyo
+#EXTINF:17,TeleRadyo*
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/bf85cce9b7906bf.m3u8
 
-#EXTINF:18,DZRH (YT-Kodi)*
+#EXTINF:18,DZRH News TV (Kodi only)*
 plugin://plugin.video.youtube/play/?video_id=uRLg3vA8SX8
 
 #EXTINF:19,TFC
@@ -63,44 +63,44 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/cd855b97a
 #EXTINF:21,Cinema One
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/8b50f0987797f7d.m3u8
 
-#EXTINF:22,Pilipinas HD
-https://d3cbe0gidjd4k2.cloudfront.net/channel_5/smil:channel_5.smil/chunklist_w1281634943_b300000_sleng.m3u8
+#EXTINF:22,Kapamilya Online Live (Kodi only)*
+plugin://plugin.video.youtube/play/?video_id=-xWcnnalrcs
 
 #EXTINF:23,MyTV Cebu
 http://api.new.livestream.com/accounts/15418593/events/4787138/live.m3u8
 
-#EXTINF:24,DWIZ (YT-Kodi)*
+#EXTINF:24,DWIZ (Kodi only)*
 plugin://plugin.video.youtube/play/?video_id=8ALoUahe5eI
 
-#EXTINF:25,Super Radyo DZBB
-http://stream.gmanews.tv/ioslive/livestream/chunklist.m3u8?wowzasessionid=693701106
+#EXTINF:25,NET 25 (Trial)
+https://ebc.sytes.net/hls/net25.m3u8
 
-#EXTINF:26,TV Maria (YT-Kodi)*
+#EXTINF:26,TV Maria (Kodi only)*
 plugin://plugin.video.youtube/play/?video_id=zmir0hCmohU
 
-#EXTINF:27,NBCLX
+#EXTINF:27,Pilipinas HD
+https://d3cbe0gidjd4k2.cloudfront.net/channel_5/smil:channel_5.smil/chunklist_w1281634943_b300000_sleng.m3u8
+
+#EXTINF:28,NBCLX
 https://lxlive-lh.akamaihd.net/i/LX_LIVE@148206/index_360P_av-p.m3u8
 
-#EXTINF:28,AMGTV
+#EXTINF:29,AMGTV
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/chunklist.m3u8
 
-#EXTINF:29,NewsNet
+#EXTINF:30,NewsNet
 https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1311088/chunklist_b600000.m3u8
 
-#EXTINF:30,Right Now TV
+#EXTINF:31,Right Now TV
 https://feed.rightnowtelevision.com/live/smil:rntv.smil/playlist.m3u8
 
-#EXTINF:31,YTA
+#EXTINF:32,YTA
 http://gideommd.mmdlive.lldns.net/gideommd/d5b6a753f86e4e51b8e15c7d23887a4f/chunklist_b732000.m3u8
 
-#EXTINF:32,Buzzr
+#EXTINF:33,Buzzr
 https://buzzr-roku-us.amagi.tv/playlistR404p.m3u8
 
-#EXTINF:33,Circle
+#EXTINF:34,Circle
 https://circle-roku.amagi.tv/playlistR432p.m3u8
-
-#EXTINF:34,Stirr Channel
-https://dai.google.com/linear/hls/event/4aD5IJf0QgKUJwPbq2fngg/master.m3u8
 
 #EXTINF:35,MPT
 https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/chunklist_b600000.m3u8
@@ -129,8 +129,8 @@ http://bamus-eng-roku.amagi.tv/playlist404p.m3u8
 #EXTINF:43,Skills + Thrills
 https://aenetworks-skills-thrills-1.plex.wurl.com/manifest/1200.m3u8
 
-#EXTINF:44,TLC (Trial)
-https://bozztv.com/teleyupp/teleup-tlc/tracks-v2a1/mono.m3u8
+#EXTINF:44,Comedy Dynamics
+https://dai.google.com/linear/hls/event/NJK_yxrcTBqULaHt-wi0Wg/master.m3u8
 
 #EXTINF:45,Reality Mashup
 https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/AETV/OBS12/chunks.m3u8
@@ -657,8 +657,8 @@ https://kedoo-supertoonstv-1-gb.samsung.wurl.com/manifest/1200.m3u8
 #EXTINF:219,OCA
 http://ocatv.mcgi.me:1935/public/247_br/playlist.m3u8
 
-#EXTINF:220,Comedy Dynamics
-https://dai.google.com/linear/hls/event/NJK_yxrcTBqULaHt-wi0Wg/master.m3u8
+#EXTINF:220,RESERVED (220)
+https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
 
 #EXTINF:221,Allsprk
 https://stream.allsprk.tv/live/1/index.m3u8
