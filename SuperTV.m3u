@@ -51,8 +51,8 @@ https://ebc.sytes.net/hls/net25.m3u8
 #EXTINF:17,TeleRadyo*
 https://tfcmsl.akamaized.net/hls/live/2014654/dzmm/bitrate_3.m3u8
 
-#EXTINF:18,DZRH (YT)*
-https://www.youtube.com/watch?v=uRLg3vA8SX8
+#EXTINF:18,DZRH (YT-Kodi)*
+plugin://plugin.video.youtube/play/?video_id=uRLg3vA8SX8
 
 #EXTINF:19,TFC
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/298a3f407e14a38.m3u8
@@ -69,14 +69,14 @@ https://d3cbe0gidjd4k2.cloudfront.net/channel_5/smil:channel_5.smil/chunklist_w1
 #EXTINF:23,MyTV Cebu
 http://api.new.livestream.com/accounts/15418593/events/4787138/live.m3u8
 
-#EXTINF:24,RESERVED (24)
-https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
+#EXTINF:24,DWIZ (YT-Kodi)*
+plugin://plugin.video.youtube/play/?video_id=8ALoUahe5eI
 
 #EXTINF:25,Super Radyo DZBB
 http://stream.gmanews.tv/ioslive/livestream/chunklist.m3u8?wowzasessionid=693701106
 
-#EXTINF:26,RESERVED (26)
-https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
+#EXTINF:26,TV Maria (YT-Kodi)*
+plugin://plugin.video.youtube/play/?video_id=zmir0hCmohU
 
 #EXTINF:27,NBCLX
 https://lxlive-lh.akamaihd.net/i/LX_LIVE@148206/index_360P_av-p.m3u8
