@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:1,UNTV
-http://cdn.untvweb.com/live-stream/chunklist_b732000.m3u8
+https://cdn.untvweb.com/live-stream/untvweb.m3u8
 
 #EXTINF:2,Kapamilya Channel
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/829dbdfe0b57013.m3u8
@@ -22,7 +22,7 @@ http://103.11.112.28:1935/live2/smil:onesports.smil/chunklist_w1210079406_b62800
 http://stream.gmanews.tv/ioslive/livestream/chunklist.m3u8?wowzasessionid=693701106
 
 #EXTINF:8,News5 Always On (Kodi only)*
-plugin://plugin.video.youtube/play/?video_id=xH4IFlszDIs
+plugin://plugin.video.youtube/play/?video_id=TVtXQX7rdtg
 
 #EXTINF:9,CNN Philippines
 https://streaming.cnnphilippines.com/live/myStream/chunklist_w1877522213.m3u8
@@ -37,7 +37,7 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/f9973976e
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/fc256993b031626.m3u8
 
 #EXTINF:13,BEAM
-https://d3cbe0gidjd4k2.cloudfront.net/channel_7/channel7/chunklist_w659649511.m3u8
+http://59c3ec70cfde0.streamlock.net/channel_7/channel7/chunklist.m3u8
 
 #EXTINF:14,Knowledge Channel*
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -45,10 +45,10 @@ https://d3cbe0gidjd4k2.cloudfront.net/channel_7/channel7/chunklist_w659649511.m3
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla&Referrer=https%3A%2F%2Ftfc.tv%2F&X-Forwarded-For=175.176.0.236
 #EXTVLCOPT:http-referrer=https://tfc.tv/
 #EXTVLCOPT:http-user-agent=Mozilla
-https://amdottlive.akamaized.net/hls/live/2018990/iwantknowledge/master360p.m3u8
+https://amdottlive.akamaized.net/hls/live/2018990/iwantknowledge/master.m3u8
 
-#EXTINF:15,UNTV (mirror)
-http://cdn.untvweb.com/live-stream/chunklist_b332000.m3u8
+#EXTINF:15,UNTV (Kodi only)*
+plugin://plugin.video.youtube/play/?video_id=tgRVz6QIy7w
 
 #EXTINF:16,Truth Channel (Kodi only)*
 plugin://plugin.video.youtube/play/?video_id=CJlpaLQUkWk
@@ -74,7 +74,7 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/cd855b97a
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/8b50f0987797f7d.m3u8
 
 #EXTINF:22,Kapamilya Online Live (Kodi only)*
-plugin://plugin.video.youtube/play/?video_id=-xWcnnalrcs
+plugin://plugin.video.youtube/play/?video_id=-90E5saspfUk
 
 #EXTINF:23,MyTV Cebu
 http://api.new.livestream.com/accounts/15418593/events/4787138/live.m3u8
@@ -89,7 +89,7 @@ https://ebc.sytes.net/hls/net25.m3u8
 plugin://plugin.video.youtube/play/?video_id=zmir0hCmohU
 
 #EXTINF:27,Pilipinas HD
-https://d3cbe0gidjd4k2.cloudfront.net/channel_5/smil:channel_5.smil/chunklist_w1281634943_b300000_sleng.m3u8
+http://59c3ec70cfde0.streamlock.net/channel_5/channel5/chunklist.m3u8
 
 #EXTINF:28,NBCLX
 https://lxlive-lh.akamaihd.net/i/LX_LIVE@148206/index_360P_av-p.m3u8
@@ -104,10 +104,10 @@ https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1311088/chunklist_b600000.m
 https://feed.rightnowtelevision.com/live/smil:rntv.smil/playlist.m3u8
 
 #EXTINF:32,YTA
-http://gideommd.mmdlive.lldns.net/gideommd/d5b6a753f86e4e51b8e15c7d23887a4f/chunklist_b732000.m3u8
+https://gideommd.mmdlive.lldns.net/gideommd/d5b6a753f86e4e51b8e15c7d23887a4f/manifest.m3u8
 
 #EXTINF:33,Buzzr
-https://buzzr-roku-us.amagi.tv/playlistR404p.m3u8
+https://dai.google.com/linear/hls/event/wFZ1ufQ8ToaSdPgGtbBbpw/master.m3u8
 
 #EXTINF:34,Circle
 https://circle-roku.amagi.tv/playlistR432p.m3u8
@@ -344,7 +344,7 @@ https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_600k.m
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b656000_sleng.m3u8
 
 #EXTINF:112,Arise News
-https://contributionstreams.sechls01.visionip.tv/live/visiontv-contributionstreams-arise-tv-25f-16x9-SDh/playlist.m3u8
+https://manifest.prod.boltdns.net/manifest/v1/hls/v4/clear/6116119081001/1bc11753-b247-464c-9473-2706ded88c24/10s/master.m3u8?fastly_token=NjA4ODliOWFfYzQxNThlZTQ2MTYwNGRkNzkxZWFhZjEwNTI3ZTE3N2Y2MWI2MGY0MzJlODc4MDNmMmQ3MzVjYjk0NTJiNTRjMg%3D%3D
 
 #EXTINF:113,TeleSUR
 https://d7g1ebft2592.cloudfront.net/mblivev3/360p/chunklist.m3u8
@@ -383,7 +383,7 @@ https://120sports-accdn-1.samsung.wurl.com/manifest/1200.m3u8
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/f.m3u8
 
 #EXTINF:125,Adventure Sports Network
-http://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/640x360_440000/index.m3u8
+https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/master.m3u8
 
 #EXTINF:126,Pac-12 Insider
 https://pac12-roku-us.amagi.tv/playlistR432p.m3u8
@@ -422,10 +422,10 @@ https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv_4.m3u8
 https://tyt-xumo-us.amagi.tv/hls/amagi_hls_data_tytnetwor-tyt-xumo/CDN/768x432_1531200/chunklist.m3u8
 
 #EXTINF:138,One America News Network
-https://cdn.klowdtv.net/803B48A/oan_aws_ms/OAN_180p30.m3u8
+https://cdn.klowdtv.net/803B48A/oan_aws_ms/OAN.m3u8
 
 #EXTINF:139,OAN Plus
-https://cdn.herringnetwork.com/80A4DFF/oane_oregon/OAN_Encore_180p30.m3u8
+https://oneamericanews-vizio.amagi.tv/playlist.m3u8
 
 #EXTINF:140,Newsmax TV
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_404.m3u8
@@ -479,10 +479,10 @@ https://peopletv-oo.akamaized.net/playlist480p.m3u8
 https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest_81.m3u8
 
 #EXTINF:157,TMZ
-http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/640x360_440000/index.m3u8
+https://dai2.xumo.com/amagi_hls_data_xumo1234A-tmz/CDN/master.m3u8
 
-#EXTINF:158,Sidewalks
-http://30a-tv.com/sidewalks.m3u8
+#EXTINF:158,Made in Hollywood
+https://dai.google.com/linear/hls/event/Mteif75-SJeFi19Sk3-dGQ/master.m3u8
 
 #EXTINF:159,ElectricNOW
 https://dai.google.com/linear/hls/event/KsvJAc81Qoewj6opYso6Fw/master.m3u8
@@ -518,7 +518,7 @@ https://dai.google.com/linear/hls/event/KAfBFcVrQgKmHhpzvkEn9A/master.m3u8
 https://jukin-peopleareawesome-2-gb.samsung.wurl.com/manifest/1200.m3u8
 
 #EXTINF:170,Tastemade
-https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/512x288_875600/index.m3u8
+http://tastemade-vizio.amagi.tv/playlist.m3u8
 
 #EXTINF:171,Saveur
 https://a.jsrdn.com/broadcast/060753d37e/+0000/c.m3u8
@@ -542,7 +542,7 @@ https://simultv.s.llnwi.net/n4s4/xcorps/interlink.m3u8
 http://wowzaprod236-i.akamaihd.net/hls/live/1019903/7dd4cf51/playlist.m3u8
 
 #EXTINF:178,Wired
-http://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxwired/CDN/640x360_440000/index.m3u8
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuwired/CDN/playlist.m3u8
 
 #EXTINF:179,Cloudflare TV
 https://cloudflare.tv/hls/live.m3u8
@@ -635,7 +635,7 @@ https://dai.google.com/linear/hls/event/EpqgwRlpQKq73ySVSohJWA/master.m3u8
 https://tv5pacifiqueen-i.akamaihd.net/hls/live/630175-b/tv5pacifiqueen/master.m3u8
 
 #EXTINF:209,Unidentified
-https://studio1091-xumo-us.amagi.tv/hls/amagi_hls_data_studio109-studio1091-xumo/CDN/768x432_1425600/chunklist.m3u8
+https://a.jsrdn.com/broadcast/4hhfi556/c.m3u8
 
 #EXTINF:210,Harley Davidson
 https://hdtv.prod2.ioio.tv/broker/play/cb4086ca-daba-42f5-8acf-27ee93fee0e8.m3u8
@@ -670,11 +670,11 @@ http://ocatv.mcgi.me:1935/public/247_br/playlist.m3u8
 #EXTINF:220,RESERVED (220)
 https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
 
-#EXTINF:221,Allsprk
-https://stream.allsprk.tv/live/1/index.m3u8
+#EXTINF:221,All Time
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-alltime/CDN/master.m3u8
 
-#EXTINF:222,Allsprk 2
-https://stream.allsprk.tv/live/2/index.m3u8
+#EXTINF:222,PlayWorks
+https://playworksdigital-playworks-1.plex.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:223,Kartoon Fun Time
 https://simultv.s.llnwi.net/n4s4/KartoonCircus/interlink.m3u8
@@ -689,7 +689,7 @@ https://simultv.s.llnwi.net/n4s4/GITV/iH/iHolyfield/interlink_3200.m3u8
 https://studio1-lit.amagi.tv/playlist360p.m3u8
 
 #EXTINF:227,The Asylum
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-theasylum/CDN/768x432_1200000/index.m3u8
+https://asylum-stirr.amagi.tv/playlist.m3u8
 
 #EXTINF:228,Positiv TV
 https://player-api.new.livestream.com/accounts/27460990/events/8973036/live.m3u8
@@ -716,7 +716,7 @@ http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 https://bspoketv.s.llnwi.net/streams/322/out_0.m3u8
 
 #EXTINF:236,Complex
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcomplex/CDN/640x360_440000/index.m3u8
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-complextv/CDN/playlist.m3u8
 
 #EXTINF:237,Glewed TV
 https://glewedtv-1.sinclair.wurl.com/manifest/1200.m3u8
@@ -734,10 +734,10 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvoyager/CDN/playlist.m3u8
 https://content.uplynk.com/channel/411ba7ca8cb6403a9e73509e49c3a77b.m3u8?expand=trc
 
 #EXTINF:299,Live Event
-https://live.prd.dlive.tv/hls/live/dlive-ohxebgkzeq.m3u8?web=true
+https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
 
-#EXTINF:300,UNTV HD
-https://cdn.untvweb.com/live-stream/chunklist_b2592000.m3u8
+#EXTINF:300,RESERVED (300)
+https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
 
 #EXTINF:301,Euronews HD
 https://euronews-euronews-world-1.roku.wurl.com/manifest/71bf778598cc9ce36952bb8a3331551a.m3u8
