@@ -74,7 +74,7 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/cd855b97a
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/8b50f0987797f7d.m3u8
 
 #EXTINF:22,Kapamilya Online Live (Kodi only)*
-plugin://plugin.video.youtube/play/?video_id=-bsdug9WQkc4
+plugin://plugin.video.youtube/play/?video_id=bsdug9WQkc4
 
 #EXTINF:23,MyTV Cebu
 http://api.new.livestream.com/accounts/15418593/events/4787138/live.m3u8
