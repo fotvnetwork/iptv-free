@@ -7,7 +7,7 @@ https://cdn.untvweb.com/live-stream/untvweb.m3u8
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/829dbdfe0b57013.m3u8
 
 #EXTINF:3,TVshop
-http://59c3ec70cfde0.streamlock.net/channel_1/channel1/chunklist.m3u8
+http://59c3ec70cfde0.streamlock.net/channel_1/channel1/playlist.m3u8
 
 #EXTINF:4,PTV
 https://stream-02.sg1.dailymotion.com/sec(vb0ikD3rmZA2RvEN2UsfwOmroW41RqGm0Ji7lmGKzmM)/dm/3/x5cr6b9/d/live-1.m3u8
@@ -37,7 +37,7 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/f9973976e
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/fc256993b031626.m3u8
 
 #EXTINF:13,BEAM
-http://59c3ec70cfde0.streamlock.net/channel_7/channel7/chunklist.m3u8
+http://59c3ec70cfde0.streamlock.net/channel_7/channel7/playlist.m3u8
 
 #EXTINF:14,Knowledge Channel*
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -45,7 +45,7 @@ http://59c3ec70cfde0.streamlock.net/channel_7/channel7/chunklist.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla&Referrer=https%3A%2F%2Ftfc.tv%2F&X-Forwarded-For=175.176.0.236
 #EXTVLCOPT:http-referrer=https://tfc.tv/
 #EXTVLCOPT:http-user-agent=Mozilla
-https://amdottlive.akamaized.net/hls/live/2018990/iwantknowledge/master.m3u8
+https://amdottlive.akamaized.net/hls/live/2018990/iwantknowledge/master360p.m3u8
 
 #EXTINF:15,UNTV (Kodi only)*
 plugin://plugin.video.youtube/play/?video_id=tgRVz6QIy7w
@@ -74,7 +74,7 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/cd855b97a
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/8b50f0987797f7d.m3u8
 
 #EXTINF:22,Kapamilya Online Live (Kodi only)*
-plugin://plugin.video.youtube/play/?video_id=-90E5saspfUk
+plugin://plugin.video.youtube/play/?video_id=-bsdug9WQkc4
 
 #EXTINF:23,MyTV Cebu
 http://api.new.livestream.com/accounts/15418593/events/4787138/live.m3u8
@@ -86,10 +86,10 @@ plugin://plugin.video.youtube/play/?video_id=8ALoUahe5eI
 https://ebc.sytes.net/hls/net25.m3u8
 
 #EXTINF:26,TV Maria (Kodi only)*
-plugin://plugin.video.youtube/play/?video_id=zmir0hCmohU
+plugin://plugin.video.youtube/play/?video_id=JPkksPIOWzg
 
 #EXTINF:27,Pilipinas HD
-http://59c3ec70cfde0.streamlock.net/channel_5/channel5/chunklist.m3u8
+http://59c3ec70cfde0.streamlock.net/channel_5/channel5/playlist.m3u8
 
 #EXTINF:28,NBCLX
 https://lxlive-lh.akamaihd.net/i/LX_LIVE@148206/index_360P_av-p.m3u8
