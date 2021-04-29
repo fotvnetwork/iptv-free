@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:1,UNTV
-https://cdn.untvweb.com/live-stream/untvweb.m3u8
+https://cdn.untvweb.com/live-stream/chunklist_b332000.m3u8
 
 #EXTINF:2,Kapamilya Channel
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/829dbdfe0b57013.m3u8
@@ -12,10 +12,10 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/829dbdfe0
 http://59c3ec70cfde0.streamlock.net/channel_1/channel1/playlist.m3u8
 
 #EXTINF:4,PTV
-https://stream-02.sg1.dailymotion.com/sec(vb0ikD3rmZA2RvEN2UsfwOmroW41RqGm0Ji7lmGKzmM)/dm/3/x5cr6b9/d/live-1.m3u8
+https://stream-02.sg1.dailymotion.com/sec(vb0ikD3rmZA2RvEN2UsfwOmroW41RqGm0Ji7lmGKzmM)/dm/3/x5cr6b9/d/live-2.m3u8
 
 #EXTINF:5,TV5
-http://103.11.112.84:1935/live2/smil:tv5.smil/chunklist_w542293137_b828000.m3u8
+http://103.11.112.84:1935/live2/smil:tv5.smil/playlist.m3u8
 
 #EXTINF:6,One Sports
 http://103.11.112.28:1935/live2/smil:onesports.smil/chunklist_w1210079406_b628000.m3u8
@@ -24,7 +24,7 @@ http://103.11.112.28:1935/live2/smil:onesports.smil/chunklist_w1210079406_b62800
 http://stream.gmanews.tv/ioslive/livestream/chunklist.m3u8?wowzasessionid=693701106
 
 #EXTINF:8,News5 Always On (Kodi only)*
-plugin://plugin.video.youtube/play/live_stream?channel=UCGEbMwiX774cseKvJqF9R2g
+plugin://plugin.video.youtube/play/?video_id=OASi8VhtUXU
 
 #EXTINF:9,CNN Philippines
 https://streaming.cnnphilippines.com/live/myStream/chunklist_w1877522213.m3u8
@@ -72,8 +72,8 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/298a3f407
 #EXTINF:20,TFC 2
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/cd855b97a246caf.m3u8
 
-#EXTINF:21,Cinema One
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/8b50f0987797f7d.m3u8
+#EXTINF:21,Wishclusives (Kodi only)*
+plugin://plugin.video.youtube/play/?playlist_id=PLkrzfEDjeYJn5B22H9HOWP3Kxxs-DkPSM&order=shuffle
 
 #EXTINF:22,Kapamilya Online Live (Kodi only)*
 plugin://plugin.video.youtube/play/?video_id=g9AtJWp1ICA
@@ -96,7 +96,12 @@ plugin://plugin.video.youtube/play/?video_id=JPkksPIOWzg
 http://59c3ec70cfde0.streamlock.net/channel_5/channel5/playlist.m3u8
 
 #EXTINF:28,CLTV 36*
-https://tna5.bozztv.com/cltv36/index.m3u8|referer=https://ssh101.com/securelive/index.php?id=cltv36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla&Referrer=https://ssh101.com/securelive/index.php?id=cltv36&X-Forwarded-For=175.176.0.236
+#EXTVLCOPT:http-referrer=https://ssh101.com/securelive/index.php?id=cltv36
+#EXTVLCOPT:http-user-agent=Mozilla
+https://tna5.bozztv.com/cltv36/index.m3u8
 
 #EXTINF:29,AMGTV
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/chunklist.m3u8
@@ -132,7 +137,7 @@ https://bozztv.com/teleyupp/e5CGxWp8iU/tracks-v3a1/mono.m3u8
 https://bozztv.com/teleyupp1/teleup-mBm5MQ50rA/tracks-v3a1/mono.m3u8
 
 #EXTINF:40,Popstar! TV
-http://a.jsrdn.com/broadcast/wAlxn4cs/cupertino10_360p_1000000.m3u8
+https://linear-10.frequency.stream/10/hls/master/playlist.m3u8
 
 #EXTINF:41,Lively Place
 https://aenetworks-ae-1.roku.wurl.com/manifest/2000.m3u8
@@ -276,10 +281,10 @@ http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_384_216_500k.m3u8
 
 #EXTINF:88,CBSN
-https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_10.m3u8
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 
 #EXTINF:89,ABC News Live
-http://dai2.xumo.com/amagi_hls_data_xumo1212A-abcnews/CDN/512x288_875600/chunklist.m3u8
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
 #EXTINF:90,NBC News Now
 https://nbcnewshls.akamaized.net/hls/live/2011820/nnn_live1/index_750.m3u8
@@ -362,8 +367,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf50009
 #EXTINF:116,Sports Channel Network
 https://vod365-sports-channel-network-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:117,Eurosport (Trial)
-http://77.83.117.60:8888/02_EUROHD1_720p/chunklist.m3u8
+#EXTINF:117,Fox Sports Pluto TV
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?advertisingId=&appName=web&appVersion=5.0.2-97fa211903e9a4370df3912896eb5e2e8e78f998&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=954c037d-1a11-44d3-b488-9d06f8a3e068&deviceLat=34.0729&deviceLon=-118.2606&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=81.0.4044.26&includeExtendedEvents=false&sid=aa531227-82f1-4b86-a7b5-6c515e0a6fb2&userId=&serverSideAds=true
 
 #EXTINF:118,SportsGrid Network
 https://dai.google.com/linear/hls/event/9FKrAqCfRvGfn3tPbVFO-g/master.m3u8
@@ -426,7 +431,7 @@ https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv_4.m3u8
 https://tyt-xumo-us.amagi.tv/hls/amagi_hls_data_tytnetwor-tyt-xumo/CDN/768x432_1531200/chunklist.m3u8
 
 #EXTINF:138,One America News Network
-http://n1.klowdtv.net/live1/oan_360p/chunks.m3u8
+http://n1.klowdtv.net/live1/oan_180p/chunks.m3u8
 
 #EXTINF:139,OAN Plus
 https://oneamericanews-vizio.amagi.tv/playlist.m3u8
@@ -467,7 +472,7 @@ http://api.new.livestream.com/accounts/27460990/events/8266909/live.m3u8
 http://210.210.155.35/qwr9ew/s/s39/02.m3u8
 
 #EXTINF:151,Hollywire
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=141
+https://hollywire-samsung-ca.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:152,Folk TV
 https://584b0aa350b92.streamlock.net/folk-tv/myStream.sdp/playlist.m3u8
@@ -524,7 +529,7 @@ https://dai.google.com/linear/hls/event/KAfBFcVrQgKmHhpzvkEn9A/master.m3u8
 https://jukin-peopleareawesome-2-gb.samsung.wurl.com/manifest/1200.m3u8
 
 #EXTINF:170,Tastemade
-https://tastemade-roku-us.amagi.tv/hls/amagi_hls_data_tastemade-tastemade/CDN/playlist.m3u8
+https://tastemadeintl-brightcove.amagi.tv/hls/amagi_hls_data_tastemade-tastemadeinternational-brightcove/CDN/playlist.m3u8
 
 #EXTINF:171,Saveur
 https://a.jsrdn.com/broadcast/060753d37e/+0000/c.m3u8
@@ -673,8 +678,8 @@ https://kedoo-supertoonstv-1-gb.samsung.wurl.com/manifest/1200.m3u8
 #EXTINF:219,OCA
 http://ocatv.mcgi.me:1935/public/247_br/playlist.m3u8
 
-#EXTINF:220,RESERVED (220)
-https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
+#EXTINF:220,Pluto TV News
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5268abcd0ce20a8472000114/master.m3u8?advertisingId=&appName=web&appVersion=5.0.3-5a69f0421bfaa21acf57c7f54f9914128359c64e&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceLat=40.7308&deviceLon=-73.9975&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=66.0.3515.115&includeExtendedEvents=false&sid=8731304a-e66f-4ac1-b5f0-6f8c82d02e79&userId=&serverSideAds=true
 
 #EXTINF:221,All Time
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-alltime/CDN/master.m3u8
@@ -686,7 +691,7 @@ https://playworksdigital-playworks-1.plex.wurl.com/manifest/playlist.m3u8
 https://simultv.s.llnwi.net/n4s4/KartoonCircus/interlink.m3u8
 
 #EXTINF:224,Quahz TV
-https://t06243a-lh.akamaihd.net/i/t06243a_1@536897/index_750_av-p.m3u8
+https://t06243a-lh.akamaihd.net/i/t06243a_1@536897/master.m3u8
 
 #EXTINF:225,iHolyfield TV
 https://simultv.s.llnwi.net/n4s4/GITV/iH/iHolyfield/interlink_3200.m3u8
@@ -770,7 +775,7 @@ https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d56
 https://peopletv-oo.akamaized.net/playlist720p.m3u8
 
 #EXTINF:309,ABC News Live HD
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+https://abcnewslive.akamaized.net/amagi_hls_data_roku-host-abc/CDN/1280x720_2890800/index.m3u8
 
 #EXTINF:310,CNN International HD
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
