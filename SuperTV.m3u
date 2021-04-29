@@ -24,7 +24,7 @@ http://103.11.112.28:1935/live2/smil:onesports.smil/chunklist_w1210079406_b62800
 http://stream.gmanews.tv/ioslive/livestream/chunklist.m3u8?wowzasessionid=693701106
 
 #EXTINF:8,News5 Always On (Kodi only)*
-plugin://plugin.video.youtube/play/?channel_id=UCGEbMwiX774cseKvJqF9R2g
+plugin://plugin.video.youtube/play/live_stream?channel=UCGEbMwiX774cseKvJqF9R2g
 
 #EXTINF:9,CNN Philippines
 https://streaming.cnnphilippines.com/live/myStream/chunklist_w1877522213.m3u8
