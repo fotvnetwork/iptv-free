@@ -10,7 +10,7 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/829dbdfe0
 http://59c3ec70cfde0.streamlock.net/channel_1/channel1/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
 
 #EXTINF:4,PTV
-https://stream-02.sg1.dailymotion.com/sec(vb0ikD3rmZA2RvEN2UsfwOmroW41RqGm0Ji7lmGKzmM)/dm/3/x5cr6b9/d/live-2.m3u8
+https://stream-02.sg1.dailymotion.com/sec(vb0ikD3rmZA2RvEN2UsfwOmroW41RqGm0Ji7lmGKzmM)/dm/3/x5cr6b9/d/live-1.m3u8
 
 #EXTINF:5,TV5
 http://103.11.112.84:1935/live2/smil:tv5.smil/playlist.m3u8
@@ -40,29 +40,19 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/fc256993b
 https://d3cbe0gidjd4k2.cloudfront.net/channel_7/smil:channel_7.smil/chunklist_w1635746920_b1000000_sleng.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
 
 #EXTINF:14,Knowledge Channel*
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla&Referrer=https%3A%2F%2Ftfc.tv%2F&X-Forwarded-For=175.176.0.236
-#EXTVLCOPT:http-referrer=https://tfc.tv/
-#EXTVLCOPT:http-user-agent=Mozilla
 https://amdottlive.akamaized.net/hls/live/2018990/iwantknowledge/master360p.m3u8
 
-#EXTINF:15,UNTV (Kodi only)*
-plugin://plugin.video.youtube/play/?video_id=tgRVz6QIy7w
+#EXTINF:15,UNTV
+https://www.youtube.com/embed/live_stream?channel=UC3XaG-7UVi2vD8ZZEMNnnpw
 
-#EXTINF:16,Truth Channel (Kodi only)*
-plugin://plugin.video.youtube/play/?video_id=CJlpaLQUkWk
+#EXTINF:16,Truth Channel
+https://www.youtube.com/embed/live_stream?channel=UCa3hzYljDByZxkjIMah_2nw
 
 #EXTINF:17,TeleRadyo*
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla&Referrer=https%3A%2F%2Ftfc.tv%2F&X-Forwarded-For=175.176.0.236
-#EXTVLCOPT:http-referrer=https://tfc.tv/
-#EXTVLCOPT:http-user-agent=Mozilla
 https://tfcmsl.akamaized.net/hls/live/2014654/dzmm/master.m3u8
 
-#EXTINF:18,DZRH News TV (Kodi only)*
-plugin://plugin.video.youtube/play/?video_id=uRLg3vA8SX8
+#EXTINF:18,DZRH News TV
+https://www.youtube.com/embed/live_stream?channel=UCcTiBX8js_djhSSlmJRI99A
 
 #EXTINF:19,TFC
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/298a3f407e14a38.m3u8
@@ -79,14 +69,14 @@ https://www.youtube.com/channel/UCstEtN0pgOmCf02EdXsGChw/live
 #EXTINF:23,MyTV Cebu
 http://api.new.livestream.com/accounts/15418593/events/4787138/live.m3u8
 
-#EXTINF:24,DWIZ (Kodi only)*
-plugin://plugin.video.youtube/play/?video_id=8ALoUahe5eI
+#EXTINF:24,DWIZ
+https://www.youtube.com/embed/live_stream?channel=UCWe04Bz8YogtOksyK4O5xXw
 
 #EXTINF:25,NET 25 (Trial)
 https://ebc.sytes.net/hls/net25.m3u8
 
-#EXTINF:26,TV Maria (Kodi only)*
-plugin://plugin.video.youtube/play/?video_id=JPkksPIOWzg
+#EXTINF:26,TV Maria
+https://www.youtube.com/embed/live_stream?channel=UCDXPB23ws_T0rVvrXVCYqyA
 
 #EXTINF:27,Pilipinas HD
 http://59c3ec70cfde0.streamlock.net/channel_5/channel5/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
