@@ -92,7 +92,7 @@ plugin://plugin.video.youtube/play/?video_id=JPkksPIOWzg
 http://59c3ec70cfde0.streamlock.net/channel_5/channel5/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
 
 #EXTINF:28,RJAM News
-https://www.youtube.com/channel/UC1f5yN0Hdibzm3JqqUswKvA/live
+https://www.youtube.com/embed/live_stream?channel=UC1f5yN0Hdibzm3JqqUswKvA
 
 #EXTINF:29,AMGTV
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/chunklist.m3u8
