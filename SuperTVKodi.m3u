@@ -71,7 +71,7 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/298a3f407
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/cd855b97a246caf.m3u8
 
 #EXTINF:21,ADD Live
-plugin://plugin.video.youtube/play/?video_id=UCFRj7FPKTthzA_gfE2PsGJQ/live
+plugin://plugin.video.youtube/play/?video_id=SG9ZhFBNIiI
 
 #EXTINF:22,Kapamilya Online Live
 plugin://plugin.video.youtube/play/?video_id=P-UXibHA5RQ
