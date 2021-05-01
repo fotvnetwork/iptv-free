@@ -10,7 +10,7 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/829dbdfe0
 http://59c3ec70cfde0.streamlock.net/channel_1/channel1/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
 
 #EXTINF:4,PTV
-https://stream-02.sg1.dailymotion.com/sec(vb0ikD3rmZA2RvEN2UsfwOmroW41RqGm0Ji7lmGKzmM)/dm/3/x5cr6b9/d/live-1.m3u8
+https://github.com/fotvnetwork/iptv-free/raw/master/Token/PTV4.m3u8
 
 #EXTINF:5,TV5
 http://103.11.112.84:1935/live2/smil:tv5.smil/playlist.m3u8
@@ -22,7 +22,7 @@ http://103.11.112.28:1935/live2/smil:onesports.smil/chunklist_w1210079406_b62800
 http://stream.gmanews.tv/ioslive/livestream/chunklist.m3u8?wowzasessionid=693701106
 
 #EXTINF:8,News5
-https://www.youtube.com/channel/UCGEbMwiX774cseKvJqF9R2g/live
+https://www.youtube.com/embed/live_stream?channel=UCGEbMwiX774cseKvJqF9R2g
 
 #EXTINF:9,CNN Philippines
 https://streaming.cnnphilippines.com/live/myStream/chunklist_w1877522213.m3u8
@@ -64,7 +64,7 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/cd855b97a
 https://play.wish1075.com/radio/wish.m3u8
 
 #EXTINF:22,Kapamilya Online Live
-https://www.youtube.com/channel/UCstEtN0pgOmCf02EdXsGChw/live
+https://www.youtube.com/embed/live_stream?channel=UCstEtN0pgOmCf02EdXsGChw
 
 #EXTINF:23,MyTV Cebu
 http://api.new.livestream.com/accounts/15418593/events/4787138/live.m3u8
