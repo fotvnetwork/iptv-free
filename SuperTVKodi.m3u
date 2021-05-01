@@ -70,8 +70,8 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/298a3f407
 #EXTINF:20,TFC 2
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/cd855b97a246caf.m3u8
 
-#EXTINF:21,Wish
-https://play.wish1075.com/radio/wish.m3u8
+#EXTINF:21,ADD Live
+plugin://plugin.video.youtube/play/?video_id=UCFRj7FPKTthzA_gfE2PsGJQ/live
 
 #EXTINF:22,Kapamilya Online Live
 plugin://plugin.video.youtube/play/?video_id=P-UXibHA5RQ
@@ -496,7 +496,7 @@ https://dai.google.com/linear/hls/event/18_lZXPySFa5_GRVEbOX_A/master.m3u8
 https://the-pet-collective-linear.sinclair.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:162,FailArmy
-https://pcva5.manifest.auditude.com/auditude/variant/failarmy/ce5e4fe3-625c-4f58-aacd-21523449d30d/aHR0cHM6Ly9tYW5pZmVzdC53dXJsLmNvbS9jaGFubmVscy92aWV3bGlmdC9mYWlsYXJteV9pbnRlcm5hdGlvbmFsXy9wbGF5bGlzdC5tM3U4.m3u8?pttrackingversion=v2&u=19287a324825cc5aacb7e46183c72324&pttrackingmode=sstm&g=1000003&z=268729&k=dnt=0;wurl_channel=151;distributor=viewlift;psid=%7BPSID%7D;targetopt=%7BTARGETOPT%7D;useragent=%7BUSERAGENT%7D&ptcueformat=turner
+https://d696d618ff0642dfa78984e42636cc5d.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Viewlift_FailArmy/playlist.m3u8?ads.wurl_channel=151&ads.wurl_name=FailArmy&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D
 
 #EXTINF:163,Game Show Central
 https://gsn-gameshowchannnel-2.roku.wurl.com/manifest/playlist.m3u8
@@ -507,8 +507,8 @@ https://bozztv.com/teleyupp/teleup-grit/tracks-v3a1/mono.m3u8
 #EXTINF:165,Safe TV
 http://18.191.91.130:1935/live/safetv/playlist.m3u8
 
-#EXTINF:166,Camera Smile TV
-https://playout4multirtmp.tulix.tv/live7/Stream1/playlist.m3u8
+#EXTINF:166,Wipeout Xtra
+https://dai.google.com/linear/hls/event/0DG8p66IRES7ZzEe1WJS-w/master.m3u8
 
 #EXTINF:167,Hunt Channel
 https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
@@ -522,8 +522,8 @@ https://jukin-peopleareawesome-2-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:170,Tastemade
 https://tastemade-gb.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:171,Saveur
-https://a.jsrdn.com/broadcast/060753d37e/+0000/c.m3u8
+#EXTINF:171,Food 52
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfood52A/CDN/playlist.m3u8
 
 #EXTINF:172,Gusto TV
 https://gustotv-gustotv-1.roku.wurl.com/manifest/playlist.m3u8
@@ -582,8 +582,8 @@ https://dai.google.com/linear/hls/event/o5J3g4U9T16CvYnS7Qd86Q/master.m3u8
 #EXTINF:190,SGTN
 http://stgn-49.tulix.tv/live19/Stream1/chunklist_w1498543121.m3u8
 
-#EXTINF:191,alee+
-https://1123112950.rsc.cdn77.org/FTF/REWIREMASTER_Low.m3u8
+#EXTINF:191,The Heartland Network (Trial)
+https://bcovlive-a.akamaihd.net/1ad942d15d9643bea6d199b729e79e48/us-east-1/6183977686001/playlist.m3u8
 
 #EXTINF:192,ONNtv
 https://onntv.vantrix.tv/onntv_hls/360p/onntv_hls-HLS-360p.m3u8
