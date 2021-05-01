@@ -19,10 +19,10 @@ http://103.11.112.84:1935/live2/smil:tv5.smil/playlist.m3u8
 http://103.11.112.28:1935/live2/smil:onesports.smil/chunklist_w1210079406_b628000.m3u8
 
 #EXTINF:7,Super Radyo DZBB
-http://stream.gmanews.tv/ioslive/livestream/chunklist.m3u8?wowzasessionid=693701106
+http://stream.gmanews.tv/ioslive/livestream/playlist.m3u8
 
-#EXTINF:8,News5
-https://www.youtube.com/channel/UCGEbMwiX774cseKvJqF9R2g/live
+#EXTINF:8,Live
+plugin://plugin.video.youtube/play/?video_id=1sDFlB1QBYg
 
 #EXTINF:9,CNN Philippines
 https://streaming.cnnphilippines.com/live/myStream/chunklist_w1877522213.m3u8
@@ -251,13 +251,13 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689
 https://rockentertainment-zoomoo-1.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:81,HappyKids
-https://happykids-vizio.amagi.tv/playlist.m3u8
+https://happykids-vizio.amagi.tv/playlist480p.m3u8
 
 #EXTINF:82,Newsy
 https://d3ra88okaj5j4j.cloudfront.net/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index.m3u8
 
 #EXTINF:83,News 12
-https://d7yloq2xdbhua.cloudfront.net/2272f9cc29d3f9e812a3b4cacbd767bf69c95a59434c3f482606a67962a0dd5e/localnow/n12nyLocalNow/news12newyork/primary/index.m3u8
+https://lnc-news12.tubi.video/primary/5.m3u8
 
 #EXTINF:84,Black News Channel
 https://blacknewschannel-xumo-us.amagi.tv/playlist.m3u8
