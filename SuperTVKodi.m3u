@@ -74,7 +74,7 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/cd855b97a
 https://play.wish1075.com/radio/wish.m3u8
 
 #EXTINF:22,Kapamilya Online Live
-plugin://plugin.video.youtube/play/?video_id=P-UXibHA5RQ
+https://www.youtube.com/channel/UCstEtN0pgOmCf02EdXsGChw/live
 
 #EXTINF:23,MyTV Cebu
 http://api.new.livestream.com/accounts/15418593/events/4787138/live.m3u8
@@ -230,10 +230,10 @@ https://manifest.auditude.com/auditude/variant/nosey_2/aHR0cHM6Ly9ub3NleS0yLnJva
 https://demandafrica-vizio.amagi.tv/playlist.m3u8
 
 #EXTINF:74,DUST
-https://dust.sinclair.wurl.com/manifest/playlist.m3u8
+https://dust.samsung.wurl.com/manifest/1200.m3u8
 
 #EXTINF:75,The Bob Ross Channel
-\https://bobross-wurl.cinedigm.com/playlist.m3u8
+https://cinedigm-bobross-1.vizio.wurl.com/manifest/39d7b421c0fd490a786834b9ff51319a.m3u8
 
 #EXTINF:76,This Old House
 https://thisoldhouse-2.roku.wurl.com/manifest/playlist.m3u8
