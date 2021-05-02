@@ -10,7 +10,7 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/829dbdfe0
 http://59c3ec70cfde0.streamlock.net/channel_1/channel1/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
 
 #EXTINF:4,PTV
-https://github.com/fotvnetwork/iptv-free/raw/master/Token/PTV4.m3u8
+https://kutt.it/s9xMrT
 
 #EXTINF:5,TV5
 http://103.11.112.84:1935/live2/smil:tv5.smil/playlist.m3u8
@@ -60,11 +60,11 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/298a3f407
 #EXTINF:20,TFC 2
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/cd855b97a246caf.m3u8
 
-#EXTINF:21,Wish
-https://play.wish1075.com/radio/wish.m3u8
+#EXTINF:21,ADD
+https://www.youtube.com/embed/live_stream?channel=UCFRj7FPKTthzA_gfE2PsGJQ
 
 #EXTINF:22,Kapamilya Online Live
-https://www.youtube.com/embed/live_stream?channel=UCstEtN0pgOmCf02EdXsGChw
+https://kutt.it/vBahD6
 
 #EXTINF:23,MyTV Cebu
 http://api.new.livestream.com/accounts/15418593/events/4787138/live.m3u8
