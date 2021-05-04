@@ -53,11 +53,11 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/cd855b97a
 #EXTINF:21,ADD Live
 plugin://plugin.video.youtube/play/?video_id=nHKXrJLvhhQ
 #EXTINF:22,Kapamilya Online Live
-plugin://plugin.video.youtube/play/?video_id=juygvEt8Jpk
+plugin://plugin.video.youtube/play/?video_id=LNEOigpAl1s
 #EXTINF:23,MyTV Cebu
 http://api.new.livestream.com/accounts/15418593/events/4787138/live.m3u8
 #EXTINF:24,DWIZ
-plugin://plugin.video.youtube/play/?video_id=EC9WT0jVc4w
+plugin://plugin.video.youtube/play/?video_id=KGZvDPCaDmg
 #EXTINF:25,NET 25
 https://ebc.sytes.net/hls/net25.m3u8
 #EXTINF:26,TV Maria
@@ -72,8 +72,8 @@ plugin://plugin.video.youtube/play/?video_id=h99SrJB7F5M
 plugin://plugin.video.youtube/play/?video_id=iwqXdAV92Y4
 #EXTINF:31,Boomerang
 http://27.254.130.56:80/live01/ch18.m3u8
-#EXTINF:32,Nick Jr. Pluto TV
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceLat=40.8364&deviceLon=-74.1403&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=66.0.3515.72&includeExtendedEvents=false&sid=ed4384ed-108c-4d94-86ab-ab0cc6e41e6f&userId=&serverSideAds=true
+#EXTINF:32,BabyFirst
+https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:33,Da Vinci
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DAVINCY-HD-1080p/playlist.m3u8
 #EXTINF:34,Toon Goggles
@@ -108,7 +108,7 @@ https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/chunklist_b600000.m
 https://bozztv.com/teleyupp1/teleup-GgIpXe0CjT/tracks-v3a1/mono.m3u8
 #EXTINF:49,KCWX
 http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
-#EXTINF:50,WHVL
+#EXTINF:50,WPHL
 https://bozztv.com/teleyupp/e5CGxWp8iU/tracks-v3a1/mono.m3u8
 #EXTINF:51,WGN
 https://bozztv.com/teleyupp1/teleup-mBm5MQ50rA/tracks-v3a1/mono.m3u8
@@ -146,8 +146,8 @@ https://bozztv.com/teleyupp/teleup-gsn-sd/index.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A81.0)%20Gecko%2F20100101%20Firefox%2F81.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AFC-HD-1080p/playlist.m3u8
-#EXTINF:62,AWE
-http://n1.klowdtv.net/live1/awe_360p/chunks.m3u8
+#EXTINF:62,AMC
+http://mfe.cliptv.az/dash/AMC_SD.ism/playlist.mpd
 #EXTINF:63,Blue Ant Entertainment
 http://210.210.155.35:80/session/676c25ba-724e-11e9-834b-8ac28bf32f5a/dr9445/h/h16/01.m3u8
 #EXTINF:64,Comet
@@ -163,7 +163,7 @@ http://45.126.83.51/qwr9ew/s/s34/02.m3u8
 #EXTINF:69,Pop
 https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
 #EXTINF:70,Hallmark
-https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_yupptvfrn-hallmark-frndlytv/CDN/768x432_2340800/index.m3u8
+https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_yupptvfrn-hallmark-frndlytv/CDN/playlist.m3u8
 #EXTINF:71,RunTime Free Movies
 https://ammoruntime-plex.amagi.tv/playlist.m3u8
 #EXTINF:72,Reelz
@@ -212,8 +212,8 @@ https://dust.samsung.wurl.com/manifest/1200.m3u8
 https://cinedigm-bobross-1.vizio.wurl.com/manifest/39d7b421c0fd490a786834b9ff51319a.m3u8
 #EXTINF:94,This Old House
 https://thisoldhouse-2.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:95,AWE Encore
-https://aweencore-vizio.amagi.tv/playlist480p.m3u8
+#EXTINF:95,AKC TV
+https://video.blivenyc.com/broadcast/prod/2061/22/file-429k.m3u8
 #EXTINF:96,Animals Live
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/playlist.m3u8
 #EXTINF:97,Newsy
@@ -275,23 +275,27 @@ https://dai.google.com/linear/hls/event/r4sa-f6GSN2XIvzKv5jVng/master.m3u8
 #EXTINF:125,NHK World Japan
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 #EXTINF:126,Arirang
-http://streaming-a-802.cdn.nextologies.com/SBS_Arirang/playlist.m3u8
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:127,India Today
 https://feeds.intoday.in/hltapps/api/master.m3u8
 #EXTINF:128,TeleSUR
 https://d7g1ebft2592.cloudfront.net/mblivev3/360p/chunklist.m3u8
 #EXTINF:129,TRT World
 https://tv-trtworld.live.trt.com.tr/master.m3u8
-#EXTINF:130,Pluto TV Sports
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56340779a738201b4ccfeac9/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+#EXTINF:130,NBA TV (Trial)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A81.0)%20Gecko%2F20100101%20Firefox%2F81.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
+https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
 #EXTINF:131,BeIN Sports Xtra
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
 #EXTINF:132,Sports Channel Network
 https://vod365-sports-channel-network-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:133,Fox Sports Pluto TV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?advertisingId=&appName=web&appVersion=5.0.2-97fa211903e9a4370df3912896eb5e2e8e78f998&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=954c037d-1a11-44d3-b488-9d06f8a3e068&deviceLat=34.0729&deviceLon=-118.2606&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=81.0.4044.26&includeExtendedEvents=false&sid=aa531227-82f1-4b86-a7b5-6c515e0a6fb2&userId=&serverSideAds=true
-#EXTINF:134,Outdoor Channel
-https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:134,SportsGrid Network
+https://dai.google.com/linear/hls/event/9FKrAqCfRvGfn3tPbVFO-g/master.m3u8
 #EXTINF:135,Fox Sports Australia
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 #EXTINF:136,Fite
@@ -318,10 +322,10 @@ https://waypointtv.samsung.wurl.com/manifest/playlist.m3u8
 https://mavtv-1.sinclair.wurl.com/manifest/playlist.m3u8
 #EXTINF:147,Whistle TV
 https://whistle-1.sinclair.wurl.com/manifest/playlist.m3u8
-#EXTINF:148,eGG Network
-http://45.126.83.51/uq2663/h/h22/02.m3u8
-#EXTINF:149,Wonder
-https://wonder-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:148,Sports TV Plus (AiryTV)
+https://playout4multirtmp.tulix.tv/live6/Stream1/playlist.m3u8'
+#EXTINF:149,Voyager Documentaries
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvoyager/CDN/playlist.m3u8
 #EXTINF:150,CGTN Documentary
 https://livedoc.cgtn.com/500d/prog_index.m3u8
 #EXTINF:151,NTD
