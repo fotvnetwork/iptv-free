@@ -47,11 +47,11 @@ https://tfcmsl.akamaized.net/hls/live/2014654/dzmm/master.m3u8
 #EXTINF:18,DZRH News TV
 plugin://plugin.video.youtube/play/?video_id=uRLg3vA8SX8
 #EXTINF:19,TFC
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/298a3f407e14a38.m3u8
-#EXTINF:20,TFC 2
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/882598ca274e161.m3u8
+#EXTINF:20,TFC Europe
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/cd855b97a246caf.m3u8
-#EXTINF:21,ADD Live
-plugin://plugin.video.youtube/play/?video_id=nHKXrJLvhhQ
+#EXTINF:21,TFC Asia
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/298a3f407e14a38.m3u8
 #EXTINF:22,Kapamilya Online Live
 plugin://plugin.video.youtube/play/?video_id=LNEOigpAl1s
 #EXTINF:23,MyTV Cebu
@@ -68,10 +68,10 @@ https://d3cbe0gidjd4k2.cloudfront.net/channel_5/smil:channel_5.smil/chunklist_w1
 plugin://plugin.video.youtube/play/?video_id=p6JCAB2E0to
 #EXTINF:29,Live Ch. 29
 plugin://plugin.video.youtube/play/?video_id=h99SrJB7F5M
-#EXTINF:30,Live Ch. 30
-plugin://plugin.video.youtube/play/?video_id=iwqXdAV92Y4
-#EXTINF:31,Boomerang
-http://27.254.130.56:80/live01/ch18.m3u8
+#EXTINF:30,ADD Live
+plugin://plugin.video.youtube/play/?video_id=nHKXrJLvhhQ
+#EXTINF:31,Pocket.watch
+https://pcor5.manifest.auditude.com/auditude/variant/pocketwatch/0e31d8a6-1469-4bb6-bbbc-289278156492/aHR0cHM6Ly9wb2NrZXR3YXRjaC5yb2t1Lnd1cmwuY29tL21hbmlmZXN0L3BsYXlsaXN0Lm0zdTg.m3u8?pttrackingversion=v2&u=19287a324825cc5aacb7e46183c72324&pttrackingmode=sstm&g=1000010&z=268729&k=wurl_channel=272;distributor=roku;ip=192.119.164.38;rdid=121c0a02-8b4f-5ad8-9a0a-d73aa5fd4c92;coppa=true;is_lat=1;ua=Mozilla/5.0+(Windows+NT+10.0;+)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.26+Safari/537.36;content=70248e9e0b22dbcc3d7e52a98783d9f3cd47e235;genre=;platform=web;content_type=livefeed;content_rating=&ptcueformat=turner
 #EXTINF:32,Nick Jr. Pluto TV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceLat=40.8364&deviceLon=-74.1403&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=66.0.3515.72&includeExtendedEvents=false&sid=ed4384ed-108c-4d94-86ab-ab0cc6e41e6f&userId=&serverSideAds=true
 #EXTINF:33,Da Vinci
@@ -115,15 +115,15 @@ https://bozztv.com/teleyupp1/teleup-mBm5MQ50rA/tracks-v3a1/mono.m3u8
 #EXTINF:52,Popstar! TV
 https://linear-10.frequency.stream/10/hls/master/playlist.m3u8
 #EXTINF:53,Lively Place
-https://aenetworks-ae-1.roku.wurl.com/manifest/2000.m3u8
+https://aenetworks-ae-1.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:54,Love Nature
 http://bamus-eng-roku.amagi.tv/playlist.m3u8
 #EXTINF:55,Skills + Thrills
 https://aenetworks-skills-thrills-1.plex.wurl.com/manifest/playlist.m3u8
 #EXTINF:56,Comedy Dynamics
-https://comedydynamics-wurl.cinedigm.com/playlist.m3u8
+https://comedydynamics-plex-ingest.cinedigm.com/playlist.m3u8
 #EXTINF:57,AXN Indonesia
-http://210.210.155.35/session/37ee409e-73b5-11e9-b657-a0899505893d/uq2663/h/h141/01.m3u8
+http://210.210.155.35/session/37ee409e-73b5-11e9-b657-a0899505893d/uq2663/h/h141/02.m3u8
 #EXTINF:58,FOX
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -136,8 +136,8 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A81.0)%20Gecko%2F20100101%20Firefox%2F81.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
-#EXTINF:59,Cinemax
-http://36.37.252.114:888/Apple/OneTV-029/playlist.m3u8
+#EXTINF:59,Comedy Central Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e13bde24f4ca800093d57b5/master.m3u8?deviceId=8f35210d-be26-5e0d-8c57-d0f910026ee7&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=8f35210d-be26-5e0d-8c57-d0f910026ee7&embedPartner=rokuChannel&appName=rokuchannel
 #EXTINF:60,Game Show Network
 https://bozztv.com/teleyupp/teleup-gsn-sd/index.m3u8
 #EXTINF:61,AFN
@@ -147,9 +147,9 @@ https://bozztv.com/teleyupp/teleup-gsn-sd/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AFC-HD-1080p/playlist.m3u8
 #EXTINF:62,AWE
-http://n1.klowdtv.net/live1/awe_360p/chunks.m3u8
+http://n1.klowdtv.net/live1/awe_180p/chunks.m3u8
 #EXTINF:63,Blue Ant Entertainment
-http://210.210.155.35:80/session/676c25ba-724e-11e9-834b-8ac28bf32f5a/dr9445/h/h16/01.m3u8
+http://210.210.155.35:80/session/676c25ba-724e-11e9-834b-8ac28bf32f5a/dr9445/h/h16/02.m3u8
 #EXTINF:64,Comet
 https://dai.google.com/linear/hls/event/83L2OqtGSZ6lbWt8ODomWg/master.m3u8
 #EXTINF:65,TBD
@@ -304,8 +304,8 @@ http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 https://120sports-accdn-1.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:140,The T
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/f.m3u8
-#EXTINF:141,Adventure Sports Network
-https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/master.m3u8
+#EXTINF:141,FTF
+https://eleven-rebroadcast-samsung.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:142,Pac-12 Insider
 https://pac12-roku-us.amagi.tv/playlist.m3u8
 #EXTINF:143,Outside TV+
@@ -387,7 +387,7 @@ https://dai2.xumo.com/amagi_hls_data_xumo1234A-tmz/CDN/master.m3u8
 #EXTINF:181,Made in Hollywood
 https://dai.google.com/linear/hls/event/Mteif75-SJeFi19Sk3-dGQ/master.m3u8
 #EXTINF:182,ElectricNOW
-https://dai.google.com/linear/hls/event/KsvJAc81Qoewj6opYso6Fw/master.m3u8
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=53
 #EXTINF:183,AFV Family
 https://dai.google.com/linear/hls/event/18_lZXPySFa5_GRVEbOX_A/master.m3u8
 #EXTINF:184,The Pet Collective
@@ -410,8 +410,8 @@ https://dai.google.com/linear/hls/event/KAfBFcVrQgKmHhpzvkEn9A/master.m3u8
 https://jukin-peopleareawesome-2-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:193,Tastemade
 https://tastemade-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:194,Food 52
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfood52A/CDN/playlist.m3u8
+#EXTINF:194,Food TV Pluto TV
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5877ac8cb791f4eb4a140d81/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceLat=40.8364&deviceLon=-74.1403&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=66.0.3515.72&includeExtendedEvents=false&sid=bda0626f-c311-457b-937e-5d81d2fa8911&userId=&serverSideAds=true
 #EXTINF:195,Gusto TV
 https://gustotv-gustotv-1.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:196,The Outdoor Cooking Channel
@@ -455,7 +455,7 @@ https://player-api.new.livestream.com/accounts/27460990/events/8973036/live.m3u8
 #EXTINF:215,Biz TV
 https://thegateway.app/BizAndYou/Biz_480p/playlist.m3u8
 #EXTINF:216,Unidentified
-https://a.jsrdn.com/broadcast/4hhfi556/c.m3u8
+https://dy308let2w5g5.cloudfront.net/index.m3u8
 #EXTINF:217,Drybar Comedy
 https://drybar-drybarcomedy-1-au.samsung.wurl.com/manifest/1200.m3u8
 #EXTINF:218,Harley Davidson
