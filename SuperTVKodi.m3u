@@ -14,8 +14,8 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/3254f236a
 http://103.11.112.28:1935/live2/smil:onesports.smil/playlist.m3u8
 #EXTINF:7,Super Radyo DZBB
 http://stream.gmanews.tv/ioslive/livestream/playlist.m3u8
-#EXTINF:8,Live Ch. 8
-plugin://plugin.video.youtube/play/?video_id=1sDFlB1QBYg
+#EXTINF:8,Tap TV (test)
+https://bcovlive-a.akamaihd.net/b49d472b255d4340b32af5115d5f9793/ap-southeast-1/6185036301001/4c794c49cb0047d88155f4d9330fb836/playlist_ssaiM.m3u8
 #EXTINF:9,CNN Philippines
 https://streaming.cnnphilippines.com/live/myStream/playlist.m3u8
 #EXTINF:10,GMA Pinoy TV
@@ -108,8 +108,8 @@ https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/chunklist_b600000.m
 https://bozztv.com/teleyupp1/teleup-GgIpXe0CjT/tracks-v3a1/mono.m3u8
 #EXTINF:49,KCWX
 http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
-#EXTINF:50,WHVL
-https://bozztv.com/teleyupp/e5CGxWp8iU/tracks-v3a1/mono.m3u8
+#EXTINF:50,World Channel
+https://cs.ebmcdn.net/eastbay-live-hs-1/apt/mp4:apt-world/playlist.m3u8
 #EXTINF:51,WGN
 https://bozztv.com/teleyupp1/teleup-mBm5MQ50rA/tracks-v3a1/mono.m3u8
 #EXTINF:52,Popstar! TV
@@ -143,7 +143,7 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
 https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:60,Game Show Network
-https://bozztv.com/teleyupp/teleup-gsn-sd/index.m3u8
+http://n1.klowdtv.net/live2/gsn_360p/chunks.m3u8
 #EXTINF:61,AFN
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
