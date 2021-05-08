@@ -69,12 +69,16 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/ac0896de0
 #EXTINF:29,Live Ch. 29
 plugin://plugin.video.youtube/play/?video_id=h99SrJB7F5M
 #EXTINF:30,ADD Live
-plugin://plugin.video.youtube/play/?video_id=nHKXrJLvhhQ
+plugin://plugin.video.youtube/play/?video_id=6AJALlWjAek
 #EXTINF:31,Pocket.watch
 https://pocketwatch.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:32,Nick Jr. Pluto TV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceLat=40.8364&deviceLon=-74.1403&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=66.0.3515.72&includeExtendedEvents=false&sid=ed4384ed-108c-4d94-86ab-ab0cc6e41e6f&userId=&serverSideAds=true
 #EXTINF:33,Da Vinci
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A81.0)%20Gecko%2F20100101%20Firefox%2F81.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DAVINCY-HD-1080p/playlist.m3u8
 #EXTINF:34,Toon Goggles
 https://toongoggles-toongoggles-3-gb.samsung.wurl.com/manifest/playlist.m3u8
@@ -122,7 +126,7 @@ http://bamus-eng-roku.amagi.tv/playlist.m3u8
 https://aenetworks-skills-thrills-1.plex.wurl.com/manifest/playlist.m3u8
 #EXTINF:56,Comedy Dynamics
 https://comedydynamics-plex-ingest.cinedigm.com/playlist.m3u8
-#EXTINF:57,AXN Indonesia
+#EXTINF:57,AXN
 http://210.210.155.35/session/37ee409e-73b5-11e9-b657-a0899505893d/uq2663/h/h141/02.m3u8
 #EXTINF:58,FOX
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -143,7 +147,7 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
 https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:60,Game Show Network
-http://n1.klowdtv.net/live2/gsn_360p/chunks.m3u8
+http://n1.klowdtv.net/live2/gsn_180p/chunks.m3u8
 #EXTINF:61,AFN
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -167,49 +171,49 @@ http://45.126.83.51/qwr9ew/s/s34/02.m3u8
 #EXTINF:69,Pop
 https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
 #EXTINF:70,Hallmark
-https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_yupptvfrn-hallmark-frndlytv/CDN/768x432_2340800/index.m3u8
-#EXTINF:71,Paramount Network
+https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_yupptvfrn-hallmark-frndlytv/CDN/playlist.m3u8
+#EXTINF:71,Hallmark Movies & Mysteries
+https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_yupptvfrn-hallmarkmovies-frndlytv/CDN/playlist.m3u8
+#EXTINF:72,Paramount Network
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A81.0)%20Gecko%2F20100101%20Firefox%2F81.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
-#EXTINF:72,Nat Geo
+#EXTINF:73,Nat Geo
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A81.0)%20Gecko%2F20100101%20Firefox%2F81.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:73,Warner TV
+#EXTINF:74,Warner TV
 http://203.154.243.89:11205/
-#EXTINF:74,&Flix
+#EXTINF:75,&Flix HD
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
-#EXTINF:75,Zee Cinema
+#EXTINF:76,Zee Cinema
 https://y5w8j4a9.ssl.hwcdn.net/cinemausa/tracks-v1a1/index.m3u8
-#EXTINF:76,&Prive
+#EXTINF:77,&Prive HD
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
-#EXTINF:77,Midnight Pulp
+#EXTINF:78,Midnight Pulp
 https://midnightpulp-samsung.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:78,RetroCrush
+#EXTINF:79,RetroCrush
 https://45034ce1cbb7489ab1499301f6274415.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RetroCrush/playlist.m3u8?ads.wurl_channel=491&ads.wurl_name=RetroCrush&ads.us_privacy=1---&ads.psid=&ads.targetopt=1&ads.plex_token=z1MCPUpbxYcHru-5hdyq&ads.plex_id=5ef4e1b40d9ad000423c442a&ads.ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.89+Safari%2F537.36+OPR%2F70.0.3728.71&ads.app_bundle=&ads.app_store_url=&ads.gdpr=0&ads.consent=0
-#EXTINF:79,Ion Plus
+#EXTINF:80,Ion Plus
 https://ion-plus.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:80,MHz
+#EXTINF:81,MHz
 https://mhz-samsung-linear-ca.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:81,Crackle
+#EXTINF:82,Crackle
 https://crackle-plex.amagi.tv/playlist.m3u8
-#EXTINF:82,AMC Presents
+#EXTINF:83,AMC Presents
 https://amc-amcpresents-2.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:83,IFC Film Picks
+#EXTINF:84,IFC Film Picks
 https://amc-ifc-films-picks-1.imdbtv.wurl.com/manifest/playlist.m3u8
-#EXTINF:84,Slightly Off
+#EXTINF:85,Slightly Off
 https://amc-slightly-off-by-amc-1.vizio.wurl.com/manifest/playlist.m3u8
-#EXTINF:85,All Weddings
+#EXTINF:86,All Weddings
 https://amc-allweddings-1.vizio.wurl.com/manifest/playlist.m3u8
-#EXTINF:86,Revry
+#EXTINF:87,Revry
 https://linear-5.frequency.stream/dist/plex/5/hls/master/playlist.m3u8
-#EXTINF:87,Hallmark Movies & Mysteries
-https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_yupptvfrn-hallmarkmovies-frndlytv/CDN/playlist.m3u8
 #EXTINF:88,Dove Channel
 https://dovenow-roku-ingest.cinedigm.com/master432p.m3u8
 #EXTINF:89,CONtv
@@ -226,8 +230,8 @@ https://cinedigm-bobross-1.vizio.wurl.com/manifest/39d7b421c0fd490a786834b9ff513
 https://thisoldhouse-2.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:95,AWE Encore
 https://aweencore-vizio.amagi.tv/playlist480p.m3u8
-#EXTINF:96,Nat Geo Wild Asia
-http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
+#EXTINF:96,INwild
+https://inwild-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:97,Newsy
 https://d3ra88okaj5j4j.cloudfront.net/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index.m3u8
 #EXTINF:98,News 12
@@ -259,7 +263,7 @@ https://ch.iptvmate.net/4ac2dd1a410b37e8357ae8bbac3264c5.m3u8
 #EXTINF:111,Bloomberg Quicktake
 https://dai.google.com/linear/hls/event/cFDvmqo4TGW7EfHwscU_Ew/master.m3u8
 #EXTINF:112,C-SPAN
-https://bozztv.com/teleyupp/teleup-cspan/tracks-v3a1/mono.m3u8
+https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/master.m3u8
 #EXTINF:113,BBC World News
 http://1111296894.rsc.cdn77.org/LS-ATL-54548-11/tracks-v1a1/mono.m3u8
 #EXTINF:114,Sky News
@@ -304,7 +308,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf50009
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A81.0)%20Gecko%2F20100101%20Firefox%2F81.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
-#EXTINF:133,Fox Sports News Australia
+#EXTINF:133,Fox Sports News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 #EXTINF:134,Sports Channel Network
 https://vod365-sports-channel-network-1-gb.samsung.wurl.com/manifest/playlist.m3u8
@@ -321,7 +325,7 @@ https://dai.google.com/linear/hls/event/0jRU1DBXSW6a_TFheLfAUQ/master.m3u8
 #EXTINF:140,Fite
 https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
 #EXTINF:141,Fight Sports
-http://210.210.155.35/uq2663/h/h05/index.m3u8
+http://210.210.155.35/uq2663/h/h05/02.m3u8
 #EXTINF:142,Fuel TV
 https://fueltv-fueltv-2-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:143,Mav TV Select
@@ -350,16 +354,16 @@ https://pcor3.manifest.auditude.com/auditude/variant/p1media_americasvoice_1/2c2
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e46fba0c43b0d00096e5ac1/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=954c037d-1a11-44d3-b488-9d06f8a3e068&deviceLat=33.9560&deviceLon=-118.3887&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=81.0.4044.26&includeExtendedEvents=false&sid=e6f1682e-cc62-437a-bd0d-082bea9a4059&userId=&serverSideAds=true
 #EXTINF:155,The First TV
 https://redseat-thefirst-glewedtv.amagi.tv/index.m3u8
-#EXTINF:156,Free Speech TV
-https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
-#EXTINF:157,TYT Network
-https://tyt-xumo-us.amagi.tv/hls/amagi_hls_data_tytnetwor-tyt-xumo/CDN/master.m3u8
-#EXTINF:158,One America News Network
+#EXTINF:156,One America News Network
 http://n1.klowdtv.net/live1/oan_180p/chunks.m3u8
-#EXTINF:159,OAN Plus
+#EXTINF:157,OAN Plus
 https://oneamericanews-vizio.amagi.tv/playlist.m3u8
-#EXTINF:160,Newsmax TV
+#EXTINF:158,Newsmax TV
 https://d3ut7rvli78ywi.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/NewsmaxLive/hls/live/529965/Live_1/index.m3u8
+#EXTINF:159,Free Speech TV
+https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
+#EXTINF:160,TYT Network
+https://tyt-xumo-us.amagi.tv/hls/amagi_hls_data_tytnetwor-tyt-xumo/CDN/master.m3u8
 #EXTINF:161,Yahoo! News
 https://content.uplynk.com/channel/411ba7ca8cb6403a9e73509e49c3a77b.m3u8
 #EXTINF:162,Pluto TV News
@@ -393,7 +397,7 @@ https://hollywire-samsung-ca.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:176,Law & Crime Network
 https://dai.google.com/linear/hls/event/3w3PsYzZQzS8lyRfi7e4mQ/master.m3u8
 #EXTINF:177,Court TV
-https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8?v=2&ad=web&m.sound=normal&pos=midroll&expand=ad_live&m.sound=normal&m.playback=autoplay&ad.url=https%3A%2F%2Fwww.courttv.com%2F
+https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
 #EXTINF:178,People TV
 https://peopletv-oo.akamaized.net/playlist480p.m3u8
 #EXTINF:179,ET Live
@@ -412,8 +416,8 @@ https://the-pet-collective-linear.sinclair.wurl.com/manifest/playlist.m3u8
 https://d696d618ff0642dfa78984e42636cc5d.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Viewlift_FailArmy/playlist.m3u8?ads.wurl_channel=151&ads.wurl_name=FailArmy&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D
 #EXTINF:186,Game Show Central
 https://gsn-gameshowchannnel-2.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:187,Grit
-https://bozztv.com/teleyupp/teleup-grit/tracks-v3a1/mono.m3u8
+#EXTINF:187,Rev'n
+https://bcovlive-a.akamaihd.net/a71236fdda1747999843bd3d55bdd6fa/us-east-1/6183977686001/playlist.m3u8
 #EXTINF:188,Safe TV
 http://18.191.91.130:1935/live/safetv/playlist.m3u8
 #EXTINF:189,Wipeout Xtra
@@ -514,8 +518,8 @@ http://nrpus.bozztv.com/36bay2/gusa-tvstn/tracks-v1a1/mono.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v4a1/index.m3u8
 #EXTINF:237,Cozi TV
 https://2-fss-2.streamhoster.com/pl_120/201852-1297026-1/master.m3u8
-#EXTINF:238,Get TV
-https://bozztv.com/teleyupp/teleup-gettv/tracks-v2a1/mono.m3u8
+#EXTINF:238,The Action Channel
+https://cdn.igocast.com/channel4_hls/channel4_master.m3u8
 #EXTINF:239,KVVB-TV
 https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1309230/chunklist_b1000000.m3u8
 #EXTINF:240,Stingray Ambiance
@@ -544,7 +548,7 @@ http://wowzaprod236-i.akamaihd.net/hls/live/1019903/7dd4cf51/playlist.m3u8
 http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
 #EXTINF:252,ITV UK
 http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main600.m3u8
-#EXTINF:253,Horse Shopping Channel (Trial)
+#EXTINF:253,Horse Shopping Channel
 https://uplynkcontent.sinclairstoryline.com/channel/26c7a77fd6ed453da6846a16ad0625d9.m3u8
 #EXTINF:254,America TeVe
 https://americateve-rokuus.amagi.tv/master.m3u8
