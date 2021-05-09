@@ -80,20 +80,20 @@ https://rockentertainment-zoomoo-1.samsung.wurl.com/manifest/playlist.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A81.0)%20Gecko%2F20100101%20Firefox%2F81.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DAVINCY-HD-1080p/playlist.m3u8
-#EXTINF:34,Boomerang
-https://iptvcat.com/my_list/s/5ab63a667cce61cd2cdfb405b3cd9b63.m3u8
-#EXTINF:35,Cartoon Network
-https://iptvcat.com/my_list/s/e012d59a352868fa36c3454fd1b86143.m3u8
-#EXTINF:36,Nick Pluto TV
+#EXTINF:34,HappyKids
+https://happykids-vizio.amagi.tv/playlist480p.m3u8
+#EXTINF:35,Supertoons
+https://kedoo-supertoonstv-1-gb.samsung.wurl.com/manifest/1200.m3u8
+#EXTINF:36,Kartoon Fun Time
+https://simultv.s.llnwi.net/n4s4/KartoonCircus/interlink.m3u8
+#EXTINF:37,TG Junior
+https://tg-junior.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:38,Pocket.watch
+https://pocketwatch.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:39,Nick Pluto TV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=954c037d-1a11-44d3-b488-9d06f8a3e068&deviceLat=33.9560&deviceLon=-118.3887&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=81.0.4044.26&includeExtendedEvents=false&sid=e6f1682e-cc62-437a-bd0d-082bea9a4059&userId=&serverSideAds=true
-#EXTINF:37,Nick Jr. Pluto TV
+#EXTINF:40,Nick Jr. Pluto TV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceLat=40.8364&deviceLon=-74.1403&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=66.0.3515.72&includeExtendedEvents=false&sid=ed4384ed-108c-4d94-86ab-ab0cc6e41e6f&userId=&serverSideAds=true
-#EXTINF:38,Disney Channel East
-https://iptvcat.com/my_list/s/63f63a8f271e08756896eb51f23c16fa.m3u8
-#EXTINF:39,Disney Channel
-https://iptvcat.com/my_list/s/ac6ea697eedb4d4855ca38693a9a014f.m3u8
-#EXTINF:40,Disney Junior East
-https://iptvcat.com/my_list/s/3fe8a47d603f091fd49a3fc85b9be2e2.m3u8
 #EXTINF:41,AMGTV
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
 #EXTINF:42,NewsNet
@@ -146,8 +146,12 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A81.0)%20Gecko%2F20100101%20Firefox%2F81.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
 https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:60,Game Show Network
-http://n1.klowdtv.net/live2/gsn_180p/chunks.m3u8
+#EXTINF:60,Fox Family Movies
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A81.0)%20Gecko%2F20100101%20Firefox%2F81.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
+https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:61,AFN
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -212,12 +216,14 @@ https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b1200000.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
-#EXTINF:80,Ion Plus
-https://ion-plus.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:80,HBO Hits (test)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
 #EXTINF:81,MHz
 https://mhz-samsung-linear-ca.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:82,Crackle
-https://crackle-plex.amagi.tv/playlist.m3u8
+#EXTINF:82,Game Show Network
+http://n1.klowdtv.net/live2/gsn_180p/chunks.m3u8
 #EXTINF:83,AMC Presents
 https://amc-amcpresents-2.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:84,IFC Film Picks
@@ -226,8 +232,8 @@ https://amc-ifc-films-picks-1.imdbtv.wurl.com/manifest/playlist.m3u8
 https://amc-slightly-off-by-amc-1.vizio.wurl.com/manifest/playlist.m3u8
 #EXTINF:86,All Weddings
 https://amc-allweddings-1.vizio.wurl.com/manifest/playlist.m3u8
-#EXTINF:87,Revry
-https://linear-5.frequency.stream/dist/plex/5/hls/master/playlist.m3u8
+#EXTINF:87,Ion Plus
+https://ion-plus.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:88,Dove Channel
 https://dovenow-roku-ingest.cinedigm.com/master432p.m3u8
 #EXTINF:89,CONtv
@@ -585,16 +591,6 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 #EXTINF:263,Stingray Karaoke
 https://stingray-karaoke-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:1,HappyKids
-https://happykids-vizio.amagi.tv/playlist480p.m3u8
-#EXTINF:1,Supertoons
-https://kedoo-supertoonstv-1-gb.samsung.wurl.com/manifest/1200.m3u8
-#EXTINF:1,Kartoon Fun Time
-https://simultv.s.llnwi.net/n4s4/KartoonCircus/interlink.m3u8
-#EXTINF:1,TG Junior
-https://tg-junior.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:1,Pocket.watch
-https://pocketwatch.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:1,Reelz
 http://a.jsrdn.com/broadcast/d37066a396/+0000/mid/c.m3u8
 #EXTINF:1,RunTime Free Movies
@@ -617,6 +613,10 @@ https://45034ce1cbb7489ab1499301f6274415.mediatailor.us-east-1.amazonaws.com/v1/
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/playlist.m3u8
 #EXTINF:1,The T
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/f.m3u8
+#EXTINF:1,Crackle
+https://crackle-plex.amagi.tv/playlist.m3u8
+#EXTINF:1,Revry
+https://linear-5.frequency.stream/dist/plex/5/hls/master/playlist.m3u8
 
 #EXTINF:299,Live Event
 https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
