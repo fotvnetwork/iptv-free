@@ -36,7 +36,7 @@ https://amdottlive.akamaized.net/hls/live/2018990/iwantknowledge/master360p.m3u8
 #EXTINF:15,UNTV
 plugin://plugin.video.youtube/play/?video_id=tgRVz6QIy7w
 #EXTINF:16,Truth Channel
-plugin://plugin.video.youtube/play/?video_id=RsnX4t97M-E
+plugin://plugin.video.youtube/play/?video_id=AJ37_lGZd44
 #EXTINF:17,TeleRadyo
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -53,11 +53,11 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/cd855b97a
 #EXTINF:21,TFC Asia
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/298a3f407e14a38.m3u8
 #EXTINF:22,Kapamilya Online Live
-plugin://plugin.video.youtube/play/?video_id=HTKfGWS-mbw
+plugin://plugin.video.youtube/play/?video_id=7ELoYxWoKyI
 #EXTINF:23,MyTV Cebu
 http://api.new.livestream.com/accounts/15418593/events/4787138/live.m3u8
-#EXTINF:24,DWIZ
-plugin://plugin.video.youtube/play/?video_id=VDOyvchjukM
+#EXTINF:24,CCTN
+http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
 #EXTINF:25,Cinema One
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/8b50f0987797f7d.m3u8
 #EXTINF:26,TV Maria
@@ -68,32 +68,32 @@ https://d3cbe0gidjd4k2.cloudfront.net/channel_5/smil:channel_5.smil/chunklist_w1
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/ac0896de0109679.m3u8
 #EXTINF:29,Live Ch. 29
 plugin://plugin.video.youtube/play/?video_id=h99SrJB7F5M
-#EXTINF:30,ADD Live
-plugin://plugin.video.youtube/play/?video_id=6AJALlWjAek
-#EXTINF:31,Toon Goggles
+#EXTINF:30,DWIZ
+plugin://plugin.video.youtube/play/?video_id=sp6lRdTSm1E
+#EXTINF:31,Nick Pluto TV
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=954c037d-1a11-44d3-b488-9d06f8a3e068&deviceLat=33.9560&deviceLon=-118.3887&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=81.0.4044.26&includeExtendedEvents=false&sid=e6f1682e-cc62-437a-bd0d-082bea9a4059&userId=&serverSideAds=true
+#EXTINF:32,Nick Jr. Pluto TV
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceLat=40.8364&deviceLon=-74.1403&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=66.0.3515.72&includeExtendedEvents=false&sid=ed4384ed-108c-4d94-86ab-ab0cc6e41e6f&userId=&serverSideAds=true
+#EXTINF:33,Toon Goggles
 https://toongoggles-toongoggles-3-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:32,Zoo Moo
+#EXTINF:34,TG Junior
+https://tg-junior.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:35,Zoo Moo
 https://rockentertainment-zoomoo-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:33,Da Vinci
+#EXTINF:36,Da Vinci
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A81.0)%20Gecko%2F20100101%20Firefox%2F81.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DAVINCY-HD-1080p/playlist.m3u8
-#EXTINF:34,HappyKids
+#EXTINF:37,HappyKids
 https://happykids-vizio.amagi.tv/playlist480p.m3u8
-#EXTINF:35,Supertoons
+#EXTINF:38,Supertoons
 https://kedoo-supertoonstv-1-gb.samsung.wurl.com/manifest/1200.m3u8
-#EXTINF:36,Kartoon Fun Time
+#EXTINF:39,Kartoon Fun Time
 https://simultv.s.llnwi.net/n4s4/KartoonCircus/interlink.m3u8
-#EXTINF:37,TG Junior
-https://tg-junior.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:38,Pocket.watch
+#EXTINF:40,Pocket.watch
 https://pocketwatch.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:39,Nick Pluto TV
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=954c037d-1a11-44d3-b488-9d06f8a3e068&deviceLat=33.9560&deviceLon=-118.3887&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=81.0.4044.26&includeExtendedEvents=false&sid=e6f1682e-cc62-437a-bd0d-082bea9a4059&userId=&serverSideAds=true
-#EXTINF:40,Nick Jr. Pluto TV
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceLat=40.8364&deviceLon=-74.1403&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=66.0.3515.72&includeExtendedEvents=false&sid=ed4384ed-108c-4d94-86ab-ab0cc6e41e6f&userId=&serverSideAds=true
 #EXTINF:41,AMGTV
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
 #EXTINF:42,NewsNet
@@ -110,12 +110,12 @@ https://circle-roku.amagi.tv/playlistR432p.m3u8
 https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/chunklist_b600000.m3u8
 #EXTINF:48,WSVN
 https://bozztv.com/teleyupp1/teleup-GgIpXe0CjT/tracks-v3a1/mono.m3u8
-#EXTINF:49,KCWX
-http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
-#EXTINF:50,World Channel
+#EXTINF:49,World Channel
 https://cs.ebmcdn.net/eastbay-live-hs-1/apt/mp4:apt-world/playlist.m3u8
-#EXTINF:51,WGN
-https://bozztv.com/teleyupp1/teleup-mBm5MQ50rA/tracks-v3a1/mono.m3u8
+#EXTINF:50,YTA
+https://gideommd.mmdlive.lldns.net/gideommd/d5b6a753f86e4e51b8e15c7d23887a4f/manifest.m3u8
+#EXTINF:51,Stirr City
+https://dai.google.com/linear/hls/event/WHTEcpPjQAaeStCtrJqzVQ/master.m3u8
 #EXTINF:52,Popstar! TV
 https://linear-10.frequency.stream/10/hls/master/playlist.m3u8
 #EXTINF:53,Lively Place
