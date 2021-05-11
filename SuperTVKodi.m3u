@@ -53,7 +53,7 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/cd855b97a
 #EXTINF:21,TFC Asia
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/298a3f407e14a38.m3u8
 #EXTINF:22,Kapamilya Online Live
-plugin://plugin.video.youtube/play/?video_id=7ELoYxWoKyI
+plugin://plugin.video.youtube/play/?video_id=b6gEJC52oP4
 #EXTINF:23,MyTV Cebu
 http://api.new.livestream.com/accounts/15418593/events/4787138/live.m3u8
 #EXTINF:24,CCTN
@@ -434,8 +434,8 @@ https://dai.google.com/linear/hls/event/18_lZXPySFa5_GRVEbOX_A/master.m3u8
 https://the-pet-collective-linear.sinclair.wurl.com/manifest/playlist.m3u8
 #EXTINF:185,FailArmy
 https://d696d618ff0642dfa78984e42636cc5d.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Viewlift_FailArmy/playlist.m3u8?ads.wurl_channel=151&ads.wurl_name=FailArmy&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D
-#EXTINF:186,Game Show Central
-https://gsn-gameshowchannnel-2.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:186,Wonder
+https://wonder-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:187,Rev'n
 https://bcovlive-a.akamaihd.net/a71236fdda1747999843bd3d55bdd6fa/us-east-1/6183977686001/playlist.m3u8
 #EXTINF:188,Safe TV
@@ -444,13 +444,13 @@ http://18.191.91.130:1935/live/safetv/playlist.m3u8
 https://dai.google.com/linear/hls/event/0DG8p66IRES7ZzEe1WJS-w/master.m3u8
 #EXTINF:190,Hunt Channel
 https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
-#EXTINF:191,Wonder
-https://wonder-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:191,Game Show Central
+https://gsn-gameshowchannnel-2.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:192,People Are Awesome
 https://jukin-peopleareawesome-2-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:193,Tastemade
 https://tastemade-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:194,Food TV Pluto TV
+#EXTINF:194,Food TV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5877ac8cb791f4eb4a140d81/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceLat=40.8364&deviceLon=-74.1403&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=66.0.3515.72&includeExtendedEvents=false&sid=bda0626f-c311-457b-937e-5d81d2fa8911&userId=&serverSideAds=true
 #EXTINF:195,Gusto TV
 https://gustotv-gustotv-1.roku.wurl.com/manifest/playlist.m3u8
@@ -664,7 +664,7 @@ https://thegateway.app/YouToo/CueTones/playlist.m3u8
 #EXTINF:318,Biz TV HD
 https://thegateway.app/BizAndYou/Biz_1080p/playlist.m3u8
 #EXTINF:319,Edge Sports HD
-https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_5640800/index.m3u8
+https://edgesports-stirr.amagi.tv/playlist1080p.m3u8
 #EXTINF:320,SilenceTV HD
 http://93.190.140.42:8081/SilenceTV/live/playlist.m3u8
 #EXTINF:321,Black News Channel HD
