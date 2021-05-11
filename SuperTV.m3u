@@ -5,7 +5,7 @@ https://cdn.untvweb.com/live-stream/chunklist_b332000.m3u8
 #EXTINF:2,Kapamilya Channel
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/829dbdfe0b57013.m3u8
 #EXTINF:3,TVshop
-https://d3cbe0gidjd4k2.cloudfront.net/channel_1/smil:channel_1.smil/chunklist_w358131628_b300000_sleng.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
+https://d3cbe0gidjd4k2.cloudfront.net/channel_1/smil:channel_1.smil/chunklist_w358131628_b300000_sleng.m3u8
 #EXTINF:4,PTV
 https://github.com/fotvnetwork/iptv-free/raw/master/Token/PTV4.m3u8
 #EXTINF:5,CineMo!
@@ -25,7 +25,7 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/f9973976e
 #EXTINF:12,GMA Life TV
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/fc256993b031626.m3u8
 #EXTINF:13,BEAM
-https://d3cbe0gidjd4k2.cloudfront.net/channel_7/smil:channel_7.smil/chunklist_w1635746920_b1000000_sleng.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
+https://d3cbe0gidjd4k2.cloudfront.net/channel_7/smil:channel_7.smil/chunklist_w1635746920_b1000000_sleng.m3u8
 #EXTINF:14,Knowledge Channel*
 https://amdottlive.akamaized.net/hls/live/2018990/iwantknowledge/master360p.m3u8
 #EXTINF:15,UNTV
@@ -53,7 +53,7 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/8b50f0987
 #EXTINF:26,TV Maria
 https://www.youtube.com/channel/UCDXPB23ws_T0rVvrXVCYqyA/live
 #EXTINF:27,Pilipinas HD
-https://d3cbe0gidjd4k2.cloudfront.net/channel_5/smil:channel_5.smil/chunklist_w1281634943_b300000_sleng.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
+https://d3cbe0gidjd4k2.cloudfront.net/channel_5/smil:channel_5.smil/chunklist_w1281634943_b300000_sleng.m3u8
 #EXTINF:28,ANC Global
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/ac0896de0109679.m3u8
 #EXTINF:29,Live Ch. 29
@@ -337,7 +337,7 @@ http://churchrus2-lh.akamaihd.net/i/coctesting_1@57550/master.m3u8
 #EXTINF:167,SMNI
 http://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
 #EXTINF:168,Life TV
-https://d3cbe0gidjd4k2.cloudfront.net/channel_6/smil:channel_6.smil/chunklist_w468015611_b300000_sleng.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
+https://d3cbe0gidjd4k2.cloudfront.net/channel_6/smil:channel_6.smil/chunklist_w468015611_b300000_sleng.m3u8
 #EXTINF:169,Hope Channel Philippines
 https://hcfilipino.mmdlive.lldns.net/hcfilipino/f6e775755f2647159e0adefe01a44a0e/manifest.m3u8
 #EXTINF:170,Hope Channel International
@@ -372,8 +372,8 @@ https://dai.google.com/linear/hls/event/18_lZXPySFa5_GRVEbOX_A/master.m3u8
 https://the-pet-collective-linear.sinclair.wurl.com/manifest/playlist.m3u8
 #EXTINF:185,FailArmy
 https://d696d618ff0642dfa78984e42636cc5d.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Viewlift_FailArmy/playlist.m3u8?ads.wurl_channel=151&ads.wurl_name=FailArmy&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D
-#EXTINF:186,Game Show Central
-https://gsn-gameshowchannnel-2.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:186,Wonder
+https://wonder-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:187,Rev'n
 https://bcovlive-a.akamaihd.net/a71236fdda1747999843bd3d55bdd6fa/us-east-1/6183977686001/playlist.m3u8
 #EXTINF:188,Safe TV
@@ -382,13 +382,13 @@ http://18.191.91.130:1935/live/safetv/playlist.m3u8
 https://dai.google.com/linear/hls/event/0DG8p66IRES7ZzEe1WJS-w/master.m3u8
 #EXTINF:190,Hunt Channel
 https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
-#EXTINF:191,Wonder
-https://wonder-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:191,Game Show Central
+https://gsn-gameshowchannnel-2.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:192,People Are Awesome
 https://jukin-peopleareawesome-2-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:193,Tastemade
 https://tastemade-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:194,Food TV Pluto TV
+#EXTINF:194,Food TV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5877ac8cb791f4eb4a140d81/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceLat=40.8364&deviceLon=-74.1403&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=66.0.3515.72&includeExtendedEvents=false&sid=bda0626f-c311-457b-937e-5d81d2fa8911&userId=&serverSideAds=true
 #EXTINF:195,Gusto TV
 https://gustotv-gustotv-1.roku.wurl.com/manifest/playlist.m3u8
@@ -602,7 +602,7 @@ https://thegateway.app/YouToo/CueTones/playlist.m3u8
 #EXTINF:318,Biz TV HD
 https://thegateway.app/BizAndYou/Biz_1080p/playlist.m3u8
 #EXTINF:319,Edge Sports HD
-https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_5640800/index.m3u8
+https://edgesports-stirr.amagi.tv/playlist1080p.m3u8
 #EXTINF:320,SilenceTV HD
 http://93.190.140.42:8081/SilenceTV/live/playlist.m3u8
 #EXTINF:321,Black News Channel HD
