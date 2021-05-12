@@ -7,7 +7,7 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/829dbdfe0
 #EXTINF:-1 tvg-logo="https://tvshop.ph/static/images/logo@2x.d16d123219f1.png",TVshop
 https://d3cbe0gidjd4k2.cloudfront.net/channel_1/smil:channel_1.smil/chunklist_w358131628_b300000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/PTVLogo2017.svg/1200px-PTVLogo2017.svg.png",PTV
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/0dbc79b42310cd7.m3u8
+https://github.com/fotvnetwork/iptv-free/raw/master/Token/PTV4.m3u8
 #EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images/Cinemo.jpg",CineMo!
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/3254f236ad3e872.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/One_Sports_Philippines_logo.svg/1200px-One_Sports_Philippines_logo.svg.png",One Sports
@@ -68,6 +68,14 @@ https://kedoo-supertoonstv-1-gb.samsung.wurl.com/manifest/1200.m3u8
 https://simultv.s.llnwi.net/n4s4/KartoonCircus/interlink.m3u8
 #EXTINF:1,Pocket.watch
 https://pocketwatch.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:1,Cartoon Network
+http://gooserace.xyz:2052/donna/donna123/2431577
+#EXTINF:1,Disney Channel
+http://gooserace.xyz:2052/donna/donna123/2431579
+#EXTINF:1,Disney Junior
+http://gooserace.xyz:2052/donna/donna123/2431584
+#EXTINF:1,Nickelodeon
+http://gooserace.xyz:2052/donna/donna123/2431586
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/PBS_Kids_Dash_(2009).svg/revision/latest/scale-to-width-down/2000?cb=20171125102412",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b600000.m3u8
 #EXTINF:1,AMGTV
