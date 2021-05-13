@@ -52,7 +52,7 @@ https://bcovlive-a.akamaihd.net/f71123b86b424028ab5915de31c7d540/ap-southeast-1/
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/nickelodeon/images/8/8c/Nick_Pluto_TV_logo.jpg",Nick Pluto TV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=954c037d-1a11-44d3-b488-9d06f8a3e068&deviceLat=33.9560&deviceLon=-118.3887&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=81.0.4044.26&includeExtendedEvents=false&sid=e6f1682e-cc62-437a-bd0d-082bea9a4059&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/nickelodeon/images/c/c8/Nick_Jr._Pluto_TV_logo.jpg",Nick Jr. Pluto TV
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceLat=40.8364&deviceLon=-74.1403&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=66.0.3515.72&includeExtendedEvents=false&sid=ed4384ed-108c-4d94-86ab-ab0cc6e41e6f&userId=&serverSideAds=true
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceLat=40.8364&deviceLon=-74.1403&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=66.0.3515.72&includeExtendedEvents=false&sid=ed4384ed-108c-4d94-86ab-ab0cc6e41e6f&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://www.nextanimationstudio.com/wp-content/uploads/2017/12/toon-goggles-logo-1024x363.jpg",Toon Goggles
 https://toongoggles-toongoggles-3-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.animationmagazine.net/wordpress/wp-content/uploads/toon-goggles-1-400x240.jpg",TG Junior
@@ -79,6 +79,9 @@ http://gooserace.xyz:2052/donna/donna123/2431584
 http://gooserace.xyz:2052/donna/donna123/2431586
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/PBS_Kids_Dash_(2009).svg/revision/latest/scale-to-width-down/2000?cb=20171125102412",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b600000.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos2/images/8/89/20DED176-3599-4484-92F7-1DF9BD2A84A2.png",BabyFirst
+https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
+
 #EXTINF:1,AMGTV
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
 #EXTINF:1,NewsNet
@@ -211,10 +214,10 @@ https://ammoruntime-plex.amagi.tv/playlist.m3u8
 https://dai.google.com/linear/hls/event/PFJ1Jhd6SsSMcu3qq86wzQ/master.m3u8
 #EXTINF:1,ShoutFactory TV
 https://shoutfactory-shoutfactory-zype.amagi.tv/playlist.m3u8
-#EXTINF:1,Galxy TV
-https://content.uplynk.com/channel/f467430e4a8e49a59ff3183cf51092b2.m3u8
-#EXTINF:1,Hollywood Classics
-https://fef5003bb7e7447ab21a2c3fd81e3b74.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_HollywoodClassics/playlist.m3u8?ads.wurl_channel=532&ads.wurl_name=HollywoodClassics&ads.us_privacy=1---&ads.psid=&ads.targetopt=1&ads.plex_token=z1MCPUpbxYcHru-5hdyq&ads.plex_id=5f0ff265d71dcb00449ec02d&ads.ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36+OPR%2F70.0.3728.95&ads.app_bundle=&ads.app_store_url=&ads.gdpr=0&ads.consent=0
+#EXTINF:1,Thrill
+https://cdn6.goprimetime.info/feed/LC26/tracks-v1a1/mono.m3u8
+#EXTINF:1,KIX
+https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:1,Johnny Carson TV
 https://johnnycarson-zype.amagi.tv/playlist.m3u8
 #EXTINF:1,Midnight Pulp
@@ -223,17 +226,17 @@ https://midnightpulp-samsung.roku.wurl.com/manifest/playlist.m3u8
 https://45034ce1cbb7489ab1499301f6274415.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RetroCrush/playlist.m3u8?ads.wurl_channel=491&ads.wurl_name=RetroCrush&ads.us_privacy=1---&ads.psid=&ads.targetopt=1&ads.plex_token=z1MCPUpbxYcHru-5hdyq&ads.plex_id=5ef4e1b40d9ad000423c442a&ads.ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.89+Safari%2F537.36+OPR%2F70.0.3728.71&ads.app_bundle=&ads.app_store_url=&ads.gdpr=0&ads.consent=0
 #EXTINF:1,Revry
 https://linear-5.frequency.stream/dist/plex/5/hls/master/playlist.m3u8
-#EXTINF:1,DUST
-https://dust.samsung.wurl.com/manifest/1200.m3u8
-#EXTINF:1,Comedy Dynamics
-https://comedydynamics-plex-ingest.cinedigm.com/playlist.m3u8
-#EXTINF:93,The Bob Ross Channel
+#EXTINF:1,FX
+https://bozztv.com/teleyupp/teleup-fxhd/playlist.m3u8
+#EXTINF:1,Revolt
+https://bozztv.com/teleyupp/teleup-revolt/playlist.m3u8
+#EXTINF:1,The Bob Ross Channel
 https://cinedigm-bobross-1.vizio.wurl.com/manifest/39d7b421c0fd490a786834b9ff51319a.m3u8
-#EXTINF:94,This Old House
+#EXTINF:1,This Old House
 https://thisoldhouse-2.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/X8hFFP4/Love-Nature-Type-Mask-FINAL-highres-removebg-preview-1.png",Love Nature
 http://bamus-eng-roku.amagi.tv/playlist.m3u8
-#EXTINF:96,INwild
+#EXTINF:1,INwild
 https://inwild-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:1,Animals Live
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/playlist.m3u8
@@ -495,6 +498,14 @@ https://condenast-bonappetit-vizio.amagi.tv/playlist.m3u8
 https://dai.google.com/linear/hls/event/CHaUZsCfSyS2CVF7I-NktA/master.m3u8
 #EXTINF:199,XCorps
 https://simultv.s.llnwi.net/n4s4/xcorps/interlink.m3u8
+#EXTINF:1,Comedy Dynamics
+https://comedydynamics-plex-ingest.cinedigm.com/playlist.m3u8
+#EXTINF:1,DUST
+https://dust.samsung.wurl.com/manifest/1200.m3u8
+#EXTINF:1,Galxy TV
+https://content.uplynk.com/channel/f467430e4a8e49a59ff3183cf51092b2.m3u8
+#EXTINF:1,Hollywood Classics
+https://fef5003bb7e7447ab21a2c3fd81e3b74.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_HollywoodClassics/playlist.m3u8?ads.wurl_channel=532&ads.wurl_name=HollywoodClassics&ads.us_privacy=1---&ads.psid=&ads.targetopt=1&ads.plex_token=z1MCPUpbxYcHru-5hdyq&ads.plex_id=5f0ff265d71dcb00449ec02d&ads.ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36+OPR%2F70.0.3728.95&ads.app_bundle=&ads.app_store_url=&ads.gdpr=0&ads.consent=0
 #EXTINF:200,Docurama
 https://docurama.vizio.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2d/TV5Monde_Style_HD.svg",TV5Monde Style
