@@ -72,11 +72,13 @@ https://bcovlive-a.akamaihd.net/f71123b86b424028ab5915de31c7d540/ap-southeast-1/
 plugin://plugin.video.youtube/play/?video_id=h99SrJB7F5M
 #EXTINF:-1 tvg-chno="033" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3b/DWIZ_Logo_2002.jpg" group-title="News",DWIZ
 plugin://plugin.video.youtube/play/?video_id=sp6lRdTSm1E
+#EXTINF:-1 tvg-chno="034" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/PTVLogo2017.svg/1200px-PTVLogo2017.svg.png" group-title="FTA",PTV (mirror feed)
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/0dbc79b42310cd7.m3u8
 
 #EXTINF:-1 tvg-chno="040" tvg-logo="https://static.wikia.nocookie.net/nickelodeon/images/8/8c/Nick_Pluto_TV_logo.jpg" group-title="Kids",Nick Pluto TV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=954c037d-1a11-44d3-b488-9d06f8a3e068&deviceLat=33.9560&deviceLon=-118.3887&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=81.0.4044.26&includeExtendedEvents=false&sid=e6f1682e-cc62-437a-bd0d-082bea9a4059&userId=&serverSideAds=true
 #EXTINF:-1 tvg-chno="041" tvg-logo="https://static.wikia.nocookie.net/nickelodeon/images/c/c8/Nick_Jr._Pluto_TV_logo.jpg" group-title="Kids",Nick Jr. Pluto TV
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceLat=40.8364&deviceLon=-74.1403&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=66.0.3515.72&includeExtendedEvents=false&sid=ed4384ed-108c-4d94-86ab-ab0cc6e41e6f&userId=&serverSideAds=true
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceLat=40.8364&deviceLon=-74.1403&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=66.0.3515.72&includeExtendedEvents=false&sid=ed4384ed-108c-4d94-86ab-ab0cc6e41e6f&userId=&serverSideAds=true
 #EXTINF:-1 tvg-chno="042" tvg-logo="https://www.nextanimationstudio.com/wp-content/uploads/2017/12/toon-goggles-logo-1024x363.jpg" group-title="Kids",Toon Goggles
 https://toongoggles-toongoggles-3-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-chno="043" tvg-logo="https://www.animationmagazine.net/wordpress/wp-content/uploads/toon-goggles-1-400x240.jpg" group-title="Kids",TG Junior
@@ -107,6 +109,12 @@ http://gooserace.xyz:2052/donna/donna123/2431579
 http://gooserace.xyz:2052/donna/donna123/2431584
 #EXTINF:-1 tvg-chno="055" tvg-logo="" group-title="Kids",Nickelodeon (test)
 http://gooserace.xyz:2052/donna/donna123/2431586
+#EXTINF:-1 tvg-chno="056" tvg-logo="https://static.wikia.nocookie.net/logos2/images/8/89/20DED176-3599-4484-92F7-1DF9BD2A84A2.png" group-title="Kids",BabyFirst
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A81.0)%20Gecko%2F20100101%20Firefox%2F81.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
+https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-chno="061" tvg-logo="" group-title="GenEnt",AMGTV
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
@@ -290,10 +298,10 @@ https://dai.google.com/linear/hls/event/PFJ1Jhd6SsSMcu3qq86wzQ/master.m3u8
 https://dai.google.com/linear/hls/event/EpqgwRlpQKq73ySVSohJWA/master.m3u8
 #EXTINF:-1 tvg-chno="127" tvg-logo="" group-title="GenEnt",ShoutFactory TV
 https://shoutfactory-shoutfactory-zype.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-chno="128" tvg-logo="" group-title="GenEnt",Galxy TV
-https://content.uplynk.com/channel/f467430e4a8e49a59ff3183cf51092b2.m3u8
-#EXTINF:-1 tvg-chno="129" tvg-logo="" group-title="GenEnt",Hollywood Classics
-https://fef5003bb7e7447ab21a2c3fd81e3b74.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_HollywoodClassics/playlist.m3u8?ads.wurl_channel=532&ads.wurl_name=HollywoodClassics&ads.us_privacy=1---&ads.psid=&ads.targetopt=1&ads.plex_token=z1MCPUpbxYcHru-5hdyq&ads.plex_id=5f0ff265d71dcb00449ec02d&ads.ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36+OPR%2F70.0.3728.95&ads.app_bundle=&ads.app_store_url=&ads.gdpr=0&ads.consent=0
+#EXTINF:-1 tvg-chno="128" tvg-logo="" group-title="GenEnt",Thrill
+https://cdn6.goprimetime.info/feed/LC26/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-chno="129" tvg-logo="" group-title="GenEnt",KIX
+https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-chno="130" tvg-logo="" group-title="GenEnt",Johnny Carson TV
 https://johnnycarson-zype.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="131" tvg-logo="" group-title="GenEnt",Midnight Pulp
@@ -302,10 +310,10 @@ https://midnightpulp-samsung.roku.wurl.com/manifest/playlist.m3u8
 https://45034ce1cbb7489ab1499301f6274415.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RetroCrush/playlist.m3u8?ads.wurl_channel=491&ads.wurl_name=RetroCrush&ads.us_privacy=1---&ads.psid=&ads.targetopt=1&ads.plex_token=z1MCPUpbxYcHru-5hdyq&ads.plex_id=5ef4e1b40d9ad000423c442a&ads.ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.89+Safari%2F537.36+OPR%2F70.0.3728.71&ads.app_bundle=&ads.app_store_url=&ads.gdpr=0&ads.consent=0
 #EXTINF:-1 tvg-chno="133" tvg-logo="" group-title="GenEnt",Revry
 https://linear-5.frequency.stream/dist/plex/5/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-chno="134" tvg-logo="" group-title="GenEnt",DUST
-https://dust.samsung.wurl.com/manifest/1200.m3u8
-#EXTINF:-1 tvg-chno="135" tvg-logo="" group-title="GenEnt",Comedy Dynamics
-https://comedydynamics-plex-ingest.cinedigm.com/playlist.m3u8
+#EXTINF:-1 tvg-chno="134" tvg-logo="" group-title="GenEnt",FX
+https://bozztv.com/teleyupp/teleup-fxhd/playlist.m3u8
+#EXTINF:-1 tvg-chno="135" tvg-logo="" group-title="GenEnt",Revolt
+https://bozztv.com/teleyupp/teleup-revolt/playlist.m3u8
 #EXTINF:-1 tvg-chno="136" tvg-logo="" group-title="Lifestyle",The Bob Ross Channel
 https://cinedigm-bobross-1.vizio.wurl.com/manifest/39d7b421c0fd490a786834b9ff51319a.m3u8
 #EXTINF:-1 tvg-chno="137" tvg-logo="" group-title="Lifestyle",This Old House
@@ -579,6 +587,14 @@ https://gsn-gameshowchannnel-2.roku.wurl.com/manifest/playlist.m3u8
 https://jukin-peopleareawesome-2-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-chno="280" tvg-logo="" group-title="GenEnt",XCorps
 https://simultv.s.llnwi.net/n4s4/xcorps/interlink.m3u8
+#EXTINF:-1 tvg-chno="281" tvg-logo="" group-title="GenEnt",Comedy Dynamics
+https://comedydynamics-plex-ingest.cinedigm.com/playlist.m3u8
+#EXTINF:-1 tvg-chno="282" tvg-logo="" group-title="GenEnt",DUST
+https://dust.samsung.wurl.com/manifest/1200.m3u8
+#EXTINF:-1 tvg-chno="283" tvg-logo="" group-title="GenEnt",Galxy TV
+https://content.uplynk.com/channel/f467430e4a8e49a59ff3183cf51092b2.m3u8
+#EXTINF:-1 tvg-chno="284" tvg-logo="" group-title="GenEnt",Hollywood Classics
+https://fef5003bb7e7447ab21a2c3fd81e3b74.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_HollywoodClassics/playlist.m3u8?ads.wurl_channel=532&ads.wurl_name=HollywoodClassics&ads.us_privacy=1---&ads.psid=&ads.targetopt=1&ads.plex_token=z1MCPUpbxYcHru-5hdyq&ads.plex_id=5f0ff265d71dcb00449ec02d&ads.ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36+OPR%2F70.0.3728.95&ads.app_bundle=&ads.app_store_url=&ads.gdpr=0&ads.consent=0
 
 #EXTINF:-1 tvg-chno="290" tvg-logo="" group-title="Lifestyle",Tastemade
 https://tastemade-gb.samsung.wurl.com/manifest/playlist.m3u8
