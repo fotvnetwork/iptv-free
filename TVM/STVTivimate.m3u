@@ -82,6 +82,12 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b600000.m
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos2/images/8/89/20DED176-3599-4484-92F7-1DF9BD2A84A2.png",BabyFirst
 https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
 
+#EXTINF:1,ABC
+http://sl.masterstv.net:1997/Rku0iA0DXO/s9Bp800MfN/61708
+#EXTINF:1,CBS
+http://sl.masterstv.net:1997/Rku0iA0DXO/s9Bp800MfN/9441
+#EXTINF:1,NBC 12 WFSA Montgomery
+http://sl.masterstv.net:1997/Rku0iA0DXO/s9Bp800MfN/61690
 #EXTINF:1,AMGTV
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
 #EXTINF:1,NewsNet
