@@ -1,534 +1,453 @@
 #EXTM3U
 
 #EXTINF:1,UNTV
-https://cdn.untvweb.com/live-stream/chunklist_b332000.m3u8
-#EXTINF:2,Kapamilya Channel
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/829dbdfe0b57013.m3u8
-#EXTINF:3,TVshop
+https://cdn.untvweb.com/live-stream/untvweb.m3u8
+#EXTINF:1,TVshop
 https://d3cbe0gidjd4k2.cloudfront.net/channel_1/smil:channel_1.smil/chunklist_w358131628_b300000_sleng.m3u8
-#EXTINF:4,PTV
+#EXTINF:1,PTV
 https://github.com/fotvnetwork/iptv-free/raw/master/Token/PTV4.m3u8
-#EXTINF:5,CineMo!
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/3254f236ad3e872.m3u8
-#EXTINF:6,One Sports
+#EXTINF:1,One Sports
 http://103.11.112.28:1935/live2/smil:onesports.smil/playlist.m3u8
-#EXTINF:7,Super Radyo DZBB
+#EXTINF:1,Super Radyo DZBB
 http://stream.gmanews.tv/ioslive/livestream/playlist.m3u8
-#EXTINF:8,Tap TV
+#EXTINF:1,Tap TV
 https://bcovlive-a.akamaihd.net/b49d472b255d4340b32af5115d5f9793/ap-southeast-1/6185036301001/4c794c49cb0047d88155f4d9330fb836/playlist_ssaiM.m3u8
-#EXTINF:9,CNN Philippines
+#EXTINF:1,CNN Philippines
 https://streaming.cnnphilippines.com/live/myStream/playlist.m3u8
-#EXTINF:10,GMA Pinoy TV
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/cd1b220644affbb.m3u8
-#EXTINF:11,GMA News TV International
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/f9973976ebde68c.m3u8
-#EXTINF:12,GMA Life TV
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/fc256993b031626.m3u8
-#EXTINF:13,BEAM
+#EXTINF:1,BEAM
 https://d3cbe0gidjd4k2.cloudfront.net/channel_7/smil:channel_7.smil/chunklist_w1635746920_b1000000_sleng.m3u8
-#EXTINF:14,Knowledge Channel*
+#EXTINF:1,Knowledge Channel
 https://amdottlive.akamaized.net/hls/live/2018990/iwantknowledge/master360p.m3u8
-#EXTINF:15,UNTV
+#EXTINF:1,UNTV
 https://www.youtube.com/channel/UC3XaG-7UVi2vD8ZZEMNnnpw/live
-#EXTINF:16,Truth Channel
+#EXTINF:1,Truth Channel
 https://www.youtube.com/channel/UCa3hzYljDByZxkjIMah_2nw/live
-#EXTINF:17,TeleRadyo*
+#EXTINF:1,TeleRadyo
 https://tfcmsl.akamaized.net/hls/live/2014654/dzmm/master.m3u8
-#EXTINF:18,DZRH News TV
+#EXTINF:1,DZRH News TV
 https://www.youtube.com/channel/UCcTiBX8js_djhSSlmJRI99A/live
-#EXTINF:19,TFC
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/882598ca274e161.m3u8
-#EXTINF:20,TFC Europe
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/cd855b97a246caf.m3u8
-#EXTINF:21,TFC Asia
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/298a3f407e14a38.m3u8
-#EXTINF:22,Kapamilya Online Live
-https://www.youtube.com/channel/UCstEtN0pgOmCf02EdXsGChw/live
-#EXTINF:23,MyTV Cebu
+#EXTINF:1,MyTV Cebu
 http://api.new.livestream.com/accounts/15418593/events/4787138/live.m3u8
-#EXTINF:24,CCTN
+#EXTINF:1,CCTN
 http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
-#EXTINF:25,Cinema One
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/8b50f0987797f7d.m3u8
-#EXTINF:26,TV Maria
+#EXTINF:1,TV Maria
 https://www.youtube.com/channel/UCDXPB23ws_T0rVvrXVCYqyA/live
-#EXTINF:27,Pilipinas HD
+#EXTINF:1,Pilipinas HD
 https://d3cbe0gidjd4k2.cloudfront.net/channel_5/smil:channel_5.smil/chunklist_w1281634943_b300000_sleng.m3u8
-#EXTINF:28,ANC Global
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/ac0896de0109679.m3u8
-#EXTINF:29,Live Ch. 29
+#EXTINF:1,Live Ch. 29
 https://www.youtube.com/watch?v=h99SrJB7F5M
-#EXTINF:30,DWIZ
+#EXTINF:1,DWIZ
 https://www.youtube.com/channel/UCWe04Bz8YogtOksyK4O5xXw/live
-#EXTINF:31,Nick Pluto TV
+
+#EXTINF:1,Nick Pluto TV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=954c037d-1a11-44d3-b488-9d06f8a3e068&deviceLat=33.9560&deviceLon=-118.3887&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=81.0.4044.26&includeExtendedEvents=false&sid=e6f1682e-cc62-437a-bd0d-082bea9a4059&userId=&serverSideAds=true
-#EXTINF:32,Nick Jr. Pluto TV
+#EXTINF:1,Nick Jr. Pluto TV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceLat=40.8364&deviceLon=-74.1403&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=66.0.3515.72&includeExtendedEvents=false&sid=ed4384ed-108c-4d94-86ab-ab0cc6e41e6f&userId=&serverSideAds=true
-#EXTINF:33,Toon Goggles
+#EXTINF:1,Toon Goggles
 https://toongoggles-toongoggles-3-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:34,TG Junior
+#EXTINF:1,TG Junior
 https://tg-junior.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:35,Zoo Moo
+#EXTINF:1,Zoo Moo
 https://rockentertainment-zoomoo-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:36,Da Vinci*
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DAVINCY-HD-1080p/playlist.m3u8
-#EXTINF:37,HappyKids
+#EXTINF:1,HappyKids
 https://happykids-vizio.amagi.tv/playlist480p.m3u8
-#EXTINF:38,Supertoons
+#EXTINF:1,Supertoons
 https://kedoo-supertoonstv-1-gb.samsung.wurl.com/manifest/1200.m3u8
-#EXTINF:39,Kartoon Fun Time
+#EXTINF:1,Kartoon Fun Time
 https://simultv.s.llnwi.net/n4s4/KartoonCircus/interlink.m3u8
-#EXTINF:40,Pocket.watch
+#EXTINF:1,Pocket.watch
 https://pocketwatch.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:41,AMGTV
+#EXTINF:1,AMGTV
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
-#EXTINF:42,NewsNet
+#EXTINF:1,NewsNet
 https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1311088/playlist.m3u8
-#EXTINF:43,Right Now TV
+#EXTINF:1,Right Now TV
 https://feed.rightnowtelevision.com/live/smil:rntv.smil/playlist.m3u8
-#EXTINF:44,NBCLX
+#EXTINF:1,NBCLX
 https://lxlive-lh.akamaihd.net/i/LX_LIVE@148206/master.m3u8
-#EXTINF:45,Buzzr
+#EXTINF:1,Buzzr
 https://dai.google.com/linear/hls/event/wFZ1ufQ8ToaSdPgGtbBbpw/master.m3u8
-#EXTINF:46,WMFD
+#EXTINF:1,WMFD
 https://player-api.new.livestream.com/accounts/1194911/events/3466400/live.m3u8
-#EXTINF:47,MPT
+#EXTINF:1,MPT
 https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/chunklist_b600000.m3u8
-#EXTINF:48,WSVN
+#EXTINF:1,WSVN
 https://bozztv.com/teleyupp1/teleup-GgIpXe0CjT/tracks-v3a1/mono.m3u8
-#EXTINF:49,KVVB-TV
+#EXTINF:1,KVVB-TV
 https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1309230/chunklist_b1000000.m3u8
-#EXTINF:50,YTA
+#EXTINF:1,YTA
 https://gideommd.mmdlive.lldns.net/gideommd/d5b6a753f86e4e51b8e15c7d23887a4f/manifest.m3u8
-#EXTINF:51,Stirr City
+#EXTINF:1,Stirr City
 https://dai.google.com/linear/hls/event/WHTEcpPjQAaeStCtrJqzVQ/master.m3u8
-#EXTINF:52,Popstar! TV
+
+#EXTINF:1,Popstar! TV
 https://linear-10.frequency.stream/10/hls/master/playlist.m3u8
-#EXTINF:53,Lively Place
+#EXTINF:1,Lively Place
 https://aenetworks-ae-1.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:54,Game Show Network
+#EXTINF:1,Game Show Network
 http://n1.klowdtv.net/live2/gsn_180p/chunks.m3u8
-#EXTINF:55,Skills + Thrills
+#EXTINF:1,Skills + Thrills
 https://aenetworks-skills-thrills-1.plex.wurl.com/manifest/playlist.m3u8
-#EXTINF:56,Crime+Investigation
-http://203.154.243.31:15001
-#EXTINF:57,AXN
-http://210.210.155.35/session/37ee409e-73b5-11e9-b657-a0899505893d/uq2663/h/h141/02.m3u8
-#EXTINF:58,FOX*
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
-#EXTINF:58,FOX Movies*
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
-#EXTINF:59,Fox Life*
-https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:60,Crackle
+#EXTINF:1,Crackle
 https://crackle-plex.amagi.tv/playlist.m3u8
-#EXTINF:61,AFN*
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AFC-HD-1080p/playlist.m3u8
-#EXTINF:62,AWE
-http://n1.klowdtv.net/live1/awe_180p/chunks.m3u8
-#EXTINF:63,Blue Ant Entertainment*
-https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:64,Comet
+#EXTINF:1,Comet
 https://dai.google.com/linear/hls/event/83L2OqtGSZ6lbWt8ODomWg/master.m3u8
-#EXTINF:65,TBD
+#EXTINF:1,TBD
 https://dai.google.com/linear/hls/event/_xtY848OSRCm_k0veSjMHg/master.m3u8
-#EXTINF:66,Charge!
+#EXTINF:1,Charge!
 https://dai.google.com/linear/hls/event/e1QjWFRNSR2YFYGsPbkfgg/master.m3u8
-#EXTINF:67,MovieMix
+#EXTINF:1,MovieMix
 https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8
-#EXTINF:68,Blue Ant Extreme*
-https://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:69,Pop
-https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
-#EXTINF:70,Hallmark
-https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_yupptvfrn-hallmark-frndlytv/CDN/playlist.m3u8
-#EXTINF:71,Hallmark Movies & Mysteries
-https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_yupptvfrn-hallmarkmovies-frndlytv/CDN/playlist.m3u8
-#EXTINF:72,Paramount Network*
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
-#EXTINF:73,Nat Geo*
-https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:74,Warner TV
-http://203.154.243.89:11205/
-#EXTINF:75,&Flix HD
-https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
-#EXTINF:76,Zee Cinema
-https://y5w8j4a9.ssl.hwcdn.net/cinemausa/tracks-v1a1/index.m3u8
-#EXTINF:77,&Prive HD
-https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
-#EXTINF:78,KBS World*
-https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:79,Cinemax (test)
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
-#EXTINF:80,HBO Hits (test)
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
-#EXTINF:81,HBO (test)
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
-#EXTINF:82,HBO Family (test)
-https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8
-#EXTINF:83,AMC Presents
+#EXTINF:1,AMC Presents
 https://amc-amcpresents-2.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:84,IFC Film Picks
+#EXTINF:1,IFC Film Picks
 https://amc-ifc-films-picks-1.imdbtv.wurl.com/manifest/playlist.m3u8
-#EXTINF:85,Slightly Off
+#EXTINF:1,Slightly Off
 https://amc-slightly-off-by-amc-1.vizio.wurl.com/manifest/playlist.m3u8
-#EXTINF:86,All Weddings
+#EXTINF:1,All Weddings
 https://amc-allweddings-1.vizio.wurl.com/manifest/playlist.m3u8
-#EXTINF:87,Ion Plus
+#EXTINF:1,Ion Plus
 https://ion-plus.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:88,Dove Channel
+#EXTINF:1,Dove Channel
 https://dovenow-roku-ingest.cinedigm.com/master432p.m3u8
-#EXTINF:89,CONtv
+#EXTINF:1,CONtv
 http://contv.sinclair.wurl.com/manifest/da1285e1dd4323e6aff01b01cd40651c.m3u8
-#EXTINF:90,Nosey
+#EXTINF:1,Nosey
 https://manifest.auditude.com/auditude/variant/nosey_2/aHR0cHM6Ly9ub3NleS0yLnJva3Uud3VybC5jb20vbWFuaWZlc3QvcGxheWxpc3QubTN1OA==.m3u8?u=19287a324825cc5aacb7e46183c72324&z=268729&g=1000010&k=wurl_channel=319;distributor=roku;ip=192.119.164.38;rdid=121c0a02-8b4f-5ad8-9a0a-d73aa5fd4c92;coppa=false;is_lat=1;ua=Mozilla/5.0+(Windows+NT+10.0;+)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.26+Safari/537.36;content=341083177c1ec701eae49422b72f119a7946d49d;genre=;platform=web;content_type=livefeed;content_rating=&ptcueformat=turner&pttrackingmode=sstm&pttrackingversion=v2&__sid__=wurl253276323
-#EXTINF:91,Demand Africa
+#EXTINF:1,Demand Africa
 https://demandafrica-vizio.amagi.tv/playlist.m3u8
-#EXTINF:92,MHz
+#EXTINF:1,MHz
 https://mhz-samsung-linear-ca.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:93,The Bob Ross Channel
+#EXTINF:1,The Bob Ross Channel
 https://cinedigm-bobross-1.vizio.wurl.com/manifest/39d7b421c0fd490a786834b9ff51319a.m3u8
-#EXTINF:94,This Old House
+#EXTINF:1,This Old House
 https://thisoldhouse-2.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:95,Love Nature
+#EXTINF:1,Love Nature
 http://bamus-eng-roku.amagi.tv/playlist.m3u8
-#EXTINF:96,INwild
+#EXTINF:1,INwild
 https://inwild-samsung-uk.amagi.tv/playlist.m3u8
-#EXTINF:97,Newsy
+
+#EXTINF:1,Newsy
 https://d3ra88okaj5j4j.cloudfront.net/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index.m3u8
-#EXTINF:98,News 12
+#EXTINF:1,News 12
 https://lnc-news12.tubi.video/primary/5.m3u8
-#EXTINF:99,Black News Channel
+#EXTINF:1,Black News Channel
 https://blacknewschannel-xumo-us.amagi.tv/playlist.m3u8
-#EXTINF:100,Stirr News 24/7
+#EXTINF:1,Stirr News 24/7
 https://dai.google.com/linear/hls/event/8hUeiLMpTm-YNqk7kadUwA/master.m3u8
-#EXTINF:101,CNN
-http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
-#EXTINF:102,CNN International
+#EXTINF:1,CNN International
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:103,CBSN
+#EXTINF:1,CBSN
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
-#EXTINF:104,ABC News Live
+#EXTINF:1,ABC News Live
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:105,NBC News Now
+#EXTINF:1,NBC News Now
 https://nbcnewshls.akamaized.net/hls/live/2011820/nnn_live1/master.m3u8
-#EXTINF:106,MSNBC
-http://1111296894.rsc.cdn77.org/LS-ATL-54548-10/tracks-v1a1/mono.m3u8
-#EXTINF:107,NewsNOW from Fox
+#EXTINF:1,NewsNOW from Fox
 http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:108,Fox News
+#EXTINF:1,Fox News
 http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
-#EXTINF:109,Cheddar
+#EXTINF:1,Cheddar
 https://livestream.chdrstatic.com/b93e5b0d43ea306310a379971e384964acbe4990ce193c0bd50078275a9a657d/cheddar-42620/cheddarweblive/cheddar/index.m3u8
-#EXTINF:110,Bloomberg TV
+#EXTINF:1,Bloomberg TV
 https://ch.iptvmate.net/4ac2dd1a410b37e8357ae8bbac3264c5.m3u8
-#EXTINF:111,Bloomberg Quicktake
+#EXTINF:1,Bloomberg Quicktake
 https://dai.google.com/linear/hls/event/cFDvmqo4TGW7EfHwscU_Ew/master.m3u8
-#EXTINF:112,C-SPAN
-https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/master.m3u8
-#EXTINF:113,BBC World News
-http://1111296894.rsc.cdn77.org/LS-ATL-54548-11/tracks-v1a1/mono.m3u8
-#EXTINF:114,Sky News
+#EXTINF:1,Sky News
 http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8
-#EXTINF:115,Australia Channel News
+#EXTINF:1,Australia Channel News
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
-#EXTINF:116,ABC News Australia
+#EXTINF:1,ABC News Australia
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
-#EXTINF:117,Al Jazeera
+#EXTINF:1,Al Jazeera
 http://i.mjh.nz/nz/tv.46.m3u8
-#EXTINF:118,RT
+#EXTINF:1,RT
 https://rt-news.secure.footprint.net/1103.m3u8
-#EXTINF:119,France 24
+#EXTINF:1,France 24
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
-#EXTINF:120,Euronews
-https://euronews-euronews-world-1.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:121,Press TV
-https://live.presstv.com/liveprs/smil:liveprs/playlist.m3u8
-#EXTINF:122,DW
-https://m-c010-j2apps.s.llnwi.net/hls/8023.DWEnglish.in.m3u8
-#EXTINF:123,CNA
+#EXTINF:1,Euronews
+https://euronews-euronews-world-1.roku.wurl.com/manifest/b34060fcaf527710b244a3e16504edd0.m3u8
+#EXTINF:1,Press TV
+https://live.presstv.com/liveprs/smil:liveprs/chunklist_w1027720361_b644100_slen.m3u8
+#EXTINF:1,DW
+https://m-c010-j2apps.s.llnwi.net/hls/8023.DWEnglish.in_360p/index.m3u8
+#EXTINF:1,CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF:124,CGTN
+#EXTINF:1,CGTN
 https://dai.google.com/linear/hls/event/r4sa-f6GSN2XIvzKv5jVng/master.m3u8
-#EXTINF:125,NHK World Japan
+#EXTINF:1,NHK World Japan
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
-#EXTINF:126,Arirang
-http://streaming-a-802.cdn.nextologies.com/SBS_Arirang/playlist.m3u8
-#EXTINF:127,India Today
+#EXTINF:1,Arirang
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b656000_sleng.m3u8
+#EXTINF:1,India Today
 https://feeds.intoday.in/hltapps/api/master.m3u8
-#EXTINF:128,TeleSUR
+#EXTINF:1,TeleSUR
 https://d7g1ebft2592.cloudfront.net/mblivev3/360p/chunklist.m3u8
-#EXTINF:129,TRT World
+#EXTINF:1,TRT World
 https://tv-trtworld.live.trt.com.tr/master.m3u8
-#EXTINF:130,Pluto TV Sports
+
+#EXTINF:1,Pluto TV Sports
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56340779a738201b4ccfeac9/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
-#EXTINF:131,BeIN Sports Xtra
+#EXTINF:1,BeIN Sports Xtra
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
-#EXTINF:132,Fox Sports*
-https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
-#EXTINF:133,Fox Sports News
+#EXTINF:1,Fox Sports News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
-#EXTINF:134,Sports Channel Network
+#EXTINF:1,Sports Channel Network
 https://vod365-sports-channel-network-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:135,FTF
+#EXTINF:1,FTF
 https://eleven-rebroadcast-samsung.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:136,ACCDN
+#EXTINF:1,ACCDN
 https://120sports-accdn-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:137,Pac-12 Insider
+#EXTINF:1,Pac-12 Insider
 https://pac12-roku-us.amagi.tv/playlist.m3u8
-#EXTINF:138,eGG Network
-http://45.126.83.51/uq2663/h/h22/02.m3u8
-#EXTINF:139,Stadium
+#EXTINF:1,Stadium
 https://dai.google.com/linear/hls/event/0jRU1DBXSW6a_TFheLfAUQ/master.m3u8
-#EXTINF:140,Fite
+#EXTINF:1,Fite
 https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
-#EXTINF:141,Fight Sports
-http://210.210.155.35/uq2663/h/h05/02.m3u8
-#EXTINF:142,Fuel TV
+#EXTINF:1,Fuel TV
 https://fueltv-fueltv-2-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:143,Mav TV Select
+#EXTINF:1,Mav TV Select
 https://mavtv-1.sinclair.wurl.com/manifest/playlist.m3u8
-#EXTINF:144,Red Bull TV
+#EXTINF:1,Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:145,Outside TV+
+#EXTINF:1,Outside TV+
 https://outsidetvplus-stirr.amagi.tv/playlist.m3u8
-#EXTINF:146,Outdoor Channel
+#EXTINF:1,Outdoor Channel
 https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:147,Waypoint TV
+#EXTINF:1,Waypoint TV
 https://waypointtv.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:148,Insight TV
+#EXTINF:1,Insight TV
 https://dai.google.com/linear/hls/event/KAfBFcVrQgKmHhpzvkEn9A/master.m3u8
-#EXTINF:149,Whistle TV
+#EXTINF:1,Whistle TV
 https://whistle-1.sinclair.wurl.com/manifest/playlist.m3u8
-#EXTINF:150,CGTN Documentary
+#EXTINF:1,CGTN Documentary
+
 https://livedoc.cgtn.com/500d/prog_index.m3u8
-#EXTINF:151,NTD
+#EXTINF:1,NTD
 https://1117825885.rsc.cdn77.org/1117825885/tracks-v2a1/mono.m3u8
-#EXTINF:152,InfoWars
+#EXTINF:1,InfoWars
 https://freespeech.akamaized.net/hls/live/2016712/live1/playlist.m3u8
-#EXTINF:153,Real America's Voice
+#EXTINF:1,Real America's Voice
 https://pcor3.manifest.auditude.com/auditude/variant/p1media_americasvoice_1/2c2dc059-4dc5-4554-bb24-660c53c00d2e/aHR0cHM6Ly9wMW1lZGlhLWFtZXJpY2Fzdm9pY2UtMS5yb2t1Lnd1cmwuY29tL21hbmlmZXN0L3BsYXlsaXN0Lm0zdTg.m3u8?pttrackingversion=v2&u=19287a324825cc5aacb7e46183c72324&pttrackingmode=sstm&g=1000010&ptadwindow=0&z=268729&k=wurl_channel=419;distributor=roku;name=AmericasVoice;ip=192.119.164.160;rdid=121c0a02-8b4f-5ad8-9a0a-d73aa5fd4c92;coppa=false;is_lat=1;ua=Mozilla/5.0+(Windows+NT+10.0;+)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.26+Safari/537.36;content=f880ec33a4b617b940e6f6e6fb627271f0b25344;genre=;platform=web;content_type=livefeed;content_rating=&ptcueformat=turner
-#EXTINF:154,The Blaze
+#EXTINF:1,The Blaze
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e46fba0c43b0d00096e5ac1/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=954c037d-1a11-44d3-b488-9d06f8a3e068&deviceLat=33.9560&deviceLon=-118.3887&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=81.0.4044.26&includeExtendedEvents=false&sid=e6f1682e-cc62-437a-bd0d-082bea9a4059&userId=&serverSideAds=true
-#EXTINF:155,The First TV
+#EXTINF:1,The First TV
 https://redseat-thefirst-glewedtv.amagi.tv/index.m3u8
-#EXTINF:156,One America News Network
+#EXTINF:1,One America News Network
 http://n1.klowdtv.net/live1/oan_180p/chunks.m3u8
-#EXTINF:157,OAN Plus
+#EXTINF:1,OAN Plus
 https://oneamericanews-vizio.amagi.tv/playlist.m3u8
-#EXTINF:158,Newsmax TV
+#EXTINF:1,Newsmax TV
 https://d3ut7rvli78ywi.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/NewsmaxLive/hls/live/529965/Live_1/index.m3u8
-#EXTINF:159,Free Speech TV
+#EXTINF:1,Free Speech TV
 https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv_4.m3u8
-#EXTINF:160,TYT Network
+#EXTINF:1,TYT Network
 https://tyt-xumo-us.amagi.tv/hls/amagi_hls_data_tytnetwor-tyt-xumo/CDN/master.m3u8
-#EXTINF:161,Yahoo! News
+#EXTINF:1,Yahoo! News
 https://content.uplynk.com/channel/411ba7ca8cb6403a9e73509e49c3a77b.m3u8
-#EXTINF:162,Pluto TV News
+#EXTINF:1,Pluto TV News
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5268abcd0ce20a8472000114/master.m3u8?advertisingId=&appName=web&appVersion=5.0.3-5a69f0421bfaa21acf57c7f54f9914128359c64e&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceLat=40.7308&deviceLon=-73.9975&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=66.0.3515.115&includeExtendedEvents=false&sid=8731304a-e66f-4ac1-b5f0-6f8c82d02e79&userId=&serverSideAds=true
-#EXTINF:163,Ticker
+#EXTINF:1,Ticker
 https://vidgyormedia.pc.cdn.bitgravity.com/ticker-origin/live/playlist.m3u8
-#EXTINF:164,RTE News Now
+#EXTINF:1,RTE News Now
 https://live.rte.ie/live/a/channel3/news.isml/news-video=729984-audio_128k=128000.m3u8
-#EXTINF:165,GCTV
+
+#EXTINF:1,GCTV
 http://45.32.115.103/live/livestream/index.m3u8
-#EXTINF:166,INC TV
+#EXTINF:1,INC TV
 http://churchrus2-lh.akamaihd.net/i/coctesting_1@57550/master.m3u8
-#EXTINF:167,SMNI
+#EXTINF:1,SMNI
 http://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
-#EXTINF:168,Life TV
+#EXTINF:1,Life TV
 https://d3cbe0gidjd4k2.cloudfront.net/channel_6/smil:channel_6.smil/chunklist_w468015611_b300000_sleng.m3u8
-#EXTINF:169,Hope Channel Philippines
+#EXTINF:1,Hope Channel Philippines
 https://hcfilipino.mmdlive.lldns.net/hcfilipino/f6e775755f2647159e0adefe01a44a0e/manifest.m3u8
-#EXTINF:170,Hope Channel International
+#EXTINF:1,Hope Channel International
 https://hcintlinc.mmdlive.lldns.net/hcintlinc/60f14a7fec64454e90712421a46ac6f1/manifest.m3u8
-#EXTINF:171,CBN
+#EXTINF:1,CBN
 https://bcliveunivsecure-lh.akamaihd.net/i/iptv1_1@500579/master.m3u8
-#EXTINF:172,CTN
+#EXTINF:1,CTN
 https://rrsatrtmp.tulix.tv/ctntv/ctntvmulti.smil/chunklist_w534945064_b564000.m3u8
-#EXTINF:173,Hillsong Channel
+#EXTINF:1,Hillsong Channel
 http://api.new.livestream.com/accounts/27460990/events/8266909/live.m3u8
-#EXTINF:174,TBN Asia
+#EXTINF:1,TBN Asia
 http://210.210.155.35/qwr9ew/s/s39/02.m3u8
-#EXTINF:175,Hollywire
+
+#EXTINF:1,Hollywire
 https://hollywire-samsung-ca.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:176,Law & Crime Network
+#EXTINF:1,Law & Crime Network
 https://dai.google.com/linear/hls/event/3w3PsYzZQzS8lyRfi7e4mQ/master.m3u8
-#EXTINF:177,Court TV
+#EXTINF:1,Court TV
 https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
-#EXTINF:178,People TV
+#EXTINF:1,People TV
 https://peopletv-oo.akamaized.net/playlist480p.m3u8
-#EXTINF:179,ET Live
+#EXTINF:1,ET Live
 https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
-#EXTINF:180,TMZ
+#EXTINF:1,TMZ
 https://dai2.xumo.com/amagi_hls_data_xumo1234A-tmz/CDN/master.m3u8
-#EXTINF:181,Made in Hollywood
+#EXTINF:1,Made in Hollywood
 https://dai.google.com/linear/hls/event/Mteif75-SJeFi19Sk3-dGQ/master.m3u8
-#EXTINF:182,ElectricNOW
+#EXTINF:1,ElectricNOW
 https://stream.ads.ottera.tv/playlist.m3u8?&network_id=276&app_bundle=151908&value_1=ROKU_ADS_CONTENT_RATING&value_2=livefeed&coppa=false&device=OTT_DEVICE_MODEL&value_3=ROKU_ADS_CONTENT_GENRE&value_4=OTT_ID_TYPE&is_lat=1&value_8=OTT_CONTENT_LENGTH&value_5=OTT_ADS_TRACKING_ID&content_dist_name=web&position=POD_POSITION&did=ba755927-be4b-5494-9fc5-831a2be230ce&value_6=ROKU_ADS_SEASON_ID&value_7=ROKU_ADS_SERIES_ID&content_producer_id=electric_now&ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F86.0.4240.183+Safari%2F537.36+OPR%2F72.0.3815.320&value_9=channelstore%3Dus%26tags%3DROKU_CONTENT_TAGS%26bmodel%3Dbm1%26device_lang%3DROKU_ADS_LOCALE%26unlocked%3DUNLOCKED&content_type=livefeed&rdid=ba755927-be4b-5494-9fc5-831a2be230ce&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&bmodel=bm1&studio_id=electric_now&channel_id=151908&content=5134fb06b5a35b388a94c148866e99a9&platform=web&channelStore=us&tags=ROKU_CONTENT_TAGS
-#EXTINF:183,AFV Family
+#EXTINF:1,AFV Family
 https://dai.google.com/linear/hls/event/18_lZXPySFa5_GRVEbOX_A/master.m3u8
-#EXTINF:184,The Pet Collective
+#EXTINF:1,The Pet Collective
 https://the-pet-collective-linear.sinclair.wurl.com/manifest/playlist.m3u8
-#EXTINF:185,FailArmy
+#EXTINF:1,FailArmy
 https://d696d618ff0642dfa78984e42636cc5d.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Viewlift_FailArmy/playlist.m3u8?ads.wurl_channel=151&ads.wurl_name=FailArmy&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D
-#EXTINF:186,Wonder
+#EXTINF:1,Wonder
 https://wonder-samsung-uk.amagi.tv/playlist.m3u8
-#EXTINF:187,Rev'n
+#EXTINF:1,Rev'n
 https://bcovlive-a.akamaihd.net/a71236fdda1747999843bd3d55bdd6fa/us-east-1/6183977686001/playlist.m3u8
-#EXTINF:188,Safe TV
+#EXTINF:1,Safe TV
 http://18.191.91.130:1935/live/safetv/playlist.m3u8
-#EXTINF:189,Wipeout Xtra
+#EXTINF:1,Wipeout Xtra
 https://dai.google.com/linear/hls/event/0DG8p66IRES7ZzEe1WJS-w/master.m3u8
-#EXTINF:190,Hunt Channel
-https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
-#EXTINF:191,Game Show Central
+#EXTINF:1,Game Show Central
 https://gsn-gameshowchannnel-2.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:192,People Are Awesome
+#EXTINF:1,People Are Awesome
 https://jukin-peopleareawesome-2-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:193,Tastemade
+#EXTINF:1,Tastemade
 https://tastemade-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:194,Food TV
+#EXTINF:1,Food TV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5877ac8cb791f4eb4a140d81/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceLat=40.8364&deviceLon=-74.1403&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=66.0.3515.72&includeExtendedEvents=false&sid=bda0626f-c311-457b-937e-5d81d2fa8911&userId=&serverSideAds=true
-#EXTINF:195,Gusto TV
+#EXTINF:1,Gusto TV
 https://gustotv-gustotv-1.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:196,The Outdoor Cooking Channel
+#EXTINF:1,The Outdoor Cooking Channel
 http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/chunklist_w981409619_b1105254.m3u8
-#EXTINF:197,Bon Appetit
+#EXTINF:1,Bon Appetit
 https://condenast-bonappetit-vizio.amagi.tv/playlist.m3u8
-#EXTINF:198,Stirr Cooks
+#EXTINF:1,Stirr Cooks
 https://dai.google.com/linear/hls/event/CHaUZsCfSyS2CVF7I-NktA/master.m3u8
-#EXTINF:199,XCorps
+#EXTINF:1,XCorps
 https://simultv.s.llnwi.net/n4s4/xcorps/interlink.m3u8
-#EXTINF:200,Docurama
+#EXTINF:1,Docurama
 https://docurama.vizio.wurl.com/manifest/playlist.m3u8
-#EXTINF:201,TV5Monde Style
+#EXTINF:1,TV5Monde Style
 http://45.126.83.51/uq2663/h/h01/02.m3u8
-#EXTINF:202,Magellan TV
+#EXTINF:1,Magellan TV
 https://magellantv-1.vizio.wurl.com/manifest/1200.m3u8
-#EXTINF:203,Fashion TV
+#EXTINF:1,Fashion TV
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b900000_t64MzYwcA==.m3u8
-#EXTINF:204,Fashion TV 2
+#EXTINF:1,Fashion TV 2
 http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
-#EXTINF:205,bspoketv
+#EXTINF:1,bspoketv
 https://bspoketv.s.llnwi.net/streams/322/out_0.m3u8
-#EXTINF:206,Complex
+#EXTINF:1,Complex
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-complextv/CDN/playlist.m3u8
-#EXTINF:207,Glewed TV
+#EXTINF:1,Glewed TV
 https://glewedtv-1.sinclair.wurl.com/manifest/1200.m3u8
-#EXTINF:208,All Time
+#EXTINF:1,All Time
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-alltime/CDN/master.m3u8
-#EXTINF:209,Quahz TV
+#EXTINF:1,Quahz TV
 https://t06243a-lh.akamaihd.net/i/t06243a_1@536897/master.m3u8
-#EXTINF:210,PBS America
+#EXTINF:1,PBS America
 https://pbs-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:211,PlayWorks
+#EXTINF:1,PlayWorks
 https://playworksdigital-playworks-1.plex.wurl.com/manifest/playlist.m3u8
-#EXTINF:212,LIT
+#EXTINF:1,LIT
 https://studio1-lit.amagi.tv/playlist360p.m3u8
-#EXTINF:213,The Asylum
+#EXTINF:1,The Asylum
 https://asylum-stirr.amagi.tv/playlist.m3u8
-#EXTINF:214,Positiv TV
+#EXTINF:1,Positiv TV
 https://player-api.new.livestream.com/accounts/27460990/events/8973036/live.m3u8
-#EXTINF:215,Biz TV
+#EXTINF:1,Biz TV
 https://thegateway.app/BizAndYou/Biz_480p/playlist.m3u8
-#EXTINF:216,Divorce Court
+#EXTINF:1,Divorce Court
 https://44fbc29539b04817bbfc7e40a5b4a1ab.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5eb1e76d1474f9020c06f9ee/playlist.m3u8
-#EXTINF:217,Drybar Comedy
+#EXTINF:1,Drybar Comedy
 https://drybar-drybarcomedy-1-au.samsung.wurl.com/manifest/1200.m3u8
-#EXTINF:218,Harley Davidson
+#EXTINF:1,Harley Davidson
 https://hdtv.prod2.ioio.tv/broker/play/cb4086ca-daba-42f5-8acf-27ee93fee0e8.m3u8
-#EXTINF:219,Cloudflare TV
+#EXTINF:1,Cloudflare TV
 https://cloudflare.tv/hls/live.m3u8
-#EXTINF:220,CBSN New York
+
+#EXTINF:1,CBSN New York
 https://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8
-#EXTINF:221,CBSN Los Angeles
+#EXTINF:1,CBSN Los Angeles
 https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8
-#EXTINF:222,CBSN Boston
+#EXTINF:1,CBSN Boston
 https://dai.google.com/linear/hls/event/26FJK7wRSo6RhPsK70XS_w/master.m3u8
-#EXTINF:223,CBSN Bay Area
+#EXTINF:1,CBSN Bay Area
 https://dai.google.com/linear/hls/event/VE8b4n-YStusEGv5Z2NmsQ/master.m3u8
-#EXTINF:224,CBSN Minnesota
+#EXTINF:1,CBSN Minnesota
 https://dai.google.com/linear/hls/event/zcWPVCfURNSPxeidcckQLA/master.m3u8
-#EXTINF:225,CBSN Philly
+#EXTINF:1,CBSN Philly
 https://dai.google.com/linear/hls/event/Xu-ITJ2GTNGaxGn893mmWg/master.m3u8
-#EXTINF:226,CBSN Denver
+#EXTINF:1,CBSN Denver
 https://dai.google.com/linear/hls/event/EUo67MWSRh6toPi0heJKnQ/master.m3u8
-#EXTINF:227,CBSN Pittsburgh
+#EXTINF:1,CBSN Pittsburgh
 https://dai.google.com/linear/hls/event/i5SXVKI4QIuV-eF2XAH4FQ/master.m3u8
-#EXTINF:228,CBSN Chicago
+#EXTINF:1,CBSN Chicago
 https://dai.google.com/linear/hls/event/DWt8iR1YQ-OJQsxczu8KfQ/master.m3u8
-#EXTINF:229,CBSN Dallas-FW
+#EXTINF:1,CBSN Dallas-FW
 https://dai.google.com/linear/hls/event/o5J3g4U9T16CvYnS7Qd86Q/master.m3u8
-#EXTINF:230,SGTN
+
+#EXTINF:1,SGTN
 http://stgn-49.tulix.tv/live19/Stream1/chunklist_w1498543121.m3u8
-#EXTINF:231,The Heartland Network
+#EXTINF:1,The Heartland Network
 https://bcovlive-a.akamaihd.net/1ad942d15d9643bea6d199b729e79e48/us-east-1/6183977686001/playlist.m3u8
-#EXTINF:232,ONNtv
+#EXTINF:1,ONNtv
 https://onntv.vantrix.tv/onntv_hls/360p/onntv_hls-HLS-360p.m3u8
-#EXTINF:233,This TV
+#EXTINF:1,This TV
 https://cdn.igocast.com/channel11_hls/channel11_master.m3u8
-#EXTINF:234,CBC Toronto
+#EXTINF:1,CBC Toronto
 https://bozztv.com/teleyupp1/teleup-ydcl2V1MVC/playlist.m3u8
-#EXTINF:235,TVS Television Network
+#EXTINF:1,TVS Television Network
 http://nrpus.bozztv.com/36bay2/gusa-tvstn/tracks-v1a1/mono.m3u8
-#EXTINF:236,Z Living
+#EXTINF:1,Z Living
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v4a1/index.m3u8
-#EXTINF:237,Cozi TV
+#EXTINF:1,Cozi TV
 https://2-fss-2.streamhoster.com/pl_120/201852-1297026-1/master.m3u8
-#EXTINF:238,The Action Channel
+#EXTINF:1,The Action Channel
 https://cdn.igocast.com/channel4_hls/channel4_master.m3u8
-#EXTINF:239,Ace TV
+#EXTINF:1,Ace TV
 https://cdn.igocast.com/channel3_hls/channel3_master.m3u8
-#EXTINF:240,Stingray Ambiance
+#EXTINF:1,Stingray Ambiance
 https://dai.google.com/linear/hls/event/6RPZlzksTCyB1euPqLcBZQ/master.m3u8
-#EXTINF:241,UN Web
+#EXTINF:1,UN Web
 https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/index_828_av-p.m3u8
-#EXTINF:242,NASA TV
+#EXTINF:1,NASA TV
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
-#EXTINF:243,Voice of America
+#EXTINF:1,Voice of America
 http://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/index_0360_av-p.m3u8?sd=10&rebase=on
-#EXTINF:244,World Channel
+#EXTINF:1,World Channel
 https://cs.ebmcdn.net/eastbay-live-hs-1/apt/mp4:apt-world/playlist.m3u8
-#EXTINF:245,Stirr City Los Angeles
+#EXTINF:1,Stirr City Los Angeles
 https://dai.google.com/linear/hls/event/n3PVAFmPTJSVYjdSVf7XZw/master.m3u8
-#EXTINF:246,Gravitas Movies
+#EXTINF:1,Gravitas Movies
 https://dai.google.com/linear/hls/event/EpqgwRlpQKq73ySVSohJWA/master.m3u8
-#EXTINF:247,TV5 Monde Asie
+#EXTINF:1,TV5 Monde Asie
 https://tv5asieen-i.akamaihd.net/hls/live/631617/tv5asieen/index.m3u8
-#EXTINF:248,Plymouth Rock TV
+#EXTINF:1,Plymouth Rock TV
 https://na-us-sw10.secdn.net/barakyah-channel/play/mp4:plymouthtvedge/playlist.m3u8
-#EXTINF:249,Oppna Kanalen
+#EXTINF:1,Oppna Kanalen
 https://edg03-prd-se-ixn.solidtango.com/edge/_451iw2h_/451iw2h/playlist.m3u8
-#EXTINF:250,Indonesia Channel
+#EXTINF:1,Indonesia Channel
 http://wowzaprod236-i.akamaihd.net/hls/live/1019903/7dd4cf51/playlist.m3u8
-#EXTINF:251,Russia 1
+#EXTINF:1,Russia 1
 http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
-#EXTINF:252,ITV UK
+#EXTINF:1,ITV UK
 http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main600.m3u8
-#EXTINF:253,Horse Shopping Channel
+#EXTINF:1,Horse Shopping Channel
 https://uplynkcontent.sinclairstoryline.com/channel/26c7a77fd6ed453da6846a16ad0625d9.m3u8
-#EXTINF:254,America TeVe
+#EXTINF:1,America TeVe
 https://americateve-rokuus.amagi.tv/master.m3u8
-#EXTINF:255,MTV
-http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_1250_av-p.m3u8
-#EXTINF:256,V2BEAT TV
+#EXTINF:1,V2BEAT TV
 http://de1se01.v2beat.live/playlist.m3u8
-#EXTINF:257,CMC
+#EXTINF:1,CMC
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8
-#EXTINF:258,Hallypop
-https://content.uplynk.com/channel/01cd8b33410c4682bcba1404e10c841a.m3u8
-#EXTINF:259,Live X Live
+#EXTINF:1,Live X Live
 https://livexlive2.akamaized.net/hls/live/2013184/linear_1/master.m3u8
-#EXTINF:260,Vevo
+#EXTINF:1,Vevo
 https://5fa09a21270b74000140368e-samsung.ssai.zype.com/5fa09a21270b74000140368e_samsung/manifest.m3u8
-#EXTINF:261,CMT Music
+#EXTINF:1,CMT Music
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
-#EXTINF:262,MTV Yo!
+#EXTINF:1,MTV Yo!
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
-#EXTINF:263,Stingray Karaoke
+#EXTINF:1,Stingray Karaoke
 https://stingray-karaoke-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:264,Circle
+#EXTINF:1,Circle
 https://circle-roku.amagi.tv/playlistR432p.m3u8
 
 #EXTINF:1,Reelz
@@ -560,70 +479,59 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/
 #EXTINF:1,The T
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/f.m3u8
 
-#EXTINF:299,Live Event
-https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
-
-#EXTINF:300,RESERVED (300)
-https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
-#EXTINF:301,Euronews HD
+#EXTINF:1,Euronews HD
 https://euronews-euronews-world-1.roku.wurl.com/manifest/71bf778598cc9ce36952bb8a3331551a.m3u8
-#EXTINF:302,Bloomberg TV HD
+#EXTINF:1,Bloomberg TV HD
 https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
-#EXTINF:303,Cheddar HD
+#EXTINF:1,Cheddar HD
 https://livestream.chdrstatic.com/b93e5b0d43ea306310a379971e384964acbe4990ce193c0bd50078275a9a657d/cheddar-42620/cheddarweblive/cheddar/primary/2.m3u8
-#EXTINF:304,Newsmax TV HD
+#EXTINF:1,Newsmax TV HD
 https://nmxairy.akamaized.net/hls/live/529965/Live_1/index_1080.m3u8
-#EXTINF:305,NBC News Now HD
+#EXTINF:1,NBC News Now HD
 http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
-#EXTINF:306,RESERVED (206)
-https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
-#EXTINF:307,CBSN HD
+#EXTINF:1,CBSN HD
 https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_7.m3u8
-#EXTINF:308,People TV HD
+#EXTINF:1,People TV HD
 https://peopletv-oo.akamaized.net/playlist720p.m3u8
-#EXTINF:309,ABC News Live HD
+#EXTINF:1,ABC News Live HD
 https://abcnewslive.akamaized.net/amagi_hls_data_roku-host-abc/CDN/1280x720_2890800/index.m3u8
-#EXTINF:310,CNN International HD
+#EXTINF:1,CNN International HD
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
-#EXTINF:311,Red Bull TV HD
+#EXTINF:1,Red Bull TV HD
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:312,RESERVED (312)
-https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
-#EXTINF:313,Stadium HD
+#EXTINF:1,Stadium HD
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master_3000k.m3u8
-#EXTINF:314,Al Jazeera English HD
+#EXTINF:1,Al Jazeera English HD
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:315,InfoWars HD
+#EXTINF:1,InfoWars HD
 http://wpc.9ec1.edgecastcdn.net/249EC1/infowarshd-edgecast/hd720.m3u8
-#EXTINF:316,Plant-Based Network HD
+#EXTINF:1,Plant-Based Network HD
 https://hls-cdn.tvstartup.net/barakyah-channel/live/pbtv/chunklist_w2143964786.m3u8
-#EXTINF:317,YTA HD
+#EXTINF:1,YTA HD
 https://thegateway.app/YouToo/CueTones/playlist.m3u8
-#EXTINF:318,Biz TV HD
+#EXTINF:1,Biz TV HD
 https://thegateway.app/BizAndYou/Biz_1080p/playlist.m3u8
-#EXTINF:319,Edge Sports HD
+#EXTINF:1,Edge Sports HD
 https://edgesports-stirr.amagi.tv/playlist1080p.m3u8
-#EXTINF:320,SilenceTV HD
+#EXTINF:1,SilenceTV HD
 http://93.190.140.42:8081/SilenceTV/live/playlist.m3u8
-#EXTINF:321,Black News Channel HD
+#EXTINF:1,Black News Channel HD
 http://redbox-blacknewschannel-xumo.amagi.tv/playlistR1080p.m3u8
-#EXTINF:322,One America News Network HD
+#EXTINF:1,One America News Network HD
 http://n1.klowdtv.net/live1/oan_720p/chunks.m3u8
-#EXTINF:323,The First TV HD
+#EXTINF:1,The First TV HD
 https://thefirst-distroscale.amagi.tv/index1080p.m3u8
-#EXTINF:324,NBCLX HD
+#EXTINF:1,NBCLX HD
 https://lxlive-lh.akamaihd.net/i/LX_LIVE@148206/index_1080P_av-p.m3u8
-#EXTINF:325,NewsNet HD
+#EXTINF:1,NewsNet HD
 https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1311088/chunklist_b2000000.m3u8
-#EXTINF:326,RESERVED (326)
-https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
-#EXTINF:327,Kool TV HD
+#EXTINF:1,Kool TV HD
 http://209.182.219.50:1935/roku/roku/playlist.m3u8
-#EXTINF:328,NASA TV HD
+#EXTINF:1,NASA TV HD
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-#EXTINF:329,CityTV HD
+#EXTINF:1,CityTV HD
 https://bozztv.com/teleyupp1/teleup-iSykLSKMFr/tracks-v1a1/mono.m3u8
-#EXTINF:330,Tennis Channel HD
+#EXTINF:1,Tennis Channel HD
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
-#EXTINF:331,Absolute Reality HD
+#EXTINF:1,Absolute Reality HD
 https://amc-absolutereality-1.imdbtv.wurl.com/manifest/4300.m3u8
