@@ -289,8 +289,10 @@ https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Sour
 https://dai.google.com/linear/hls/event/cFDvmqo4TGW7EfHwscU_Ew/master.m3u8
 #EXTINF:1,C-SPAN
 https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/master.m3u8
+#EXTINF:1,BBC News
+https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8
 #EXTINF:1,BBC World News
-http://1111296894.rsc.cdn77.org/LS-ATL-54548-11/tracks-v1a1/mono.m3u8
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:1,Sky News
 http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8
 #EXTINF:1,Australia Channel News
@@ -418,7 +420,7 @@ https://oneamericanews-vizio.amagi.tv/playlist.m3u8
 #EXTINF:1,Newsmax TV
 https://d3ut7rvli78ywi.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/NewsmaxLive/hls/live/529965/Live_1/index.m3u8
 #EXTINF:1,Newsmax TV HD
-https://nmxairy.akamaized.net/hls/live/529965/Live_1/index_1080.m3u8
+https://nmxairy.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
 #EXTINF:1,Free Speech TV
 https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv_4.m3u8
 #EXTINF:1,TYT Network
