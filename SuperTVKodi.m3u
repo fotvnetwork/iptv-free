@@ -348,7 +348,7 @@ https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d56
 #EXTINF:-1 tvg-chno="152" tvg-logo="" group-title="News",ABC News Live
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 tvg-chno="153" tvg-logo="" group-title="News",ABC News Live HD
-http://abcnewslive.akamaized.net/amagi_hls_data_roku-host-abc/CDN/1280x720_2890800/index.m3u8
+https://abcnewslive-roku.akamaized.net/midroll/amagi_hls_data_roku-host-abc/CDN/1280x720_2890800/index.m3u8
 #EXTINF:-1 tvg-chno="154" tvg-logo="" group-title="News",NBC News Now
 https://nbcnewshls.akamaized.net/hls/live/2011820/nnn_live1/master.m3u8
 #EXTINF:-1 tvg-chno="155" tvg-logo="" group-title="News",NBC News Now HD
@@ -364,50 +364,52 @@ https://livestream.chdrstatic.com/b93e5b0d43ea306310a379971e384964acbe4990ce193c
 #EXTINF:-1 tvg-chno="160" tvg-logo="" group-title="News",Cheddar HD
 https://livestream.chdrstatic.com/b93e5b0d43ea306310a379971e384964acbe4990ce193c0bd50078275a9a657d/cheddar-42620/cheddarweblive/cheddar/primary/2.m3u8
 #EXTINF:-1 tvg-chno="161" tvg-logo="" group-title="News",Bloomberg TV
-https://ch.iptvmate.net/4ac2dd1a410b37e8357ae8bbac3264c5.m3u8
+http://210.210.155.35/session/1f4b9814-7ed5-11e8-aa50-c81f66f89318/uq2663/h/h03/index1.m3u8
 #EXTINF:-1 tvg-chno="162" tvg-logo="" group-title="News",Bloomberg TV HD
 https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 #EXTINF:-1 tvg-chno="163" tvg-logo="" group-title="News",Bloomberg Quicktake
 https://dai.google.com/linear/hls/event/cFDvmqo4TGW7EfHwscU_Ew/master.m3u8
 #EXTINF:-1 tvg-chno="164" tvg-logo="" group-title="News",C-SPAN
 https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/master.m3u8
-#EXTINF:-1 tvg-chno="165" tvg-logo="" group-title="News",BBC World News
-http://1111296894.rsc.cdn77.org/LS-ATL-54548-11/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-chno="166" tvg-logo="" group-title="News",Sky News
+#EXTINF:-1 tvg-chno="165" tvg-logo="" group-title="News",BBC News
+https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8
+#EXTINF:-1 tvg-chno="166" tvg-logo="" group-title="News",BBC World News
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+#EXTINF:-1 tvg-chno="167" tvg-logo="" group-title="News",Sky News
 http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8
-#EXTINF:-1 tvg-chno="167" tvg-logo="" group-title="News",Australia Channel News
+#EXTINF:-1 tvg-chno="168" tvg-logo="" group-title="News",Australia Channel News
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
-#EXTINF:-1 tvg-chno="168" tvg-logo="" group-title="News",ABC News Australia
+#EXTINF:-1 tvg-chno="169" tvg-logo="" group-title="News",ABC News Australia
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
-#EXTINF:-1 tvg-chno="169" tvg-logo="" group-title="News",Al Jazeera
+#EXTINF:-1 tvg-chno="170" tvg-logo="" group-title="News",Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/03.m3u8
-#EXTINF:-1 tvg-chno="170" tvg-logo="" group-title="News",Al Jazeera English HD
+#EXTINF:-1 tvg-chno="171" tvg-logo="" group-title="News",Al Jazeera English HD
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 tvg-chno="171" tvg-logo="" group-title="News",RT
+#EXTINF:-1 tvg-chno="172" tvg-logo="" group-title="News",RT
 https://rt-news.secure.footprint.net/1103.m3u8
-#EXTINF:-1 tvg-chno="172" tvg-logo="" group-title="News",France 24
+#EXTINF:-1 tvg-chno="173" tvg-logo="" group-title="News",France 24
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
-#EXTINF:-1 tvg-chno="173" tvg-logo="" group-title="News",Euronews
+#EXTINF:-1 tvg-chno="174" tvg-logo="" group-title="News",Euronews
 https://euronews-euronews-world-1.roku.wurl.com/manifest/b34060fcaf527710b244a3e16504edd0.m3u8
-#EXTINF:-1 tvg-chno="174" tvg-logo="" group-title="News",Euronews HD
+#EXTINF:-1 tvg-chno="175" tvg-logo="" group-title="News",Euronews HD
 https://euronews-euronews-world-1.roku.wurl.com/manifest/71bf778598cc9ce36952bb8a3331551a.m3u8
-#EXTINF:-1 tvg-chno="175" tvg-logo="" group-title="News",Press TV
+#EXTINF:-1 tvg-chno="176" tvg-logo="" group-title="News",Press TV
 https://live.presstv.com/liveprs/smil:liveprs/chunklist_w1027720361_b644100_slen.m3u8
-#EXTINF:-1 tvg-chno="176" tvg-logo="" group-title="News",DW
+#EXTINF:-1 tvg-chno="177" tvg-logo="" group-title="News",DW
 https://m-c010-j2apps.s.llnwi.net/hls/8023.DWEnglish.in_360p/index.m3u8
-#EXTINF:-1 tvg-chno="177" tvg-logo="" group-title="News",CNA
+#EXTINF:-1 tvg-chno="178" tvg-logo="" group-title="News",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF:-1 tvg-chno="178" tvg-logo="" group-title="News",CGTN
+#EXTINF:-1 tvg-chno="179" tvg-logo="" group-title="News",CGTN
 https://dai.google.com/linear/hls/event/r4sa-f6GSN2XIvzKv5jVng/master.m3u8
-#EXTINF:-1 tvg-chno="179" tvg-logo="" group-title="Foreign",NHK World Japan
+#EXTINF:-1 tvg-chno="180" tvg-logo="" group-title="Foreign",NHK World Japan
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
-#EXTINF:-1 tvg-chno="180" tvg-logo="" group-title="Foreign",Arirang
+#EXTINF:-1 tvg-chno="181" tvg-logo="" group-title="Foreign",Arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b656000_sleng.m3u8
-#EXTINF:-1 tvg-chno="181" tvg-logo="" group-title="News",India Today
+#EXTINF:-1 tvg-chno="182" tvg-logo="" group-title="News",India Today
 https://feeds.intoday.in/hltapps/api/master.m3u8
-#EXTINF:-1 tvg-chno="182" tvg-logo="" group-title="News",TeleSUR
+#EXTINF:-1 tvg-chno="183" tvg-logo="" group-title="News",TeleSUR
 https://d7g1ebft2592.cloudfront.net/mblivev3/360p/chunklist.m3u8
-#EXTINF:-1 tvg-chno="183" tvg-logo="" group-title="News",TRT World
+#EXTINF:-1 tvg-chno="184" tvg-logo="" group-title="News",TRT World
 https://tv-trtworld.live.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-chno="190" tvg-logo="" group-title="Sports",Pluto TV Sports
@@ -520,7 +522,7 @@ https://oneamericanews-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="241" tvg-logo="" group-title="News",Newsmax TV
 https://d3ut7rvli78ywi.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/NewsmaxLive/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 tvg-chno="242" tvg-logo="" group-title="News",Newsmax TV HD
-https://nmxairy.akamaized.net/hls/live/529965/Live_1/index_1080.m3u8
+https://nmxairy.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
 #EXTINF:-1 tvg-chno="243" tvg-logo="" group-title="News",Free Speech TV
 https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv_4.m3u8
 #EXTINF:-1 tvg-chno="244" tvg-logo="" group-title="News",TYT Network
