@@ -240,6 +240,7 @@ http://bamus-eng-roku.amagi.tv/playlist.m3u8
 https://inwild-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:1,Animals Live
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/playlist.m3u8
+
 #EXTINF:1,Newsy
 https://d3ra88okaj5j4j.cloudfront.net/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index.m3u8
 #EXTINF:1,News 12
@@ -252,6 +253,8 @@ http://redbox-blacknewschannel-xumo.amagi.tv/playlistR1080p.m3u8
 https://dai.google.com/linear/hls/event/8hUeiLMpTm-YNqk7kadUwA/master.m3u8
 #EXTINF:1,CNN
 http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
+#EXTINF:1,CNN HD
+https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:1,CNN International
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:1,CNN International HD
@@ -324,6 +327,7 @@ https://feeds.intoday.in/hltapps/api/master.m3u8
 https://d7g1ebft2592.cloudfront.net/mblivev3/360p/chunklist.m3u8
 #EXTINF:1,TRT World
 https://tv-trtworld.live.trt.com.tr/master.m3u8
+
 #EXTINF:1,Pluto TV Sports
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56340779a738201b4ccfeac9/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
 #EXTINF:1,BeIN Sports Xtra
@@ -388,6 +392,7 @@ https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d556
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 #EXTINF:1,Edge Sports HD
 https://edgesports-stirr.amagi.tv/playlist1080p.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png",CGTN Documentary
 https://livedoc.cgtn.com/500d/prog_index.m3u8
 #EXTINF:1,NTD
@@ -426,6 +431,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5268abcd0ce20a8472
 https://vidgyormedia.pc.cdn.bitgravity.com/ticker-origin/live/playlist.m3u8
 #EXTINF:1,RTE News Now
 https://live.rte.ie/live/a/channel3/news.isml/news-video=729984-audio_128k=128000.m3u8
+
 #EXTINF:1,GCTV
 http://45.32.115.103/live/livestream/index.m3u8
 #EXTINF:166,INC TV
@@ -446,6 +452,7 @@ https://rrsatrtmp.tulix.tv/ctntv/ctntvmulti.smil/chunklist_w534945064_b564000.m3
 http://api.new.livestream.com/accounts/27460990/events/8266909/live.m3u8
 #EXTINF:174,TBN Asia
 http://210.210.155.35/qwr9ew/s/s39/02.m3u8
+
 #EXTINF:175,Hollywire
 https://hollywire-samsung-ca.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:176,Law & Crime Network
@@ -506,6 +513,7 @@ https://dust.samsung.wurl.com/manifest/1200.m3u8
 https://content.uplynk.com/channel/f467430e4a8e49a59ff3183cf51092b2.m3u8
 #EXTINF:1,Hollywood Classics
 https://fef5003bb7e7447ab21a2c3fd81e3b74.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_HollywoodClassics/playlist.m3u8?ads.wurl_channel=532&ads.wurl_name=HollywoodClassics&ads.us_privacy=1---&ads.psid=&ads.targetopt=1&ads.plex_token=z1MCPUpbxYcHru-5hdyq&ads.plex_id=5f0ff265d71dcb00449ec02d&ads.ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36+OPR%2F70.0.3728.95&ads.app_bundle=&ads.app_store_url=&ads.gdpr=0&ads.consent=0
+
 #EXTINF:200,Docurama
 https://docurama.vizio.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2d/TV5Monde_Style_HD.svg",TV5Monde Style
@@ -548,6 +556,7 @@ https://drybar-drybarcomedy-1-au.samsung.wurl.com/manifest/1200.m3u8
 https://hdtv.prod2.ioio.tv/broker/play/cb4086ca-daba-42f5-8acf-27ee93fee0e8.m3u8
 #EXTINF:219,Cloudflare TV
 https://cloudflare.tv/hls/live.m3u8
+
 #EXTINF:220,CBSN New York
 https://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8
 #EXTINF:221,CBSN Los Angeles
@@ -568,6 +577,7 @@ https://dai.google.com/linear/hls/event/i5SXVKI4QIuV-eF2XAH4FQ/master.m3u8
 https://dai.google.com/linear/hls/event/DWt8iR1YQ-OJQsxczu8KfQ/master.m3u8
 #EXTINF:229,CBSN Dallas-FW
 https://dai.google.com/linear/hls/event/o5J3g4U9T16CvYnS7Qd86Q/master.m3u8
+
 #EXTINF:230,SGTN
 http://stgn-49.tulix.tv/live19/Stream1/chunklist_w1498543121.m3u8
 #EXTINF:231,The Heartland Network
@@ -622,6 +632,7 @@ http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Mai
 https://uplynkcontent.sinclairstoryline.com/channel/26c7a77fd6ed453da6846a16ad0625d9.m3u8
 #EXTINF:254,America TeVe
 https://americateve-rokuus.amagi.tv/master.m3u8
+
 #EXTINF:255,MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_1250_av-p.m3u8
 #EXTINF:256,V2BEAT TV
