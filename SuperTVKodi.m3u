@@ -51,7 +51,7 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/cd855b97a
 #EXTINF:-1 tvg-chno="021" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/The_Filipino_Channel_2011_logo.svg/1200px-The_Filipino_Channel_2011_logo.svg.png" group-title="GenEnt",TFC Asia
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/298a3f407e14a38.m3u8
 #EXTINF:-1 tvg-chno="022" tvg-logo="https://static.wikia.nocookie.net/russel/images/4/49/Kapamilya_Online_Live_3D_Logo.png" group-title="GenEnt",Kapamilya Online Live
-plugin://plugin.video.youtube/play/?video_id=4K5em2cfFWM
+plugin://plugin.video.youtube/play/?video_id=3yluTYgmJ2E
 #EXTINF:-1 tvg-chno="023" tvg-logo="https://mytv.ph/assets/img/logo-white.png" group-title="FTA",MyTV Cebu
 http://api.new.livestream.com/accounts/15418593/events/4787138/live.m3u8
 #EXTINF:-1 tvg-chno="024" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/CCTN_Cebu_logo.png" group-title="FTA",CCTN
@@ -101,14 +101,6 @@ https://simultv.s.llnwi.net/n4s4/KartoonCircus/interlink.m3u8
 https://pocketwatch.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-chno="050" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/PBS_Kids_Dash_(2009).svg/revision/latest/scale-to-width-down/2000?cb=20171125102412" group-title="Kids",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b600000.m3u8
-#EXTINF:-1 tvg-chno="051" tvg-logo="" group-title="Kids",Cartoon Network (test)
-http://gooserace.xyz:2052/donna/donna123/2431577
-#EXTINF:-1 tvg-chno="052" tvg-logo="" group-title="Kids",Disney Channel (test)
-http://gooserace.xyz:2052/donna/donna123/2431579
-#EXTINF:-1 tvg-chno="053" tvg-logo="" group-title="Kids",Disney Junior (test)
-http://gooserace.xyz:2052/donna/donna123/2431584
-#EXTINF:-1 tvg-chno="055" tvg-logo="" group-title="Kids",Nickelodeon (test)
-http://gooserace.xyz:2052/donna/donna123/2431586
 #EXTINF:-1 tvg-chno="056" tvg-logo="https://static.wikia.nocookie.net/logos2/images/8/89/20DED176-3599-4484-92F7-1DF9BD2A84A2.png" group-title="Kids",BabyFirst
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -299,8 +291,14 @@ https://dai.google.com/linear/hls/event/EpqgwRlpQKq73ySVSohJWA/master.m3u8
 #EXTINF:-1 tvg-chno="127" tvg-logo="" group-title="GenEnt",ShoutFactory TV
 https://shoutfactory-shoutfactory-zype.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="128" tvg-logo="" group-title="GenEnt",Thrill
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 https://cdn6.goprimetime.info/feed/LC26/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-chno="129" tvg-logo="" group-title="GenEnt",KIX
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A81.0)%20Gecko%2F20100101%20Firefox%2F81.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
 https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-chno="130" tvg-logo="" group-title="GenEnt",Johnny Carson TV
 https://johnnycarson-zype.amagi.tv/playlist.m3u8
@@ -337,77 +335,79 @@ http://redbox-blacknewschannel-xumo.amagi.tv/playlistR1080p.m3u8
 https://dai.google.com/linear/hls/event/8hUeiLMpTm-YNqk7kadUwA/master.m3u8
 #EXTINF:-1 tvg-chno="146" tvg-logo="" group-title="News",CNN
 http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-chno="147" tvg-logo="" group-title="News",CNN International
+#EXTINF:-1 tvg-chno="147" tvg-logo="" group-title="News",CNN HD
+https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-chno="148" tvg-logo="" group-title="News",CNN International
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-chno="148" tvg-logo="" group-title="News",CNN International HD
+#EXTINF:-1 tvg-chno="149" tvg-logo="" group-title="News",CNN International HD
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
-#EXTINF:-1 tvg-chno="149" tvg-logo="" group-title="News",CBSN
+#EXTINF:-1 tvg-chno="150" tvg-logo="" group-title="News",CBSN
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
-#EXTINF:-1 tvg-chno="150" tvg-logo="" group-title="News",CBSN HD
+#EXTINF:-1 tvg-chno="151" tvg-logo="" group-title="News",CBSN HD
 https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_7.m3u8
-#EXTINF:-1 tvg-chno="151" tvg-logo="" group-title="News",ABC News Live
+#EXTINF:-1 tvg-chno="152" tvg-logo="" group-title="News",ABC News Live
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:-1 tvg-chno="152" tvg-logo="" group-title="News",ABC News Live HD
-https://abcnewslive.akamaized.net/amagi_hls_data_roku-host-abc/CDN/1280x720_2890800/index.m3u8
-#EXTINF:-1 tvg-chno="153" tvg-logo="" group-title="News",NBC News Now
+#EXTINF:-1 tvg-chno="153" tvg-logo="" group-title="News",ABC News Live HD
+http://abcnewslive.akamaized.net/amagi_hls_data_roku-host-abc/CDN/1280x720_2890800/index.m3u8
+#EXTINF:-1 tvg-chno="154" tvg-logo="" group-title="News",NBC News Now
 https://nbcnewshls.akamaized.net/hls/live/2011820/nnn_live1/master.m3u8
-#EXTINF:-1 tvg-chno="154" tvg-logo="" group-title="News",NBC News Now HD
+#EXTINF:-1 tvg-chno="155" tvg-logo="" group-title="News",NBC News Now HD
 http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
-#EXTINF:-1 tvg-chno="155" tvg-logo="" group-title="News",MSNBC
+#EXTINF:-1 tvg-chno="156" tvg-logo="" group-title="News",MSNBC
 http://1111296894.rsc.cdn77.org/LS-ATL-54548-10/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-chno="156" tvg-logo="" group-title="News",NewsNOW from Fox
+#EXTINF:-1 tvg-chno="157" tvg-logo="" group-title="News",NewsNOW from Fox
 http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-chno="157" tvg-logo="" group-title="News",Fox News
+#EXTINF:-1 tvg-chno="158" tvg-logo="" group-title="News",Fox News
 http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-chno="158" tvg-logo="" group-title="News",Cheddar
+#EXTINF:-1 tvg-chno="159" tvg-logo="" group-title="News",Cheddar
 https://livestream.chdrstatic.com/b93e5b0d43ea306310a379971e384964acbe4990ce193c0bd50078275a9a657d/cheddar-42620/cheddarweblive/cheddar/index.m3u8
-#EXTINF:-1 tvg-chno="159" tvg-logo="" group-title="News",Cheddar HD
+#EXTINF:-1 tvg-chno="160" tvg-logo="" group-title="News",Cheddar HD
 https://livestream.chdrstatic.com/b93e5b0d43ea306310a379971e384964acbe4990ce193c0bd50078275a9a657d/cheddar-42620/cheddarweblive/cheddar/primary/2.m3u8
-#EXTINF:-1 tvg-chno="160" tvg-logo="" group-title="News",Bloomberg TV
+#EXTINF:-1 tvg-chno="161" tvg-logo="" group-title="News",Bloomberg TV
 https://ch.iptvmate.net/4ac2dd1a410b37e8357ae8bbac3264c5.m3u8
-#EXTINF:-1 tvg-chno="161" tvg-logo="" group-title="News",Bloomberg TV HD
+#EXTINF:-1 tvg-chno="162" tvg-logo="" group-title="News",Bloomberg TV HD
 https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
-#EXTINF:-1 tvg-chno="162" tvg-logo="" group-title="News",Bloomberg Quicktake
+#EXTINF:-1 tvg-chno="163" tvg-logo="" group-title="News",Bloomberg Quicktake
 https://dai.google.com/linear/hls/event/cFDvmqo4TGW7EfHwscU_Ew/master.m3u8
-#EXTINF:-1 tvg-chno="163" tvg-logo="" group-title="News",C-SPAN
+#EXTINF:-1 tvg-chno="164" tvg-logo="" group-title="News",C-SPAN
 https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/master.m3u8
-#EXTINF:-1 tvg-chno="164" tvg-logo="" group-title="News",BBC World News
+#EXTINF:-1 tvg-chno="165" tvg-logo="" group-title="News",BBC World News
 http://1111296894.rsc.cdn77.org/LS-ATL-54548-11/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-chno="165" tvg-logo="" group-title="News",Sky News
+#EXTINF:-1 tvg-chno="166" tvg-logo="" group-title="News",Sky News
 http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8
-#EXTINF:-1 tvg-chno="166" tvg-logo="" group-title="News",Australia Channel News
+#EXTINF:-1 tvg-chno="167" tvg-logo="" group-title="News",Australia Channel News
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
-#EXTINF:-1 tvg-chno="167" tvg-logo="" group-title="News",ABC News Australia
+#EXTINF:-1 tvg-chno="168" tvg-logo="" group-title="News",ABC News Australia
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
-#EXTINF:-1 tvg-chno="168" tvg-logo="" group-title="News",Al Jazeera
+#EXTINF:-1 tvg-chno="169" tvg-logo="" group-title="News",Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/03.m3u8
-#EXTINF:-1 tvg-chno="169" tvg-logo="" group-title="News",Al Jazeera English HD
+#EXTINF:-1 tvg-chno="170" tvg-logo="" group-title="News",Al Jazeera English HD
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 tvg-chno="170" tvg-logo="" group-title="News",RT
+#EXTINF:-1 tvg-chno="171" tvg-logo="" group-title="News",RT
 https://rt-news.secure.footprint.net/1103.m3u8
-#EXTINF:-1 tvg-chno="171" tvg-logo="" group-title="News",France 24
+#EXTINF:-1 tvg-chno="172" tvg-logo="" group-title="News",France 24
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
-#EXTINF:-1 tvg-chno="172" tvg-logo="" group-title="News",Euronews
+#EXTINF:-1 tvg-chno="173" tvg-logo="" group-title="News",Euronews
 https://euronews-euronews-world-1.roku.wurl.com/manifest/b34060fcaf527710b244a3e16504edd0.m3u8
-#EXTINF:-1 tvg-chno="173" tvg-logo="" group-title="News",Euronews HD
+#EXTINF:-1 tvg-chno="174" tvg-logo="" group-title="News",Euronews HD
 https://euronews-euronews-world-1.roku.wurl.com/manifest/71bf778598cc9ce36952bb8a3331551a.m3u8
-#EXTINF:-1 tvg-chno="174" tvg-logo="" group-title="News",Press TV
+#EXTINF:-1 tvg-chno="175" tvg-logo="" group-title="News",Press TV
 https://live.presstv.com/liveprs/smil:liveprs/chunklist_w1027720361_b644100_slen.m3u8
-#EXTINF:-1 tvg-chno="175" tvg-logo="" group-title="News",DW
+#EXTINF:-1 tvg-chno="176" tvg-logo="" group-title="News",DW
 https://m-c010-j2apps.s.llnwi.net/hls/8023.DWEnglish.in_360p/index.m3u8
-#EXTINF:-1 tvg-chno="176" tvg-logo="" group-title="News",CNA
+#EXTINF:-1 tvg-chno="177" tvg-logo="" group-title="News",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF:-1 tvg-chno="177" tvg-logo="" group-title="News",CGTN
+#EXTINF:-1 tvg-chno="178" tvg-logo="" group-title="News",CGTN
 https://dai.google.com/linear/hls/event/r4sa-f6GSN2XIvzKv5jVng/master.m3u8
-#EXTINF:-1 tvg-chno="178" tvg-logo="" group-title="Foreign",NHK World Japan
+#EXTINF:-1 tvg-chno="179" tvg-logo="" group-title="Foreign",NHK World Japan
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
-#EXTINF:-1 tvg-chno="179" tvg-logo="" group-title="Foreign",Arirang
+#EXTINF:-1 tvg-chno="180" tvg-logo="" group-title="Foreign",Arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b656000_sleng.m3u8
-#EXTINF:-1 tvg-chno="180" tvg-logo="" group-title="News",India Today
+#EXTINF:-1 tvg-chno="181" tvg-logo="" group-title="News",India Today
 https://feeds.intoday.in/hltapps/api/master.m3u8
-#EXTINF:-1 tvg-chno="181" tvg-logo="" group-title="News",TeleSUR
+#EXTINF:-1 tvg-chno="182" tvg-logo="" group-title="News",TeleSUR
 https://d7g1ebft2592.cloudfront.net/mblivev3/360p/chunklist.m3u8
-#EXTINF:-1 tvg-chno="182" tvg-logo="" group-title="News",TRT World
+#EXTINF:-1 tvg-chno="183" tvg-logo="" group-title="News",TRT World
 https://tv-trtworld.live.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-chno="190" tvg-logo="" group-title="Sports",Pluto TV Sports
@@ -423,7 +423,11 @@ https://bozztv.com/teleyupp/teleup-mavtv/playlist.m3u8
 #EXTINF:-1 tvg-chno="195" tvg-logo="" group-title="Sports",Mav TV Select
 https://mavtv-1.sinclair.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-chno="196" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/NBA_TV_2017.svg/revision/latest/scale-to-width-down/2000?cb=20171022122312" group-title="Sports",NBA TV
-http://gooserace.xyz:2052/donna/donna123/1549709
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A81.0)%20Gecko%2F20100101%20Firefox%2F81.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
+https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
 #EXTINF:-1 tvg-chno="197" tvg-logo="" group-title="Sports",Fox Sports
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -445,6 +449,10 @@ https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
 https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-chno="201" tvg-logo="" group-title="Sports",Eurosport
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A81.0)%20Gecko%2F20100101%20Firefox%2F81.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
 http://77.83.117.60:8888/02_EUROHD1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-chno="202" tvg-logo="" group-title="Sports",Sports Channel Network
 https://vod365-sports-channel-network-1-gb.samsung.wurl.com/manifest/playlist.m3u8
