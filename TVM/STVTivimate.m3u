@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/45/UNTV_Public_Service_%282017%29.png",UNTV
-https://cdn.untvweb.com/live-stream/untvweb.m3u8
+https://cdn.untvweb.com/live-stream/chunklist_b332000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5AuYVFN.jpeg",Kapamilya Channel
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/829dbdfe0b57013.m3u8
 #EXTINF:-1 tvg-logo="https://tvshop.ph/static/images/logo@2x.d16d123219f1.png",TVshop
@@ -76,7 +76,7 @@ http://gooserace.xyz:2052/donna/donna123/2431579
 #EXTINF:1,Disney Junior
 http://gooserace.xyz:2052/donna/donna123/2431584
 #EXTINF:1,Nickelodeon
-http://gooserace.xyz:2052/donna/donna123/2431586
+http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/144870.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/PBS_Kids_Dash_(2009).svg/revision/latest/scale-to-width-down/2000?cb=20171125102412",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b600000.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos2/images/8/89/20DED176-3599-4484-92F7-1DF9BD2A84A2.png",BabyFirst
@@ -657,6 +657,9 @@ https://stingray-karaoke-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 https://circle-roku.amagi.tv/playlistR432p.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vxQfhzG/Pics-Art-12-12-11-16-05.png",Channel V
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/playlist.m3u8
+#EXTINF:1,MTV Biggest Pop
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+
 #EXTINF:1,SilenceTV HD
 http://93.190.140.42:8081/SilenceTV/live/playlist.m3u8
 
