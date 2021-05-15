@@ -71,8 +71,6 @@ https://simultv.s.llnwi.net/n4s4/KartoonCircus/interlink.m3u8
 https://pocketwatch.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:1,Cartoon Network
 http://gooserace.xyz:2052/donna/donna123/2431577
-#EXTINF:1,Disney Channel
-http://gooserace.xyz:2052/donna/donna123/2431579
 #EXTINF:1,Disney Junior
 http://gooserace.xyz:2052/donna/donna123/2431584
 #EXTINF:1,Nickelodeon
@@ -81,13 +79,11 @@ http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/144870.ts
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b600000.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos2/images/8/89/20DED176-3599-4484-92F7-1DF9BD2A84A2.png",BabyFirst
 https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:1,iRead 2 Know
+https://nrpus.bozztv.com/36bay2/gusa-iread2know/tracks-v1a1/mono.m3u8
+#EXTINF:1,Kid Central
+http://nrpus.bozztv.com/36bay2/gusa-kidcentral/index.m3u8
 
-#EXTINF:1,ABC
-http://sl.masterstv.net:1997/Rku0iA0DXO/s9Bp800MfN/61708
-#EXTINF:1,CBS
-http://sl.masterstv.net:1997/Rku0iA0DXO/s9Bp800MfN/9441
-#EXTINF:1,NBC 12 WFSA Montgomery
-http://sl.masterstv.net:1997/Rku0iA0DXO/s9Bp800MfN/61690
 #EXTINF:1,AMGTV
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
 #EXTINF:1,NewsNet
@@ -116,8 +112,8 @@ https://gideommd.mmdlive.lldns.net/gideommd/d5b6a753f86e4e51b8e15c7d23887a4f/man
 https://thegateway.app/YouToo/CueTones/playlist.m3u8
 #EXTINF:1,Stirr City
 https://dai.google.com/linear/hls/event/WHTEcpPjQAaeStCtrJqzVQ/master.m3u8
-#EXTINF:1,CityTV HD
-https://bozztv.com/teleyupp1/teleup-iSykLSKMFr/tracks-v1a1/mono.m3u8
+#EXTINF:1,Fox Soul
+https://fox-foxsoul-roku.amagi.tv/playlist.m3u8
 #EXTINF:1,Popstar! TV
 https://linear-10.frequency.stream/10/hls/master/playlist.m3u8
 #EXTINF:1,Lively Place
@@ -126,35 +122,35 @@ https://aenetworks-ae-1.roku.wurl.com/manifest/playlist.m3u8
 http://n1.klowdtv.net/live2/gsn_180p/chunks.m3u8
 #EXTINF:1,Skills + Thrills
 https://aenetworks-skills-thrills-1.plex.wurl.com/manifest/playlist.m3u8
-#EXTINF:56,Crime+Investigation
+#EXTINF:1,Crime+Investigation
 http://203.154.243.31:15001
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/AXN_HD_Logo_2015.png",AXN
 http://210.210.155.35/session/37ee409e-73b5-11e9-b657-a0899505893d/uq2663/h/h141/02.m3u8
-#EXTINF:58,FOX
+#EXTINF:1,FOX
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.foxmoviesasia.com/images/fm.png",FOX Movies
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
-#EXTINF:59,Fox Life
+#EXTINF:1,Fox Life
 https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:60,Crackle
+#EXTINF:1,Crackle
 https://crackle-plex.amagi.tv/playlist.m3u8
-#EXTINF:61,AFN
+#EXTINF:1,AFN
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AFC-HD-1080p/playlist.m3u8
-#EXTINF:62,AWE
+#EXTINF:1,AWE
 http://n1.klowdtv.net/live1/awe_180p/chunks.m3u8
-#EXTINF:63,Blue Ant Entertainment
+#EXTINF:1,Blue Ant Entertainment
 https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:64,Comet
+#EXTINF:1,Comet
 https://dai.google.com/linear/hls/event/83L2OqtGSZ6lbWt8ODomWg/master.m3u8
-#EXTINF:65,TBD
+#EXTINF:1,TBD
 https://dai.google.com/linear/hls/event/_xtY848OSRCm_k0veSjMHg/master.m3u8
-#EXTINF:66,Charge!
+#EXTINF:1,Charge!
 https://dai.google.com/linear/hls/event/e1QjWFRNSR2YFYGsPbkfgg/master.m3u8
-#EXTINF:67,MovieMix
+#EXTINF:1,MovieMix
 https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8
-#EXTINF:68,Blue Ant Extreme
+#EXTINF:1,Blue Ant Extreme
 https://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:69,Pop
+#EXTINF:1,Pop
 https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/75/Hallmark_Channel_logo.svg/1200px-Hallmark_Channel_logo.svg.png",Hallmark
 https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_yupptvfrn-hallmark-frndlytv/CDN/playlist.m3u8
