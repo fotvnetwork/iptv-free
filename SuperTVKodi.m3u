@@ -51,7 +51,7 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/cd855b97a
 #EXTINF:-1 tvg-chno="021" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/The_Filipino_Channel_2011_logo.svg/1200px-The_Filipino_Channel_2011_logo.svg.png" group-title="GenEnt",TFC Asia
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/298a3f407e14a38.m3u8
 #EXTINF:-1 tvg-chno="022" tvg-logo="https://static.wikia.nocookie.net/russel/images/4/49/Kapamilya_Online_Live_3D_Logo.png" group-title="GenEnt",Kapamilya Online Live
-plugin://plugin.video.youtube/play/?video_id=3yluTYgmJ2E
+plugin://plugin.video.youtube/play/?video_id=HZHoAxRgyEI
 #EXTINF:-1 tvg-chno="023" tvg-logo="https://mytv.ph/assets/img/logo-white.png" group-title="FTA",MyTV Cebu
 http://api.new.livestream.com/accounts/15418593/events/4787138/live.m3u8
 #EXTINF:-1 tvg-chno="024" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/CCTN_Cebu_logo.png" group-title="FTA",CCTN
@@ -101,6 +101,10 @@ https://simultv.s.llnwi.net/n4s4/KartoonCircus/interlink.m3u8
 https://pocketwatch.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-chno="050" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/PBS_Kids_Dash_(2009).svg/revision/latest/scale-to-width-down/2000?cb=20171125102412" group-title="Kids",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b600000.m3u8
+#EXTINF:-1 tvg-chno="051" tvg-logo="https://nebula.wsimg.com/43fc6ea0c01b34570f501b12befaa7a2?AccessKeyId=67B792D495F855C5A0E1&disposition=0&alloworigin=1" group-title="Kids",iRead 2 Know
+https://nrpus.bozztv.com/36bay2/gusa-iread2know/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-chno="052" tvg-logo="https://www.accesswire.com/users/newswire/images/593608/kid-central-tran.png" group-title="Kids",Kid Central
+http://nrpus.bozztv.com/36bay2/gusa-kidcentral/index.m3u8
 #EXTINF:-1 tvg-chno="056" tvg-logo="https://static.wikia.nocookie.net/logos2/images/8/89/20DED176-3599-4484-92F7-1DF9BD2A84A2.png" group-title="Kids",BabyFirst
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -127,7 +131,7 @@ https://player-api.new.livestream.com/accounts/1194911/events/3466400/live.m3u8
 #EXTINF:-1 tvg-chno="069" tvg-logo="" group-title="GenEnt",MPT
 https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/chunklist_b600000.m3u8
 #EXTINF:-1 tvg-chno="070" tvg-logo="" group-title="GenEnt",WSVN
-https://bozztv.com/teleyupp1/teleup-GgIpXe0CjT/tracks-v3a1/mono.m3u8
+https://bozztv.com/teleyupp1/teleup-GgIpXe0CjT/index.m3u8
 #EXTINF:-1 tvg-chno="071" tvg-logo="" group-title="GenEnt",KVVB-TV
 https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1309230/chunklist_b1000000.m3u8
 #EXTINF:-1 tvg-chno="072" tvg-logo="" group-title="GenEnt",YTA
@@ -136,8 +140,8 @@ https://gideommd.mmdlive.lldns.net/gideommd/d5b6a753f86e4e51b8e15c7d23887a4f/man
 https://thegateway.app/YouToo/CueTones/playlist.m3u8
 #EXTINF:-1 tvg-chno="074" tvg-logo="" group-title="GenEnt",Stirr City
 https://dai.google.com/linear/hls/event/WHTEcpPjQAaeStCtrJqzVQ/master.m3u8
-#EXTINF:-1 tvg-chno="075" tvg-logo="" group-title="GenEnt",CityTV HD
-https://bozztv.com/teleyupp1/teleup-iSykLSKMFr/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-chno="075" tvg-logo="" group-title="GenEnt",Fox Soul
+https://fox-foxsoul-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="076" tvg-logo="" group-title="GenEnt",Popstar! TV
 https://linear-10.frequency.stream/10/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-chno="077" tvg-logo="" group-title="Lifestyle",Lively Place
@@ -291,9 +295,7 @@ https://dai.google.com/linear/hls/event/EpqgwRlpQKq73ySVSohJWA/master.m3u8
 #EXTINF:-1 tvg-chno="127" tvg-logo="" group-title="GenEnt",ShoutFactory TV
 https://shoutfactory-shoutfactory-zype.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="128" tvg-logo="" group-title="GenEnt",Thrill
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://cdn6.goprimetime.info/feed/LC26/tracks-v1a1/mono.m3u8
+http://45.126.83.51/qwr9ew/s/s34/index.m3u8
 #EXTINF:-1 tvg-chno="129" tvg-logo="" group-title="GenEnt",KIX
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -424,12 +426,6 @@ https://gma2.blab.email/espn2.m3u8
 https://bozztv.com/teleyupp/teleup-mavtv/playlist.m3u8
 #EXTINF:-1 tvg-chno="195" tvg-logo="" group-title="Sports",Mav TV Select
 https://mavtv-1.sinclair.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-chno="196" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/NBA_TV_2017.svg/revision/latest/scale-to-width-down/2000?cb=20171022122312" group-title="Sports",NBA TV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A81.0)%20Gecko%2F20100101%20Firefox%2F81.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
-https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
 #EXTINF:-1 tvg-chno="197" tvg-logo="" group-title="Sports",Fox Sports
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
