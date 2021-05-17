@@ -7,7 +7,7 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/829dbdfe0
 #EXTINF:-1 tvg-chno="003" tvg-logo="https://tvshop.ph/static/images/logo@2x.d16d123219f1.png" group-title="FTA",TVshop
 https://d3cbe0gidjd4k2.cloudfront.net/channel_1/smil:channel_1.smil/chunklist_w358131628_b300000_sleng.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
 #EXTINF:-1 tvg-chno="004" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/PTVLogo2017.svg/1200px-PTVLogo2017.svg.png" group-title="FTA",PTV
-https://github.com/fotvnetwork/iptv-free/raw/master/Token/PTV4.m3u8
+https://stream-04.sg1.dailymotion.com/sec(vb0ikD3rmZA2RvEN2UsfwADOXqpSO0ZXUmlyFcwlrW8)/dm/3/x5cr6b9/d/live-2.m3u8
 #EXTINF:-1 tvg-chno="006" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/One_Sports_Philippines_logo.svg/1200px-One_Sports_Philippines_logo.svg.png" group-title="Sports",One Sports
 http://103.11.112.28:1935/live2/smil:onesports.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="007" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/DZBB594.svg/1200px-DZBB594.svg.png" group-title="News",Super Radyo DZBB
@@ -31,10 +31,10 @@ https://d3cbe0gidjd4k2.cloudfront.net/channel_7/smil:channel_7.smil/chunklist_w1
 #EXTVLCOPT:http-referrer=https://tfc.tv/
 #EXTVLCOPT:http-user-agent=Mozilla
 https://amdottlive.akamaized.net/hls/live/2018990/iwantknowledge/master360p.m3u8
-#EXTINF:-1 tvg-chno="015" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/45/UNTV_Public_Service_%282017%29.png" group-title="FTA",UNTV
+#EXTINF:-1 tvg-chno="015" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/45/UNTV_Public_Service_%282017%29.png" group-title="FTA",UNTV (mirror feed)
 plugin://plugin.video.youtube/play/?video_id=tgRVz6QIy7w
 #EXTINF:-1 tvg-chno="016" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/75/Truth_Channel_Official_Logo.png" group-title="Religious",Truth Channel
-plugin://plugin.video.youtube/play/?video_id=AJ37_lGZd44
+plugin://plugin.video.youtube/play/?video_id=H_51EfaB0fI
 #EXTINF:-1 tvg-chno="017" tvg-logo="https://sa.kapamilya.com/absnews/abscbnnews/media/2020/graphics/dzmm-logo-lrg.jpg" group-title="News",TeleRadyo
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -71,7 +71,7 @@ https://bcovlive-a.akamaihd.net/f71123b86b424028ab5915de31c7d540/ap-southeast-1/
 #EXTINF:-1 tvg-chno="032" tvg-logo="" group-title="Live",Live Channel
 plugin://plugin.video.youtube/play/?video_id=h99SrJB7F5M
 #EXTINF:-1 tvg-chno="033" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3b/DWIZ_Logo_2002.jpg" group-title="News",DWIZ
-plugin://plugin.video.youtube/play/?video_id=sp6lRdTSm1E
+plugin://plugin.video.youtube/play/?video_id=ID56Sij-jvU
 #EXTINF:-1 tvg-chno="034" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/PTVLogo2017.svg/1200px-PTVLogo2017.svg.png" group-title="FTA",PTV (mirror feed)
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/0dbc79b42310cd7.m3u8
 
@@ -111,7 +111,7 @@ http://nrpus.bozztv.com/36bay2/gusa-kidcentral/index.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A81.0)%20Gecko%2F20100101%20Firefox%2F81.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
 https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-chno="056" tvg-logo="" group-title="Kids",Animax (Viet Sub)
+#EXTINF:-1 tvg-chno="057" tvg-logo="" group-title="Kids",Animax (Viet Sub)
 https://livecdn.fptplay.net/hda3/animaxport_2000.stream/.m3u8
 
 #EXTINF:-1 tvg-chno="061" tvg-logo="" group-title="GenEnt",AMGTV
@@ -394,7 +394,7 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-chno="173" tvg-logo="" group-title="News",RT
 https://rt-news.secure.footprint.net/1103.m3u8
 #EXTINF:-1 tvg-chno="174" tvg-logo="" group-title="News",France 24
-http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+https://livecdn.fptplay.net/world/france24_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="175" tvg-logo="" group-title="News",Euronews
 https://euronews-euronews-world-1.roku.wurl.com/manifest/b34060fcaf527710b244a3e16504edd0.m3u8
 #EXTINF:-1 tvg-chno="176" tvg-logo="" group-title="News",Euronews HD
@@ -450,12 +450,6 @@ https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A81.0)%20Gecko%2F20100101%20Firefox%2F81.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
 https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-chno="201" tvg-logo="" group-title="Sports",Eurosport
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A81.0)%20Gecko%2F20100101%20Firefox%2F81.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
-http://77.83.117.60:8888/02_EUROHD1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-chno="202" tvg-logo="" group-title="Sports",Sports Channel Network
 https://vod365-sports-channel-network-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-chno="203" tvg-logo="" group-title="Sports",FTF
