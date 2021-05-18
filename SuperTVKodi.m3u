@@ -105,6 +105,8 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b600000.m
 https://nrpus.bozztv.com/36bay2/gusa-iread2know/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-chno="052" tvg-logo="https://www.accesswire.com/users/newswire/images/593608/kid-central-tran.png" group-title="Kids",Kid Central
 http://nrpus.bozztv.com/36bay2/gusa-kidcentral/index.m3u8
+#EXTINF:-1 tvg-chno="053" tvg-logo="" group-title="Kids",Kidoodle TV
+https://kidoodletv-kdtv-1.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-chno="056" tvg-logo="https://static.wikia.nocookie.net/logos2/images/8/89/20DED176-3599-4484-92F7-1DF9BD2A84A2.png" group-title="Kids",BabyFirst
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -112,6 +114,10 @@ http://nrpus.bozztv.com/36bay2/gusa-kidcentral/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
 https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-chno="057" tvg-logo="" group-title="Kids",Animax (Viet Sub)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A81.0)%20Gecko%2F20100101%20Firefox%2F81.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
 https://livecdn.fptplay.net/hda3/animaxport_2000.stream/.m3u8
 
 #EXTINF:-1 tvg-chno="061" tvg-logo="" group-title="GenEnt",AMGTV
