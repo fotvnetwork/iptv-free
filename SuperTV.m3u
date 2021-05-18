@@ -136,7 +136,7 @@ https://blacknewschannel-xumo-us.amagi.tv/playlist.m3u8
 #EXTINF:1,Stirr News 24/7
 https://dai.google.com/linear/hls/event/8hUeiLMpTm-YNqk7kadUwA/master.m3u8
 #EXTINF:1,CNN International
-https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_640x360_1200k.m3u8
 #EXTINF:1,CBSN
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 #EXTINF:1,ABC News Live
@@ -145,12 +145,10 @@ https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 https://nbcnewshls.akamaized.net/hls/live/2011820/nnn_live1/master.m3u8
 #EXTINF:1,NewsNOW from Fox
 http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:1,Fox News
-http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
 #EXTINF:1,Cheddar
 https://livestream.chdrstatic.com/b93e5b0d43ea306310a379971e384964acbe4990ce193c0bd50078275a9a657d/cheddar-42620/cheddarweblive/cheddar/index.m3u8
 #EXTINF:1,Bloomberg TV
-https://ch.iptvmate.net/4ac2dd1a410b37e8357ae8bbac3264c5.m3u8
+http://45.126.83.51/uq2663/h/h03/02.m3u8
 #EXTINF:1,Bloomberg Quicktake
 https://dai.google.com/linear/hls/event/cFDvmqo4TGW7EfHwscU_Ew/master.m3u8
 #EXTINF:1,Sky News
@@ -234,11 +232,11 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e46fba0c43b0d0009
 #EXTINF:1,The First TV
 https://redseat-thefirst-glewedtv.amagi.tv/index.m3u8
 #EXTINF:1,One America News Network
-http://n1.klowdtv.net/live1/oan_180p/chunks.m3u8
+https://cdn.klowdtv.net/803B48A/oan_aws_ms/OAN_180p30.m3u8
 #EXTINF:1,OAN Plus
 https://oneamericanews-vizio.amagi.tv/playlist.m3u8
 #EXTINF:1,Newsmax TV
-https://d3ut7rvli78ywi.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/NewsmaxLive/hls/live/529965/Live_1/index.m3u8
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_216.m3u8
 #EXTINF:1,Free Speech TV
 https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv_4.m3u8
 #EXTINF:1,TYT Network
