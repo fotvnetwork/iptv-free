@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:1,UNTV
-https://cdn.untvweb.com/live-stream/untvweb.m3u8
+https://cdn.untvweb.com/live-stream/chunklist_b332000.m3u8
 #EXTINF:1,TVshop
 https://d3cbe0gidjd4k2.cloudfront.net/channel_1/smil:channel_1.smil/chunklist_w358131628_b300000_sleng.m3u8
 #EXTINF:1,PTV
@@ -11,32 +11,32 @@ http://103.11.112.28:1935/live2/smil:onesports.smil/playlist.m3u8
 #EXTINF:1,Super Radyo DZBB
 http://stream.gmanews.tv/ioslive/livestream/playlist.m3u8
 #EXTINF:1,Tap TV
-https://bcovlive-a.akamaihd.net/b49d472b255d4340b32af5115d5f9793/ap-southeast-1/6185036301001/4c794c49cb0047d88155f4d9330fb836/playlist_ssaiM.m3u8
+https://bcovlive-a.akamaihd.net/b49d472b255d4340b32af5115d5f9793/ap-southeast-1/6185036301001/playlist.m3u8
 #EXTINF:1,CNN Philippines
 https://streaming.cnnphilippines.com/live/myStream/playlist.m3u8
 #EXTINF:1,BEAM
 https://d3cbe0gidjd4k2.cloudfront.net/channel_7/smil:channel_7.smil/chunklist_w1635746920_b1000000_sleng.m3u8
 #EXTINF:1,Knowledge Channel
 https://amdottlive.akamaized.net/hls/live/2018990/iwantknowledge/master360p.m3u8
-#EXTINF:1,UNTV
+#EXTINF:1,UNTV (YT)
 https://www.youtube.com/channel/UC3XaG-7UVi2vD8ZZEMNnnpw/live
-#EXTINF:1,Truth Channel
+#EXTINF:1,Truth Channel (YT)
 https://www.youtube.com/channel/UCa3hzYljDByZxkjIMah_2nw/live
 #EXTINF:1,TeleRadyo
 https://tfcmsl.akamaized.net/hls/live/2014654/dzmm/master.m3u8
-#EXTINF:1,DZRH News TV
+#EXTINF:1,DZRH News TV (YT)
 https://www.youtube.com/channel/UCcTiBX8js_djhSSlmJRI99A/live
 #EXTINF:1,MyTV Cebu
 http://api.new.livestream.com/accounts/15418593/events/4787138/live.m3u8
 #EXTINF:1,CCTN
 http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
-#EXTINF:1,TV Maria
+#EXTINF:1,TV Maria (YT)
 https://www.youtube.com/channel/UCDXPB23ws_T0rVvrXVCYqyA/live
 #EXTINF:1,Pilipinas HD
 https://d3cbe0gidjd4k2.cloudfront.net/channel_5/smil:channel_5.smil/chunklist_w1281634943_b300000_sleng.m3u8
-#EXTINF:1,Live Ch. 29
+#EXTINF:1,Live Ch. 29 (YT)
 https://www.youtube.com/watch?v=h99SrJB7F5M
-#EXTINF:1,DWIZ
+#EXTINF:1,DWIZ (YT)
 https://www.youtube.com/channel/UCWe04Bz8YogtOksyK4O5xXw/live
 
 #EXTINF:1,Nick Pluto TV
@@ -57,6 +57,11 @@ https://kedoo-supertoonstv-1-gb.samsung.wurl.com/manifest/1200.m3u8
 https://simultv.s.llnwi.net/n4s4/KartoonCircus/interlink.m3u8
 #EXTINF:1,Pocket.watch
 https://pocketwatch.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:1,iRead 2 Know
+https://nrpus.bozztv.com/36bay2/gusa-iread2know/tracks-v1a1/mono.m3u8
+#EXTINF:1,Kid Central
+http://nrpus.bozztv.com/36bay2/gusa-kidcentral/index.m3u8
+
 #EXTINF:1,AMGTV
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
 #EXTINF:1,NewsNet
@@ -79,7 +84,8 @@ https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1309230/chunklist_b1000000.
 https://gideommd.mmdlive.lldns.net/gideommd/d5b6a753f86e4e51b8e15c7d23887a4f/manifest.m3u8
 #EXTINF:1,Stirr City
 https://dai.google.com/linear/hls/event/WHTEcpPjQAaeStCtrJqzVQ/master.m3u8
-
+#EXTINF:1,Fox Soul
+https://fox-foxsoul-roku.amagi.tv/playlist.m3u8
 #EXTINF:1,Popstar! TV
 https://linear-10.frequency.stream/10/hls/master/playlist.m3u8
 #EXTINF:1,Lively Place
@@ -136,7 +142,7 @@ https://blacknewschannel-xumo-us.amagi.tv/playlist.m3u8
 #EXTINF:1,Stirr News 24/7
 https://dai.google.com/linear/hls/event/8hUeiLMpTm-YNqk7kadUwA/master.m3u8
 #EXTINF:1,CNN International
-https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_640x360_1200k.m3u8
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:1,CBSN
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 #EXTINF:1,ABC News Live
@@ -145,10 +151,12 @@ https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 https://nbcnewshls.akamaized.net/hls/live/2011820/nnn_live1/master.m3u8
 #EXTINF:1,NewsNOW from Fox
 http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:1,Fox News
+http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
 #EXTINF:1,Cheddar
 https://livestream.chdrstatic.com/b93e5b0d43ea306310a379971e384964acbe4990ce193c0bd50078275a9a657d/cheddar-42620/cheddarweblive/cheddar/index.m3u8
 #EXTINF:1,Bloomberg TV
-http://45.126.83.51/uq2663/h/h03/02.m3u8
+https://ch.iptvmate.net/4ac2dd1a410b37e8357ae8bbac3264c5.m3u8
 #EXTINF:1,Bloomberg Quicktake
 https://dai.google.com/linear/hls/event/cFDvmqo4TGW7EfHwscU_Ew/master.m3u8
 #EXTINF:1,Sky News
@@ -226,17 +234,19 @@ https://1117825885.rsc.cdn77.org/1117825885/tracks-v2a1/mono.m3u8
 #EXTINF:1,InfoWars
 https://freespeech.akamaized.net/hls/live/2016712/live1/playlist.m3u8
 #EXTINF:1,Real America's Voice
-https://pcor3.manifest.auditude.com/auditude/variant/p1media_americasvoice_1/2c2dc059-4dc5-4554-bb24-660c53c00d2e/aHR0cHM6Ly9wMW1lZGlhLWFtZXJpY2Fzdm9pY2UtMS5yb2t1Lnd1cmwuY29tL21hbmlmZXN0L3BsYXlsaXN0Lm0zdTg.m3u8?pttrackingversion=v2&u=19287a324825cc5aacb7e46183c72324&pttrackingmode=sstm&g=1000010&ptadwindow=0&z=268729&k=wurl_channel=419;distributor=roku;name=AmericasVoice;ip=192.119.164.160;rdid=121c0a02-8b4f-5ad8-9a0a-d73aa5fd4c92;coppa=false;is_lat=1;ua=Mozilla/5.0+(Windows+NT+10.0;+)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.26+Safari/537.36;content=f880ec33a4b617b940e6f6e6fb627271f0b25344;genre=;platform=web;content_type=livefeed;content_rating=&ptcueformat=turner
+https://content.uplynk.com/channel/26bd482ffe364a1282bc3df28bd3c21f.m3u8
 #EXTINF:1,The Blaze
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e46fba0c43b0d00096e5ac1/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=954c037d-1a11-44d3-b488-9d06f8a3e068&deviceLat=33.9560&deviceLon=-118.3887&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=81.0.4044.26&includeExtendedEvents=false&sid=e6f1682e-cc62-437a-bd0d-082bea9a4059&userId=&serverSideAds=true
 #EXTINF:1,The First TV
 https://redseat-thefirst-glewedtv.amagi.tv/index.m3u8
 #EXTINF:1,One America News Network
-https://cdn.klowdtv.net/803B48A/oan_aws_ms/OAN_180p30.m3u8
+http://n1.klowdtv.net/live1/oan_180p/chunks.m3u8
 #EXTINF:1,OAN Plus
 https://oneamericanews-vizio.amagi.tv/playlist.m3u8
 #EXTINF:1,Newsmax TV
-https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_216.m3u8
+https://d3ut7rvli78ywi.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/NewsmaxLive/hls/live/529965/Live_1/index.m3u8
+#EXTINF:1,RSBN
+https://live-c348a30.rmbl.ws/slot-5/ngrp:07rr-2k2y_all/chunklist_b1046608.m3u8
 #EXTINF:1,Free Speech TV
 https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv_4.m3u8
 #EXTINF:1,TYT Network
