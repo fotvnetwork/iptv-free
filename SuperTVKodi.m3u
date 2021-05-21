@@ -36,12 +36,7 @@ plugin://plugin.video.youtube/play/?video_id=tgRVz6QIy7w
 #EXTINF:-1 tvg-chno="016" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/75/Truth_Channel_Official_Logo.png" group-title="Religious",Truth Channel
 plugin://plugin.video.youtube/play/?video_id=H_51EfaB0fI
 #EXTINF:-1 tvg-chno="017" tvg-logo="https://sa.kapamilya.com/absnews/abscbnnews/media/2020/graphics/dzmm-logo-lrg.jpg" group-title="News",TeleRadyo
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla&Referrer=https%3A%2F%2Ftfc.tv%2F&X-Forwarded-For=175.176.0.236
-#EXTVLCOPT:http-referrer=https://tfc.tv/
-#EXTVLCOPT:http-user-agent=Mozilla
-https://tfcmsl.akamaized.net/hls/live/2014654/dzmm/master.m3u8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/bf85cce9b7906bf.m3u8
 #EXTINF:-1 tvg-chno="018" tvg-logo="https://cdn.imgbin.com/23/16/15/imgbin-dzrh-news-television-philippines-television-channel-dzrh-news-television-Hq4D83EGvxFffXww3w0StXYLW.jpg" group-title="News",DZRH News TV
 plugin://plugin.video.youtube/play/?video_id=uRLg3vA8SX8
 #EXTINF:-1 tvg-chno="019" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/The_Filipino_Channel_2011_logo.svg/1200px-The_Filipino_Channel_2011_logo.svg.png" group-title="GenEnt",TFC
@@ -84,7 +79,7 @@ https://toongoggles-toongoggles-3-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-chno="043" tvg-logo="https://www.animationmagazine.net/wordpress/wp-content/uploads/toon-goggles-1-400x240.jpg" group-title="Kids",TG Junior
 https://tg-junior.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-chno="044" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/1200px-ZooMoo_logo.svg.png" group-title="Kids",Zoo Moo
-https://rockentertainment-zoomoo-1.samsung.wurl.com/manifest/playlist.m3u8
+https://rockentertainment-zoomoo-1.samsung.wurl.com/manifest/1200.m3u8
 #EXTINF:-1 tvg-chno="045" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a5/Da_Vinci.svg/revision/latest/scale-to-width-down/2000?cb=20191208233628" group-title="Kids",Da Vinci
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -104,7 +99,7 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b600000.m
 #EXTINF:-1 tvg-chno="051" tvg-logo="https://nebula.wsimg.com/43fc6ea0c01b34570f501b12befaa7a2?AccessKeyId=67B792D495F855C5A0E1&disposition=0&alloworigin=1" group-title="Kids",iRead 2 Know
 https://nrpus.bozztv.com/36bay2/gusa-iread2know/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-chno="052" tvg-logo="https://www.accesswire.com/users/newswire/images/593608/kid-central-tran.png" group-title="Kids",Kid Central
-http://nrpus.bozztv.com/36bay2/gusa-kidcentral/index.m3u8
+https://simultv.s.llnwi.net/n4s4/kidcentral/interlink.m3u8
 #EXTINF:-1 tvg-chno="053" tvg-logo="" group-title="Kids",Kidoodle TV
 https://kidoodletv-kdtv-1.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-chno="056" tvg-logo="https://static.wikia.nocookie.net/logos2/images/8/89/20DED176-3599-4484-92F7-1DF9BD2A84A2.png" group-title="Kids",BabyFirst
@@ -113,12 +108,6 @@ https://kidoodletv-kdtv-1.samsung.wurl.com/manifest/playlist.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A81.0)%20Gecko%2F20100101%20Firefox%2F81.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
 https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-chno="057" tvg-logo="" group-title="Kids",Animax (Viet Sub)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A81.0)%20Gecko%2F20100101%20Firefox%2F81.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
-https://livecdn.fptplay.net/hda3/animaxport_2000.stream/.m3u8
 
 #EXTINF:-1 tvg-chno="061" tvg-logo="" group-title="GenEnt",AMGTV
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
