@@ -38,7 +38,7 @@ https://iptv--iptv.repl.co/streamlink?url=https://www.youtube.com/c/TruthChannel
 #EXTINF:-1 tvg-chno="017" tvg-logo="https://sa.kapamilya.com/absnews/abscbnnews/media/2020/graphics/dzmm-logo-lrg.jpg" group-title="News",TeleRadyo
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/bf85cce9b7906bf.m3u8
 #EXTINF:-1 tvg-chno="018" tvg-logo="https://cdn.imgbin.com/23/16/15/imgbin-dzrh-news-television-philippines-television-channel-dzrh-news-television-Hq4D83EGvxFffXww3w0StXYLW.jpg" group-title="News",DZRH News TV
-http://salvahe.co/iptv-query?url=https://www.youtube.com/c/DZRHNewsTelevision/live&quality=360p
+https://iptv--iptv.repl.co/streamlink?url=https://www.youtube.com/c/DZRHNewsTelevision/live&quality=360p
 #EXTINF:-1 tvg-chno="019" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/The_Filipino_Channel_2011_logo.svg/1200px-The_Filipino_Channel_2011_logo.svg.png" group-title="GenEnt",TFC
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/882598ca274e161.m3u8
 #EXTINF:-1 tvg-chno="020" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/The_Filipino_Channel_2011_logo.svg/1200px-The_Filipino_Channel_2011_logo.svg.png" group-title="GenEnt",TFC Europe
