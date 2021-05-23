@@ -7,7 +7,7 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/829dbdfe0
 #EXTINF:-1 tvg-chno="003" tvg-logo="https://tvshop.ph/static/images/logo@2x.d16d123219f1.png" group-title="FTA",TVshop
 https://d3cbe0gidjd4k2.cloudfront.net/channel_1/smil:channel_1.smil/chunklist_w358131628_b300000_sleng.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/81.0
 #EXTINF:-1 tvg-chno="004" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/PTVLogo2017.svg/1200px-PTVLogo2017.svg.png" group-title="FTA",PTV
-http://salvahe.co/iptv-query?url=https://www.dailymotion.com/video/x5cr6b9
+https://iptv--iptv.repl.co/streamlink?url=https://www.dailymotion.com/video/x5cr6b9
 #EXTINF:-1 tvg-chno="006" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/One_Sports_Philippines_logo.svg/1200px-One_Sports_Philippines_logo.svg.png" group-title="Sports",One Sports
 http://103.11.112.28:1935/live2/smil:onesports.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="007" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/DZBB594.svg/1200px-DZBB594.svg.png" group-title="News",Super Radyo DZBB
@@ -31,8 +31,8 @@ https://d3cbe0gidjd4k2.cloudfront.net/channel_7/smil:channel_7.smil/chunklist_w1
 #EXTVLCOPT:http-referrer=https://tfc.tv/
 #EXTVLCOPT:http-user-agent=Mozilla
 https://amdottlive.akamaized.net/hls/live/2018990/iwantknowledge/master360p.m3u8
-#EXTINF:-1 tvg-chno="015" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/45/UNTV_Public_Service_%282017%29.png" group-title="FTA",UNTV (mirror)
-https://iptv--iptv.repl.co/streamlink?url=https://www.youtube.com/c/UNTVNewsandRescue/live&quality=360p
+#EXTINF:-1 tvg-chno="015" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/45/UNTV_Public_Service_%282017%29.png" group-title="FTA",UNTV HD
+https://iptv--iptv.repl.co/streamlink?url=https://www.youtube.com/c/UNTVNewsandRescue/live
 #EXTINF:-1 tvg-chno="016" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/75/Truth_Channel_Official_Logo.png" group-title="Religious",Truth Channel
 https://iptv--iptv.repl.co/streamlink?url=https://www.youtube.com/c/TruthChannel/live&quality=360p
 #EXTINF:-1 tvg-chno="017" tvg-logo="https://sa.kapamilya.com/absnews/abscbnnews/media/2020/graphics/dzmm-logo-lrg.jpg" group-title="News",TeleRadyo
@@ -46,7 +46,7 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/cd855b97a
 #EXTINF:-1 tvg-chno="021" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/The_Filipino_Channel_2011_logo.svg/1200px-The_Filipino_Channel_2011_logo.svg.png" group-title="GenEnt",TFC Asia
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/298a3f407e14a38.m3u8
 #EXTINF:-1 tvg-chno="022" tvg-logo="https://static.wikia.nocookie.net/russel/images/4/49/Kapamilya_Online_Live_3D_Logo.png" group-title="GenEnt",Kapamilya Online Live
-plugin://plugin.video.youtube/play/?video_id=vBZ-_MF7OrI
+plugin://plugin.video.youtube/play/?video_id=f5QsK1EiPO4
 #EXTINF:-1 tvg-chno="023" tvg-logo="https://mytv.ph/assets/img/logo-white.png" group-title="FTA",MyTV Cebu
 http://api.new.livestream.com/accounts/15418593/events/4787138/live.m3u8
 #EXTINF:-1 tvg-chno="024" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/CCTN_Cebu_logo.png" group-title="FTA",CCTN
@@ -69,6 +69,8 @@ https://iptv--iptv.repl.co/streamlink?url=https://www.youtube.com/c/angdatingdaa
 https://iptv--iptv.repl.co/streamlink?url=https://www.youtube.com/c/DWIZ882Live2017/live&quality=360p
 #EXTINF:-1 tvg-chno="034" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/PTVLogo2017.svg/1200px-PTVLogo2017.svg.png" group-title="FTA",PTV (mirror)
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/0dbc79b42310cd7.m3u8
+#EXTINF:-1 tvg-chno="035" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/PTVLogo2017.svg/1200px-PTVLogo2017.svg.png" group-title="FTA",Community TV3
+https://iptv--iptv.repl.co/streamlink?url=https://www.twitch.tv/communitytv3/
 
 #EXTINF:-1 tvg-chno="040" tvg-logo="https://static.wikia.nocookie.net/nickelodeon/images/8/8c/Nick_Pluto_TV_logo.jpg" group-title="Kids",Nick Pluto TV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=954c037d-1a11-44d3-b488-9d06f8a3e068&deviceLat=33.9560&deviceLon=-118.3887&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=81.0.4044.26&includeExtendedEvents=false&sid=e6f1682e-cc62-437a-bd0d-082bea9a4059&userId=&serverSideAds=true
