@@ -276,7 +276,7 @@ https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_5_
 #EXTINF:1,CNN HD
 http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
 #EXTINF:1,CNN International
-https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_640x360_1200k.m3u8
 #EXTINF:1,CNN International HD
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
 #EXTINF:1,CBSN
@@ -294,9 +294,9 @@ http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a8
 #EXTINF:1,MSNBC
 http://1111296894.rsc.cdn77.org/LS-ATL-54548-10/tracks-v1a1/mono.m3u8
 #EXTINF:1,NewsNOW from Fox
-http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+http://fox-foxnewsnow-samsungus.amagi.tv/playlist360p.m3u8
 #EXTINF:1,Fox News
-https://bozztv.com/teleyupp/AsEAeOtIxz/playlist.m3u8
+https://bozztv.com/teleyupp/AsEAeOtIxz/tracks-v3a1/mono.m3u8
 #EXTINF:1,Fox News HD
 http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
 #EXTINF:1,Cheddar
@@ -304,7 +304,7 @@ https://livestream.chdrstatic.com/b93e5b0d43ea306310a379971e384964acbe4990ce193c
 #EXTINF:1,Cheddar HD
 https://livestream.chdrstatic.com/b93e5b0d43ea306310a379971e384964acbe4990ce193c0bd50078275a9a657d/cheddar-42620/cheddarweblive/cheddar/primary/2.m3u8
 #EXTINF:1,Bloomberg TV
-https://ch.iptvmate.net/4ac2dd1a410b37e8357ae8bbac3264c5.m3u8
+http://45.126.83.51/uq2663/h/h03/02.m3u8
 #EXTINF:1,Bloomberg TV HD
 https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 #EXTINF:1,Bloomberg Quicktake
@@ -314,7 +314,7 @@ https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/master.m3u8
 #EXTINF:1,BBC News
 https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8
 #EXTINF:1,BBC World News
-http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(02)/index.m3u8
 #EXTINF:1,Sky News
 http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8
 #EXTINF:1,Australia Channel News
@@ -351,6 +351,8 @@ https://feeds.intoday.in/hltapps/api/master.m3u8
 https://d7g1ebft2592.cloudfront.net/mblivev3/360p/chunklist.m3u8
 #EXTINF:1,TRT World
 https://tv-trtworld.live.trt.com.tr/master.m3u8
+#EXTINF:1,Global News
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
 
 #EXTINF:1,Pluto TV Sports
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56340779a738201b4ccfeac9/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
@@ -426,21 +428,21 @@ https://freespeech.akamaized.net/hls/live/2016712/live1/playlist.m3u8
 #EXTINF:1,InfoWars HD
 http://wpc.9ec1.edgecastcdn.net/249EC1/infowarshd-edgecast/hd720.m3u8
 #EXTINF:1,Real America's Voice
-https://pcor3.manifest.auditude.com/auditude/variant/p1media_americasvoice_1/2c2dc059-4dc5-4554-bb24-660c53c00d2e/aHR0cHM6Ly9wMW1lZGlhLWFtZXJpY2Fzdm9pY2UtMS5yb2t1Lnd1cmwuY29tL21hbmlmZXN0L3BsYXlsaXN0Lm0zdTg.m3u8?pttrackingversion=v2&u=19287a324825cc5aacb7e46183c72324&pttrackingmode=sstm&g=1000010&ptadwindow=0&z=268729&k=wurl_channel=419;distributor=roku;name=AmericasVoice;ip=192.119.164.160;rdid=121c0a02-8b4f-5ad8-9a0a-d73aa5fd4c92;coppa=false;is_lat=1;ua=Mozilla/5.0+(Windows+NT+10.0;+)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/81.0.4044.26+Safari/537.36;content=f880ec33a4b617b940e6f6e6fb627271f0b25344;genre=;platform=web;content_type=livefeed;content_rating=&ptcueformat=turner
+https://content.uplynk.com/channel/26bd482ffe364a1282bc3df28bd3c21f.m3u8
 #EXTINF:1,The Blaze
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e46fba0c43b0d00096e5ac1/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=954c037d-1a11-44d3-b488-9d06f8a3e068&deviceLat=33.9560&deviceLon=-118.3887&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=81.0.4044.26&includeExtendedEvents=false&sid=e6f1682e-cc62-437a-bd0d-082bea9a4059&userId=&serverSideAds=true
 #EXTINF:1,The First TV
-https://redseat-thefirst-glewedtv.amagi.tv/index.m3u8
+https://redseat-thefirst-glewedtv.amagi.tv/index360p.m3u8
 #EXTINF:1,The First TV HD
 https://thefirst-distroscale.amagi.tv/index1080p.m3u8
 #EXTINF:1,One America News Network
-http://n1.klowdtv.net/live1/oan_180p/chunks.m3u8
+https://cdn.klowdtv.net/803B48A/oan_aws_ms/OAN_180p30.m3u8
 #EXTINF:1,One America News Network HD
 http://n1.klowdtv.net/live1/oan_720p/chunks.m3u8
 #EXTINF:1,OAN Plus
-https://oneamericanews-vizio.amagi.tv/playlist.m3u8
+https://oneamericanews-vizio.amagi.tv/playlistR288p.m3u8
 #EXTINF:1,Newsmax TV
-https://d3ut7rvli78ywi.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/NewsmaxLive/hls/live/529965/Live_1/index.m3u8
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_288.m3u8
 #EXTINF:1,Newsmax TV HD
 https://nmxairy.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
 #EXTINF:1,RSBN
