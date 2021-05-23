@@ -38,6 +38,8 @@ https://d3cbe0gidjd4k2.cloudfront.net/channel_5/smil:channel_5.smil/chunklist_w1
 https://bcovlive-a.akamaihd.net/f71123b86b424028ab5915de31c7d540/ap-southeast-1/6185036301001/playlist.m3u8
 #EXTINF:1,DWIZ
 http://salvahe.co/iptv-query?url=https://www.youtube.com/c/DWIZ882Live2017/live
+#EXTINF:1,Community TV3
+http://salvahe.co/iptv-query?url=https://www.twitch.tv/communitytv3/
 
 #EXTINF:1,Nick Pluto TV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=954c037d-1a11-44d3-b488-9d06f8a3e068&deviceLat=33.9560&deviceLon=-118.3887&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=81.0.4044.26&includeExtendedEvents=false&sid=e6f1682e-cc62-437a-bd0d-082bea9a4059&userId=&serverSideAds=true
@@ -151,8 +153,6 @@ https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 https://nbcnewshls.akamaized.net/hls/live/2011820/nnn_live1/master.m3u8
 #EXTINF:1,NewsNOW from Fox
 http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:1,Fox News
-http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
 #EXTINF:1,Cheddar
 https://livestream.chdrstatic.com/b93e5b0d43ea306310a379971e384964acbe4990ce193c0bd50078275a9a657d/cheddar-42620/cheddarweblive/cheddar/index.m3u8
 #EXTINF:1,Bloomberg TV
