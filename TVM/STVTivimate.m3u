@@ -29,9 +29,9 @@ https://d3cbe0gidjd4k2.cloudfront.net/channel_7/smil:channel_7.smil/chunklist_w1
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/50/Knowledge-Channel-2010-Logo-ABS-CBN-Philippines.png",Knowledge Channel
 https://amdottlive.akamaized.net/hls/live/2018990/iwantknowledge/master360p.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/45/UNTV_Public_Service_%282017%29.png",UNTV HD
-http://salvahe.co/iptv-query?url=https://www.youtube.com/c/UNTVNewsandRescue/live&quality=720p
+http://salvahe.co/iptv-query?url=https://www.youtube.com/c/UNTVNewsandRescue/live
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/75/Truth_Channel_Official_Logo.png",Truth Channel
-http://salvahe.co/iptv-query?url=https://www.youtube.com/c/TruthChannel/live&quality=360p
+http://salvahe.co/iptv-query?url=https://www.youtube.com/c/TruthChannel/live
 #EXTINF:-1 tvg-logo="https://sa.kapamilya.com/absnews/abscbnnews/media/2020/graphics/dzmm-logo-lrg.jpg",TeleRadyo
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/bf85cce9b7906bf.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.imgbin.com/23/16/15/imgbin-dzrh-news-television-philippines-television-channel-dzrh-news-television-Hq4D83EGvxFffXww3w0StXYLW.jpg",DZRH News TV
@@ -63,7 +63,7 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/ac0896de0
 #EXTINF:-1 tvg-logo="http://www.tapdmv.com/logo-tapEDGE.png",Tap Edge
 https://bcovlive-a.akamaihd.net/f71123b86b424028ab5915de31c7d540/ap-southeast-1/6185036301001/playlist.m3u8
 #EXTINF:-1 tvg-logo="",ADD Live
-http://salvahe.co/iptv-query?url=https://www.youtube.com/c/angdatingdaan/live&quality=360p
+http://salvahe.co/iptv-query?url=https://www.youtube.com/c/angdatingdaan/live
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3b/DWIZ_Logo_2002.jpg",DWIZ
 http://salvahe.co/iptv-query?url=https://www.youtube.com/c/DWIZ882Live2017/live
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/PTVLogo2017.svg/1200px-PTVLogo2017.svg.png",PTV (mirror)
