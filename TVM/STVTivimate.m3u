@@ -7,15 +7,16 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/829dbdfe0
 #EXTINF:-1 tvg-logo="https://tvshop.ph/static/images/logo@2x.d16d123219f1.png",TVshop
 https://d3cbe0gidjd4k2.cloudfront.net/channel_1/smil:channel_1.smil/chunklist_w358131628_b300000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/PTVLogo2017.svg/1200px-PTVLogo2017.svg.png",PTV
-http://salvahe.co/iptv-query?url=https://www.dailymotion.com/video/x5cr6b9
+https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.dailymotion.com/video/x5cr6b9
+#http://salvahe.co/iptv-query?url=https://www.dailymotion.com/video/x5cr6b9
 #EXTINF:-1 tvg-logo="",One PH YouTube
-http://salvahe.co/iptv-query?url=https://youtube.com/c/OnePHonCignal/live&quality=360p
+https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://youtube.com/c/OnePHonCignal/live&quality=360p
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/One_Sports_Philippines_logo.svg/1200px-One_Sports_Philippines_logo.svg.png",One Sports
 http://103.11.112.28:1935/live2/smil:onesports.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/DZBB594.svg/1200px-DZBB594.svg.png",Super Radyo DZBB
 http://stream.gmanews.tv/ioslive/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/TapTV-ph.png/190px-TapTV-ph.png",Tap TV
-https://bcovlive-a.akamaihd.net/b49d472b255d4340b32af5115d5f9793/ap-southeast-1/6185036301001/4c794c49cb0047d88155f4d9330fb836/playlist_ssaiM.m3u8
+https://bcovlive-a.akamaihd.net/b49d472b255d4340b32af5115d5f9793/ap-southeast-1/6185036301001/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2020/07/18101212/cnn-philippines-logo.png",CNN Philippines
 https://streaming.cnnphilippines.com/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/f/f6/GMA_Pinoy_TV_3D_Logo_2014.png",GMA Pinoy TV
@@ -29,9 +30,10 @@ https://d3cbe0gidjd4k2.cloudfront.net/channel_7/smil:channel_7.smil/chunklist_w1
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/50/Knowledge-Channel-2010-Logo-ABS-CBN-Philippines.png",Knowledge Channel
 https://amdottlive.akamaized.net/hls/live/2018990/iwantknowledge/master360p.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/45/UNTV_Public_Service_%282017%29.png",UNTV HD
-http://salvahe.co/iptv-query?url=https://www.youtube.com/c/UNTVNewsandRescue/live
+https://iptv--iptv.repl.co/streamlink?url=https://www.youtube.com/c/UNTVNewsandRescue/live&quality=720p
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/75/Truth_Channel_Official_Logo.png",Truth Channel
-http://salvahe.co/iptv-query?url=https://www.youtube.com/c/TruthChannel/live
+https://iptv--iptv.repl.co/streamlink?url=https://www.youtube.com/c/TruthChannel/live&quality=360p
+#http://salvahe.co/iptv-query?url=https://www.youtube.com/c/TruthChannel/live
 #EXTINF:-1 tvg-logo="https://sa.kapamilya.com/absnews/abscbnnews/media/2020/graphics/dzmm-logo-lrg.jpg",TeleRadyo
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/bf85cce9b7906bf.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.imgbin.com/23/16/15/imgbin-dzrh-news-television-philippines-television-channel-dzrh-news-television-Hq4D83EGvxFffXww3w0StXYLW.jpg",DZRH News TV
@@ -48,8 +50,6 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/9488d3506
 http://api.new.livestream.com/accounts/15418593/events/4787138/live.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/CCTN_Cebu_logo.png",CCTN
 http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
-#EXTINF:-1 tvg-logo="",TV La Verdad
-http://salvahe.co/iptv-query?url=https://www.youtube.com/user/tvlaverdadoficial/live
 #EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images/Cinemo.jpg",CineMo!
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/3254f236ad3e872.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/1200px-Cinema_One_2013_logo.svg.png",Cinema One
@@ -63,7 +63,14 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/ac0896de0
 #EXTINF:-1 tvg-logo="http://www.tapdmv.com/logo-tapEDGE.png",Tap Edge
 https://bcovlive-a.akamaihd.net/f71123b86b424028ab5915de31c7d540/ap-southeast-1/6185036301001/playlist.m3u8
 #EXTINF:-1 tvg-logo="",ADD Live
+https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.youtube.com/c/angdatingdaan/live&quality=360p
+#https://iptv--iptv.repl.co/streamlink?url=https://www.youtube.com/c/angdatingdaan/live&quality=360p
+#EXTINF:-1 tvg-logo="",ADD Live HD
 http://salvahe.co/iptv-query?url=https://www.youtube.com/c/angdatingdaan/live
+#EXTINF:-1 tvg-logo="",TV La Verdad
+http://salvahe.co/iptv-query?url=https://www.youtube.com/user/tvlaverdadoficial/live
+#EXTINF:-1 tvg-logo="",UNTV FHD
+http://salvahe.co/iptv-query?url=https://www.youtube.com/c/UNTVNewsandRescue/live
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3b/DWIZ_Logo_2002.jpg",DWIZ
 http://salvahe.co/iptv-query?url=https://www.youtube.com/c/DWIZ882Live2017/live
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/PTVLogo2017.svg/1200px-PTVLogo2017.svg.png",PTV (mirror)
