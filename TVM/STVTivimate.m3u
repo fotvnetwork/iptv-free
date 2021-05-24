@@ -8,9 +8,9 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/829dbdfe0
 https://d3cbe0gidjd4k2.cloudfront.net/channel_1/smil:channel_1.smil/chunklist_w358131628_b300000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/PTVLogo2017.svg/1200px-PTVLogo2017.svg.png",PTV
 http://salvahe.co/iptv-query?url=https://www.dailymotion.com/video/x5cr6b9
+#EXTINF:-1 tvg-logo="",One PH YouTube
+https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://youtube.com/c/OnePHonCignal/live&quality=360p
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/One_Sports_Philippines_logo.svg/1200px-One_Sports_Philippines_logo.svg.png",One Sports
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/9488d35066fc606.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/One_Sports_Philippines_logo.svg/1200px-One_Sports_Philippines_logo.svg.png",One Sports (mirror feed)
 http://103.11.112.28:1935/live2/smil:onesports.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/DZBB594.svg/1200px-DZBB594.svg.png",Super Radyo DZBB
 http://stream.gmanews.tv/ioslive/livestream/playlist.m3u8
@@ -42,10 +42,14 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/882598ca2
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/cd855b97a246caf.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/The_Filipino_Channel_2011_logo.svg/1200px-The_Filipino_Channel_2011_logo.svg.png",TFC Asia
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/298a3f407e14a38.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/One_Sports_Philippines_logo.svg/1200px-One_Sports_Philippines_logo.svg.png",One Sports (mirror)
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/9488d35066fc606.m3u8
 #EXTINF:-1 tvg-logo="https://mytv.ph/assets/img/logo-white.png",MyTV Cebu
 http://api.new.livestream.com/accounts/15418593/events/4787138/live.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/CCTN_Cebu_logo.png",CCTN
 http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
+#EXTINF:-1 tvg-logo="",TV La Verdad
+https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.youtube.com/user/tvlaverdadoficial/live
 #EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images/Cinemo.jpg",CineMo!
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/3254f236ad3e872.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/1200px-Cinema_One_2013_logo.svg.png",Cinema One
@@ -63,7 +67,7 @@ https://iptv--iptv.repl.co/streamlink?url=https://www.youtube.com/c/angdatingdaa
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3b/DWIZ_Logo_2002.jpg",DWIZ
 http://salvahe.co/iptv-query?url=https://www.youtube.com/c/DWIZ882Live2017/live
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/PTVLogo2017.svg/1200px-PTVLogo2017.svg.png",PTV (mirror)
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/0dbc79b42310cd7.m3u8
+https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.youtube.com/c/PTVPhilippines/live
 #EXTINF:-1 tvg-logo="",Community TV3
 http://salvahe.co/iptv-query?url=https://www.twitch.tv/communitytv3/
 
@@ -72,7 +76,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/nickelodeon/images/c/c8/Nick_Jr._Pluto_TV_logo.jpg",Nick Jr. Pluto TV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceLat=40.8364&deviceLon=-74.1403&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=66.0.3515.72&includeExtendedEvents=false&sid=ed4384ed-108c-4d94-86ab-ab0cc6e41e6f&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://www.nextanimationstudio.com/wp-content/uploads/2017/12/toon-goggles-logo-1024x363.jpg",Toon Goggles
-https://toongoggles-toongoggles-3-gb.samsung.wurl.com/manifest/playlist.m3u8
+https://toongoggles-toongoggles-3-gb.samsung.wurl.com/manifest/1200.m3u8
 #EXTINF:-1 tvg-logo="https://www.animationmagazine.net/wordpress/wp-content/uploads/toon-goggles-1-400x240.jpg",TG Junior
 https://tg-junior.samsung.wurl.com/manifest/1200.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/1200px-ZooMoo_logo.svg.png",Zoo Moo
@@ -87,10 +91,6 @@ https://kedoo-supertoonstv-1-gb.samsung.wurl.com/manifest/1200.m3u8
 https://simultv.s.llnwi.net/n4s4/KartoonCircus/interlink.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a5/Pw_logo_1000_rotate.png",Pocket.watch
 https://pocketwatch.samsung.wurl.com/manifest/1200.m3u8
-#EXTINF:1,Cartoon Network
-http://iptvtree.net:8080/44444/4506fd18/157593
-#EXTINF:1,Nickelodeon
-http://iptvtree.net:8080/live/outputofflinechecker/9kyZXqC7MwVbkMnJmf/144870.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/PBS_Kids_Dash_(2009).svg/revision/latest/scale-to-width-down/2000?cb=20171125102412",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b600000.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos2/images/8/89/20DED176-3599-4484-92F7-1DF9BD2A84A2.png",BabyFirst
@@ -107,7 +107,7 @@ http://broadcastny.yournewsnet.com:8081/master/newsnetweb/chunks.m3u8
 #EXTINF:1,NewsNet HD
 https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1311088/chunklist_b2000000.m3u8
 #EXTINF:1,Right Now TV
-https://feed.rightnowtelevision.com/live/smil:rntv.smil/playlist.m3u8
+https://feed.rightnowtelevision.com/live/smil:rntv.smil/chunklist_w1515910486_b1692000_sleng.m3u8
 #EXTINF:1,NBCLX
 https://lxlive-lh.akamaihd.net/i/LX_LIVE@148206/master.m3u8
 #EXTINF:1,NBCLX HD
@@ -133,11 +133,11 @@ https://fox-foxsoul-roku.amagi.tv/playlist.m3u8
 #EXTINF:1,Popstar! TV
 https://linear-10.frequency.stream/10/hls/master/playlist.m3u8
 #EXTINF:1,Lively Place
-https://aenetworks-ae-1.roku.wurl.com/manifest/playlist.m3u8
+https://aenetworks-ae-1.roku.wurl.com/manifest/1200.m3u8
 #EXTINF:1,Game Show Network
 http://n1.klowdtv.net/live2/gsn_180p/chunks.m3u8
 #EXTINF:1,Skills + Thrills
-https://aenetworks-skills-thrills-1.plex.wurl.com/manifest/playlist.m3u8
+https://aenetworks-skills-thrills-1.plex.wurl.com/manifest/1200.m3u8
 #EXTINF:1,Crime+Investigation
 http://203.154.243.31:15001
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/AXN_HD_Logo_2015.png",AXN
@@ -149,7 +149,7 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
 #EXTINF:1,Fox Life
 https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:1,Crackle
-https://crackle-plex.amagi.tv/playlist.m3u8
+https://crackle-plex.amagi.tv/playlist480p.m3u8
 #EXTINF:1,AFN
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AFC-HD-1080p/playlist.m3u8
 #EXTINF:1,AWE
