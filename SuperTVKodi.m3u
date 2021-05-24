@@ -34,7 +34,7 @@ https://d3cbe0gidjd4k2.cloudfront.net/channel_7/smil:channel_7.smil/chunklist_w1
 #EXTVLCOPT:http-user-agent=Mozilla
 https://amdottlive.akamaized.net/hls/live/2018990/iwantknowledge/master360p.m3u8
 #EXTINF:-1 tvg-chno="015" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/45/UNTV_Public_Service_%282017%29.png" group-title="FTA",UNTV HD
-https://iptv--iptv.repl.co/streamlink?url=https://www.youtube.com/c/UNTVNewsandRescue/live&quality=720p
+https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.youtube.com/c/UNTVNewsandRescue/live&quality=720p
 #EXTINF:-1 tvg-chno="016" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/75/Truth_Channel_Official_Logo.png" group-title="Religious",Truth Channel
 https://iptv--iptv.repl.co/streamlink?url=https://www.youtube.com/c/TruthChannel/live&quality=360p
 #EXTINF:-1 tvg-chno="017" tvg-logo="https://sa.kapamilya.com/absnews/abscbnnews/media/2020/graphics/dzmm-logo-lrg.jpg" group-title="News",TeleRadyo
