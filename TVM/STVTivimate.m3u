@@ -7,8 +7,7 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/829dbdfe0
 #EXTINF:-1 tvg-logo="https://tvshop.ph/static/images/logo@2x.d16d123219f1.png",TVshop
 https://d3cbe0gidjd4k2.cloudfront.net/channel_1/smil:channel_1.smil/chunklist_w358131628_b300000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/PTVLogo2017.svg/1200px-PTVLogo2017.svg.png",PTV
-https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.dailymotion.com/video/x5cr6b9
-#http://salvahe.co/iptv-query?url=https://www.dailymotion.com/video/x5cr6b9
+https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.dailymotion.com/video/x5cr6b9&quality=477p
 #EXTINF:-1 tvg-logo="",One PH/News5
 https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://youtube.com/c/OnePHonCignal/live&quality=360p
 #https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.youtube.com/user/News5Everywhere/live&quality=360p
@@ -30,16 +29,14 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/fc256993b
 https://d3cbe0gidjd4k2.cloudfront.net/channel_7/smil:channel_7.smil/chunklist_w1635746920_b1000000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/50/Knowledge-Channel-2010-Logo-ABS-CBN-Philippines.png",Knowledge Channel
 https://amdottlive.akamaized.net/hls/live/2018990/iwantknowledge/master360p.m3u8
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/45/UNTV_Public_Service_%282017%29.png",UNTV HD
-https://iptv--iptv.repl.co/streamlink?url=https://www.youtube.com/c/UNTVNewsandRescue/live&quality=720p
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/45/UNTV_Public_Service_%282017%29.png",UNTV (mirror)
+https://iptv--iptv.repl.co/streamlink?url=https://www.youtube.com/c/UNTVNewsandRescue/live&quality=480p
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/75/Truth_Channel_Official_Logo.png",Truth Channel
 https://iptv--iptv.repl.co/streamlink?url=https://www.youtube.com/c/TruthChannel/live&quality=360p
-#http://salvahe.co/iptv-query?url=https://www.youtube.com/c/TruthChannel/live
 #EXTINF:-1 tvg-logo="https://sa.kapamilya.com/absnews/abscbnnews/media/2020/graphics/dzmm-logo-lrg.jpg",TeleRadyo
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/bf85cce9b7906bf.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.imgbin.com/23/16/15/imgbin-dzrh-news-television-philippines-television-channel-dzrh-news-television-Hq4D83EGvxFffXww3w0StXYLW.jpg",DZRH News TV
 https://iptv--iptv.repl.co/streamlink?url=https://www.youtube.com/c/DZRHNewsTelevision/live
-#http://salvahe.co/iptv-query?url=https://www.youtube.com/c/DZRHNewsTelevision/live
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/The_Filipino_Channel_2011_logo.svg/1200px-The_Filipino_Channel_2011_logo.svg.png",TFC
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/882598ca274e161.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/The_Filipino_Channel_2011_logo.svg/1200px-The_Filipino_Channel_2011_logo.svg.png",TFC Europe
@@ -69,22 +66,16 @@ https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.
 #https://iptv--iptv.repl.co/streamlink?url=https://www.youtube.com/c/angdatingdaan/live&quality=360p
 #EXTINF:-1 tvg-logo="",ADD Live HD
 https://iptv--iptv.repl.co/streamlink?url=https://www.youtube.com/c/angdatingdaan/live
-#http://salvahe.co/iptv-query?url=https://www.youtube.com/c/angdatingdaan/live
 #EXTINF:-1 tvg-logo="",TV La Verdad
 https://iptv--iptv.repl.co/streamlink?url=https://www.youtube.com/user/tvlaverdadoficial/live
-#http://salvahe.co/iptv-query?url=https://www.youtube.com/user/tvlaverdadoficial/live
-#EXTINF:-1 tvg-logo="",UNTV FHD
-https://iptv--iptv.repl.co/streamlink?url=https://www.youtube.com/c/UNTVNewsandRescue/live
-#http://salvahe.co/iptv-query?url=https://www.youtube.com/c/UNTVNewsandRescue/live
+#EXTINF:-1 tvg-logo="",UNTV HD
+https://iptv--iptv.repl.co/streamlink?url=https://www.youtube.com/c/UNTVNewsandRescue/live&quality=720p
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3b/DWIZ_Logo_2002.jpg",DWIZ
 https://iptv--iptv.repl.co/streamlink?url=https://www.youtube.com/c/DWIZ882Live2017/live
-#http://salvahe.co/iptv-query?url=https://www.youtube.com/c/DWIZ882Live2017/live
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/PTVLogo2017.svg/1200px-PTVLogo2017.svg.png",PTV (mirror)
-https://iptv--iptv.repl.co/streamlink?url=https://www.youtube.com/c/PTVPhilippines/live
-#http://salvahe.co/iptv-query?url=https://www.youtube.com/c/PTVPhilippines/live
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/PTVLogo2017.svg/1200px-PTVLogo2017.svg.png",PTV HD
+https://iptv--iptv.repl.co/streamlink?url=https://www.youtube.com/c/PTVPhilippines/live&quality=720p
 #EXTINF:-1 tvg-logo="",Community TV3
 https://iptv--iptv.repl.co/streamlink?url=https://www.twitch.tv/communitytv3/
-#http://salvahe.co/iptv-query?url=https://www.twitch.tv/communitytv3/
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/nickelodeon/images/8/8c/Nick_Pluto_TV_logo.jpg",Nick Pluto TV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=954c037d-1a11-44d3-b488-9d06f8a3e068&deviceLat=33.9560&deviceLon=-118.3887&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=81.0.4044.26&includeExtendedEvents=false&sid=e6f1682e-cc62-437a-bd0d-082bea9a4059&userId=&serverSideAds=true
@@ -114,6 +105,27 @@ https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
 https://nrpus.bozztv.com/36bay2/gusa-iread2know/tracks-v1a1/mono.m3u8
 #EXTINF:1,Kid Central
 https://simultv.s.llnwi.net/n4s4/kidcentral/interlink.m3u8
+
+#EXTINF:1,Disney Channel (TEST)
+https://rotf.lol/disneystream
+#EXTINF:1,Disney XD (TEST)
+https://rotf.lol/disneyxd
+#EXTINF:1,ABC (TEST)
+https://rotf.lol/abcus
+#EXTINF:1,Lifetime (TEST)
+https://rotf.lol/lifetimeus
+#EXTINF:1,MTV Hits (TEST)
+https://rotf.lol/mtvhits
+#EXTINF:1,Cinemax Action (TEST)
+https://rotf.lol/cinemaxaction
+#EXTINF:1,BT1 (TEST)
+https://rotf.lol/bt1stream
+#EXTINF:1,Cricket (TEST)
+https://rotf.lol/sscricket
+#EXTINF:1,La Liga (TEST)
+https://rotf.lol/laliga
+#EXTINF:1,TNT (TEST)
+https://rotf.lol/tntus
 
 #EXTINF:1,AMGTV
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
