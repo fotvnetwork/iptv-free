@@ -9,8 +9,9 @@ https://d3cbe0gidjd4k2.cloudfront.net/channel_1/smil:channel_1.smil/chunklist_w3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/PTVLogo2017.svg/1200px-PTVLogo2017.svg.png",PTV
 https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.dailymotion.com/video/x5cr6b9
 #http://salvahe.co/iptv-query?url=https://www.dailymotion.com/video/x5cr6b9
-#EXTINF:-1 tvg-logo="",One PH YouTube
+#EXTINF:-1 tvg-logo="",One PH/News5
 https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://youtube.com/c/OnePHonCignal/live&quality=360p
+#https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.youtube.com/user/News5Everywhere/live&quality=360p
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/One_Sports_Philippines_logo.svg/1200px-One_Sports_Philippines_logo.svg.png",One Sports
 http://103.11.112.28:1935/live2/smil:onesports.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/DZBB594.svg/1200px-DZBB594.svg.png",Super Radyo DZBB
