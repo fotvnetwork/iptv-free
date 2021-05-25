@@ -48,7 +48,7 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/cd855b97a
 #EXTINF:-1 tvg-chno="021" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/The_Filipino_Channel_2011_logo.svg/1200px-The_Filipino_Channel_2011_logo.svg.png" group-title="GenEnt",TFC Asia
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/298a3f407e14a38.m3u8
 #EXTINF:-1 tvg-chno="022" tvg-logo="https://static.wikia.nocookie.net/russel/images/4/49/Kapamilya_Online_Live_3D_Logo.png" group-title="GenEnt",Kapamilya Online Live
-plugin://plugin.video.youtube/play/?video_id=L_xAFafofIU
+plugin://plugin.video.youtube/play/?video_id=9Bj3Spa6D6g
 #EXTINF:-1 tvg-chno="023" tvg-logo="https://mytv.ph/assets/img/logo-white.png" group-title="FTA",MyTV Cebu
 http://api.new.livestream.com/accounts/15418593/events/4787138/live.m3u8
 #EXTINF:-1 tvg-chno="024" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/CCTN_Cebu_logo.png" group-title="FTA",CCTN
