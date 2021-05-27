@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="001" tvg-logo="",SuperTV on Kodi (as of 27 May 2021)
+#EXTINF:-1 tvg-chno="001" tvg-logo="",This playlist will be expired by 01 June 2021
 https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
 #EXTINF:-1 tvg-chno="002" tvg-logo="https://i.imgur.com/5AuYVFN.jpeg" group-title="GenEnt",Kapamilya Channel
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/829dbdfe0b57013.m3u8
