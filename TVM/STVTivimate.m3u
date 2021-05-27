@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="",This playlist will become inactive effective May 31, 2021
+https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/45/UNTV_Public_Service_%282017%29.png",UNTV
 https://cdn.untvweb.com/live-stream/chunklist_b332000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5AuYVFN.jpeg",Kapamilya Channel
