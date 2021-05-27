@@ -2,7 +2,7 @@
 Free streaming channels from around the world (not for sale)
 
 ## ADVISORY (5/27/2021)
-Due to some concerns and other issues, the Kodi and Tivimate playlists on this repo will be removed and its contents will be moving on a private site.
+Due to some concerns and other issues, the Kodi and Tivimate playlists on this repo will be removed and its contents will be moving on a private site effective 1st June 2021.
 We will continue, however, to distribute free streams that are found online through our SuperTV playlist.
 
 ## NOTE
@@ -13,4 +13,4 @@ Feel free to copy our playlist on an IPTV player or a media player that supports
 
 Thank you!
 
-- NB
+-NB
