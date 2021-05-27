@@ -2,8 +2,8 @@
 
 #EXTINF:1,UNTV
 https://cdn.untvweb.com/live-stream/chunklist_b332000.m3u8
-#EXTINF:1,UNTV HD
-https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.youtube.com/c/UNTVNewsandRescue/live&quality=360p
+#EXTINF:1,UNTV (mirror)
+https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.youtube.com/c/UNTVNewsandRescue/live
 #EXTINF:1,TVshop
 https://d3cbe0gidjd4k2.cloudfront.net/channel_1/smil:channel_1.smil/chunklist_w358131628_b300000_sleng.m3u8
 #EXTINF:1,PTV
@@ -28,8 +28,6 @@ https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.
 https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.youtube.com/c/DZRHNewsTelevision/live
 #EXTINF:1,MyTV Cebu
 http://api.new.livestream.com/accounts/15418593/events/4787138/live.m3u8
-#EXTINF:1,CCTN
-http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
 #EXTINF:1,TV Maria
 https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.youtube.com/c/TVMariaLIVE/live
 #EXTINF:1,Pilipinas HD
@@ -41,11 +39,7 @@ https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.
 #EXTINF:1,Community TV3
 https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.twitch.tv/communitytv3/
 #EXTINF:1,ADD Live
-https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.youtube.com/c/angdatingdaan/live&quality=360p
-#EXTINF:1,ADD Live HD
 https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.youtube.com/c/angdatingdaan/live
-#EXTINF:1,UNTV HD
-https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.youtube.com/c/UNTVNewsandRescue/live
 #EXTINF:1,TV La Verdad
 https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.youtube.com/user/tvlaverdadoficial/live
 
