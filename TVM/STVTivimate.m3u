@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="",This playlist will become inactive effective May 31, 2021
+#EXTINF:-1 tvg-logo="",This playlist will become inactive effective 31 May 2021
 https://github.com/fotvnetwork/iptv-free/raw/master/TV%20Static.mp4
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/45/UNTV_Public_Service_%282017%29.png",UNTV
 https://cdn.untvweb.com/live-stream/chunklist_b332000.m3u8
@@ -10,8 +10,6 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/829dbdfe0
 https://d3cbe0gidjd4k2.cloudfront.net/channel_1/smil:channel_1.smil/chunklist_w358131628_b300000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/PTVLogo2017.svg/1200px-PTVLogo2017.svg.png",PTV
 https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.dailymotion.com/video/x5cr6b9
-#EXTINF:-1 tvg-logo="",One PH YouTube
-https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://youtube.com/c/OnePHonCignal/live
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/One_Sports_Philippines_logo.svg/1200px-One_Sports_Philippines_logo.svg.png",One Sports
 http://103.11.112.28:1935/live2/smil:onesports.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/DZBB594.svg/1200px-DZBB594.svg.png",Super Radyo DZBB
