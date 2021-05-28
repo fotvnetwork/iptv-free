@@ -9,7 +9,7 @@ We will continue, however, to distribute free streams that are found online thro
 All of the streams on our playlists are the streams that are found from various sites. I do not own any of these links, and some of them are from respective owners.
 
 ## USAGE
-Feel free to copy our playlist on an IPTV player or a media player that supports live streams. For questions, suggestions or concerns, you can post an issue on this page.
+Feel free to copy our playlist on an IPTV player or a media player that supports live streams. Should be for personal use only. For questions, suggestions or concerns, you can post an issue on this page.
 
 Thank you!
 
