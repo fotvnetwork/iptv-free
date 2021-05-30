@@ -3,13 +3,13 @@
 #EXTINF:1,UNTV
 https://cdn.untvweb.com/live-stream/chunklist_b332000.m3u8
 #EXTINF:1,UNTV (mirror)
-https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.youtube.com/c/UNTVNewsandRescue/live
+https://iptv--iptv.repl.co/streamlink?url=https://www.youtube.com/c/UNTVNewsandRescue/live
 #EXTINF:1,TVshop
 https://d3cbe0gidjd4k2.cloudfront.net/channel_1/smil:channel_1.smil/chunklist_w358131628_b300000_sleng.m3u8
 #EXTINF:1,PTV
-https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.dailymotion.com/video/x5cr6b9
+https://salvahe.co/headless?url=https://www.dailymotion.com/video/x5cr6b9
 #EXTINF:1,PTV (mirror)
-https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.youtube.com/c/PTVPhilippines/live
+https://iptv--iptv.repl.co/streamlink?url=https://www.youtube.com/c/PTVPhilippines/live
 #EXTINF:1,One Sports
 http://103.11.112.28:1935/live2/smil:onesports.smil/playlist.m3u8
 #EXTINF:1,Super Radyo DZBB
@@ -23,25 +23,25 @@ https://d3cbe0gidjd4k2.cloudfront.net/channel_7/smil:channel_7.smil/chunklist_w1
 #EXTINF:1,Knowledge Channel
 https://amdottlive.akamaized.net/hls/live/2018990/iwantknowledge/master360p.m3u8
 #EXTINF:1,Truth Channel
-https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.youtube.com/c/TruthChannel/live
+https://salvahe.co/headless?url=https://www.youtube.com/c/TruthChannel/live
 #EXTINF:1,DZRH News TV
-https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.youtube.com/c/DZRHNewsTelevision/live
+https://iptv--iptv.repl.co/streamlink?url=https://www.youtube.com/c/DZRHNewsTelevision/live
 #EXTINF:1,MyTV Cebu
 http://api.new.livestream.com/accounts/15418593/events/4787138/live.m3u8
 #EXTINF:1,TV Maria
-https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.youtube.com/c/TVMariaLIVE/live
+https://salvahe.co/headless?url=https://www.youtube.com/c/TVMariaLIVE/live
 #EXTINF:1,Pilipinas HD
 https://d3cbe0gidjd4k2.cloudfront.net/channel_5/smil:channel_5.smil/chunklist_w1281634943_b300000_sleng.m3u8
 #EXTINF:1,Tap Edge
 https://bcovlive-a.akamaihd.net/f71123b86b424028ab5915de31c7d540/ap-southeast-1/6185036301001/playlist.m3u8
 #EXTINF:1,DWIZ
-https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.youtube.com/c/DWIZ882Live2017/live
+https://iptv--iptv.repl.co/streamlink?url=https://www.youtube.com/c/DWIZ882Live2017/live
 #EXTINF:1,Community TV3
-https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.twitch.tv/communitytv3/
+https://salvahe.co/headless?url=https://www.twitch.tv/communitytv3/
 #EXTINF:1,ADD Live
-https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.youtube.com/c/angdatingdaan/live
+https://iptv--iptv.repl.co/streamlink?url=https://www.youtube.com/c/angdatingdaan/live&quality=360p
 #EXTINF:1,TV La Verdad
-https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.youtube.com/user/tvlaverdadoficial/live
+https://salvahe.co/headless?url=https://www.youtube.com/user/tvlaverdadoficial/live
 
 #EXTINF:1,Nick Pluto TV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=954c037d-1a11-44d3-b488-9d06f8a3e068&deviceLat=33.9560&deviceLon=-118.3887&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=81.0.4044.26&includeExtendedEvents=false&sid=e6f1682e-cc62-437a-bd0d-082bea9a4059&userId=&serverSideAds=true
@@ -65,6 +65,8 @@ https://pocketwatch.samsung.wurl.com/manifest/playlist.m3u8
 https://nrpus.bozztv.com/36bay2/gusa-iread2know/tracks-v1a1/mono.m3u8
 #EXTINF:1,Kid Central
 http://nrpus.bozztv.com/36bay2/gusa-kidcentral/index.m3u8
+#EXTINF:1,Kidoodle TV
+https://kidoodletv-kdtv-1.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:1,AMGTV
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
@@ -80,8 +82,6 @@ https://dai.google.com/linear/hls/event/wFZ1ufQ8ToaSdPgGtbBbpw/master.m3u8
 https://player-api.new.livestream.com/accounts/1194911/events/3466400/live.m3u8
 #EXTINF:1,MPT
 https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/chunklist_b600000.m3u8
-#EXTINF:1,WSVN
-https://bozztv.com/teleyupp1/teleup-GgIpXe0CjT/tracks-v3a1/mono.m3u8
 #EXTINF:1,KVVB-TV
 https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1309230/chunklist_b1000000.m3u8
 #EXTINF:1,YTA
@@ -90,12 +90,11 @@ https://gideommd.mmdlive.lldns.net/gideommd/d5b6a753f86e4e51b8e15c7d23887a4f/man
 https://dai.google.com/linear/hls/event/WHTEcpPjQAaeStCtrJqzVQ/master.m3u8
 #EXTINF:1,Fox Soul
 https://fox-foxsoul-roku.amagi.tv/playlist.m3u8
+
 #EXTINF:1,Popstar! TV
 https://linear-10.frequency.stream/10/hls/master/playlist.m3u8
 #EXTINF:1,Lively Place
 https://aenetworks-ae-1.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:1,Game Show Network
-http://n1.klowdtv.net/live2/gsn_180p/chunks.m3u8
 #EXTINF:1,Skills + Thrills
 https://aenetworks-skills-thrills-1.plex.wurl.com/manifest/playlist.m3u8
 #EXTINF:1,Crackle
@@ -136,6 +135,66 @@ https://thisoldhouse-2.roku.wurl.com/manifest/playlist.m3u8
 http://bamus-eng-roku.amagi.tv/playlist.m3u8
 #EXTINF:1,INwild
 https://inwild-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:1,Hollywire
+https://hollywire-samsung-ca.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:1,Law & Crime Network
+https://dai.google.com/linear/hls/event/3w3PsYzZQzS8lyRfi7e4mQ/master.m3u8
+#EXTINF:1,Court TV
+https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
+#EXTINF:1,People TV
+https://peopletv-oo.akamaized.net/playlist480p.m3u8
+#EXTINF:1,ET Live
+https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
+#EXTINF:1,TMZ
+https://dai2.xumo.com/amagi_hls_data_xumo1234A-tmz/CDN/master.m3u8
+#EXTINF:1,Made in Hollywood
+https://dai.google.com/linear/hls/event/Mteif75-SJeFi19Sk3-dGQ/master.m3u8
+#EXTINF:1,ElectricNOW
+https://stream.ads.ottera.tv/playlist.m3u8?&network_id=276&app_bundle=151908&value_1=ROKU_ADS_CONTENT_RATING&value_2=livefeed&coppa=false&device=OTT_DEVICE_MODEL&value_3=ROKU_ADS_CONTENT_GENRE&value_4=OTT_ID_TYPE&is_lat=1&value_8=OTT_CONTENT_LENGTH&value_5=OTT_ADS_TRACKING_ID&content_dist_name=web&position=POD_POSITION&did=ba755927-be4b-5494-9fc5-831a2be230ce&value_6=ROKU_ADS_SEASON_ID&value_7=ROKU_ADS_SERIES_ID&content_producer_id=electric_now&ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F86.0.4240.183+Safari%2F537.36+OPR%2F72.0.3815.320&value_9=channelstore%3Dus%26tags%3DROKU_CONTENT_TAGS%26bmodel%3Dbm1%26device_lang%3DROKU_ADS_LOCALE%26unlocked%3DUNLOCKED&content_type=livefeed&rdid=ba755927-be4b-5494-9fc5-831a2be230ce&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&bmodel=bm1&studio_id=electric_now&channel_id=151908&content=5134fb06b5a35b388a94c148866e99a9&platform=web&channelStore=us&tags=ROKU_CONTENT_TAGS
+#EXTINF:1,AFV Family
+https://dai.google.com/linear/hls/event/18_lZXPySFa5_GRVEbOX_A/master.m3u8
+#EXTINF:1,The Pet Collective
+https://the-pet-collective-linear.sinclair.wurl.com/manifest/playlist.m3u8
+#EXTINF:1,FailArmy
+https://d696d618ff0642dfa78984e42636cc5d.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Viewlift_FailArmy/playlist.m3u8?ads.wurl_channel=151&ads.wurl_name=FailArmy&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D
+#EXTINF:1,Wonder
+https://wonder-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:1,Rev'n
+https://bcovlive-a.akamaihd.net/a71236fdda1747999843bd3d55bdd6fa/us-east-1/6183977686001/playlist.m3u8
+#EXTINF:1,Safe TV
+http://18.191.91.130:1935/live/safetv/playlist.m3u8
+#EXTINF:1,Wipeout Xtra
+https://dai.google.com/linear/hls/event/0DG8p66IRES7ZzEe1WJS-w/master.m3u8
+#EXTINF:1,Game Show Central
+https://gsn-gameshowchannnel-2.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:1,People Are Awesome
+https://jukin-peopleareawesome-2-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:1,Reelz
+http://a.jsrdn.com/broadcast/d37066a396/+0000/mid/c.m3u8
+#EXTINF:1,RunTime Free Movies
+https://ammoruntime-plex.amagi.tv/playlist.m3u8
+#EXTINF:1,Cine Life
+https://dai.google.com/linear/hls/event/PFJ1Jhd6SsSMcu3qq86wzQ/master.m3u8
+#EXTINF:1,ShoutFactory TV
+https://shoutfactory-shoutfactory-zype.amagi.tv/playlist.m3u8
+#EXTINF:1,Galxy TV
+https://content.uplynk.com/channel/f467430e4a8e49a59ff3183cf51092b2.m3u8
+#EXTINF:1,Hollywood Classics
+https://fef5003bb7e7447ab21a2c3fd81e3b74.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_HollywoodClassics/playlist.m3u8?ads.wurl_channel=532&ads.wurl_name=HollywoodClassics&ads.us_privacy=1---&ads.psid=&ads.targetopt=1&ads.plex_token=z1MCPUpbxYcHru-5hdyq&ads.plex_id=5f0ff265d71dcb00449ec02d&ads.ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36+OPR%2F70.0.3728.95&ads.app_bundle=&ads.app_store_url=&ads.gdpr=0&ads.consent=0
+#EXTINF:1,Johnny Carson TV
+https://johnnycarson-zype.amagi.tv/playlist.m3u8
+#EXTINF:1,Midnight Pulp
+https://midnightpulp-samsung.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:1,RetroCrush
+https://45034ce1cbb7489ab1499301f6274415.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RetroCrush/playlist.m3u8?ads.wurl_channel=491&ads.wurl_name=RetroCrush&ads.us_privacy=1---&ads.psid=&ads.targetopt=1&ads.plex_token=z1MCPUpbxYcHru-5hdyq&ads.plex_id=5ef4e1b40d9ad000423c442a&ads.ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.89+Safari%2F537.36+OPR%2F70.0.3728.71&ads.app_bundle=&ads.app_store_url=&ads.gdpr=0&ads.consent=0
+#EXTINF:1,Revry
+https://linear-5.frequency.stream/dist/plex/5/hls/master/playlist.m3u8
+#EXTINF:1,DUST
+https://dust.samsung.wurl.com/manifest/1200.m3u8
+#EXTINF:1,Comedy Dynamics
+https://comedydynamics-plex-ingest.cinedigm.com/playlist.m3u8
+#EXTINF:1,Animals Live
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/playlist.m3u8
 
 #EXTINF:1,Newsy
 https://d3ra88okaj5j4j.cloudfront.net/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index.m3u8
@@ -228,6 +287,10 @@ https://waypointtv.samsung.wurl.com/manifest/playlist.m3u8
 https://dai.google.com/linear/hls/event/KAfBFcVrQgKmHhpzvkEn9A/master.m3u8
 #EXTINF:1,Whistle TV
 https://whistle-1.sinclair.wurl.com/manifest/playlist.m3u8
+#EXTINF:1,The T
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/f.m3u8
+#EXTINF:1,Harley Davidson
+https://hdtv.prod2.ioio.tv/broker/play/cb4086ca-daba-42f5-8acf-27ee93fee0e8.m3u8
 
 #EXTINF:1,CGTN Documentary
 https://livedoc.cgtn.com/500d/prog_index.m3u8
@@ -283,40 +346,6 @@ http://api.new.livestream.com/accounts/27460990/events/8266909/live.m3u8
 #EXTINF:1,TBN Asia
 http://210.210.155.35/qwr9ew/s/s39/02.m3u8
 
-#EXTINF:1,Hollywire
-https://hollywire-samsung-ca.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:1,Law & Crime Network
-https://dai.google.com/linear/hls/event/3w3PsYzZQzS8lyRfi7e4mQ/master.m3u8
-#EXTINF:1,Court TV
-https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
-#EXTINF:1,People TV
-https://peopletv-oo.akamaized.net/playlist480p.m3u8
-#EXTINF:1,ET Live
-https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
-#EXTINF:1,TMZ
-https://dai2.xumo.com/amagi_hls_data_xumo1234A-tmz/CDN/master.m3u8
-#EXTINF:1,Made in Hollywood
-https://dai.google.com/linear/hls/event/Mteif75-SJeFi19Sk3-dGQ/master.m3u8
-#EXTINF:1,ElectricNOW
-https://stream.ads.ottera.tv/playlist.m3u8?&network_id=276&app_bundle=151908&value_1=ROKU_ADS_CONTENT_RATING&value_2=livefeed&coppa=false&device=OTT_DEVICE_MODEL&value_3=ROKU_ADS_CONTENT_GENRE&value_4=OTT_ID_TYPE&is_lat=1&value_8=OTT_CONTENT_LENGTH&value_5=OTT_ADS_TRACKING_ID&content_dist_name=web&position=POD_POSITION&did=ba755927-be4b-5494-9fc5-831a2be230ce&value_6=ROKU_ADS_SEASON_ID&value_7=ROKU_ADS_SERIES_ID&content_producer_id=electric_now&ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F86.0.4240.183+Safari%2F537.36+OPR%2F72.0.3815.320&value_9=channelstore%3Dus%26tags%3DROKU_CONTENT_TAGS%26bmodel%3Dbm1%26device_lang%3DROKU_ADS_LOCALE%26unlocked%3DUNLOCKED&content_type=livefeed&rdid=ba755927-be4b-5494-9fc5-831a2be230ce&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&bmodel=bm1&studio_id=electric_now&channel_id=151908&content=5134fb06b5a35b388a94c148866e99a9&platform=web&channelStore=us&tags=ROKU_CONTENT_TAGS
-#EXTINF:1,AFV Family
-https://dai.google.com/linear/hls/event/18_lZXPySFa5_GRVEbOX_A/master.m3u8
-#EXTINF:1,The Pet Collective
-https://the-pet-collective-linear.sinclair.wurl.com/manifest/playlist.m3u8
-#EXTINF:1,FailArmy
-https://d696d618ff0642dfa78984e42636cc5d.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Viewlift_FailArmy/playlist.m3u8?ads.wurl_channel=151&ads.wurl_name=FailArmy&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D
-#EXTINF:1,Wonder
-https://wonder-samsung-uk.amagi.tv/playlist.m3u8
-#EXTINF:1,Rev'n
-https://bcovlive-a.akamaihd.net/a71236fdda1747999843bd3d55bdd6fa/us-east-1/6183977686001/playlist.m3u8
-#EXTINF:1,Safe TV
-http://18.191.91.130:1935/live/safetv/playlist.m3u8
-#EXTINF:1,Wipeout Xtra
-https://dai.google.com/linear/hls/event/0DG8p66IRES7ZzEe1WJS-w/master.m3u8
-#EXTINF:1,Game Show Central
-https://gsn-gameshowchannnel-2.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:1,People Are Awesome
-https://jukin-peopleareawesome-2-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:1,Tastemade
 https://tastemade-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:1,Food TV
@@ -347,8 +376,7 @@ https://bspoketv.s.llnwi.net/streams/322/out_0.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-complextv/CDN/playlist.m3u8
 #EXTINF:1,Glewed TV
 https://glewedtv-1.sinclair.wurl.com/manifest/1200.m3u8
-#EXTINF:1,All Time
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-alltime/CDN/master.m3u8
+
 #EXTINF:1,Quahz TV
 https://t06243a-lh.akamaihd.net/i/t06243a_1@536897/master.m3u8
 #EXTINF:1,PBS America
@@ -367,8 +395,6 @@ https://thegateway.app/BizAndYou/Biz_480p/playlist.m3u8
 https://44fbc29539b04817bbfc7e40a5b4a1ab.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5eb1e76d1474f9020c06f9ee/playlist.m3u8
 #EXTINF:1,Drybar Comedy
 https://drybar-drybarcomedy-1-au.samsung.wurl.com/manifest/1200.m3u8
-#EXTINF:1,Harley Davidson
-https://hdtv.prod2.ioio.tv/broker/play/cb4086ca-daba-42f5-8acf-27ee93fee0e8.m3u8
 #EXTINF:1,Cloudflare TV
 https://cloudflare.tv/hls/live.m3u8
 
@@ -439,6 +465,7 @@ http://wowzaprod236-i.akamaihd.net/hls/live/1019903/7dd4cf51/playlist.m3u8
 http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
 #EXTINF:1,ITV UK
 http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main600.m3u8
+
 #EXTINF:1,Horse Shopping Channel
 https://uplynkcontent.sinclairstoryline.com/channel/26c7a77fd6ed453da6846a16ad0625d9.m3u8
 #EXTINF:1,America TeVe
@@ -459,35 +486,6 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 https://stingray-karaoke-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:1,Circle
 https://circle-roku.amagi.tv/playlistR432p.m3u8
-
-#EXTINF:1,Reelz
-http://a.jsrdn.com/broadcast/d37066a396/+0000/mid/c.m3u8
-#EXTINF:1,RunTime Free Movies
-https://ammoruntime-plex.amagi.tv/playlist.m3u8
-#EXTINF:1,Cine Life
-https://dai.google.com/linear/hls/event/PFJ1Jhd6SsSMcu3qq86wzQ/master.m3u8
-#EXTINF:1,ShoutFactory TV
-https://shoutfactory-shoutfactory-zype.amagi.tv/playlist.m3u8
-#EXTINF:1,Galxy TV
-https://content.uplynk.com/channel/f467430e4a8e49a59ff3183cf51092b2.m3u8
-#EXTINF:1,Hollywood Classics
-https://fef5003bb7e7447ab21a2c3fd81e3b74.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_HollywoodClassics/playlist.m3u8?ads.wurl_channel=532&ads.wurl_name=HollywoodClassics&ads.us_privacy=1---&ads.psid=&ads.targetopt=1&ads.plex_token=z1MCPUpbxYcHru-5hdyq&ads.plex_id=5f0ff265d71dcb00449ec02d&ads.ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36+OPR%2F70.0.3728.95&ads.app_bundle=&ads.app_store_url=&ads.gdpr=0&ads.consent=0
-#EXTINF:1,Johnny Carson TV
-https://johnnycarson-zype.amagi.tv/playlist.m3u8
-#EXTINF:1,Midnight Pulp
-https://midnightpulp-samsung.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:1,RetroCrush
-https://45034ce1cbb7489ab1499301f6274415.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RetroCrush/playlist.m3u8?ads.wurl_channel=491&ads.wurl_name=RetroCrush&ads.us_privacy=1---&ads.psid=&ads.targetopt=1&ads.plex_token=z1MCPUpbxYcHru-5hdyq&ads.plex_id=5ef4e1b40d9ad000423c442a&ads.ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.89+Safari%2F537.36+OPR%2F70.0.3728.71&ads.app_bundle=&ads.app_store_url=&ads.gdpr=0&ads.consent=0
-#EXTINF:1,Revry
-https://linear-5.frequency.stream/dist/plex/5/hls/master/playlist.m3u8
-#EXTINF:1,DUST
-https://dust.samsung.wurl.com/manifest/1200.m3u8
-#EXTINF:1,Comedy Dynamics
-https://comedydynamics-plex-ingest.cinedigm.com/playlist.m3u8
-#EXTINF:1,Animals Live
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/playlist.m3u8
-#EXTINF:1,The T
-https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/f.m3u8
 
 #EXTINF:1,Euronews HD
 https://euronews-euronews-world-1.roku.wurl.com/manifest/71bf778598cc9ce36952bb8a3331551a.m3u8
