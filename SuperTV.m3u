@@ -36,6 +36,8 @@ https://streaming.fotvnetwork.workers.dev/stream/UC1f5yN0Hdibzm3JqqUswKvA/master
 https://streaming.fotvnetwork.workers.dev/stream/UCDXPB23ws_T0rVvrXVCYqyA/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filipino",ABS-CBN News (Not 24/7}
 https://streaming.fotvnetwork.workers.dev/stream/UCE2606prvXQc_noEqKxVJXA/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filipino",TeleRadyo
+https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-teleradyo-oando/CDN/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids",Nick Pluto TV
