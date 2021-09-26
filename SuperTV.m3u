@@ -14,6 +14,8 @@ https://pcccw.github.io/Ark/M3U8/Token/PH/PTVPH.m3u8
 https://streaming.fotvnetwork.workers.dev/stream/UCJCUbMaY593_4SN1QPG7NFQ/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filipino",Super Radyo DZBB
 http://stream.gmanews.tv/ioslive/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filipino",GMA News [Not 24/7]
+https://streaming.fotvnetwork.workers.dev/stream/UCqYw-CTd1dU2yGI71sEyqNw/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filipino",CNN Philippines
 https://streaming.cnnphilippines.com/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filipino",BEAM
@@ -38,7 +40,10 @@ https://streaming.fotvnetwork.workers.dev/stream/UCDXPB23ws_T0rVvrXVCYqyA/master
 https://streaming.fotvnetwork.workers.dev/stream/UCE2606prvXQc_noEqKxVJXA/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filipino",TeleRadyo
 https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-teleradyo-oando/CDN/playlist.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filipino",TeleRadyo
+https://streaming.fotvnetwork.workers.dev/stream/UCs_VNu-FQ0WcJnD4QkmIL5w/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filipino",PEP TV
+https://iptv--iptv.repl.co/streamlink?url=https://www.twitch.tv/communitytv3/
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids",Nick Pluto TV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=954c037d-1a11-44d3-b488-9d06f8a3e068&deviceLat=33.9560&deviceLon=-118.3887&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=81.0.4044.26&includeExtendedEvents=false&sid=e6f1682e-cc62-437a-bd0d-082bea9a4059&userId=&serverSideAds=true
@@ -62,13 +67,19 @@ https://pocketwatch.samsung.wurl.com/manifest/playlist.m3u8
 http://nrpus.bozztv.com/36bay2/gusa-kidcentral/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids",Kidoodle TV
 https://kidoodletv-kdtv-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids",123 GO!
+https://streaming.fotvnetwork.workers.dev/stream/UCBXNpF6k2n8dsI6nBH8q4sQ/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids",Clap! Snap!
+https://streaming.fotvnetwork.workers.dev/stream/UCxyE36-Al67RylN16NOBBMA/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids",Peppa Pig
+https://streaming.fotvnetwork.workers.dev/stream/UCAOtE1V7Ots4DjM8JLlrYgg/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="GenEnt",Popstar! TV
 https://linear-10.frequency.stream/10/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lifestyle",Lively Place
-https://aenetworks-ae-1.roku.wurl.com/manifest/playlist.m3u8
+https://aenetworks-ae-1.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lifestyle",Skills + Thrills
-https://aenetworks-skills-thrills-1.plex.wurl.com/manifest/playlist.m3u8
+https://ab821aa1fe744f529fcd833dd8e5ed41.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_SkillsAndThrills/playlist.m3u8?ads.wurl_channel=590&ads.wurl_name=SkillsAndThrills&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=AXowwV4PZ7mDzhmMsHmH&ads.plex_id=5f74cf7effbe690040689f3e&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",Crackle
 https://crackle-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="GenEnt",Comet
@@ -194,26 +205,38 @@ https://livestream.chdrstatic.com/b93e5b0d43ea306310a379971e384964acbe4990ce193c
 https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_live.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="News",Bloomberg Quicktake
 https://dai.google.com/linear/hls/event/cFDvmqo4TGW7EfHwscU_Ew/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="News",Bloomberg Quicktake
+https://streaming.fotvnetwork.workers.dev/stream/UCUMZ7gohGI9HcU9VNsr2FJQ/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="News",Sky News
 http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="News",Sky News
+https://streaming.fotvnetwork.workers.dev/stream/UCoMdktPbSTixAyNGwb-UYkQ/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="News",GB News
 https://live-gbnews.simplestreamcdn.com/gbnews/gbnews/bitrate1.isml/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="News",Australia Channel News
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="News",ABC News Australia
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="News",ABC News Australia
+https://streaming.fotvnetwork.workers.dev/stream/UCVgO39Bk5sMo66-6o6Spn6Q/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="News",Al Jazeera
 http://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="News",Al Jazeera
+https://streaming.fotvnetwork.workers.dev/stream/UCNye-wNBqNL5ZzHSJj3l8Bg/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="News",RT
 https://rt-news.secure.footprint.net/1103.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="News",France 24
 https://livecdn.fptplay.net/world/france24_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="News",France 24
+https://streaming.fotvnetwork.workers.dev/stream/UCQfwfsi5VrQ8yKZ-UWmAEFg/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="News",Euronews
 https://euronews-euronews-world-1.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="News",Press TV
 https://live.presstv.ir/liveprs/smil:liveprs/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="News",DW
 https://m-c010-j2apps.s.llnwi.net/hls/8023.DWEnglish.in_360p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="News",DW News
+https://streaming.fotvnetwork.workers.dev/stream/UCknLrEdhRCp1aegoMqRaCZg/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="News",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="News",CGTN
@@ -230,6 +253,8 @@ https://feeds.intoday.in/hltapps/api/master.m3u8
 https://d7g1ebft2592.cloudfront.net/mblivev3/360p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="News",TRT World
 https://tv-trtworld.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="News",TRT World
+https://streaming.fotvnetwork.workers.dev/stream/UC7fWeaHhqgM4Ry-RMpM2YYw/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="News",NTD
 https://1117825885.rsc.cdn77.org/1117825885/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="News",InfoWars
@@ -299,6 +324,8 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 https://hdtv.prod2.ioio.tv/broker/play/cb4086ca-daba-42f5-8acf-27ee93fee0e8.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",Edge Sport
 https://edgesport-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",ESR
+https://esrevolution-sinclair.plex.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Religious",GCTV
 http://45.32.115.103/live/livestream/index.m3u8
@@ -418,6 +445,8 @@ https://dai.google.com/linear/hls/event/i5SXVKI4QIuV-eF2XAH4FQ/master.m3u8
 https://dai.google.com/linear/hls/event/DWt8iR1YQ-OJQsxczu8KfQ/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="News",CBSN Dallas-FW
 https://dai.google.com/linear/hls/event/o5J3g4U9T16CvYnS7Qd86Q/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="News",CBSN Sacramento
+https://dai.google.com/linear/hls/event/e7mp4YVGS7O_e7rqRNjKow/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="US",SGTN
 http://stgn-49.tulix.tv/live19/Stream1/chunklist_w1498543121.m3u8
