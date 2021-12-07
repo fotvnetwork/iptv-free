@@ -1,0 +1,8 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=2594000,CODECS="avc1.4d4020,mp4a.40.2",RESOLUTION=1920x1080
+https://thegateway.app/BizAndYou/Biz_1080p/playlist.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1289743,CODECS="avc1.4d4020,mp4a.40.2",RESOLUTION=1280x720
+https://thegateway.app/BizAndYou/Biz_720p/playlist.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=808493,CODECS="avc1.4d401f,mp4a.40.2",RESOLUTION=640x480
+https://thegateway.app/BizAndYou/Biz_480p/playlist.m3u8
