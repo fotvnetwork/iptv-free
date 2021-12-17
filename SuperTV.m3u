@@ -40,8 +40,6 @@ https://streaming.fotvnetwork.workers.dev/stream/UCDXPB23ws_T0rVvrXVCYqyA/master
 https://streaming.fotvnetwork.workers.dev/stream/UCE2606prvXQc_noEqKxVJXA/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filipino",TeleRadyo
 https://streaming.fotvnetwork.workers.dev/stream/UCs_VNu-FQ0WcJnD4QkmIL5w/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filipino",Kapamilya Channel
-https://github.com/fotvnetwork/iptv-free/raw/master/M3U8/Locals/kapcha.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filipino",One PH
 https://github.com/fotvnetwork/iptv-free/raw/master/M3U8/Locals/oneph.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filipino",PEP TV
