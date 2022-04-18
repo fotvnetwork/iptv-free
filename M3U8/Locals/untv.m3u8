@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=732000,RESOLUTION=640x360
+https://vid.untv.co/live-stream/chunklist_b732000.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1128000,RESOLUTION=848x480
+https://vid.untv.co/live-stream/chunklist_b1128000.m3u8
