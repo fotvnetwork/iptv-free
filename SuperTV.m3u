@@ -1,23 +1,21 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filipino",UNTV
-https://cdn.untvweb.com/live-stream/untvweb.m3u8
+https://raw.githubusercontent.com/fotvnetwork/iptv-free/master/M3U8/Locals/untv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filipino",UNTV
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/UNTVNewsandRescue/live
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filipino",Truth Channel
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/TruthChannel/live
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filipino",TVshop
 https://d3cbe0gidjd4k2.cloudfront.net/channel_1/smil:channel_1.smil/chunklist_w358131628_b300000_sleng.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filipino",PTV 
-https://pcccw.github.io/Ark/M3U8/Token/PH/PTVPH.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filipino",PTV
+https://utube2.fotvnetwork.workers.dev/stream/UCJCUbMaY593_4SN1QPG7NFQ/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filipino",PTV
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/PTVPhilippines/live
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filipino",Super Radyo DZBB
 http://stream.gmanews.tv/ioslive/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filipino",CNN Philippines
 https://streaming.cnnphilippines.com/live/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filipino",BEAM
-https://d3cbe0gidjd4k2.cloudfront.net/channel_7/smil:channel_7.smil/chunklist_w1635746920_b1000000_sleng.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filipino",Knowledge Channel
 https://amdottlive.akamaized.net/hls/live/2018990/iwantknowledge/master360p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filipino",Pilipinas HD
@@ -27,11 +25,19 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/DZRHN
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filipino",TV Maria
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/TVMariaLIVE/live
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filipino",TeleRadyo
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/TeleRadyo/live
+https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-teleradyo-oando/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filipino",Kapamilya Channel
+https://raw.githubusercontent.com/fotvnetwork/iptv-free/master/M3U8/Locals/kapcha.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filipino",One PH
+https://raw.githubusercontent.com/fotvnetwork/iptv-free/master/M3U8/Locals/oneph.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filipino",TV5
+https://raw.githubusercontent.com/fotvnetwork/iptv-free/master/M3U8/Locals/tv5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filipino",PEP TV
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/peptv3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filipino",CCTN 47
 http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filipino",CLTV 36
+http://210.213.69.20:5080/LiveApp/streams/cltvmcr.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids",Nick Pluto TV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=954c037d-1a11-44d3-b488-9d06f8a3e068&deviceLat=33.9560&deviceLon=-118.3887&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=81.0.4044.26&includeExtendedEvents=false&sid=e6f1682e-cc62-437a-bd0d-082bea9a4059&userId=&serverSideAds=true
@@ -57,10 +63,6 @@ https://pocketwatch-vizio.amagi.tv/playlist.m3u8
 http://rpn1.bozztv.com/36bay2/gusa-kidcentral/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids",Kidoodle TV
 https://7c16fcbdbd1b4a74b712c2052303b6bb.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_KidoodleTV/playlist.m3u8?ads.wurl_channel=484&ads.wurl_name=KidoodleTV&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=AXowwV4PZ7mDzhmMsHmH&ads.plex_id=5eea605574085f0040ddc79a&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.coppa=1&ads.device_type=handset&ads.device_id_type=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids",123 GO!
-https://streaming.fotvnetwork.workers.dev/stream/UCBXNpF6k2n8dsI6nBH8q4sQ/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids",Peppa Pig
-https://streaming.fotvnetwork.workers.dev/stream/UCAOtE1V7Ots4DjM8JLlrYgg/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids",Tiny Pop
 http://www.filmon.com/vr-streams/318.low/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids",Babyfirst
