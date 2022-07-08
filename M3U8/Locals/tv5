@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=1000,RESOLUTION=640x360
+http://ky-iptv.com:80/theruler/theruler/2021709.ts
