@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=1200,RESOLUTION=854x480
+http://user.scalecdn.co:8080/live/Alfred/Alfred/567725.ts
