@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=3200,RESOLUTION=1280x720
-http://user.scalecdn.co:8080/live/pamela12/pamela12/567723.ts
+#EXT-X-STREAM-INF:BANDWIDTH=3200,RESOLUTION=1920x1080
+http://user.scalecdn.co:8080/live/pamela12/pamela12/567723.m3u8
