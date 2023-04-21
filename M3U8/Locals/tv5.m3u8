@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=4000,RESOLUTION=1920x1080
-http://user.scalecdn.co:8080/live/Alfred/Alfred/546800.ts
+http://user.scalecdn.co:8080/live/Alfred/Alfred/546800.m3u8
