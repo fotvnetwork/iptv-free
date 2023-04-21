@@ -13,4 +13,4 @@ Feel free to copy our playlist on an IPTV player or a media player that supports
 
 Thank you!
 
--NB
+-FOTVNet
